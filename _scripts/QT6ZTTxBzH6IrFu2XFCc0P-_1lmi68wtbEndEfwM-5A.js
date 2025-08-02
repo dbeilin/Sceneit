@@ -1,0 +1,1 @@
+const link = document.createElement("link");link.rel = "stylesheet";link.href = "/assets/css/animations-heavy.css";document.head.appendChild(link);

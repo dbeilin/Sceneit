@@ -1,0 +1,1188 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Movies About Perseverance Or The Undying Human Spirit",
+        "movies": [
+          {
+            "id": 8771164079498140292,
+            "title": "Arctic",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dxRc0Y4IjSRLC2fYaguXQtJCI4e.jpg",
+            "release_year": 2018,
+            "plot_summary": "A man stranded in the Arctic is finally about to receive his long awaited rescue. However, after a tragic accident, his opportunity is lost and he must then decide whether to remain in the relative safety of his camp or embark on a deadly trek through the unknown for potential salvation.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 453755,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.004251",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "Arctic with Mads Mikelsen"
+          },
+          {
+            "id": -7358521502770490836,
+            "title": "The Shawshank Redemption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_year": 1994,
+            "plot_summary": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 278,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.074038",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The Martian\n\nThe Revenant\n\nShawshank redemption \n\nThe pursuit of happiness"
+          },
+          {
+            "id": 8013035331416577695,
+            "title": "The Wrestler",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eTRzi5Wr3vRSD1WcGmqL5B6685l.jpg",
+            "release_year": 1974,
+            "plot_summary": "Frank Bass (Ed Asner) is an honest guy trying to make a living in the cut throat world of professional wrestling, and he's gonna make it work - even if he dies trying! But first - he'll have to strong-arm his way through all the mobsters, gamblers, promoters and fight fixers and help his past-his-prime wrestler once again win a championship belt. Features appearances from real-life legendary wrestlers and AWA superstars Verne Gagne, Rick Flair, Superstar Billy Graham, Dusty Rhodes, Dick the Bruiser, Ray Stevens, Dory Funk Jr., Ken Patera, Billy Robinson, Dan Gable, Eddie Graham, Dick Murdoch, Vincent J. McMahon, and more.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 4.2,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 83038,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.136788",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The wrestler"
+          },
+          {
+            "id": -614444811294385734,
+            "title": "Rust and Bone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg",
+            "release_year": 2012,
+            "plot_summary": "Put in charge of his young son, Ali leaves Belgium for Antibes to live with his sister and her husband as a family. Ali's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 97365,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.138456",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "Rust and Bone\n\nUnbroken"
+          },
+          {
+            "id": 9062356188129971224,
+            "title": "Unbroken",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vAlHUjHwLWMV5mg4epGR9WSIfiy.jpg",
+            "release_year": 2014,
+            "plot_summary": "A chronicle of the life of Louis Zamperini, an Olympic runner who was taken prisoner by Japanese forces during World War II.",
+            "runtime": "2h 17m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 227306,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.144412",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "Rust and Bone\n\nUnbroken"
+          },
+          {
+            "id": -8069406091715698307,
+            "title": "Invictus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/runuhBAAX7PmdjGhqRKCyl4bh7z.jpg",
+            "release_year": 2009,
+            "plot_summary": "Newly elected President Nelson Mandela knows his nation remains racially and economically divided in the wake of apartheid. Believing he can bring his people together through the universal language of sport, Mandela rallies South Africa's rugby union team as they make their historic run to the 1995 Rugby World Cup Championship match.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 22954,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.207764",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "Invictus \n\nAnd you should probably just look up the actual poem Invictus. Definitely fits the bill and only takes a minute to read."
+          },
+          {
+            "id": -7251159602353301584,
+            "title": "The Revenant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+            "release_year": 2015,
+            "plot_summary": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Western",
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 281957,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.212066",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The Martian\n\nThe Revenant\n\nShawshank redemption \n\nThe pursuit of happiness"
+          },
+          {
+            "id": 5178294979789655548,
+            "title": "The Pursuit of Happiness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iYo5CVSiZomq37fv5qnmOoi0Ynh.jpg",
+            "release_year": 1971,
+            "plot_summary": "William Popper is the son of a stockbroker and is thoroughly disenchanted with \"the system.\" So much so that even though he can prove that he ran over a woman in his car entirely by accident, he accepts a sentence for manslaughter.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 88583,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.217212",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The Martian\n\nThe Revenant\n\nShawshank redemption \n\nThe pursuit of happiness"
+          },
+          {
+            "id": 2248603410465057087,
+            "title": "All Is Lost",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cVA4oX2xHgiglv6hemxwAaofsq.jpg",
+            "release_year": 2013,
+            "plot_summary": "During a solo voyage in the Indian Ocean, a veteran mariner awakes to find his vessel taking on water after a collision with a stray shipping container. With his radio and navigation equipment disabled, he sails unknowingly into a violent storm and barely escapes with his life. With any luck, the ocean currents may carry him into a shipping lane -- but, with supplies dwindling and the sharks circling, the sailor is forced to face his own mortality.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 152747,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.281197",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "All Is Lost (2013)"
+          },
+          {
+            "id": 4129090896880305489,
+            "title": "Chariots of Fire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qnRaum8k0HqGRml2i7OawFqUtEb.jpg",
+            "release_year": 1981,
+            "plot_summary": "In the class-obsessed and religiously divided UK of the early 1920s, two determined young runners train for the 1924 Paris Olympics. Eric Liddell, a devout Christian born to Scottish missionaries in China, sees running as part of his worship of God's glory and refuses to train or compete on the Sabbath. Harold Abrahams overcomes anti-Semitism and class bias, but neglects his beloved sweetheart in his single-minded quest.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 9443,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.376609",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The classic chariots of fire"
+          },
+          {
+            "id": -2548053775725700765,
+            "title": "The Martian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+            "release_year": 2015,
+            "plot_summary": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 286217,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.436649",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "The Martian\n\nThe Revenant\n\nShawshank redemption \n\nThe pursuit of happiness"
+          },
+          {
+            "id": -5099279901056792353,
+            "title": "127 Hours",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+            "release_year": 2010,
+            "plot_summary": "The true story of mountain climber Aron Ralston's remarkable adventure to save himself after a fallen boulder crashes on his arm and traps him in an isolated canyon in Utah.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 44115,
+            "category_title": "Movies About Perseverance Or The Undying Human Spirit",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:07.497158",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mew6qq/movies_about_perseverance_or_the_undying_human/",
+            "original_comment_text": "127 hours by Danny Boyle\n\nEdit: 28 days later also by Danny Boyle"
+          }
+        ]
+      },
+      {
+        "name": "Favourite Old Movies",
+        "movies": [
+          {
+            "id": 2039518237031983156,
+            "title": "12 Angry Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+            "release_year": 1957,
+            "plot_summary": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 389,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:17.838681",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "12 Angry Men"
+          },
+          {
+            "id": 4569591875503545084,
+            "title": "It Happened One Night",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+            "release_year": 1934,
+            "plot_summary": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 3078,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.025967",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "It Happened One Night\n\nCasablanca\n\nRoman Holiday"
+          },
+          {
+            "id": 8019569107460351865,
+            "title": "Casablanca",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rG3aWYbYW5t5lq7sKKuXYhBuw7X.jpg",
+            "release_year": 2024,
+            "plot_summary": "Paul and Mary fall in love in the pottery factory. However, the seemingly innocent clay mugs have their own vision of the budding romance. By manipulating with lively messages, the mugs take it upon themselves to decide the fate of the characters.",
+            "runtime": "9m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Animation"
+            ],
+            "tmdb_id": 1386711,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.042927",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "It Happened One Night\n\nCasablanca\n\nRoman Holiday"
+          },
+          {
+            "id": 3488881466001237781,
+            "title": "The Apartment",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+            "release_year": 1960,
+            "plot_summary": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 284,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.092488",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "The Apartment"
+          },
+          {
+            "id": 2821179843828957909,
+            "title": "The Treasure of the Sierra Madre",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWcst7zVbi8Z8W6GFrdNE7HHRxL.jpg",
+            "release_year": 1948,
+            "plot_summary": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Western"
+            ],
+            "tmdb_id": 3090,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.172821",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "The Treasure of the Sierra Madre (1948)\n\nAnd, thank you for not requesting favourite old movies and then going “like Fight Club”."
+          },
+          {
+            "id": -5356912324908035468,
+            "title": "The Hustler",
+            "poster_url": "https://image.tmdb.org/t/p/w500/snItsSViawjaadW9mlWUmGwR41R.jpg",
+            "release_year": 1961,
+            "plot_summary": "Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 990,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.188615",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "\"The Hustler\"\n\nAnd for some reason I love \"Sabrina\""
+          },
+          {
+            "id": 2857967085026017739,
+            "title": "Sabrina",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zheAqvuUgk9L2ElLHgYo92WJIdO.jpg",
+            "release_year": 2018,
+            "plot_summary": "A toy manufacturer and his wife are terrorized by a demon after their orphaned niece tries to call her late mother's spirit.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 503902,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.199207",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "\"The Hustler\"\n\nAnd for some reason I love \"Sabrina\""
+          },
+          {
+            "id": 1439514159821355447,
+            "title": "It's a Mad, Mad, Mad, Mad World",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j4mWzOisSHFkaqIkq34l2mm8a5K.jpg",
+            "release_year": 1963,
+            "plot_summary": "A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.",
+            "runtime": "3h 17m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 11576,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.240401",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "It’s a Mad, Mad, Mad, Mad World."
+          },
+          {
+            "id": 8891415914737156282,
+            "title": "Citizen Kane",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg",
+            "release_year": 1941,
+            "plot_summary": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 15,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.260846",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "Casablanca\n\nCitizen Kane\n\nSunset Boulevard\n\nRear Window"
+          },
+          {
+            "id": 6742853987114219320,
+            "title": "Roman Holiday",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mZOlZPYgmiSDAUN7aSe9ojrlWVx.jpg",
+            "release_year": 1987,
+            "plot_summary": "Remake of the 1953 original. Princess Elysa is touring Rome, and decides to get \"out and about\" away from her normal life. She meets with an American reporter and his photographer, who show her the sites. The reporter is initially more interested in a story than the Princess, but begins to fall for her.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 4.2,
+            "genres": [
+              "Romance",
+              "Comedy",
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 444517,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.308366",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "It Happened One Night\n\nCasablanca\n\nRoman Holiday"
+          },
+          {
+            "id": 4866810656928992078,
+            "title": "Fight Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_year": 1999,
+            "plot_summary": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 550,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.333262",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "The Treasure of the Sierra Madre (1948)\n\nAnd, thank you for not requesting favourite old movies and then going “like Fight Club”."
+          },
+          {
+            "id": -584135382051945310,
+            "title": "Sunset Boulevard",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg",
+            "release_year": 1950,
+            "plot_summary": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 599,
+            "category_title": "Favourite Old Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:18.381757",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mffwpj/favourite_old_movies/",
+            "original_comment_text": "Casablanca\n\nCitizen Kane\n\nSunset Boulevard\n\nRear Window"
+          }
+        ]
+      },
+      {
+        "name": "Odd Movie Recommendations",
+        "movies": [
+          {
+            "id": -6936950918349797021,
+            "title": "Tremors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+            "release_year": 1990,
+            "plot_summary": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Action",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 9362,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:24.893088",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": -3720260187302433272,
+            "title": "Slither",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zBQkChjEWiMna5Qsay7EDDdfUL.jpg",
+            "release_year": 1973,
+            "plot_summary": "While searching for a small fortune of embezzled money, an ex-con, a small-time bandleader, his doting wife and a kooky drifter find themselves being followed. Their chase takes them to trailer camps, bingo halls, laundromats and ultimately, a showdown with a group of unconventional bad guys.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 87417,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:24.962892",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": -4723803587773521679,
+            "title": "Shaun of the Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+            "release_year": 2004,
+            "plot_summary": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 747,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:24.963262",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": 4311202305495392036,
+            "title": "Zardoz",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg",
+            "release_year": 1974,
+            "plot_summary": "In the far future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 4923,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.030451",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "'Zardoz' (1974)"
+          },
+          {
+            "id": 2659473886959782773,
+            "title": "Fantastic Planet",
+            "poster_url": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
+            "release_year": 1973,
+            "plot_summary": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin.",
+            "runtime": "1h 12m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Science Fiction"
+            ],
+            "tmdb_id": 16306,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.077317",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "Fantastic Planet (1973) is an old French animated movie that's super weird and trippy. There's an English dub on YouTube."
+          },
+          {
+            "id": 5241257148229996051,
+            "title": "Death to Smoochy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrwwuNLITsA5N5cVnA3ftvHFqHj.jpg",
+            "release_year": 2002,
+            "plot_summary": "Tells the story of Rainbow Randolph, the corrupt, costumed star of a popular children's TV show, who is fired over a bribery scandal and replaced by squeaky-clean Smoochy, a puffy fuchsia rhinoceros. As Smoochy catapults to fame - scoring hit ratings and the affections of a network executive - Randolph makes the unsuspecting rhino the target of his numerous outrageous attempts to exact revenge and reclaim his status as America's sweetheart.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9275,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.104282",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "Death to Smoochy"
+          },
+          {
+            "id": -7456871238356938376,
+            "title": "Harold and Maude",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+            "release_year": 1971,
+            "plot_summary": "The young Harold lives in his own world of suicide-attempts and funeral visits to avoid the misery of his current family and home environment. Harold meets an 80-year-old woman named Maude who also lives in her own world yet one in which she is having the time of her life. When the two opposites meet they realize that their differences don’t matter and they become best friends and love each other.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 343,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.104521",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "Just watch Harold and Maude already"
+          },
+          {
+            "id": -2760489591727130892,
+            "title": "The Greasy Strangler",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lsIJ8iTA2DK12SNTKf0vLKh1BGm.jpg",
+            "release_year": 2016,
+            "plot_summary": "Ronnie runs a Disco walking tour with his son, Brayden. When a sexy woman takes the tour, it begins a competition between father and son for her love. It also signals the arrival of an oily strangler who stalks the streets at night.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 320413,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.158662",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": 5981349419174323616,
+            "title": "Army of Darkness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xsgTuAtR2zSH8Umg3jWZcZjlDpe.jpg",
+            "release_year": 1992,
+            "plot_summary": "Ash, a handsome, shotgun-toting, chainsaw-armed department store clerk, is time warped backwards into England's Dark Ages, where he romances a beauty and faces legions of the undead.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Fantasy",
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 766,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.175059",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": -1143490342606225758,
+            "title": "An American Werewolf in London",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+            "release_year": 1981,
+            "plot_summary": "American tourists David and Jack are savaged by an unidentified vicious animal whilst hiking on the Yorkshire Moors. Retiring to the home of a beautiful nurse to recuperate, David soon experiences disturbing changes to his mind and body.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 814,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.225015",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          },
+          {
+            "id": 5808408760378335255,
+            "title": "Young Frankenstein",
+            "poster_url": "https://image.tmdb.org/t/p/w500/c6335WJCZO8NK5wehHk5sA9Cypv.jpg",
+            "release_year": 1974,
+            "plot_summary": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 3034,
+            "category_title": "Odd Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:25.291316",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mes0y6/recommend_me_some_odd_movie_youve_watched/",
+            "original_comment_text": "\nodd\nVelocipriest \nThe Greasy Strangler \nShaun of the Dead (2004)\nSlither (2006) \n\nOLD\nTremors (1990)\nArmy of Darkness (1992)\nAn American Werewolf in London (1981)\nYoung Frankenstein (1974)\nThe Rocky Horror Picture Show (1975)"
+          }
+        ]
+      },
+      {
+        "name": "Movies Where The Main Character Lives A Lie",
+        "movies": [
+          {
+            "id": -8885044167080649081,
+            "title": "Fight Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_year": 1999,
+            "plot_summary": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 550,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.335070",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "Fight Club kinda"
+          },
+          {
+            "id": -5037741271313762292,
+            "title": "Vanilla Sky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+            "release_year": 2001,
+            "plot_summary": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Mystery",
+              "Romance",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1903,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.466515",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "Vanilla Sky"
+          },
+          {
+            "id": 7388242675915017165,
+            "title": "The Talented Mr. Ripley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+            "release_year": 1999,
+            "plot_summary": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 1213,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.536823",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Talented Mr. Ripley"
+          },
+          {
+            "id": -1758958237445424374,
+            "title": "A History of Violence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A26rcvipOqptVs7i5uRmKicXRxE.jpg",
+            "release_year": 2005,
+            "plot_summary": "An average family is thrust into the spotlight after the father commits a seemingly self-defense murder at his diner.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 59,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.606616",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "A History of Violence."
+          },
+          {
+            "id": 7309212903841224517,
+            "title": "The Thirteenth Floor",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+            "release_year": 1999,
+            "plot_summary": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 1090,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.607925",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Thirteenth Floor (1999)\n\nExistenz (1999)\n\nTotal Recall (1990)"
+          },
+          {
+            "id": -1438762702366975541,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.618823",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "Memento and shutter island for sure. Both amazing"
+          },
+          {
+            "id": -8559735052834038131,
+            "title": "Total Recall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "release_year": 1990,
+            "plot_summary": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 861,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.686052",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Thirteenth Floor (1999)\n\nExistenz (1999)\n\nTotal Recall (1990)"
+          },
+          {
+            "id": 4716041572109353774,
+            "title": "Jacob's Ladder",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wIlmYRxrIVBo90ITVBCCbTqUZE3.jpg",
+            "release_year": 2019,
+            "plot_summary": "After losing his brother in combat, Jacob Singer returns home from Afghanistan -- only to be pulled into a mind-twisting state of paranoia. Singer soon realizes that his sibling is alive but life is not what it seems.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 4.4,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 456529,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.749020",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "Jacob's ladder"
+          },
+          {
+            "id": 215139275826499462,
+            "title": "Shutter Island",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+            "release_year": 2010,
+            "plot_summary": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 11324,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.758618",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "Memento and shutter island for sure. Both amazing"
+          },
+          {
+            "id": -8299344496878583037,
+            "title": "eXistenZ",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_year": 1999,
+            "plot_summary": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1946,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.832835",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Thirteenth Floor (1999)\n\nExistenz (1999)\n\nTotal Recall (1990)"
+          },
+          {
+            "id": 1954235277836575827,
+            "title": "The Usual Suspects",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 629,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.898700",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Usual Suspects\n\nThe Others"
+          },
+          {
+            "id": -3062409425441221256,
+            "title": "The Others",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "release_year": 2001,
+            "plot_summary": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1933,
+            "category_title": "Movies Where The Main Character Lives A Lie",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:33.967374",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf9rp3/movies_where_the_life_of_the_main_character_is_a/",
+            "original_comment_text": "The Usual Suspects\n\nThe Others"
+          }
+        ]
+      },
+      {
+        "name": "Movie Musicals Without A Standard Romance Plot",
+        "movies": [
+          {
+            "id": 7891379938838203857,
+            "title": "Hamilton",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+            "release_year": 2020,
+            "plot_summary": "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+            "runtime": "2h 40m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "History",
+              "Drama"
+            ],
+            "tmdb_id": 556574,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:49.931684",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Hedwig and the Angry Inch\n\nHamilton"
+          },
+          {
+            "id": 7868466874598378992,
+            "title": "Chicago",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wHhy6wzhEo6zRA0NKWWD7K1jXUu.jpg",
+            "release_year": 1927,
+            "plot_summary": "Based on a true story, two-timing boozing wife Roxie Hart kills her lover in cold blood after he leaves her, and finagles her way out being indicted. The basis for Kander/Ebb's 1975 Broadway musical of the same name and its Oscar-winning 2002 film adaptation.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 128298,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:49.968647",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Chicago (2002)"
+          },
+          {
+            "id": 1968834574123072006,
+            "title": "The Blues Brothers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+            "release_year": 1980,
+            "plot_summary": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Music",
+              "Comedy",
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 525,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.037073",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Blues Brothers\n\nThe Muppet Movie"
+          },
+          {
+            "id": 3916208735247756529,
+            "title": "Little Shop of Horrors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iKkbN17OmFosaW6asCNZTTsyvpu.jpg",
+            "release_year": 1986,
+            "plot_summary": "Seymour Krelborn is a nerdy orphan working at Mushnik's; a flower shop in urban Skid Row. He harbors a crush on fellow co-worker, Audrey Fulquard, and is berated by Mr. Mushnik daily. One day, Seymour finds a very mysterious unidentified plant which he calls Audrey II. The plant seems to have a craving for blood and soon begins to sing for his supper.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 10776,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.039931",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Little Shop of Horrors\n\nRocky Horror Picture Show"
+          },
+          {
+            "id": 4064086682708020080,
+            "title": "Hedwig and the Angry Inch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+            "release_year": 2001,
+            "plot_summary": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an 'internationally ignored' but divinely talented rock diva, inhabiting a 'beautiful gender of one'.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 13403,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.101446",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Hedwig and the Angry Inch\n\nHamilton"
+          },
+          {
+            "id": 1391422747433716476,
+            "title": "Jesus Christ Superstar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p5LGgKCVGGVZKTkwKzpBDIesydj.jpg",
+            "release_year": 1973,
+            "plot_summary": "As played out by a theatre troupe, the last days of Jesus Christ are depicted from the perspective of Judas Iscariot, his betrayer. As Jesus' following increases, Judas begins to worry that Jesus is falling for his own hype, forgetting the principles of his teachings and growing too close to the prostitute Mary Magdalene.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 12545,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.140962",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Jesus Christ Superstar"
+          },
+          {
+            "id": -4474021726902720501,
+            "title": "The Rocky Horror Picture Show",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+            "release_year": 1975,
+            "plot_summary": "After getting a flat tire, two sweethearts discover the eerie mansion of a flamboyant scientist and houseful of wild characters. Through elaborate dance and rock songs, the mad scientist unveils his latest creation: a perfect, muscular man.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Fantasy",
+              "Horror"
+            ],
+            "tmdb_id": 36685,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.211542",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Little Shop of Horrors\n\nRocky Horror Picture Show"
+          },
+          {
+            "id": 2655234278471790144,
+            "title": "Fiddler on the Roof",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg",
+            "release_year": 1971,
+            "plot_summary": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
+            "runtime": "3h 1m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 14811,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.261428",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Oliver (1968) \n\nFiddler on the Roof (1971) \n\nAvenue Q (can be streamed on YouTube)"
+          },
+          {
+            "id": 8801750386972910302,
+            "title": "Cannibal! The Musical",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mX5UM9Fhp9tfQ6VXXO9cUWKPCRK.jpg",
+            "release_year": 1996,
+            "plot_summary": "Heading through Colorado Territory in search of gold and women, Alferd Packer and his group of bemused companions find themselves lost, starving and musically inspired by the obstacles they confront along the way, including a die-hard Confederate cyclops, a trio of surly trappers, a tribe of Japanese-speaking \"Indians,\" and ultimately, each other.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Western",
+              "Thriller"
+            ],
+            "tmdb_id": 13063,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.279964",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Cannibal! The Musical"
+          },
+          {
+            "id": 1073967011511991419,
+            "title": "Quincy Avenue",
+            "poster_url": null,
+            "release_year": null,
+            "plot_summary": "After witnessing the murder of his best friend, Orion tracks down the killer.",
+            "runtime": "7m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 470985,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.327461",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Oliver (1968) \n\nFiddler on the Roof (1971) \n\nAvenue Q (can be streamed on YouTube)"
+          },
+          {
+            "id": 3849305675415686606,
+            "title": "Oliver",
+            "poster_url": null,
+            "release_year": 1971,
+            "plot_summary": "",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 364384,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.352356",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Oliver (1968) \n\nFiddler on the Roof (1971) \n\nAvenue Q (can be streamed on YouTube)"
+          },
+          {
+            "id": -6263895816348577219,
+            "title": "The Muppet Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8LUjnIW5ph6pHoXDE3Zg4iVi6BV.jpg",
+            "release_year": 1979,
+            "plot_summary": "The Muppets gather to watch their newly-finished big-budget rich-and-famous feature film: a talent agent persuades Kermit the Frog to leave the swamp to pursue a career in Hollywood. On his way there, he meets a bear, a pig, a whatever (his future muppet crew), and some special celebrity guest stars, while being chased by the desperate owner of a frog-leg restaurant!",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Adventure",
+              "Music"
+            ],
+            "tmdb_id": 11176,
+            "category_title": "Movie Musicals Without A Standard Romance Plot",
+            "time_period": "daily",
+            "date_scraped": "2025-08-02T07:13:50.424605",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mf57ib/movie_musical_but_without_that_ever_repeating/",
+            "original_comment_text": "Blues Brothers\n\nThe Muppet Movie"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 59,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-02T07:13:07.004251"
+  }
+}

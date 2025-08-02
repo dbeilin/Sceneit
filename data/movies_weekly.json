@@ -1,0 +1,1362 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies From The 70s And 80s With Frequent Female Nudity",
+        "movies": [
+          {
+            "id": -9090247161942394096,
+            "title": "Blame It on Rio",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yzNtmqL6HUFC7FZl9DnGmhnCQUL.jpg",
+            "release_year": 1984,
+            "plot_summary": "Matthew Hollis is man on holiday in Rio with his best friend. Both men have teenage daughters with them. When Matthew falls for his best friend's amorous daughter named Jennifer, they embark on a secret, if slightly one-sided relationship. Jennifer's father is furious when he finds out about the 'older man' in his daughter's life, and sets out to hunt him down with the aid of Matthew!",
+            "runtime": "1h 40m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 14347,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.731129",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": -5733650029918838002,
+            "title": "Caligula",
+            "poster_url": "https://image.tmdb.org/t/p/w500/IQ29MGsBWJhwpjjlcNKSvaEV3K.jpg",
+            "release_year": 2017,
+            "plot_summary": "This work – the only opera that follows the career of the Roman Emperor Caligula and his madness, passion and power – was a great success when it was first performed in Venice, largely because of the originality and the fine psychological insight of its libretto and the subtelty of its musical score. There have been some memorable puppet-theatre performances of opera, but with Caligula Le Poème Harmonique and Arcal invite us to savour something quite original by bringing together two artistic traditions that have long been separated: those of Venetian opera and Sicilian puppet-theatre. On stage, the singers and instrumentalists, conducted by Vincent Dumestre, lend their voices and rich sound to the pupi of Mimmo Cuticchio, large stick-puppets belonging to a great theatrical tradition dating back to the seventeenth century.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 581373,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.737319",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Caligula but it’s just pretty damn near porn in a few scenes"
+          },
+          {
+            "id": 5406457116423506742,
+            "title": "Striptease",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+            "release_year": 1996,
+            "plot_summary": "Bounced from her job, Erin Grant needs money if she's to have any chance of winning back custody of her child. But, eventually, she must confront the naked truth: to take on the system, she'll have to take it all off. Erin strips to conquer, but she faces unintended circumstances when a hound dog of a Congressman zeroes in on her and sharpens the shady tools at his fingertips, including blackmail and murder.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 9879,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.803382",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": -5724995498816735885,
+            "title": "Barbarella",
+            "poster_url": "https://image.tmdb.org/t/p/w500/facTz5BZz4AkJal1FWgjYciekih.jpg",
+            "release_year": 1968,
+            "plot_summary": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Action"
+            ],
+            "tmdb_id": 8069,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.844600",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "If you're okay with a late '60s movie, Barbarella is worth checking out."
+          },
+          {
+            "id": 6759633006228518286,
+            "title": "About Last Night",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z3dVYQtxXldDawz7d15wqt2PQLe.jpg",
+            "release_year": 2014,
+            "plot_summary": "Bernie and Joan are two fiery flirters who are passionate about everything from hookups to breakups and each other. When he sets up his best friend, Danny, with her roommate, Debbie, the sparks soon fly as they try to navigate the relationship minefields from the bar to the bedroom and are eventually put to the test in the real world.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 222899,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.951875",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": -4350455821373009957,
+            "title": "Hardbodies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9z7lbMRQSbcohiPV7WzMbTqhbnI.jpg",
+            "release_year": 1984,
+            "plot_summary": "Three middle-aged daddies visit California to have a marvelous time at the beach. When they learn that a nice apartment and an expensive cabriolet isn't enough for them to score with the chicks, they employ a student to help them. At first he's as disgusted of them and his job as his girlfriend, but soon they find out how to use the situation to everyone's benefit.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 52736,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:05.952084",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": 2317154300529502411,
+            "title": "Body Double",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+            "release_year": 1984,
+            "plot_summary": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 11507,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.026379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Body Double"
+          },
+          {
+            "id": -2933706771082232247,
+            "title": "Private School Girls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iDfeeqZMoDnrVOqy8vSO0FOmrjQ.jpg",
+            "release_year": 1972,
+            "plot_summary": "A beautiful bevy of ravishing coeds who share a room -and each other- for the duration of their educational year.  But the sizzling action doesn´t end when summer vacation begins. It just gets hotter! For the voluptous vixens plan to compete with each other for the steamiest summer on record. And you can be sure that they will \"go to any lengts\" with any man to win!",
+            "runtime": "1h 25m",
+            "tmdb_rating": 3.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 264951,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.026794",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": -7516123278069217217,
+            "title": "Saturn 3",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
+            "release_year": 1980,
+            "plot_summary": "In the future, Earth is overcrowded and the population relies on distant bases to be fed. In the Saturn 3 station, Major Adam and the scientist Alex, who is also his lover and has never been on Earth, have been researching hydroponics for three years in the base alone with their dog Sally.  Captain Benson arrives Saturn 3 with Hector, incapable to controlling his emotions he transfers his homicidal tendency and insanity to Hector.  Now Major Adam and Alex are trapped in the station with a dangerous psychopath robot.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 19761,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.088522",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": 8712024787862488967,
+            "title": "Cat People",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nYcQnkbTD4LDmp11HCReQuUoMKD.jpg",
+            "release_year": 1982,
+            "plot_summary": "After years of separation, Irena Gallier and her minister brother, Paul, reunite in New Orleans. When zoologists capture a wild panther, Irena is drawn to the cat – and zoo curator Oliver to her. Soon, Paul will have to reveal the family secret: that when sexually aroused, they revert into predatory jungle cats.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 6217,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.110501",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Cat people was a wild ride"
+          },
+          {
+            "id": 2545118983071750854,
+            "title": "Blue Lagoon",
+            "poster_url": null,
+            "release_year": null,
+            "plot_summary": "Someone's in trouble! Franco Bell impersonator, H.J., learns that he's related to a branch manager at Jack&Jones Eastern Region. What are they running from? Or worse/more specifically, who?",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1306661,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.159221",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Blue lagoon"
+          },
+          {
+            "id": -8366223600490216530,
+            "title": "Return of the Living Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yjYD9myjbrHYzK1n4oCyQbTwBU.jpg",
+            "release_year": null,
+            "plot_summary": "Taking place 18 months after the events at the UNEEDA Warehouse in Louisville, KY, a new Trioxin 2-4-5 leak puts a small Pennsylvania town on the brink of a zombie outbreak during Christmas 1985.",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 1170600,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.233341",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": -1650882975902841863,
+            "title": "The Kentucky Fried Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qk0iXBQgP6b4xfS2bIUNBSENJAn.jpg",
+            "release_year": 1977,
+            "plot_summary": "A series of loosely connected skits that spoof news programs, commercials, porno films, kung-fu films, disaster films, blaxploitation films, spy films, mafia films, and the fear that somebody is watching you on the other side of the TV.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 11598,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.233531",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Kentucky fried movie"
+          },
+          {
+            "id": -2234364486553627054,
+            "title": "Beyond the Valley of the Dolls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kmGOF3T35Q6zM1PMmp4Gf0VNX65.jpg",
+            "release_year": 1970,
+            "plot_summary": "An all-girl rock band moves to Hollywood in the hope of achieving success, only to fall into a whirlpool of wickedness and decadence.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 5722,
+            "category_title": "Movies From The 70s And 80s With Frequent Female Nudity",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:06.307738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/",
+            "original_comment_text": "Beyond the valley of the Dolls "
+          }
+        ]
+      },
+      {
+        "name": "Uplifting Documentaries",
+        "movies": [
+          {
+            "id": -4876308417715453900,
+            "title": "Class Action Park",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AoNojvxMhZtdVu9V8LtjfXJ6TPT.jpg",
+            "release_year": 2020,
+            "plot_summary": "Class Action Park explores the legend, legacy, and truth behind the 1980s water park in Vernon, New Jersey that long ago entered the realm of myth. Known for its dangerous, unsupervised rides and lack of regulation, guests of Action Park expected to walk away with injuries and were lucky if they made it out alive. Shirking the trappings of nostalgia, the film uses investigative journalism, original animations,  recordings, and interviews with the people who lived it to reveal the true story of Action Park.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 634233,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.049634",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "The King of Kong. Hugely entertaining documentary about two men fighting for the all-time Donkey Kong high score.\n\n\nSide Note, re: Class Action Park. I went to Action Park a bunch as a kid. It really was that dangerous. It was also one of the most fun places I’ve ever been to."
+          },
+          {
+            "id": 1080862506055324894,
+            "title": "Man on Wire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+            "release_year": 2008,
+            "plot_summary": "On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 14048,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.123855",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Man on Wire is an absolute *delight*. Philip Petit is such a natural storyteller, 10/10 would recommend"
+          },
+          {
+            "id": 5948243032732380167,
+            "title": "Exit Through the Gift Shop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+            "release_year": 2010,
+            "plot_summary": "Banksy is a graffiti artist with a global reputation whose work can be seen on walls from post-hurricane New Orleans to the separation barrier on the Palestinian West Bank. Fiercely guarding his anonymity to avoid prosecution, Banksy has so far resisted all attempts to be captured on film. Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 39452,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.130008",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Exit through the gift shop. A documentary about street art, also known as graffiti. Its gets crazy by the end. Im still not certain if it's just a bizarre story, or an art critique from Banksy. Pretty interesting all around.\n\nAmerican movie. Its like real life trailer park boys trying to make a horror movie. Sorta bleak lives, but their enthusiasm was hilarious and nice. The main dude felt like a champ by the end as far as I recall."
+          },
+          {
+            "id": 248872543007538239,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.195987",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Searching for sugar man"
+          },
+          {
+            "id": 7188559678562420543,
+            "title": "My Octopus Teacher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+            "release_year": 2020,
+            "plot_summary": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682110,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.198019",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "My Octopus Teacher"
+          },
+          {
+            "id": -5917510244093935895,
+            "title": "Free Solo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+            "release_year": 2018,
+            "plot_summary": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Adventure"
+            ],
+            "tmdb_id": 515042,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.265203",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Jiro Dreams of Sushi and Free Solo "
+          },
+          {
+            "id": -1541090156096556730,
+            "title": "Jiro Dreams of Sushi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qHJTB0oDIFaTHihJBUr4zXlGPDz.jpg",
+            "release_year": 2011,
+            "plot_summary": "Revered sushi chef Jiro Ono strives for perfection in his work, while his eldest son, Yoshikazu, has trouble living up to his father's legacy.",
+            "runtime": "1h 22m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 80767,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.265395",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Jiro Dreams of Sushi and Free Solo "
+          },
+          {
+            "id": 5205183754267266746,
+            "title": "Tickled",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qxUbPwyhzNEyUZYOZm6t8yYSQf.jpg",
+            "release_year": 2016,
+            "plot_summary": "Journalist David Farrier stumbles upon a mysterious tickling competition online. As he delves deeper he comes up against fierce resistance, but that doesn’t stop him getting to the bottom of a story stranger than fiction.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 373072,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.283744",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Tickled\n\nWinnebago Man"
+          },
+          {
+            "id": -908583549093570093,
+            "title": "The King of the Kongo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oWJoQTOBQsmniT1tXGdc4PGws1O.jpg",
+            "release_year": 1929,
+            "plot_summary": "A Secret Service agent seeks his missing brother in Africa, and finds his mission complicated by ivory thieves, a girl with a mysterious past, and a troublesome gorilla.",
+            "runtime": "3h 9m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 257031,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.404012",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "The King of Kong. Hugely entertaining documentary about two men fighting for the all-time Donkey Kong high score.\n\n\nSide Note, re: Class Action Park. I went to Action Park a bunch as a kid. It really was that dangerous. It was also one of the most fun places I’ve ever been to."
+          },
+          {
+            "id": -8646108155263176631,
+            "title": "Jodorowsky's Dune",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cVwyAK5clGBQYe7Gu6GsBsUiYh1.jpg",
+            "release_year": 2013,
+            "plot_summary": "In 1974, Chilean-French director Alejandro Jodorowsky embarked on the quixotic project of adapting Frank Herbert's influential novel Dune (1969) for the big screen. After investing two years, and millions of dollars, the gigantic project ended in failure; but the artists Jodorowsky brought together to carry it out continued to work together, and ended up laying the foundations for modern science fiction cinema.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 191720,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.409624",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Jodorowskys Dune. Wild fucking story."
+          },
+          {
+            "id": 339857518700281960,
+            "title": "Stop Making Sense",
+            "poster_url": "https://image.tmdb.org/t/p/w500/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+            "release_year": 1984,
+            "plot_summary": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Documentary",
+              "Music"
+            ],
+            "tmdb_id": 24128,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.486370",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "The Decline of Western Civilization (1981)\n\nStop Making Sense (1984/2024)\n\nThe Last Waltz (1978)\n\nBuena Vista Social Club (1999)"
+          },
+          {
+            "id": 453786562027153766,
+            "title": "The Last Waltz",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+            "release_year": 1978,
+            "plot_summary": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Documentary",
+              "Music"
+            ],
+            "tmdb_id": 13963,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.568183",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "The Decline of Western Civilization (1981)\n\nStop Making Sense (1984/2024)\n\nThe Last Waltz (1978)\n\nBuena Vista Social Club (1999)"
+          },
+          {
+            "id": 1940276910299497529,
+            "title": "Winnebago Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q9XEQk8KY7cBxzC5xE2NCGMBhsv.jpg",
+            "release_year": 2010,
+            "plot_summary": "Jack Rebney is the most famous man you've never heard of - after cursing his way through a Winnebago sales video, Rebney's outrageously funny outtakes became an underground sensation and made him an internet superstar. Filmmaker Ben Steinbauer journeys to the top of a mountain to find the recluse who unwittingly became the \"Winnebago Man\".",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Documentary",
+              "Comedy"
+            ],
+            "tmdb_id": 42918,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.621437",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "Tickled\n\nWinnebago Man"
+          },
+          {
+            "id": -5875340701679936182,
+            "title": "The Decline of Western Civilization",
+            "poster_url": "https://image.tmdb.org/t/p/w500/36YfDJQKZfoCn5NLJ7mcrekE511.jpg",
+            "release_year": 1981,
+            "plot_summary": "The Los Angeles punk music scene circa 1980 is the focus of this film. With Alice Bag Band, Black Flag, Catholic Discipline, Circle Jerks, Fear, Germs, and X.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary",
+              "Music"
+            ],
+            "tmdb_id": 21137,
+            "category_title": "Uplifting Documentaries",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:21.696429",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mdpo5h/what_are_some_documentaries_you_liked_that_arent/",
+            "original_comment_text": "The Decline of Western Civilization (1981)\n\nStop Making Sense (1984/2024)\n\nThe Last Waltz (1978)\n\nBuena Vista Social Club (1999)"
+          }
+        ]
+      },
+      {
+        "name": "Movies Where The Killer Is Never Caught",
+        "movies": [
+          {
+            "id": -310992910116611969,
+            "title": "No Country for Old Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "release_year": 2007,
+            "plot_summary": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 6977,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:29.828358",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "No Country for Old Men"
+          },
+          {
+            "id": 3575546421456760457,
+            "title": "The Usual Suspects",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 629,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:29.840306",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Usual Suspects"
+          },
+          {
+            "id": 3250127574148362824,
+            "title": "American Psycho",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+            "release_year": 2000,
+            "plot_summary": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 1359,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.022379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Strangers\n\nFrom Hell\n\nAmerican Psycho"
+          },
+          {
+            "id": -4082365062799761915,
+            "title": "Fallen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bAyvqgi3RjQIPnt0CDInZ27opNK.jpg",
+            "release_year": 2006,
+            "plot_summary": "For high schooler Aaron Corbett, turning 18 means becoming not just a man but a nephilim, too -- half human, half angel, with supernatural abilities.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "TV Movie",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 50126,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.088490",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "Check out Fallen with Denzel Washington... Tiiime is on my side, yes it is"
+          },
+          {
+            "id": 167188621659043214,
+            "title": "The Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f0QKnWgLkO3Oj9IHb7lUpVpvie5.jpg",
+            "release_year": 1998,
+            "plot_summary": "A man is inflicted with a bad case of werewolvism by his wife. After a bloody duel between the two, hubby runs off to hide in the mountains. But his past comes back to haunt him.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 1.0,
+            "genres": [
+              "Horror",
+              "Fantasy"
+            ],
+            "tmdb_id": 251365,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.111616",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Strangers\n\nFrom Hell\n\nAmerican Psycho"
+          },
+          {
+            "id": -6821855977021146267,
+            "title": "From Hell",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mUlIowzecF83SKax37ZMNssCoNP.jpg",
+            "release_year": 2001,
+            "plot_summary": "Frederick Abberline is an opium-huffing inspector from Scotland Yard who falls for one of Jack the Ripper's prostitute targets in this Hughes brothers adaption of a graphic novel that posits the Ripper's true identity.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 768,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.116146",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Strangers\n\nFrom Hell\n\nAmerican Psycho"
+          },
+          {
+            "id": -9027730806875180386,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.118259",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "Memento. Unless I'm misremembering... See I have this condition..."
+          },
+          {
+            "id": -749697471563425336,
+            "title": "Scary Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+            "release_year": 2000,
+            "plot_summary": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 4247,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.192620",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "*Scary movie* (2000)."
+          },
+          {
+            "id": 1702719740758392390,
+            "title": "The Talented Mr. Ripley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+            "release_year": 1999,
+            "plot_summary": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 1213,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.211232",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The talented Mr Ripley"
+          },
+          {
+            "id": -3846271527168681962,
+            "title": "Memories of Murder",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg",
+            "release_year": 2003,
+            "plot_summary": "During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 11423,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.232702",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "Kinda spoils the movie but memories of murder the ending is so clever"
+          },
+          {
+            "id": -2083944862712139701,
+            "title": "The Silence of the Lambs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "release_year": 1991,
+            "plot_summary": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 274,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.259251",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Silence of the Lambs"
+          },
+          {
+            "id": 7745411092947048920,
+            "title": "Mr. Brooks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYleq0qmb67Ig2ViY3hFmUOrH77.jpg",
+            "release_year": 2007,
+            "plot_summary": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.",
+            "runtime": "2h",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 3432,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.302165",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "*Mr. Brooks* (2007)."
+          },
+          {
+            "id": -4439395962190308761,
+            "title": "The Pledge",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
+            "release_year": 2001,
+            "plot_summary": "A police chief about to retire pledges to help a woman find her daughter's killer.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 5955,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.325787",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "The Pledge"
+          },
+          {
+            "id": -3587425224505807150,
+            "title": "Zodiac",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+            "release_year": 2007,
+            "plot_summary": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1949,
+            "category_title": "Movies Where The Killer Is Never Caught",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:30.372797",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1m9vfsc/movie_where_killler_never_getting_caught_at_the/",
+            "original_comment_text": "Obvious one would be \"Zodiac\""
+          }
+        ]
+      },
+      {
+        "name": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+        "movies": [
+          {
+            "id": -5756270611013032444,
+            "title": "The Sting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
+            "release_year": 1973,
+            "plot_summary": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 9277,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:41.969497",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "The Sting (1973)"
+          },
+          {
+            "id": 5289466875894709573,
+            "title": "The Prestige",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
+            "release_year": 2006,
+            "plot_summary": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1124,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:41.996401",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "The Prestige"
+          },
+          {
+            "id": -6311275201169660497,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.019285",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Princess Bride is the greatest revenge story ever told. Well, except for count of Monte Cristo."
+          },
+          {
+            "id": -7551901753120223177,
+            "title": "Kill Bill: Vol. 1",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "release_year": 2003,
+            "plot_summary": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 24,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.066595",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Kill Bill 1-2"
+          },
+          {
+            "id": -5577327176558102136,
+            "title": "Promising Young Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+            "release_year": 2020,
+            "plot_summary": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 582014,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.159042",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Of recent vintage: Promising Young Woman and The Gift (2015)"
+          },
+          {
+            "id": 4144265718221262216,
+            "title": "Law Abiding Citizen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yPjFwyzwIwhGrQgE3RiIvAvth4l.jpg",
+            "release_year": 2009,
+            "plot_summary": "A frustrated man decides to take justice into his own hands after a plea bargain sets one of his family's killers free. He targets not only the killer but also the district attorney and others involved in the deal.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 22803,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.214411",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Law abiding citizen (2009)"
+          },
+          {
+            "id": 5541520790274001251,
+            "title": "Lucky Number Slevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+            "release_year": 2006,
+            "plot_summary": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 186,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.230942",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Lucky Number Slevin"
+          },
+          {
+            "id": 5616435257497759870,
+            "title": "V for Vendetta",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 752,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.281674",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "V for Vendetta\n\nThe Punisher (2004)"
+          },
+          {
+            "id": 4541447530247699968,
+            "title": "The Count of Monte Cristo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+            "release_year": 2002,
+            "plot_summary": "Edmond Dantés's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dantés escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "History",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 11362,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.302720",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Princess Bride is the greatest revenge story ever told. Well, except for count of Monte Cristo."
+          },
+          {
+            "id": -374876191081621833,
+            "title": "Kill Bill: Vol. 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+            "release_year": 2004,
+            "plot_summary": "The Bride unwaveringly continues on her roaring rampage of revenge against the band of assassins who had tried to kill her and her unborn child. She visits each of her former associates one-by-one, checking off the victims on her Death List Five until there's nothing left to do … but kill Bill.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 393,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.374496",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Kill Bill 1-2"
+          },
+          {
+            "id": -3852465635348971402,
+            "title": "Sleepers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yUpiEk2EojS9ZEXb3nIQonQCYYF.jpg",
+            "release_year": 1996,
+            "plot_summary": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 819,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.444614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "Sleepers. The main character used that book as his one of his influences in the plot."
+          },
+          {
+            "id": 2768742441753423193,
+            "title": "The Shawshank Redemption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_year": 1994,
+            "plot_summary": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 278,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.529159",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "The Shawshank Redemption"
+          },
+          {
+            "id": 1515802429284356116,
+            "title": "The Punisher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7rmA1HwYp2GKM85BL0cVwCaosGr.jpg",
+            "release_year": 2004,
+            "plot_summary": "When undercover FBI agent Frank Castle's wife and son are slaughtered, he becomes 'the Punisher' -- a ruthless vigilante willing to go to any length to avenge his family.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 7220,
+            "category_title": "Movies With Thought-Out Revenge Like The Count Of Monte Cristo",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:42.663345",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1med336/does_anybody_know_of_any_good_movies_with/",
+            "original_comment_text": "V for Vendetta\n\nThe Punisher (2004)"
+          }
+        ]
+      },
+      {
+        "name": "Movies With Satisfying Villain Deaths",
+        "movies": [
+          {
+            "id": -6832609326541682051,
+            "title": "Léon: The Professional",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+            "release_year": 1994,
+            "plot_summary": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 101,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.060368",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Leon The Professional"
+          },
+          {
+            "id": -4887902732856555914,
+            "title": "The Shawshank Redemption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_year": 1994,
+            "plot_summary": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 278,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.090968",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "The Shawshank Redemption"
+          },
+          {
+            "id": 6388055383951621193,
+            "title": "RoboCop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",
+            "release_year": 2014,
+            "plot_summary": "In RoboCop, the year is 2028 and multinational conglomerate OmniCorp is at the center of robot technology.  Overseas, their drones have been used by the military for years, but have been forbidden for law enforcement in America.  Now OmniCorp wants to bring their controversial technology to the home front, and they see a golden opportunity to do it.  When Alex Murphy – a loving husband, father and good cop doing his best to stem the tide of crime and corruption in Detroit – is critically injured, OmniCorp sees their chance to build a part-man, part-robot police officer.  OmniCorp envisions a RoboCop in every city and even more billions for their shareholders, but they never counted on one thing: there is still a man inside the machine.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 97020,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.208134",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "RoboCop (1987) -- Dick Jones"
+          },
+          {
+            "id": 585152103495136086,
+            "title": "Dredd",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+            "release_year": 2012,
+            "plot_summary": "In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn’t as easy as it seems in this explosive adaptation of the hugely popular comic series.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 49049,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.353942",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Dredd (2014?)\n\nLast House on the Left (a bit on the gory side)\n\nThe Jackel"
+          },
+          {
+            "id": -2453159261208265306,
+            "title": "The Last House on the Left",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2Y35XCUS8U8vC8vs0HDEVkPu1BM.jpg",
+            "release_year": 2009,
+            "plot_summary": "When athletic teen Mari Collingwood opts to hang out with her friend Paige in town rather than spend an evening in with her parents vacationing at the family's remote lake house, it marks the beginning of a night no one is going to forget.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 18405,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.392228",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Dredd (2014?)\n\nLast House on the Left (a bit on the gory side)\n\nThe Jackel"
+          },
+          {
+            "id": 5588724759365998906,
+            "title": "Commando",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ggVVcXvlLqFOK6lEkD8G2aDarDb.jpg",
+            "release_year": 1985,
+            "plot_summary": "John Matrix, the former leader of a special commando strike force that always got the toughest jobs done, is forced back into action when his young daughter is kidnapped. To find her, Matrix has to fight his way through an array of punks, killers, one of his former commandos, and a fully equipped private army. With the help of a feisty stewardess and an old friend, Matrix has only a few hours to overcome his greatest challenge: finding his daughter before she's killed.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "tmdb_id": 10999,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.426169",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Commando - Let off some steam, Bennett."
+          },
+          {
+            "id": 831619611174510235,
+            "title": "Who Framed Roger Rabbit",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+            "release_year": 1988,
+            "plot_summary": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 856,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.432113",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Who Framed Roger Rabbit.  Bad guy gets \"dipped. \""
+          },
+          {
+            "id": -7987623415140017779,
+            "title": "The Departed",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+            "release_year": 2006,
+            "plot_summary": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+            "runtime": "2h 31m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1422,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.466056",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "The Departed"
+          },
+          {
+            "id": -1412159309211831175,
+            "title": "John Wick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+            "release_year": 2014,
+            "plot_summary": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 245891,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.489183",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "John wick\n‘It was just a!…..’\nBlam blam blam etc"
+          },
+          {
+            "id": -8122911409341151677,
+            "title": "Inglourious Basterds",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+            "release_year": 2009,
+            "plot_summary": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+            "runtime": "2h 33m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "War"
+            ],
+            "tmdb_id": 16869,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.539186",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Inglourious Basterds"
+          },
+          {
+            "id": -6195167680112918925,
+            "title": "Hardcore Henry",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ik1uZyiMSxF9HqrgRKUNfMCfr3z.jpg",
+            "release_year": 2015,
+            "plot_summary": "Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry's only hope to make it through the day. Hardcore Henry takes place over the course of one day, in Moscow, Russia.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 325348,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.571872",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Hardcore Henry\n\nPaycheck\n\nSerenity\n\nGoldeneye\n\nTangled\n\nThe Incredibles"
+          },
+          {
+            "id": -2670312130645065882,
+            "title": "Once Upon a Time... in Hollywood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+            "release_year": 2019,
+            "plot_summary": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+            "runtime": "2h 42m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 466272,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.619565",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Once upon a time in Hollywood"
+          },
+          {
+            "id": 2039434254892461153,
+            "title": "Paycheck",
+            "poster_url": "https://image.tmdb.org/t/p/w500/icoa6KslkhXKnxLreZ6vXnDimpQ.jpg",
+            "release_year": 2003,
+            "plot_summary": "Michael Jennings is a genius who's hired – and paid handsomely – by high-tech firms to work on highly sensitive projects, after which his short-term memory is erased so he's incapable of breaching security. But at the end of a three-year job, he's told he isn't getting a paycheck and instead receives a mysterious envelope. In it are clues he must piece together to find out why he wasn't paid – and why he's now in hot water.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Mystery",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 9620,
+            "category_title": "Movies With Satisfying Villain Deaths",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-02T07:14:53.701270",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mddfrv/movies_where_the_hateable_villain_dies_in_a_very/",
+            "original_comment_text": "Hardcore Henry\n\nPaycheck\n\nSerenity\n\nGoldeneye\n\nTangled\n\nThe Incredibles"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 68,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-02T07:14:05.731129"
+  }
+}

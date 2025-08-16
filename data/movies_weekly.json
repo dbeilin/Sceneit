@@ -1,0 +1,1472 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies So Insane They're Best Watched Completely Blind",
+        "movies": [
+          {
+            "id": -4224509075745858711,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.076118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n853ptl/",
+            "original_comment_text": "Sorry to Bother You is my favorite weird movie. It’s not scary - just weirdly hilarious and strangely deep and satisfying\n\n\nUpdate: thanks to everyone that liked or commented on this movie.  It is so damn good and makes me happy that so many people loved this movie the way I did."
+          },
+          {
+            "id": 7247036416744015495,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.117916",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850wgs/",
+            "original_comment_text": "From Dusk Til Dawn. If you don't know anything about it yet, don't even look at the cover art, just watch it."
+          },
+          {
+            "id": 1802838316100869296,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.145134",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852yta/",
+            "original_comment_text": "Predestination"
+          },
+          {
+            "id": 3080851665847117924,
+            "title": "Mother",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wfRUjKaHRRqLWPEqqOkJ4Gbkgcm.jpg",
+            "release_year": 2024,
+            "plot_summary": "A non narrative film about the relationship between womanhood and nature.",
+            "runtime": "6m",
+            "tmdb_rating": 9.5,
+            "genres": [],
+            "tmdb_id": 1266702,
+            "imdb_id": null,
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.254270",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": 7758128028080223893,
+            "title": "One Cut of the Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+            "release_year": 2017,
+            "plot_summary": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 513434,
+            "imdb_id": "tt7914416",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.286820",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850jb5/",
+            "original_comment_text": "One Cut of the Dead. Watch it blind. Just trust me."
+          },
+          {
+            "id": 7655354244215696759,
+            "title": "Old Boy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mr87DJqf8vCP207vqruhHvPPMPc.jpg",
+            "release_year": 2011,
+            "plot_summary": "We had a comfortable life until my father went bankrupt and I blamed him for our misfortune. Being 30 and still living with my parents, I do not speak with my father. It is my brother's wedding and I'm not attending his ceremony. I asked my friend to film the wedding and specially my father. This film is an occasion for me to revise my attitude toward every member of my family by talking to them.",
+            "runtime": "58m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 483610,
+            "imdb_id": "tt2331025",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.288369",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8519tb/",
+            "original_comment_text": "Old Boy - the original."
+          },
+          {
+            "id": 4048528612982998973,
+            "title": "eXistenZ",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_year": 1999,
+            "plot_summary": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1946,
+            "imdb_id": "tt0120907",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.329321",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850tgo/",
+            "original_comment_text": "Existenz"
+          },
+          {
+            "id": 8639447094495330262,
+            "title": "Pulp Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "release_year": 1994,
+            "plot_summary": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "runtime": "2h 34m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 680,
+            "imdb_id": "tt0110912",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.356168",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852281/",
+            "original_comment_text": "Pulp Fiction. I walked into the theater knowing absolutely nothing about the movie. Fantastic experience!"
+          },
+          {
+            "id": 8310268515445228708,
+            "title": "Frailty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+            "release_year": 2002,
+            "plot_summary": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12149,
+            "imdb_id": "tt0264616",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.393848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n851o0w/",
+            "original_comment_text": "Frailty"
+          },
+          {
+            "id": -3798110592939740093,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.428778",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": -709085076534764654,
+            "title": "Bottoms",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "release_year": 2023,
+            "plot_summary": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 814776,
+            "imdb_id": "tt17527468",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.496319",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": 773786384324617406,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.570581",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": 6220787276964743906,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Fy52iMUlyJUZfMxBk9BSueUAF1.jpg",
+            "release_year": 1926,
+            "plot_summary": "Professional dancer Diotima finds herself the apex of a love triangle when she is pursued by two mountain climbers, Vigo and his older friend.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 94658,
+            "imdb_id": "tt0016953",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.768177",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": 5586198157770873537,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies So Insane They're Best Watched Completely Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:22:58.785952",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n858zri/",
+            "original_comment_text": "Parasite"
+          }
+        ]
+      },
+      {
+        "name": "Sexual Movies That Aren't Sexually Gratifying",
+        "movies": [
+          {
+            "id": -2524122794387990279,
+            "title": "Shame",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cxhgbZA5j2xH6hxGOAeU4UP6w2n.jpg",
+            "release_year": 2019,
+            "plot_summary": "SHAME is the revenge saga of a housekeeping staff against a hotel guest for having her fired when she errs in the line of duty.",
+            "runtime": "24m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Thriller"
+            ],
+            "tmdb_id": 824492,
+            "imdb_id": "tt7981970",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.434160",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h8gkp/",
+            "original_comment_text": "Shame with Michael Fassbender also shows loveless, desperate sex. Main character can’t actually have sex with the only person he feels an emotional connection, very frustrating."
+          },
+          {
+            "id": -7618285754005720756,
+            "title": "Eyes Wide Shut",
+            "poster_url": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "release_year": 1999,
+            "plot_summary": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+            "runtime": "2h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 345,
+            "imdb_id": "tt0120663",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.520454",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h09wc/",
+            "original_comment_text": "Eyes Wide Shut"
+          },
+          {
+            "id": 6277995048903752272,
+            "title": "Irreversible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_year": 2002,
+            "plot_summary": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 979,
+            "imdb_id": "tt0290673",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.568704",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h83gs/",
+            "original_comment_text": "Irreversible"
+          },
+          {
+            "id": 3759588008456913759,
+            "title": "Under the Skin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+            "release_year": 2014,
+            "plot_summary": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 97370,
+            "imdb_id": "tt1441395",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.590909",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h4n0y/",
+            "original_comment_text": "Border (2018)\n\nUnder the Skin (2013)"
+          },
+          {
+            "id": 3265559462017346210,
+            "title": "Border",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sFyftHJ5wXdZXHDKBhQX2mPWZLr.jpg",
+            "release_year": 1997,
+            "plot_summary": "It's 1971, and 2000 members of the Pakistani Army—armed with tanks—are at war with just 120 men in a battalion of Indian soldiers based in the Longewala region of Rajasthan in India.",
+            "runtime": "2h 56m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 33125,
+            "imdb_id": "tt0118751",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.594236",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h4n0y/",
+            "original_comment_text": "Border (2018)\n\nUnder the Skin (2013)"
+          },
+          {
+            "id": -3101328330859443303,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery",
+              "Action"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.594445",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8hi6uo/",
+            "original_comment_text": "Old boy has not been mentioned. Possibly the most consequential use of sex in cinematic history to move the plot forward in a way that is super not sexy"
+          },
+          {
+            "id": -7298439809042985859,
+            "title": "Poor Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "release_year": 2023,
+            "plot_summary": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Science Fiction",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 792307,
+            "imdb_id": "tt14230458",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.640808",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8hbgrx/",
+            "original_comment_text": "Poor Things. I went eagerly expecting light hearted humorous eroticism.. A couple of bleak chuckles, very dark, not one thrill of lust despite copious unblinking sexual content, it plainly was not made to titilate (see what I did there?)  the male libido, pretty remarkable. Good movie I hasten to add.."
+          },
+          {
+            "id": -1247914415140944862,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+            "release_year": 1996,
+            "plot_summary": "After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims, and he begins to use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 884,
+            "imdb_id": "tt0115964",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.710805",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8gzyc9/",
+            "original_comment_text": "[Crash](https://www.themoviedb.org/movie/884-crash) (1996)  \n>After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims, and he begins to use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife."
+          },
+          {
+            "id": -3442852911554739117,
+            "title": "Anora",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+            "release_year": 2024,
+            "plot_summary": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 1064213,
+            "imdb_id": "tt28607951",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.783401",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8hkg3n/",
+            "original_comment_text": "Anora. The movie is filled with nudity and stripping and sex but it's all transactional."
+          },
+          {
+            "id": 1354410074912642651,
+            "title": "A Dirty Shame",
+            "poster_url": "https://image.tmdb.org/t/p/w500/10QtswgtDo8IBfFHz4J6WAyVSbN.jpg",
+            "release_year": 2004,
+            "plot_summary": "Sylvia Stickles runs a convenience store with her husband and mother-in-law. One day, Sylvia is hit on the head and transforms from an uptight prude to a sex-crazed lunatic. As she goes on a rampage through town, Sylvia attracts the attention of Ray Ray, a sexual healer and tow truck driver in search of the world's greatest orgasm. Their sexual revolution, however, causes a class war in their tiny Baltimore community.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 13702,
+            "imdb_id": "tt0365125",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.891205",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h1aqv/",
+            "original_comment_text": "A Dirty Shame by John Waters is all about sex addicts and it is the least sexy movie you will ever watch.\n\nHas stellar performances by Tracy Ullman, Chris Isaak, Selma Blair and Johnny Knoxville, plus the usual Dreamlanders."
+          },
+          {
+            "id": 6110211745987818806,
+            "title": "Diary of a Nymphomaniac",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yVYTeiFv7oQsSQF9OBRngg7ZqLg.jpg",
+            "release_year": 2008,
+            "plot_summary": "A chronicle of the life of a middle-class French girl's sexual adventures, her then fall into prostitution, and her ultimate redemption.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 19173,
+            "imdb_id": "tt1111890",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.921352",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h1zfv/",
+            "original_comment_text": "Nymphomaniac"
+          },
+          {
+            "id": 5308165619256388859,
+            "title": "The Piano Teacher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+            "release_year": 2001,
+            "plot_summary": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1791,
+            "imdb_id": "tt0254686",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:02.994764",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h418e/",
+            "original_comment_text": "The Piano Teacher with Isabelle Hupert"
+          },
+          {
+            "id": -7290420702227251404,
+            "title": "Antichrist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+            "release_year": 2009,
+            "plot_summary": "A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 17609,
+            "imdb_id": "tt0870984",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:03.143287",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h8ycb/",
+            "original_comment_text": "Antichrist"
+          },
+          {
+            "id": 2859453477565127177,
+            "title": "Nocturnal Animals",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+            "release_year": 2016,
+            "plot_summary": "Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 340666,
+            "imdb_id": "tt4550098",
+            "category_title": "Sexual Movies That Aren't Sexually Gratifying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:03.227382",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mp5nda/sexual_movies_that_arent_sexually_gratifying/n8h4faz/",
+            "original_comment_text": "Nocturnal Animals"
+          }
+        ]
+      },
+      {
+        "name": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+        "movies": [
+          {
+            "id": -125199341236802230,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:07.937322",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yq1bw/",
+            "original_comment_text": "Requiem for a Dream"
+          },
+          {
+            "id": -4601802602071931050,
+            "title": "The Road",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qLaXnLzqleBWQtjvZ6JGVSaKoC3.jpg",
+            "release_year": 2009,
+            "plot_summary": "A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind and water. It is cold enough to crack stones and, when the snow falls, it is gray. Their destination is the warmer south, although they don't know what, if anything, awaits them there.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 20766,
+            "imdb_id": "tt0898367",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.098232",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7ynyeg/",
+            "original_comment_text": "The Road"
+          },
+          {
+            "id": -6389352515590088986,
+            "title": "Grave of the Fireflies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76826,
+            "imdb_id": "tt0491652",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.163897",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yqsli/",
+            "original_comment_text": "Grave of the fireflies is another one but word on the street is its absolutely soul crushing"
+          },
+          {
+            "id": 9189236119454190202,
+            "title": "Wendy and Lucy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cSe2AuFL6hL7EYd3jFAdsPtoaqS.jpg",
+            "release_year": 2008,
+            "plot_summary": "A near-penniless drifter's journey to Alaska in search of work is interrupted when she loses her dog while attempting to shoplift food for it.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 8942,
+            "imdb_id": "tt1152850",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.167103",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yp7lu/",
+            "original_comment_text": "Manchester by the Sea\n\nWendy and Lucy\n\nHoney bee"
+          },
+          {
+            "id": 2172034313252317848,
+            "title": "Threads",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lBhU4U9Eehr9shstPem6I7BdkxK.jpg",
+            "release_year": 1984,
+            "plot_summary": "Documentary style account of a nuclear holocaust and its effect on the working class city of Sheffield, England; and the eventual long run effects of nuclear war on civilization.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "War",
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 17835,
+            "imdb_id": "tt0090163",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.233598",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yqgds/",
+            "original_comment_text": "Threads (1984)"
+          },
+          {
+            "id": -3241854344494559751,
+            "title": "Melancholia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+            "release_year": 2011,
+            "plot_summary": "Justine and Michael are celebrating their marriage at a sumptuous party in the home of her sister Claire, and brother-in-law John. Despite Claire’s best efforts, the wedding is a fiasco, with family tensions mounting and relationships fraying. Meanwhile, a planet called Melancholia is heading directly towards Earth…",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 62215,
+            "imdb_id": "tt1527186",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.238682",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yov1u/",
+            "original_comment_text": "Melancholia "
+          },
+          {
+            "id": -893866184206074132,
+            "title": "99 Homes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1Y28duQpLsFhwrQkVeZ9G4XSdua.jpg",
+            "release_year": 2015,
+            "plot_summary": "After his family is evicted from their home, proud and desperate construction worker Dennis Nash tries to win his home back by striking a deal with the devil and working for Rick Carver, the corrupt real estate broker who evicted him.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 283235,
+            "imdb_id": "tt2891174",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.306034",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7ypbfb/",
+            "original_comment_text": "99 Homes  \nThe Florida Project   \n(That's a perfect \"depressing Orlando\" double feature.)"
+          },
+          {
+            "id": -9180171219628757986,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.309404",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7ypbfb/",
+            "original_comment_text": "99 Homes  \nThe Florida Project   \n(That's a perfect \"depressing Orlando\" double feature.)"
+          },
+          {
+            "id": -7675132441528684362,
+            "title": "Dancer in the Dark",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9rsivF4sWfmBzrNr4LPu6TNJhXX.jpg",
+            "release_year": 2000,
+            "plot_summary": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life gets too difficult, Selma learns to cope through her love of musicals, escaping life's troubles – even if just for a moment – by dreaming up little numbers to the rhythmic beats of her surroundings.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 16,
+            "imdb_id": "tt0168629",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.382961",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yqlcz/",
+            "original_comment_text": "Dancer in the Dark.  And hide all sharp objects while watching."
+          },
+          {
+            "id": -8837427667343787113,
+            "title": "HoneyBee",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7j83sJKfx8EcZsrx8ukeasJpmd3.jpg",
+            "release_year": 2016,
+            "plot_summary": "A quiet town is jumpstarted by the arrival of an enigmatic family; a statuesque mother named Louisa and her gorgeous teenage sons. Sixteen Year-Old Hilary is working hard to get good grades, hoping to escape the small town life a long line of relatives lived before her. With the arrival of the mysterious family just weeks before school is to let out, life suddenly becomes appealing. Hilary's father is instantly charmed by Louisa, while she herself finds a strong connection to middle son Kadin, ignoring her dubious instincts. As the town falls under the hypnotic spell of the young men, no one but Hilary sees the peculiar loyalty that holds them together and the lengths they will go to give their mother what she needs until it's far too late.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 3.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 383145,
+            "imdb_id": "tt4454930",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.414366",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yp7lu/",
+            "original_comment_text": "Manchester by the Sea\n\nWendy and Lucy\n\nHoney bee"
+          },
+          {
+            "id": -4883535119456225996,
+            "title": "Breaking the Waves",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dQWMcdHXUOSHtr7ypOCa5T79JMS.jpg",
+            "release_year": 1996,
+            "plot_summary": "In a small and conservative Scottish village, a woman's paralytic husband convinces her to have extramarital intercourse so she can tell him about it and give him a reason for living.",
+            "runtime": "2h 38m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 145,
+            "imdb_id": "tt0115751",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.520899",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yunby/",
+            "original_comment_text": "Manchester by the sea \nBreaking the Waves"
+          },
+          {
+            "id": -5463695445933904637,
+            "title": "Leaving Las Vegas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wTrFpGe3U65kXTldIUxuM2hmOAK.jpg",
+            "release_year": 1995,
+            "plot_summary": "Ben Sanderson, an alcoholic Hollywood screenwriter who lost everything because of his drinking, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 451,
+            "imdb_id": "tt0113627",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.525864",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yoe6s/",
+            "original_comment_text": "Leaving Las Vegas"
+          },
+          {
+            "id": 1982438273429359406,
+            "title": "The Pursuit of Happyness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+            "release_year": 2006,
+            "plot_summary": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1402,
+            "imdb_id": "tt0454921",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.659463",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yo8y4/",
+            "original_comment_text": "Pursuit of Happyness"
+          },
+          {
+            "id": 8399981164806052018,
+            "title": "Manchester by the Sea",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+            "release_year": 2016,
+            "plot_summary": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 334541,
+            "imdb_id": "tt4034228",
+            "category_title": "Bleak Movies To Make You Feel Less Shitty About Your Own Life",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:08.669762",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mmmvam/bleak_movies_that_will_make_me_feel_less_shtty/n7yp7lu/",
+            "original_comment_text": "Manchester by the Sea\n\nWendy and Lucy\n\nHoney bee"
+          }
+        ]
+      },
+      {
+        "name": "Visually Stunning Movies For The Big Screen",
+        "movies": [
+          {
+            "id": -5363240641026691969,
+            "title": "The Fall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jUx4P4Q1VsQ07rLz7sOlSyNm4F3.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 14784,
+            "imdb_id": "tt0460791",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.722716",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8djrcw/",
+            "original_comment_text": "The Fall, Pan’s Labyrinth, Hero, and the vastly underrated Mirrormask"
+          },
+          {
+            "id": -2893229572872918846,
+            "title": "Pan's Labyrinth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+            "release_year": 2006,
+            "plot_summary": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 1417,
+            "imdb_id": "tt0457430",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.746663",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8djrcw/",
+            "original_comment_text": "The Fall, Pan’s Labyrinth, Hero, and the vastly underrated Mirrormask"
+          },
+          {
+            "id": 764398813192693444,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.796784",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": 6700531113890400395,
+            "title": "Blade Runner 2049",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "release_year": 2017,
+            "plot_summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 335984,
+            "imdb_id": "tt1856101",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.826651",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": 4819102002594814368,
+            "title": "Blade Runner",
+            "poster_url": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+            "release_year": 1982,
+            "plot_summary": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 78,
+            "imdb_id": "tt0083658",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.865264",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": 9198403988149503620,
+            "title": "Hero",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esBeEnXx8tSCcGF4DKwwESxsAp8.jpg",
+            "release_year": 2015,
+            "plot_summary": "After meeting the chief of police's pretty daughter, a gangster kidnaps the girl. During the journey they fall in love and the gangster decides to set her free.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Romance",
+              "Action",
+              "Drama"
+            ],
+            "tmdb_id": 358996,
+            "imdb_id": "tt4467202",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.890791",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8djrcw/",
+            "original_comment_text": "The Fall, Pan’s Labyrinth, Hero, and the vastly underrated Mirrormask"
+          },
+          {
+            "id": 255394989989571333,
+            "title": "Dune",
+            "poster_url": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "release_year": 2021,
+            "plot_summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "runtime": "2h 35m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 438631,
+            "imdb_id": "tt1160419",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.899981",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": 3615116419016785433,
+            "title": "Gladiator",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "release_year": 2000,
+            "plot_summary": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+            "runtime": "2h 35m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 98,
+            "imdb_id": "tt0172495",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.936418",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": -7348500149785389859,
+            "title": "MirrorMask",
+            "poster_url": "https://image.tmdb.org/t/p/w500/itIJU3NKbdgScA1WPIxXzOlm0Uj.jpg",
+            "release_year": 2005,
+            "plot_summary": "In a fantasy world of opposing kingdoms, a 15-year old girl must find the fabled MirrorMask in order to save the kingdom and get home.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Fantasy"
+            ],
+            "tmdb_id": 14517,
+            "imdb_id": "tt0366780",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.963197",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8djrcw/",
+            "original_comment_text": "The Fall, Pan’s Labyrinth, Hero, and the vastly underrated Mirrormask"
+          },
+          {
+            "id": -65713786111248895,
+            "title": "TRON: Legacy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
+            "release_year": 2010,
+            "plot_summary": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 20526,
+            "imdb_id": "tt1104001",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:13.963402",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": -7280691572935924908,
+            "title": "Ruffiano and Sweeteeth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ul56wOE6rX86HoMtfYQEKvgK3K.jpg",
+            "release_year": 1997,
+            "plot_summary": "Famed outlaw Lotrando sends his son to a strict Catholic boarding school to learn manners, but the boy becomes too polite to lead the band. When they inadvertently arrive in a sultanate where the princess Zubeida lies gravely ill and are mistaken for physicians, father and son must overcome their inexperience and imposture to heal her and save the realm.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 77595,
+            "imdb_id": "tt0119568",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:14.009337",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": 4058959398607683665,
+            "title": "Dredd",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg",
+            "release_year": 2012,
+            "plot_summary": "In the future, America is a dystopian wasteland. The latest scourge is Ma-Ma, a prostitute-turned-drug pusher with a dangerous new drug and aims to take over the city. The only possibility of stopping her is an elite group of urban police called Judges, who combine the duties of judge, jury and executioner to deliver a brutal brand of swift justice. But even the top-ranking Judge, Dredd, discovers that taking down Ma-Ma isn’t as easy as it seems in this explosive adaptation of the hugely popular comic series.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 49049,
+            "imdb_id": "tt1343727",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:14.116424",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": -6263732578678973976,
+            "title": "Skyfall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/d0IVecFQvsGdSbnMAHqiYsNYaJT.jpg",
+            "release_year": 2012,
+            "plot_summary": "When Bond's latest assignment goes gravely wrong, agents around the world are exposed and MI6 headquarters is attacked. While M faces challenges to her authority and position from Gareth Mallory, the new Chairman of the Intelligence and Security Committee, it's up to Bond, aided only by field agent Eve, to locate the mastermind behind the attack.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "tmdb_id": 37724,
+            "imdb_id": "tt1074638",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:14.152002",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          },
+          {
+            "id": -3897262504617397958,
+            "title": "Kill Bill: Vol. 1",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "release_year": 2003,
+            "plot_summary": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 24,
+            "imdb_id": "tt0266697",
+            "category_title": "Visually Stunning Movies For The Big Screen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:14.178945",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1moo418/i_need_visually_stunning_movies_the_kind_that/n8dlcfo/",
+            "original_comment_text": "Blade runner directed by Ridley Scott or blade runner 2049 directed by Denis Villanueve.  They both have other movies that are awesome.  Alien, gladiator, arrival, Dune\n\nSome others I like…LOTR, Tron Legacy, Kill Bill, Skyfall, Dredd, Interstellar"
+          }
+        ]
+      },
+      {
+        "name": "Movies Featuring Cats In A Positive Light",
+        "movies": [
+          {
+            "id": -226311490510837112,
+            "title": "Kiki's Delivery Service",
+            "poster_url": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+            "release_year": 1989,
+            "plot_summary": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 16859,
+            "imdb_id": "tt0097814",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.017573",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89a3zk/",
+            "original_comment_text": "Kiki’s Delivery Service has a wonderful cat character who is funny supportive and an important part of the story."
+          },
+          {
+            "id": 4549612783417245463,
+            "title": "Bolt",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v5aC4nrzXFGJDWY4JO1eengXzqk.jpg",
+            "release_year": 2008,
+            "plot_summary": "Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his \"super powers\" to find a way home.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 13053,
+            "imdb_id": "tt0397892",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.034375",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b3ud/",
+            "original_comment_text": "Bolt\n\nLion King\n\nOliver & Company\n\nPuss in Boots 1&2"
+          },
+          {
+            "id": -7008216739231207,
+            "title": "Cat's Eye",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kKyq7izpMkmr8sT2nLic5qAuJPo.jpg",
+            "release_year": 1985,
+            "plot_summary": "Three short stories linked by a stray cat that roams from one tale to the next, in this creepy triptych that begins as Dick tries to quit smoking by any means necessary. Next, we meet Johnny, an adulterous man who's forced by his lover's husband onto a building's hazardous ledge. Finally, Amanda is threatened by an evil gnome who throws suspicion on the family cat.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 10552,
+            "imdb_id": "tt0088889",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.085208",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89czzr/",
+            "original_comment_text": "Cat's eye (1985)"
+          },
+          {
+            "id": 2722168197551053186,
+            "title": "The Cat from Outer Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/okBmdBxptOwXS5FNauS3deFLnly.jpg",
+            "release_year": 1978,
+            "plot_summary": "A UFO is stranded on earth and impounded by the US government. Its pilot, a cat with a collar that gives it special powers, including the ability to communicate with humans, has eluded the authorities and seeks the help of a scientist in order to reclaim and repair his ship and get back home.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Science Fiction"
+            ],
+            "tmdb_id": 19378,
+            "imdb_id": "tt0077305",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.097965",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89ueau/",
+            "original_comment_text": "The cat from outer space, an old Disney movie"
+          },
+          {
+            "id": 8487402394656557205,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uqUwD865PnyxEKXVdHrHEL6bRIj.jpg",
+            "release_year": 1996,
+            "plot_summary": "A filmmaker talks about his work and love life with an unseen friend behind the camera. We also watch four of his short films.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Horror",
+              "Crime"
+            ],
+            "tmdb_id": 262610,
+            "imdb_id": "tt0210685",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.128237",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89af2w/",
+            "original_comment_text": "*Flow (2024).* Cat tries to survive with other animals in a post-apocalyptic flooded world. One of my top films of last year."
+          },
+          {
+            "id": -1224675118520089460,
+            "title": "Oliver & Company",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nijsZeuINn0SnNb5cQVz2L4Yhps.jpg",
+            "release_year": 1988,
+            "plot_summary": "A young cat named Oliver is left alone in a kitten box, while all the other young cats have new owners. A big dog named Dodger shows him how to get food and later Oliver lives with him, his owner Fagin and Fagin's other dogs Tito, Rita, Einstein, and Francis. Fagin has one problem besides being broke he owes a nasty man named Sykes a lot of money. If he can't pay it back he's in big trouble. While Oliver runs into a little girl named Jenny who becomes his new owner which he is happy with and later Sykes sees Jenny as the key for him to get his money.",
+            "runtime": "1h 14m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 12233,
+            "imdb_id": "tt0095776",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.195745",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b3ud/",
+            "original_comment_text": "Bolt\n\nLion King\n\nOliver & Company\n\nPuss in Boots 1&2"
+          },
+          {
+            "id": 5929888856611716409,
+            "title": "Mufasa: The Lion King",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+            "release_year": 2024,
+            "plot_summary": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Animation"
+            ],
+            "tmdb_id": 762509,
+            "imdb_id": "tt13186482",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.198066",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b3ud/",
+            "original_comment_text": "Bolt\n\nLion King\n\nOliver & Company\n\nPuss in Boots 1&2"
+          },
+          {
+            "id": -4955958466485934460,
+            "title": "Puss in Boots",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
+            "release_year": 2011,
+            "plot_summary": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy",
+              "Adventure",
+              "Comedy",
+              "Action"
+            ],
+            "tmdb_id": 417859,
+            "imdb_id": "tt0448694",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.271236",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b3ud/",
+            "original_comment_text": "Bolt\n\nLion King\n\nOliver & Company\n\nPuss in Boots 1&2"
+          },
+          {
+            "id": 2293070833280452521,
+            "title": "The Aristocats",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+            "release_year": 1970,
+            "plot_summary": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 10112,
+            "imdb_id": "tt0065421",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.271471",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89gj0s/",
+            "original_comment_text": "The Aristocats"
+          },
+          {
+            "id": -147785329088802677,
+            "title": "Keanu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dPWlBmCixh9k3Jjb7c7jkIaxBbL.jpg",
+            "release_year": 2016,
+            "plot_summary": "Friends hatch a plot to retrieve a stolen cat by posing as drug dealers for a street gang.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 342521,
+            "imdb_id": "tt4139124",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.343537",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89ukv7/",
+            "original_comment_text": "Keanu"
+          },
+          {
+            "id": 8095317544864782808,
+            "title": "A Quiet Place: Day One",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+            "release_year": 2024,
+            "plot_summary": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 762441,
+            "imdb_id": "tt13433802",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.415030",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n8ac65a/",
+            "original_comment_text": "A Quiet Place Day One. Cat’s the smartest character in the movie."
+          },
+          {
+            "id": -3398549676218300920,
+            "title": "Homeward Bound",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qFjz8LIlVYh8585QAYuuW4MMs9P.jpg",
+            "release_year": 1980,
+            "plot_summary": "The relationship among a divorced man, his incurably ill teenage son, and his long-estranged father is explored when the youngster joins his dad for one final summer vacation and they end up at the grandfather's vineyard where he reconciles the two older men.",
+            "runtime": "2h",
+            "tmdb_rating": 1.0,
+            "genres": [
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 238250,
+            "imdb_id": "tt0080885",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.484892",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n8a2o45/",
+            "original_comment_text": "Homeward Bound\n\nSassy is just that, but loveable."
+          },
+          {
+            "id": 6259490245022001648,
+            "title": "Puss in Boots: The Last Wish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+            "release_year": 2022,
+            "plot_summary": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 315162,
+            "imdb_id": "tt3915174",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.609903",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b3ud/",
+            "original_comment_text": "Bolt\n\nLion King\n\nOliver & Company\n\nPuss in Boots 1&2"
+          },
+          {
+            "id": -1175218960463466121,
+            "title": "The Mummy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+            "release_year": 1999,
+            "plot_summary": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Fantasy"
+            ],
+            "tmdb_id": 564,
+            "imdb_id": "tt0120616",
+            "category_title": "Movies Featuring Cats In A Positive Light",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-16T04:23:21.680329",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mo3fgf/movies_where_cats_are_depicted_in_a_positive_light/n89b9u1/",
+            "original_comment_text": "The Mummy"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 70,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-16T04:22:58.076118"
+  }
+}

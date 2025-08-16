@@ -1,0 +1,1226 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Movies With Pure Rage",
+        "movies": [
+          {
+            "id": -2003908141923349383,
+            "title": "Nobody",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "release_year": 2021,
+            "plot_summary": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 615457,
+            "imdb_id": "tt7888964",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.142489",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wgvck/",
+            "original_comment_text": "Nobody \n\nMan On Fire"
+          },
+          {
+            "id": -8428712245154994128,
+            "title": "Straw Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hSW5Msz5Cr6vUQxChPSPdxufnss.jpg",
+            "release_year": 2011,
+            "plot_summary": "A young couple moves to a quaint southern town. Soon their perfect getaway turns out to become a living hell when dark secrets and lethal passions spiral out of control.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 64639,
+            "imdb_id": "tt0999913",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.179240",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wea2w/",
+            "original_comment_text": "Straw Dogs"
+          },
+          {
+            "id": 4801295669970667141,
+            "title": "Man on Fire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/grCGLCcTHv9TChibzOwzUpykcjB.jpg",
+            "release_year": 2004,
+            "plot_summary": "Jaded ex-CIA operative John Creasy reluctantly accepts a job as the bodyguard for a 10-year-old girl in Mexico City. They clash at first, but eventually bond, and when she's kidnapped he's consumed by fury and will stop at nothing to save her life.",
+            "runtime": "2h 26m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9509,
+            "imdb_id": "tt0328107",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.253675",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wgvck/",
+            "original_comment_text": "Nobody \n\nMan On Fire"
+          },
+          {
+            "id": -2697612660810150954,
+            "title": "First Blood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+            "release_year": 1982,
+            "plot_summary": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Thriller",
+              "War"
+            ],
+            "tmdb_id": 1368,
+            "imdb_id": "tt0083944",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.318341",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wfdbz/",
+            "original_comment_text": "First Blood"
+          },
+          {
+            "id": -2484307188296503783,
+            "title": "Mandy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+            "release_year": 2018,
+            "plot_summary": "The Shadow Mountains, 1983. Red and Mandy lead a loving and peaceful existence; but when their pine-scented haven is savagely destroyed, Red is catapulted into a phantasmagoric journey filled with bloody vengeance and laced with fire.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Horror"
+            ],
+            "tmdb_id": 460885,
+            "imdb_id": "tt6998518",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.321264",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wdu84/",
+            "original_comment_text": "Mandy"
+          },
+          {
+            "id": 126335042473011393,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery",
+              "Action"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.391473",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wdtlo/",
+            "original_comment_text": "Oldboy"
+          },
+          {
+            "id": 3882444804291720520,
+            "title": "I Saw the Devil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg",
+            "release_year": 2010,
+            "plot_summary": "Kyung-chul is a dangerous psychopath who kills for pleasure. Soo-hyeon, a top-secret agent, decides to track down the murderer himself. He promises himself that he will do everything in his power to take vengeance against the killer, even if it means that he must become a monster himself.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 49797,
+            "imdb_id": "tt1588170",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.397055",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wd995/",
+            "original_comment_text": "I Saw the Devil"
+          },
+          {
+            "id": -1602274720652402351,
+            "title": "John Wick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+            "release_year": 2014,
+            "plot_summary": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 245891,
+            "imdb_id": "tt2911666",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.463284",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8weomd/",
+            "original_comment_text": "John Wick"
+          },
+          {
+            "id": 7207186834768344655,
+            "title": "Falling Down",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+            "release_year": 1993,
+            "plot_summary": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 37094,
+            "imdb_id": "tt0106856",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.467033",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wd6mx/",
+            "original_comment_text": "Falling Down"
+          },
+          {
+            "id": -3300499660433379810,
+            "title": "Green Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+            "release_year": 2016,
+            "plot_summary": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 313922,
+            "imdb_id": "tt4062536",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.531669",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wf6cb/",
+            "original_comment_text": "Green room or blue ruin"
+          },
+          {
+            "id": -3728674335915691985,
+            "title": "Joker",
+            "poster_url": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "release_year": 2019,
+            "plot_summary": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 475557,
+            "imdb_id": "tt7286456",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.547058",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8wg6ad/",
+            "original_comment_text": "Joker (2019)"
+          },
+          {
+            "id": -538542471009696515,
+            "title": "Riki-Oh: The Wall of Hell",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gR86g3D9DBJ7KueVJ4v59ymehqh.jpg",
+            "release_year": 1989,
+            "plot_summary": "In the late 1990s, society is descending into ecological collapse and totalitarianism. Saiga Riki-Oh, a mysterious man with a six-pointed star on his fist, finds himself at the privately-owned Tokyo State Prison. Serving a term of three years due to assault, his first offense, Riki-Oh openly antagonizes The Four Emperors, four powerful prisoners that control the prison and keep the rest of the inmates in line...",
+            "runtime": "48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Animation",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 282915,
+            "imdb_id": "tt3296930",
+            "category_title": "Movies With Pure Rage",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:38.603353",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr9wrf/movies_with_pure_rage/n8we82k/",
+            "original_comment_text": "Riki-Oh"
+          }
+        ]
+      },
+      {
+        "name": "Movie That Leaves You Sitting There After The Ending",
+        "movies": [
+          {
+            "id": 1008417371824934368,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.616220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8w6pdl/",
+            "original_comment_text": "Requim for a dream \n\nGives me PTSD to this day"
+          },
+          {
+            "id": -1929909579232995900,
+            "title": "Donnie Darko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+            "release_year": 2001,
+            "plot_summary": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 141,
+            "imdb_id": "tt0246578",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.641304",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vyg3u/",
+            "original_comment_text": "Donnie darko did this to me. I'm not sure what exactly I would say I was feeling but man what an ending that leaves you sitting there thinking."
+          },
+          {
+            "id": 770899704608223055,
+            "title": "No Country for Old Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "release_year": 2007,
+            "plot_summary": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 6977,
+            "imdb_id": "tt0477348",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.686937",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8w47fx/",
+            "original_comment_text": "No Country For Old Men"
+          },
+          {
+            "id": 1549530888027234534,
+            "title": "The Mist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 5876,
+            "imdb_id": "tt0884328",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.710586",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vz4d1/",
+            "original_comment_text": "The Mist (2007)"
+          },
+          {
+            "id": -4082365498755167989,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.712581",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vyqpg/",
+            "original_comment_text": "Schindler’s list"
+          },
+          {
+            "id": -1807866497853337035,
+            "title": "The Machinist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+            "release_year": 2004,
+            "plot_summary": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 4553,
+            "imdb_id": "tt0361862",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.760234",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vzxwi/",
+            "original_comment_text": "The Man From Earth (2007)\n\nThe Prestige\n\nMemento\n\nThe Machinist\n\nDonnie Darko\n\nThe Invisible Guest\n\nMoon"
+          },
+          {
+            "id": 8601762147543734448,
+            "title": "Incendies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+            "release_year": 2010,
+            "plot_summary": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "War",
+              "Mystery"
+            ],
+            "tmdb_id": 46738,
+            "imdb_id": "tt1255953",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.783727",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vy9oc/",
+            "original_comment_text": "Incendies"
+          },
+          {
+            "id": 6097338585680475231,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.827976",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vx7yu/",
+            "original_comment_text": "Memento (2000)"
+          },
+          {
+            "id": -8325906719004137047,
+            "title": "The Man from Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/V086R82gNgWrotaXZFO4JhdgB1.jpg",
+            "release_year": 2007,
+            "plot_summary": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 13363,
+            "imdb_id": "tt0756683",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.852144",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vzxwi/",
+            "original_comment_text": "The Man From Earth (2007)\n\nThe Prestige\n\nMemento\n\nThe Machinist\n\nDonnie Darko\n\nThe Invisible Guest\n\nMoon"
+          },
+          {
+            "id": -8237932633869251637,
+            "title": "The Prestige",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
+            "release_year": 2006,
+            "plot_summary": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1124,
+            "imdb_id": "tt0482571",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:41.984449",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vzxwi/",
+            "original_comment_text": "The Man From Earth (2007)\n\nThe Prestige\n\nMemento\n\nThe Machinist\n\nDonnie Darko\n\nThe Invisible Guest\n\nMoon"
+          },
+          {
+            "id": 4738592219736053128,
+            "title": "The Invisible Guest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fptnZJbLzKUHeNlYrAynbyoL5YJ.jpg",
+            "release_year": 2017,
+            "plot_summary": "Barcelona, Spain. Adrián Doria, a young and successful businessman accused of murder, meets one night with Virginia Goodman, an expert interrogation lawyer, in order to devise a defense strategy.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 411088,
+            "imdb_id": "tt4857264",
+            "category_title": "Movie That Leaves You Sitting There After The Ending",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:42.044386",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr7qfi/movie_that_leaves_me_sitting_there_after_the/n8vzxwi/",
+            "original_comment_text": "The Man From Earth (2007)\n\nThe Prestige\n\nMemento\n\nThe Machinist\n\nDonnie Darko\n\nThe Invisible Guest\n\nMoon"
+          }
+        ]
+      },
+      {
+        "name": "Horror Movies Without Gore",
+        "movies": [
+          {
+            "id": -9196065871866513810,
+            "title": "The Others",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "release_year": 2001,
+            "plot_summary": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1933,
+            "imdb_id": "tt0230600",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.665049",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v3h7f/",
+            "original_comment_text": "The Others"
+          },
+          {
+            "id": 3718432064708054396,
+            "title": "The Sixth Sense",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+            "release_year": 1999,
+            "plot_summary": "Following an unexpected tragedy, child psychologist Malcolm Crowe meets a nine year old boy named Cole Sear, who is hiding a dark secret.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 745,
+            "imdb_id": "tt0167404",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.772380",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v5zyr/",
+            "original_comment_text": "•The Others. \n\n•The Shining (there’s a small gory scene but it’s pretty mild imho)\n\n•The Orphanage (Spanish film)\n\n•Paranormal Activity \n\n•The Sixth Sense"
+          },
+          {
+            "id": 5608478526329428447,
+            "title": "Signs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AbYvRIrytssdAwkjn8B6778qguT.jpg",
+            "release_year": 2008,
+            "plot_summary": "Where do you find love? Sometimes all you need is a sign.",
+            "runtime": "12m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Romance"
+            ],
+            "tmdb_id": 53214,
+            "imdb_id": "tt1377575",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.834369",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8vdezi/",
+            "original_comment_text": "Signs (2002)"
+          },
+          {
+            "id": -4967240042837621761,
+            "title": "Fallen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bAyvqgi3RjQIPnt0CDInZ27opNK.jpg",
+            "release_year": 2006,
+            "plot_summary": "For high schooler Aaron Corbett, turning 18 means becoming not just a man but a nephilim, too -- half human, half angel, with supernatural abilities.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "TV Movie",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 50126,
+            "imdb_id": "tt0775362",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.879136",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v7hhk/",
+            "original_comment_text": "Fallen with Denzel Washington"
+          },
+          {
+            "id": 7917407692238110049,
+            "title": "10 Cloverfield Lane",
+            "poster_url": "https://image.tmdb.org/t/p/w500/84Dhwz93vCin6T1PX6ctSvWEuNE.jpg",
+            "release_year": 2016,
+            "plot_summary": "After a catastrophic car crash, a young woman wakes up in a survivalist's underground bunker, where he claims to have saved her from an apocalyptic attack that has left the outside world uninhabitable.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 333371,
+            "imdb_id": "tt1179933",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.903391",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8vanek/",
+            "original_comment_text": "10 Cloverfield Lane"
+          },
+          {
+            "id": 965096877691504595,
+            "title": "The Vanishing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/whCG6TGm3h9AHBkfh5M0MnJ8zT0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery",
+              "Horror"
+            ],
+            "tmdb_id": 1644,
+            "imdb_id": "tt0108473",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.923145",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v62az/",
+            "original_comment_text": "The Vanishing (original not American remake)"
+          },
+          {
+            "id": -2695215988159960839,
+            "title": "What Lies Beneath",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg",
+            "release_year": 2000,
+            "plot_summary": "When Claire Spencer starts hearing ghostly voices and seeing spooky images, she wonders if an otherworldly spirit is trying to contact her. All the while, her husband tries to reassure her by telling her it's all in her head. But as Claire investigates, she discovers that the man she loves might know more than he's letting on.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 2655,
+            "imdb_id": "tt0161081",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:44.957379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v51xo/",
+            "original_comment_text": "What Lies Beneath"
+          },
+          {
+            "id": -1686966187760020103,
+            "title": "The Orphanage",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yOweOwSz44TT4XbIcdJYb3mPzPL.jpg",
+            "release_year": 2021,
+            "plot_summary": "Set in the rural plains of Lesotho, the film documents a day in the life of children living in a Buddhist orphanage, leading to an exploration of shifting power relations and moral value systems.",
+            "runtime": "8m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 813788,
+            "imdb_id": null,
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:45.003409",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v5zyr/",
+            "original_comment_text": "•The Others. \n\n•The Shining (there’s a small gory scene but it’s pretty mild imho)\n\n•The Orphanage (Spanish film)\n\n•Paranormal Activity \n\n•The Sixth Sense"
+          },
+          {
+            "id": 4107342979717709196,
+            "title": "The Shining",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+            "release_year": 1980,
+            "plot_summary": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+            "runtime": "2h 24m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 694,
+            "imdb_id": "tt0081505",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:45.031738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v5zyr/",
+            "original_comment_text": "•The Others. \n\n•The Shining (there’s a small gory scene but it’s pretty mild imho)\n\n•The Orphanage (Spanish film)\n\n•Paranormal Activity \n\n•The Sixth Sense"
+          },
+          {
+            "id": 5319264935728161712,
+            "title": "Paranormal Activity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic but is certainly the most active in the middle of the night.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 23827,
+            "imdb_id": "tt1179904",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:45.070820",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8v5zyr/",
+            "original_comment_text": "•The Others. \n\n•The Shining (there’s a small gory scene but it’s pretty mild imho)\n\n•The Orphanage (Spanish film)\n\n•Paranormal Activity \n\n•The Sixth Sense"
+          },
+          {
+            "id": 9010014464584456463,
+            "title": "Creep",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qn53D574tT0YRyLgirEFHQwGUXw.jpg",
+            "release_year": 2014,
+            "plot_summary": "Looking for work, Aaron comes across a cryptic online ad: “$1,000 for the day. Filming service. Discretion is appreciated.” Low on cash and full of naiveté, he decides to go for it. He drives to a cabin in a remote mountain town where he meets Josef, his cinematic subject for the day. Josef is sincere and the project seems heartfelt, so Aaron begins to film. But as the day goes on, it becomes clear that Josef is not who he says, and his intentions are not at all pure.",
+            "runtime": "1h 22m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 250574,
+            "imdb_id": "tt2428170",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:45.247880",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8vb3sf/",
+            "original_comment_text": "Gerald's Game, Creep 1&2, Hush, Tales from the Crypt (1972), The One I Love, Resolution, The Endless"
+          },
+          {
+            "id": -952739987351081098,
+            "title": "Gerald's Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+            "release_year": 2017,
+            "plot_summary": "When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 343674,
+            "imdb_id": "tt3748172",
+            "category_title": "Horror Movies Without Gore",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:45.283140",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr3rl9/horror_but_not_gory/n8vb3sf/",
+            "original_comment_text": "Gerald's Game, Creep 1&2, Hush, Tales from the Crypt (1972), The One I Love, Resolution, The Endless"
+          }
+        ]
+      },
+      {
+        "name": "Off-Kilter Comedy Movies",
+        "movies": [
+          {
+            "id": -1051469869012794311,
+            "title": "The Life Aquatic with Steve Zissou",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qZoFLNBC78jzboWeDH6Ha0qavF2.jpg",
+            "release_year": 2004,
+            "plot_summary": "Renowned oceanographer Steve Zissou has sworn vengeance upon the rare shark that devoured a member of his crew. In addition to his regular team, he is joined on his boat by Ned, a man who believes Zissou to be his father, and Jane, a journalist pregnant by a married man. They travel the sea, all too often running into pirates and, perhaps more traumatically, various figures from Zissou's past, including his estranged wife, Eleanor.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 421,
+            "imdb_id": "tt0362270",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.428836",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8twqu9/",
+            "original_comment_text": "The Life Aquatic with Steve Zissou"
+          },
+          {
+            "id": 3214847041366205610,
+            "title": "Withnail & I",
+            "poster_url": "https://image.tmdb.org/t/p/w500/i18cIp8A10A2JgByrfA9oIC9299.jpg",
+            "release_year": 1987,
+            "plot_summary": "Two out-of-work actors -- the anxious, luckless Marwood and his acerbic, alcoholic friend, Withnail -- spend their days drifting between their squalid flat, the unemployment office and the pub. When they take a holiday \"by mistake\" at the country house of Withnail's flamboyantly gay uncle, Monty, they encounter the unpleasant side of the English countryside: tedium, terrifying locals and torrential rain.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 13446,
+            "imdb_id": "tt0094336",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.450980",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tye54/",
+            "original_comment_text": "Withnail and I. \n\nTwo young drunken and dysfunctional friends go on holiday by accident."
+          },
+          {
+            "id": 8734934278166725184,
+            "title": "Drive-Away Dolls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
+            "release_year": 2024,
+            "plot_summary": "Jamie, an uninhibited free spirit bemoaning yet another breakup with a girlfriend, and her demure friend Marian desperately needs to loosen up. In search of a fresh start, the two embark on an impromptu road trip to Tallahassee, but things quickly go awry when they cross paths with a group of inept criminals along the way.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 5.5,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 957304,
+            "imdb_id": "tt19356262",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.501628",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tuhet/",
+            "original_comment_text": "Raising Arizona\n\nDrive Away Dolls\n\nIn Bruges\n\nWar On Everyone\n\nLogan Lucky"
+          },
+          {
+            "id": -2858008945788370008,
+            "title": "Raising Arizona",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tPX13Qpq1SjqPzzMIaFtL8G4lYA.jpg",
+            "release_year": 1987,
+            "plot_summary": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 378,
+            "imdb_id": "tt0093822",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.525737",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tuhet/",
+            "original_comment_text": "Raising Arizona\n\nDrive Away Dolls\n\nIn Bruges\n\nWar On Everyone\n\nLogan Lucky"
+          },
+          {
+            "id": -255432495355085915,
+            "title": "The Nice Guys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/clq4So9spa9cXk3MZy2iMdqkxP2.jpg",
+            "release_year": 2016,
+            "plot_summary": "A private eye investigates the apparent suicide of a fading porn star in 1970s Los Angeles and uncovers a conspiracy.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Action"
+            ],
+            "tmdb_id": 290250,
+            "imdb_id": "tt3799694",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.531133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8ty8s1/",
+            "original_comment_text": "The Nice Guys"
+          },
+          {
+            "id": -5001360015301201078,
+            "title": "War on Everyone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iJAe5fBN90JbFj7AhZpyorY2W7i.jpg",
+            "release_year": 2016,
+            "plot_summary": "Two corrupt cops in New Mexico set out to blackmail and frame every criminal unfortunate enough to cross their path. Things take a sinister turn, however, when they try to intimidate someone who is more dangerous than they are. Or is he?",
+            "runtime": "1h 38m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Mystery"
+            ],
+            "tmdb_id": 333663,
+            "imdb_id": "tt3708886",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.571180",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tuhet/",
+            "original_comment_text": "Raising Arizona\n\nDrive Away Dolls\n\nIn Bruges\n\nWar On Everyone\n\nLogan Lucky"
+          },
+          {
+            "id": -5599189725071540662,
+            "title": "In Bruges",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jMiBBqk72VRo1Y39x2ZbbenEU3a.jpg",
+            "release_year": 2008,
+            "plot_summary": "Ray and Ken, two hit men, are in Bruges, Belgium, waiting for their next mission. While they are there they have time to think and discuss their previous assignment. When the mission is revealed to Ken, it is not what he expected.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 8321,
+            "imdb_id": "tt0780536",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.598081",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tuhet/",
+            "original_comment_text": "Raising Arizona\n\nDrive Away Dolls\n\nIn Bruges\n\nWar On Everyone\n\nLogan Lucky"
+          },
+          {
+            "id": 3218055520571001881,
+            "title": "Burn After Reading",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jdwSkQu3XirmX18MNj8CqFWsCk.jpg",
+            "release_year": 2008,
+            "plot_summary": "When a disc containing memoirs of a former CIA analyst falls into the hands of gym employees, Linda and Chad, they see a chance to make enough money for Linda to have life-changing cosmetic surgery. Predictably, events whirl out of control for the duo, and those in their orbit.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 4944,
+            "imdb_id": "tt0887883",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.646348",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tzrwb/",
+            "original_comment_text": "Burn After Reading"
+          },
+          {
+            "id": 6496242900031430476,
+            "title": "The Death of Stalinism in Bohemia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qfsOPn3r4CTX503pgrnqFaoGRLF.jpg",
+            "release_year": 1991,
+            "plot_summary": "A bust of Stalin is cut open on an operating table, leading to an elaborate animated depiction of Czech history from 1948 (the Communist takeover) to 1989 (the Velvet Revolution).",
+            "runtime": "10m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Animation"
+            ],
+            "tmdb_id": 126282,
+            "imdb_id": "tt0099386",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.667663",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8twuaa/",
+            "original_comment_text": "Death of Stalin"
+          },
+          {
+            "id": -3022767661284651980,
+            "title": "Logan Lucky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2yfQR59Cu1ZFHdti0igSxAIL8hd.jpg",
+            "release_year": 2017,
+            "plot_summary": "Trying to reverse a family curse, brothers Jimmy and Clyde Logan set out to execute an elaborate robbery during the legendary Coca-Cola 600 race at the Charlotte Motor Speedway.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Action",
+              "Drama"
+            ],
+            "tmdb_id": 399170,
+            "imdb_id": "tt5439796",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.714995",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tuhet/",
+            "original_comment_text": "Raising Arizona\n\nDrive Away Dolls\n\nIn Bruges\n\nWar On Everyone\n\nLogan Lucky"
+          },
+          {
+            "id": 1571068802101450971,
+            "title": "Crimes and Misdemeanors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6vC6MLYUICH57MmEVi1UaNaj2Qs.jpg",
+            "release_year": 1989,
+            "plot_summary": "A renowned ophthalmologist is desperate to cut off an adulterous relationship…which ends up in murder; and a frustrated documentary filmmaker woos an attractive television producer while making a film about her insufferably self-centered boss.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 11562,
+            "imdb_id": "tt0097123",
+            "category_title": "Off-Kilter Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:48.857837",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mqxbas/looking_for_an_offkilter_comedy_or_at_least_an/n8tyoed/",
+            "original_comment_text": "Crimes & Misdemeanors\n\nLock, Stock, and Two Smoking Barrels\n\nTrue Romance\n\nSnatch\n\nThe Accountant (2001 short film — like 40 mins)"
+          }
+        ]
+      },
+      {
+        "name": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+        "movies": [
+          {
+            "id": 7299319737710561862,
+            "title": "Amour",
+            "poster_url": "https://image.tmdb.org/t/p/w500/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+            "release_year": 2012,
+            "plot_summary": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 86837,
+            "imdb_id": "tt1602620",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:51.929696",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uuw7l/",
+            "original_comment_text": "A Ghost Story\n\nAftersun\n\nAll of us Strangers\n\nAmour\n\nPast Lives"
+          },
+          {
+            "id": 2108473656994579482,
+            "title": "Blue Valentine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+            "release_year": 2010,
+            "plot_summary": "Dean and Cindy live a quiet life in a modest neighborhood. They appear to have the world at their feet at the outset of the relationship. However, his lack of ambition and her retreat into self-absorption cause potentially irreversible cracks in their marriage.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 46705,
+            "imdb_id": "tt1120985",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:51.960515",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uk4hd/",
+            "original_comment_text": "Blue Valentine"
+          },
+          {
+            "id": -9068952734287595928,
+            "title": "In the Mood for Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+            "release_year": 2000,
+            "plot_summary": "In 1962 Hong Kong, neighbors Su Li-zhen (Mrs. Chan) and Chow Mo-wan (Mr. Chow) discover their spouses are having an affair. As they spend time together, they develop feelings for each other, but their relationship remains chaste and unspoken, reflecting societal constraints and their own moral compass.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 843,
+            "imdb_id": "tt0118694",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:51.996614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uitj1/",
+            "original_comment_text": "In the Mood for Love. It's pre-2005 but only barely."
+          },
+          {
+            "id": -3707699138149848580,
+            "title": "Aftersun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+            "release_year": 2022,
+            "plot_summary": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 965150,
+            "imdb_id": "tt19770238",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.033177",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uuw7l/",
+            "original_comment_text": "A Ghost Story\n\nAftersun\n\nAll of us Strangers\n\nAmour\n\nPast Lives"
+          },
+          {
+            "id": -4969346362320076443,
+            "title": "Atonement",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+            "release_year": 2007,
+            "plot_summary": "As a 13-year-old, fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 4347,
+            "imdb_id": "tt0783233",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.060241",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uyyo1/",
+            "original_comment_text": "Atonement (2007)"
+          },
+          {
+            "id": -5403471263326200806,
+            "title": "Past Lives",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
+            "release_year": 2023,
+            "plot_summary": "After decades apart, childhood friends Nora and Hae Sung are reunited in New York for one fateful weekend as they confront notions of destiny, love, and the choices that make a life.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 666277,
+            "imdb_id": "tt13238346",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.104848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uuw7l/",
+            "original_comment_text": "A Ghost Story\n\nAftersun\n\nAll of us Strangers\n\nAmour\n\nPast Lives"
+          },
+          {
+            "id": -1106499226279809711,
+            "title": "Like Crazy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pSVdOFu22jGWRHyCoJwIJTYuDBD.jpg",
+            "release_year": 2016,
+            "plot_summary": "Two mental patients with opposite personalities ditch their Tuscan hospital and embark on an unpredictable exploration of the real world.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 380225,
+            "imdb_id": "tt4621872",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.130504",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uny11/",
+            "original_comment_text": "About Time (2013). absolutely destroyed me. totally worth the watch.\n\n Like Crazy with Felicity Jones."
+          },
+          {
+            "id": 4546507397685345852,
+            "title": "All of Us Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aviJMFZSnnCAsCVyJGaPNx4Ef3i.jpg",
+            "release_year": 2023,
+            "plot_summary": "One night in his near-empty tower block in contemporary London, Adam has a chance encounter with a mysterious neighbor Harry, which punctures the rhythm of his everyday life.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 994108,
+            "imdb_id": "tt21192142",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.179235",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uuw7l/",
+            "original_comment_text": "A Ghost Story\n\nAftersun\n\nAll of us Strangers\n\nAmour\n\nPast Lives"
+          },
+          {
+            "id": 2238886406393018765,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iR1bVfURbN7r1C46WHFbwCkVve.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.249920",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uny11/",
+            "original_comment_text": "About Time (2013). absolutely destroyed me. totally worth the watch.\n\n Like Crazy with Felicity Jones."
+          },
+          {
+            "id": 4345892052626993422,
+            "title": "Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yaGYRt588x6t6RJ0BfjOp7NxtuO.jpg",
+            "release_year": 1973,
+            "plot_summary": "Filmed on a California beach, this arty outing features loin-cloth wearing actors silently telling the allegorical love story between Creation and Humanity on a lonely California beach.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 2.0,
+            "genres": [],
+            "tmdb_id": 394128,
+            "imdb_id": "tt0071941",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.307254",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uhs0e/",
+            "original_comment_text": "Once"
+          },
+          {
+            "id": -3114000437626431606,
+            "title": "A Ghost Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+            "release_year": 2017,
+            "plot_summary": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Mystery",
+              "Romance"
+            ],
+            "tmdb_id": 428449,
+            "imdb_id": "tt6265828",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.339784",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8uuw7l/",
+            "original_comment_text": "A Ghost Story\n\nAftersun\n\nAll of us Strangers\n\nAmour\n\nPast Lives"
+          },
+          {
+            "id": -7159877685019836914,
+            "title": "Brokeback Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+            "release_year": 2005,
+            "plot_summary": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 142,
+            "imdb_id": "tt0388795",
+            "category_title": "Most Heartbreaking Emotional Romantic Movies (Post-2005)",
+            "time_period": "daily",
+            "date_scraped": "2025-08-16T04:22:52.422977",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mr0x1x/looking_for_the_most_heartbreaking_emotional/n8ulsu1/",
+            "original_comment_text": "Brokeback mountain"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 58,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-16T04:22:38.142489"
+  }
+}

@@ -1,0 +1,1237 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Films That Changed You",
+        "movies": [
+          {
+            "id": -5321858726326281765,
+            "title": "The Seventh Seal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+            "release_year": 1957,
+            "plot_summary": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 490,
+            "imdb_id": "tt0050976",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.640624",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4wp2/",
+            "original_comment_text": "The Seventh Seal\n\nAs someone who grew up very religious and eventually drifted towards agnosticism, it was shocking to see a depiction of someone who wants to believe but can’t because of the things they’ve seen (and done). The ending shook me because it made me understand what it might mean to live a good life in a world where you see no deeper, transcendent meaning or purpose. That is (perhaps ironically): treat others as though they are more important than yourself."
+          },
+          {
+            "id": 6154127517458051703,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.642754",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag938y/",
+            "original_comment_text": "Dead Poets Society.   Love Robin Williams."
+          },
+          {
+            "id": -1885972954950250528,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.712145",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagn990/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind"
+          },
+          {
+            "id": -2521933883501583907,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.713567",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4v9h/",
+            "original_comment_text": "The Matrix"
+          },
+          {
+            "id": -6479425203298117818,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.715521",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagwioa/",
+            "original_comment_text": "The Secret Life of Walter Mitty"
+          },
+          {
+            "id": -6682145678413288293,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.785546",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4b1e/",
+            "original_comment_text": "Mulholland Drive"
+          },
+          {
+            "id": 7799356688432211210,
+            "title": "Koyaanisqatsi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+            "release_year": 1983,
+            "plot_summary": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Drama"
+            ],
+            "tmdb_id": 11314,
+            "imdb_id": "tt0085809",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.786618",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag68gb/",
+            "original_comment_text": "Koyaanisqatsi"
+          },
+          {
+            "id": -3117691559784023660,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.786848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag3x0j/",
+            "original_comment_text": "Idiocracy."
+          },
+          {
+            "id": -2155019868248183164,
+            "title": "Stranger Than Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_year": 2006,
+            "plot_summary": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 1262,
+            "imdb_id": "tt0420223",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.856892",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag8957/",
+            "original_comment_text": "Stranger than Fiction. \nNot only is it the first film I ever watched Will Ferrell be serious in, it ultimately ended up being my favorite movie of all time. For anyone about to, going through, or over their midlife crisis this film is an absolute must watch. Multiple times."
+          },
+          {
+            "id": 2808456835640622778,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.857894",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagmy6r/",
+            "original_comment_text": "The Florida Project. \n\n***SPOILER***\n>!My parents were addicts and I experienced their decline as a kid, eventually being removed by CPS. This movie is by far the most realistic representation I have seen as far as what living that way is like as a child. Having little supervision, still doing childlike things and having fun with it, even having fun with and loving broken parents, but also being exposed to inappropriate things and slowly gaining awareness of that... And the feeling of being removed from your family...!<\n\n\nI love that they didn't make this movie overly dramatic or judgemental or preachy. It just let you get a glimpse into the lives of people who are often unseen. It was the first time a movie about this topic made *me* feel seen."
+          },
+          {
+            "id": 5233595767705490962,
+            "title": "The Good Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jpRumFobwgPzxj5YH33Wswnxdam.jpg",
+            "release_year": 2002,
+            "plot_summary": "A discount store clerk strikes up an affair with a stock boy who considers himself the incarnation of Holden Caulfield.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 9962,
+            "imdb_id": "tt0279113",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.925716",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag3c87/",
+            "original_comment_text": "The Good Girl (2002) helped me to finally understand why I was depressed and that I needed to do something to avoid becoming like the main character. Also convinced me that Jennifer Aniston is a really underrated actress whose career has been unfairly mischaracterised."
+          },
+          {
+            "id": -8968399513172564977,
+            "title": "Not Without My Daughter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aEMncPIHISpaIJmYaIstS0TVnb7.jpg",
+            "release_year": 1991,
+            "plot_summary": "An American woman, trapped in Islamic Iran by her brutish husband, must find a way to escape with her daughter as well.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9585,
+            "imdb_id": "tt0102555",
+            "category_title": "Films That Changed You",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:28.957516",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/naggrif/",
+            "original_comment_text": "Not Without My Daughter. It horrified me and changed how I see controlling men/religions."
+          }
+        ]
+      },
+      {
+        "name": "Unsettling Films Showing How Awful People Can Be",
+        "movies": [
+          {
+            "id": 2021212512079933840,
+            "title": "Funny Games",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2RGiR5yNmxXS8c4Qypmbqn0b63w.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 8461,
+            "imdb_id": "tt0808279",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:31.944559",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagi1pf/",
+            "original_comment_text": "Funny Games. The original is from 1997, and i prefer it, but the remake from 2007 is fine too."
+          },
+          {
+            "id": -4878600645728712326,
+            "title": "Come and See",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+            "release_year": 1985,
+            "plot_summary": "The invasion of a village in Byelorussia by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 25237,
+            "imdb_id": "tt0091251",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.013062",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagjp08/",
+            "original_comment_text": "*Come and See* (1985)"
+          },
+          {
+            "id": 2902541372534543946,
+            "title": "Clockwork Orange: The Prophecy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aZdch9kuL0mJcVcYishEqceJZlt.jpg",
+            "release_year": 2023,
+            "plot_summary": "Examines and re-evaluates the 60-year history and cultural impact of A Clockwork Orange, as a novel, movie and stage play, with the help of archival content and interviews with important creative figures.",
+            "runtime": "54m",
+            "tmdb_rating": 9.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1202222,
+            "imdb_id": "tt29971951",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.090927",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagivlz/",
+            "original_comment_text": "Clockwork Orange and Schindler's List "
+          },
+          {
+            "id": -6596249846958501720,
+            "title": "Speak No Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6NwAlU6ZH6ua3sYpFAUpUnoKUmi.jpg",
+            "release_year": 2024,
+            "plot_summary": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1114513,
+            "imdb_id": "tt27534307",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.152792",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagji5o/",
+            "original_comment_text": "Speak No Evil (foreign version)"
+          },
+          {
+            "id": 4944615586011538946,
+            "title": "Apt Pupil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pU3fvfSvrs5pZFdODPCzoLk95Ws.jpg",
+            "release_year": 1998,
+            "plot_summary": "One day in 1984, Todd Bowden, a brilliant high school boy fascinated by the history of Nazism, stumbles across an old man whose appearance resembles that of Kurt Dussander, a wanted Nazi war criminal. A month later, Todd decides to knock on his door.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9445,
+            "imdb_id": "tt0118636",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.160033",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagmb6g/",
+            "original_comment_text": "Um, for sure it's Apt Pupil. The movie kind of tones it down a bit but it's still the perfect example of humans being the scariest monsters imaginable. it's by far the most horrifying book I've ever read and the movie isn't far off."
+          },
+          {
+            "id": -6900860010825013523,
+            "title": "Big Boys Don’t Cry",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rGBQAan7xdvRqR4LQEqk6DDVUD4.jpg",
+            "release_year": 2022,
+            "plot_summary": "Based on true events, Paul is forced to recall his harrowing childhood growing up in a children’s home, when a police investigation into his boyhood friend’s suicide opens old wounds. As Paul struggles to shake off his past and build a relationship with Anthea, his fragile mental state and bitter memories lead to a confrontation with those responsible for his shattered childhood and the death of his friend.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 824386,
+            "imdb_id": "tt9797932",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.228210",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagnd3a/",
+            "original_comment_text": "Boys Don’t Cry\n\nLuckiest Girl Alive\n\nEarthlings \n\nOkja \n\nNightcrawler \n\nKIDS\n\nElephant \n\nIrreversible\n\nAmerican History X"
+          },
+          {
+            "id": 6167282312714191550,
+            "title": "Earthlings",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wb2V8LS9zDquRLgORNEJatTcET9.jpg",
+            "release_year": 2024,
+            "plot_summary": "Two loners from different worlds find fleeting intimacy in this enchanting and stylish short film. A solitary teenage girl discovers an injured man on her neighbour's property, but this hirsute being seems to have fallen from another time or even another planet. Earthlings is a surreal, whimsical and surprisingly sweet portrait of two outsiders longing for connection.",
+            "runtime": "15m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 1166581,
+            "imdb_id": "tt28458214",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.299564",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagnd3a/",
+            "original_comment_text": "Boys Don’t Cry\n\nLuckiest Girl Alive\n\nEarthlings \n\nOkja \n\nNightcrawler \n\nKIDS\n\nElephant \n\nIrreversible\n\nAmerican History X"
+          },
+          {
+            "id": -8694527078095624291,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.372913",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagivlz/",
+            "original_comment_text": "Clockwork Orange and Schindler's List "
+          },
+          {
+            "id": -7959371351070053764,
+            "title": "Luckiest Girl Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg",
+            "release_year": 2022,
+            "plot_summary": "A successful woman in New York City finds her life upended when she is forced to confront a dark truth that threatens to unravel her meticulously crafted life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 799546,
+            "imdb_id": "tt4595186",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.460959",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/nagnd3a/",
+            "original_comment_text": "Boys Don’t Cry\n\nLuckiest Girl Alive\n\nEarthlings \n\nOkja \n\nNightcrawler \n\nKIDS\n\nElephant \n\nIrreversible\n\nAmerican History X"
+          },
+          {
+            "id": -7652472606345165898,
+            "title": "Mississippi Burning",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hTv8Bkq3W1vwKi1IWCLWQW9PNU4.jpg",
+            "release_year": 1988,
+            "plot_summary": "Two FBI agents investigating the murder of civil rights workers during the 60s seek to breach the conspiracy of silence in a small Southern town where segregation divides black and white. The younger agent trained in FBI school runs up against the small town ways of his partner, a former sheriff.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1632,
+            "imdb_id": "tt0095647",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.477744",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/naghhkx/",
+            "original_comment_text": "Mississippi Burning!"
+          },
+          {
+            "id": -4935684673615040536,
+            "title": "Compliance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vam3bQ2dK02QbUHGRFXg6G4REAi.jpg",
+            "release_year": 2024,
+            "plot_summary": "Compliance is a thirteen minute long sci-fi drama about an estranged couple forced to live together in a dystopian lock down.",
+            "runtime": "13m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1259759,
+            "imdb_id": null,
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.550928",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/naghj3l/",
+            "original_comment_text": "Compliance"
+          },
+          {
+            "id": 1660991488076740826,
+            "title": "The Vanishing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/whCG6TGm3h9AHBkfh5M0MnJ8zT0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery",
+              "Horror"
+            ],
+            "tmdb_id": 1644,
+            "imdb_id": "tt0108473",
+            "category_title": "Unsettling Films Showing How Awful People Can Be",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:32.621488",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz3whb/films_that_are_unsettling_because_they_show_how/naghaf9/",
+            "original_comment_text": "The Vanishing (1988)"
+          }
+        ]
+      },
+      {
+        "name": "Animated Movies That Blew Your Mind",
+        "movies": [
+          {
+            "id": 4142218774959522135,
+            "title": "Ninja Scroll",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+            "release_year": 1993,
+            "plot_summary": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Adventure",
+              "Animation",
+              "Action"
+            ],
+            "tmdb_id": 14282,
+            "imdb_id": "tt0107692",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.563762",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadknnr/",
+            "original_comment_text": "Akira. Ghost in the Shell. Ninja Scroll. Where the Wind Blows."
+          },
+          {
+            "id": 5576971382461861929,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uqUwD865PnyxEKXVdHrHEL6bRIj.jpg",
+            "release_year": 1996,
+            "plot_summary": "A filmmaker talks about his work and love life with an unseen friend behind the camera. We also watch four of his short films.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Horror",
+              "Crime"
+            ],
+            "tmdb_id": 262610,
+            "imdb_id": "tt0210685",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.704914",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadmrr7/",
+            "original_comment_text": "Flow(2025)"
+          },
+          {
+            "id": 118573221801481948,
+            "title": "Ghost in the Shell",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+            "release_year": 1995,
+            "plot_summary": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Animation",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9323,
+            "imdb_id": "tt0113568",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.788629",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadknnr/",
+            "original_comment_text": "Akira. Ghost in the Shell. Ninja Scroll. Where the Wind Blows."
+          },
+          {
+            "id": -2355771301393360789,
+            "title": "Akira",
+            "poster_url": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+            "release_year": 1988,
+            "plot_summary": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 149,
+            "imdb_id": "tt0094625",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.797307",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadknnr/",
+            "original_comment_text": "Akira. Ghost in the Shell. Ninja Scroll. Where the Wind Blows."
+          },
+          {
+            "id": -888373492794683116,
+            "title": "Princess Mononoke",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "release_year": 1997,
+            "plot_summary": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Animation"
+            ],
+            "tmdb_id": 128,
+            "imdb_id": "tt0119698",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.852510",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadn26k/",
+            "original_comment_text": "Princess Mononoke- imperialism, industrialism, misogyny, deforestation, pollution, is actually one of the few movies written by a man that doesn’t sexualize and make the woman the males aesthetic, emphasizes that love doesn’t have to be immediate and people don’t have to compromise (we use compromise when we should be using negotiate or reason) to be in healthy, loving relationships"
+          },
+          {
+            "id": -7770067047664309717,
+            "title": "The Iron Giant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+            "release_year": 1999,
+            "plot_summary": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Animation",
+              "Family",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 10386,
+            "imdb_id": "tt0129167",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.898612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadptc0/",
+            "original_comment_text": "The Iron Giant"
+          },
+          {
+            "id": 7334077015147030938,
+            "title": "Paprika",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A2VdIkrwBtfbZphrzxpIvEfetjl.jpg",
+            "release_year": 1991,
+            "plot_summary": "Mimma starts working in Madame Colette’s brothel to help her boyfriend financially. There she is rechristened “Paprika,” and falls in love with her first client, naval officer Franco. Despite this attraction, she begins her climb through the sex trade, residing in Italy’s most illustrious brothels.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 50270,
+            "imdb_id": "tt0098063",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.923753",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadn4ma/",
+            "original_comment_text": "Paprika"
+          },
+          {
+            "id": 1706829907081925938,
+            "title": "The Secret of NIMH",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bqH0pbnt92C8WJ3lwLhllQZndeY.jpg",
+            "release_year": 1982,
+            "plot_summary": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Animation",
+              "Fantasy",
+              "Adventure",
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 11704,
+            "imdb_id": "tt0084649",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.970774",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/naduhw5/",
+            "original_comment_text": "The Secret of NIMH."
+          },
+          {
+            "id": -6636548836196794246,
+            "title": "Persepolis",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aU8i2QAdTyRR1nYb36Gq51xXP8p.jpg",
+            "release_year": 2007,
+            "plot_summary": "In 1970s Iran, Marjane 'Marji' Satrapi watches events through her young eyes and her idealistic family of a long dream being fulfilled of the hated Shah's defeat in the Iranian Revolution of 1979. However as Marji grows up, she witnesses first hand how the new Iran, now ruled by Islamic fundamentalists, has become a repressive tyranny on its own.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Animation",
+              "Drama"
+            ],
+            "tmdb_id": 2011,
+            "imdb_id": "tt0808417",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:36.992393",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadm5gc/",
+            "original_comment_text": "Persepolis"
+          },
+          {
+            "id": -4668176271490136085,
+            "title": "The Triplets of Belleville",
+            "poster_url": "https://image.tmdb.org/t/p/w500/enw6C4fDw88g0nOQgIJXjgH3NHi.jpg",
+            "release_year": 2003,
+            "plot_summary": "When her grandson is kidnapped during the Tour de France, Madame Souza and her beloved pooch Bruno team up with the Belleville Sisters—an aged song-and-dance team from the days of Fred Astaire—to rescue him.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 9662,
+            "imdb_id": "tt0286244",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:37.038633",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/naej2c0/",
+            "original_comment_text": "Triplets of Belleville remains one of my all time favorites!\n\nAlso, The Wild Robot was very good!"
+          },
+          {
+            "id": -5461732440101635468,
+            "title": "Where the Wind Blows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g0sawoBRatj2N2YzWROloIxjBep.jpg",
+            "release_year": 2023,
+            "plot_summary": "The decades spanning story of two very different policemen who rise to power in Hong Kong during British rule, and end up at odds with both organised crime groups and the anti-corruption unit vowing to bring them down.",
+            "runtime": "2h 24m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 531379,
+            "imdb_id": "tt6902394",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:37.111793",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/nadknnr/",
+            "original_comment_text": "Akira. Ghost in the Shell. Ninja Scroll. Where the Wind Blows."
+          },
+          {
+            "id": -4554770743624792438,
+            "title": "The Wild Robot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+            "release_year": 2024,
+            "plot_summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Family"
+            ],
+            "tmdb_id": 1184918,
+            "imdb_id": "tt29623480",
+            "category_title": "Animated Movies That Blew Your Mind",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:37.256424",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1myotzl/i_want_an_animated_movie_that_blew_your_mind/naej2c0/",
+            "original_comment_text": "Triplets of Belleville remains one of my all time favorites!\n\nAlso, The Wild Robot was very good!"
+          }
+        ]
+      },
+      {
+        "name": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+        "movies": [
+          {
+            "id": 773512876409723781,
+            "title": "The Substance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evdF1vmLzuzH8EFblqAXBXWRGSi.jpg",
+            "release_year": 2024,
+            "plot_summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 933260,
+            "imdb_id": "tt17526714",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.298497",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahdokz/",
+            "original_comment_text": "The Substance"
+          },
+          {
+            "id": 6166477128542159844,
+            "title": "Frankenstein",
+            "poster_url": "https://image.tmdb.org/t/p/w500/osjlYkk2dIJvbOHTwghboKWfl8k.jpg",
+            "release_year": 1993,
+            "plot_summary": "In the early 19th century, Dr. Frankenstein discovers the secret of life – how to create a perfect man – powerful, intelligent and immune to disease. But something goes wrong in the laboratory and the doctor’s hideous creation disappears into the night. At first, Frankenstein hoped that the horrible monster would perish in the wilderness, but now he senses that it’s alive and sets out for him. Dr. Frankenstein tracks the creature to the Arctic, where the two must battle to decide who will become the master of the other’s life…or death.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "TV Movie"
+            ],
+            "tmdb_id": 3042,
+            "imdb_id": "tt0106959",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.323363",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahfjcn/",
+            "original_comment_text": "Back in the days before videos, I paid for a theater ticket for Andy Warhol's *Frankenstein* TWICE. Figured I walked out the first time and really should see it in its entirety, but walked out a second time."
+          },
+          {
+            "id": 23698485472546898,
+            "title": "The Human Centipede (First Sequence)",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg",
+            "release_year": 2009,
+            "plot_summary": "During a stopover in Germany in the middle of a carefree road trip through Europe, two American girls find themselves alone at night when their car breaks down in the woods. Searching for help at a nearby villa, they are wooed into the clutches of a deranged retired surgeon, who has a very disturbed vision.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 5.2,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 37169,
+            "imdb_id": "tt1467304",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.365129",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahg2yo/",
+            "original_comment_text": "The trailer of human centipede was enough"
+          },
+          {
+            "id": 8913001078223650432,
+            "title": "The Cook, the Thief, His Wife & Her Lover",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fNkl7o1VQQqy1nEX9x56CDHULmr.jpg",
+            "release_year": 1989,
+            "plot_summary": "The wife of an abusive criminal finds solace in the arms of a kind regular guest in her husband's restaurant.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 7452,
+            "imdb_id": "tt0097108",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.392532",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahmvc6/",
+            "original_comment_text": "The Cook, The Thief, His Wife & Her Lover (1989)"
+          },
+          {
+            "id": -6409169911277802875,
+            "title": "A Serbian Film",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+            "release_year": 2010,
+            "plot_summary": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 5.5,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 73861,
+            "imdb_id": "tt1273235",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.399997",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahdgd9/",
+            "original_comment_text": "Irreversible \n\nA Serbian Film\n\nRequiem for a Dream"
+          },
+          {
+            "id": -6163624309430138335,
+            "title": "Irreversible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_year": 2002,
+            "plot_summary": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 979,
+            "imdb_id": "tt0290673",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.434849",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahdgd9/",
+            "original_comment_text": "Irreversible \n\nA Serbian Film\n\nRequiem for a Dream"
+          },
+          {
+            "id": 4100813914749952073,
+            "title": "The Coffee Table",
+            "poster_url": "https://image.tmdb.org/t/p/w500/r8S7cc676EfgfUDVQKPrqRlbRFz.jpg",
+            "release_year": 2023,
+            "plot_summary": "Jesus and María are a couple going through a difficult time in their relationship. Nevertheless, they have just become parents. To shape their new life, they decide to buy a new coffee table. A decision that will change their existence.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1056380,
+            "imdb_id": "tt21874760",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.464017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahhsgj/",
+            "original_comment_text": "The Ugly Stepsister \n\nSplatter: Naked Blood\n\nThe Coffee Table (please go in blind. Nothing on screen but so masterfully done you can't look away and have to laugh because it's so uncomfortable )\n\nDefinitely check out Takashi Miike films like other commenters suggested!"
+          },
+          {
+            "id": -4728626592848639662,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.464197",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahdgd9/",
+            "original_comment_text": "Irreversible \n\nA Serbian Film\n\nRequiem for a Dream"
+          },
+          {
+            "id": 6222875013400445224,
+            "title": "Naked Blood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lCflIhQR4wnvEwRv4WEf9sndGbi.jpg",
+            "release_year": 1994,
+            "plot_summary": "A slim and capable girl, a beautiful girl, was robbed by bandits to a small town in the west and was rescued and taken in by an honest herdsman \"cousin-in-law\". The beautiful girl, who was like a jade, was soon spotted by the \"cousin\" concubine Tang San. However, on the eve of the wedding, the helpless Xiu girl slept on the bed, and the \"cousin-in-law\" came to her at this time. Because of his dark hatred of Tang San, he was attracted by Xiu Girl's beautiful face.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 778000,
+            "imdb_id": "tt0186709",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.534560",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahhsgj/",
+            "original_comment_text": "The Ugly Stepsister \n\nSplatter: Naked Blood\n\nThe Coffee Table (please go in blind. Nothing on screen but so masterfully done you can't look away and have to laugh because it's so uncomfortable )\n\nDefinitely check out Takashi Miike films like other commenters suggested!"
+          },
+          {
+            "id": 3022444191682822060,
+            "title": "The Ugly Stepsister",
+            "poster_url": "https://image.tmdb.org/t/p/w500/crX9rSg9EohybhkEe8iTQUCe55y.jpg",
+            "release_year": 2025,
+            "plot_summary": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Comedy",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 1284120,
+            "imdb_id": "tt29344903",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.578205",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahhsgj/",
+            "original_comment_text": "The Ugly Stepsister \n\nSplatter: Naked Blood\n\nThe Coffee Table (please go in blind. Nothing on screen but so masterfully done you can't look away and have to laugh because it's so uncomfortable )\n\nDefinitely check out Takashi Miike films like other commenters suggested!"
+          },
+          {
+            "id": 8789519591124965129,
+            "title": "Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+            "release_year": 2022,
+            "plot_summary": "In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Fantasy"
+            ],
+            "tmdb_id": 780609,
+            "imdb_id": "tt13841850",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.604844",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahelo6/",
+            "original_comment_text": "The ending of 'Men' made me a little squeamish..."
+          },
+          {
+            "id": 4534396549482154056,
+            "title": "Pink Flamingos",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yCT7jpANI80dC7JdQCtdbmgszV.jpg",
+            "release_year": 1972,
+            "plot_summary": "Notorious Baltimore criminal and underground figure Divine goes up against Connie & Raymond Marble, a sleazy married couple who make a passionate attempt to humiliate her and seize her tabloid-given title as \"The Filthiest Person Alive\".",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 692,
+            "imdb_id": "tt0069089",
+            "category_title": "Films That Are So Disgusting Or Uncomfortable You Want To Look Away",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:41.651874",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz8a0r/films_that_are_so_disgusting_or_especially/nahi6cq/",
+            "original_comment_text": "Pink Flamingos. I love that movie but I don't think I could stomach watching it ever again"
+          }
+        ]
+      },
+      {
+        "name": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+        "movies": [
+          {
+            "id": -382249972918730099,
+            "title": "Dinner in America",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kbZSktEZOvn4Rc2l234PHbAVTkQ.jpg",
+            "release_year": 2020,
+            "plot_summary": "An on-the-lam punk rocker and a young woman obsessed with a local band go on an unexpected and epic journey together through the decaying suburbs of the American Midwest.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Romance",
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 653664,
+            "imdb_id": "tt9058654",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.677655",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahsf5h/",
+            "original_comment_text": "Singapore Sling (1990)\n\nKuso (2017)\n\nDinner in America (2020)\n\nGorotica (1993)\n\nForbidden Zone (1980)\n\nFrankenhooker (1990) (also worth checking out Basket Case and Brain Damage from the same director)\n\nMaybe check out Trash Humpers (2009) for another Harmony Korine"
+          },
+          {
+            "id": 3568583152632806023,
+            "title": "Kids vs. Aliens",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f87UCQzVwMlzGFePtCtZS4TgAFp.jpg",
+            "release_year": 2023,
+            "plot_summary": "All Gary wants is to make awesome home movies with his best buds. All his older sister Samantha wants is to hang with the cool kids. When their parents head out of town one Halloween weekend, an all-time rager of a teen house party turns to terror when aliens attack, forcing the siblings to band together to survive the night.",
+            "runtime": "1h 15m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 1013870,
+            "imdb_id": "tt21862626",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.700560",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          },
+          {
+            "id": 1825143603655342790,
+            "title": "The Happiness of the Katakuris",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8iIei17w5DVEz4P9OjxIM10f7Jh.jpg",
+            "release_year": 2002,
+            "plot_summary": "The Katakuri family has just opened their guest house in the mountains. Unfortunately their first guest commits suicide and in order to avoid trouble they decide to bury him in the backyard. Things get way more complicated when their second guest, a famous sumo wrestler, dies while having sex with his underage girlfriend and the grave behind the house starts to fill up more and more.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 16184,
+            "imdb_id": "tt0304262",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.749114",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          },
+          {
+            "id": -7229120177684468588,
+            "title": "Hobo with a Shotgun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xxMaO7VoN2BnZit79PedVHnTjcO.jpg",
+            "release_year": 2011,
+            "plot_summary": "A vigilante homeless man pulls into a new city and finds himself trapped in urban chaos, a city where crime rules and where the city's crime boss reigns. Seeing an urban landscape filled with armed robbers, corrupt cops, abused prostitutes and even a pedophile Santa, the Hobo goes about bringing justice to the city the best way he knows how - with a 20-gauge shotgun. Mayhem ensues when he tries to make things better for the future generation. Street justice will indeed prevail.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Crime",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 49010,
+            "imdb_id": "tt1640459",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.770014",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          },
+          {
+            "id": 3185716662137157413,
+            "title": "Singapore Sling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/btTYcALtXvE9j8xjvlGOnLT1cQI.jpg",
+            "release_year": 1990,
+            "plot_summary": "Singapore Sling is chasing after Laura, a romantic memory from his past. One night he finds himself in a mysterious villa, watching two women bury a body. He falls into their trap and, in an atmosphere of isolation and decadence, the trio act out insane pleasure games and a ritual of blood and murder.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 1560,
+            "imdb_id": "tt0100623",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.772052",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahsf5h/",
+            "original_comment_text": "Singapore Sling (1990)\n\nKuso (2017)\n\nDinner in America (2020)\n\nGorotica (1993)\n\nForbidden Zone (1980)\n\nFrankenhooker (1990) (also worth checking out Basket Case and Brain Damage from the same director)\n\nMaybe check out Trash Humpers (2009) for another Harmony Korine"
+          },
+          {
+            "id": -4354416851544181509,
+            "title": "Gozu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mo5L0XzMYmLhdsvgA40qlYiHhAF.jpg",
+            "release_year": 2003,
+            "plot_summary": "Minami mistakenly kills a gangster associate of his named Brother. Almost as soon as the murder takes place, the body of the deceased man is gone, prompting Minami to conduct a search. While looking, he finds a mysterious isolated hotel where he decides to take a rest. Not only are the front desk clerks a bit strange, but even the ambiance feels unusual. Minami soon realizes he may have gotten more than he bargained for.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 12487,
+            "imdb_id": "tt0361668",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.843773",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          },
+          {
+            "id": -1557121246213391210,
+            "title": "First Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/m32xUbVk6Y4c4DjZLK16ySc9JoA.jpg",
+            "release_year": 2020,
+            "plot_summary": "Seventeen-year-old adolescence Woo Min is on his own and lives with Soo Jeong who used to be his parents' caregiver. Woo Min secretly grows fond of Soo Jeong who can't speak but finds out she's sick and feels the urge to protect her... However, as a poor minor, there's nothing he can do let alone pay her medical bills. One hot season, Woo Min sets off for a cruel world to save her.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 669179,
+            "imdb_id": "tt26762470",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.844469",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          },
+          {
+            "id": 5856194929723837632,
+            "title": "Kuso",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2Pl3Vptkzaum6FZ5K6iDqybuhp4.jpg",
+            "release_year": 2017,
+            "plot_summary": "Broadcasting through a makeshift network of discarded televisions, this story is tangled up in the aftermath of Los Angeles's worst earthquake nightmare. Travel between screens and aftershocks into the twisted lives of the survived.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 5.5,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "tmdb_id": 411549,
+            "imdb_id": "tt6131712",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.915384",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahsf5h/",
+            "original_comment_text": "Singapore Sling (1990)\n\nKuso (2017)\n\nDinner in America (2020)\n\nGorotica (1993)\n\nForbidden Zone (1980)\n\nFrankenhooker (1990) (also worth checking out Basket Case and Brain Damage from the same director)\n\nMaybe check out Trash Humpers (2009) for another Harmony Korine"
+          },
+          {
+            "id": -6185695784668162568,
+            "title": "Beau Is Afraid",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wgVkkjigF31r1nZV80uV0xNIoun.jpg",
+            "release_year": 2023,
+            "plot_summary": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+            "runtime": "2h 59m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Adventure",
+              "Fantasy"
+            ],
+            "tmdb_id": 798286,
+            "imdb_id": "tt13521006",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.919545",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahrsik/",
+            "original_comment_text": "Beau is Afraid "
+          },
+          {
+            "id": -4622072848136768571,
+            "title": "Ichi the Killer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k8j4YLZlda98dqp9ErymKzjYowG.jpg",
+            "release_year": 2001,
+            "plot_summary": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Crime",
+              "Horror"
+            ],
+            "tmdb_id": 9696,
+            "imdb_id": "tt0296042",
+            "category_title": "Films With Weird, Shocking, Absurd, And Transgressive Humor",
+            "time_period": "daily",
+            "date_scraped": "2025-08-25T04:24:45.985645",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz9jdi/i_like_weird_shocking_absurd_transgressive_films/nahoy4j/",
+            "original_comment_text": "Kids vs Aliens (same director as Hobo With A Shotgun)\n\nThe Ugly Stepsister (had visceral reactions to parts of this...and I laughed my way thru A Serbian Film)\n\nCheck out Takashi Miike's films! He's my fave and absolutely weird, shocking and twisted sense of humor. \n\n- Ichi the Killer \n\n- Gozu\n\n- First Love \n\n- The Happiness of the Katakuris"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 58,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-25T04:24:28.640624"
+  }
+}

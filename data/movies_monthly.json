@@ -1,0 +1,1579 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Movies That Are So Insane, They're Best Watched Completely Blind",
+        "movies": [
+          {
+            "id": -5893867052786020722,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:28.891666",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": -3541260807204676568,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:28.895301",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850wgs/",
+            "original_comment_text": "From Dusk Til Dawn. If you don't know anything about it yet, don't even look at the cover art, just watch it."
+          },
+          {
+            "id": -6518425629334582537,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:28.896810",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": -362533780349592558,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:28.952152",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n853ptl/",
+            "original_comment_text": "Sorry to Bother You is my favorite weird movie. It’s not scary - just weirdly hilarious and strangely deep and satisfying\n\n\nUpdate: thanks to everyone that liked or commented on this movie.  It is so damn good and makes me happy that so many people loved this movie the way I did."
+          },
+          {
+            "id": 2051253767943097060,
+            "title": "Pulp Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "release_year": 1994,
+            "plot_summary": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "runtime": "2h 34m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 680,
+            "imdb_id": "tt0110912",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:28.994244",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852281/",
+            "original_comment_text": "Pulp Fiction. I walked into the theater knowing absolutely nothing about the movie. Fantastic experience!"
+          },
+          {
+            "id": 2457522946920507521,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Fy52iMUlyJUZfMxBk9BSueUAF1.jpg",
+            "release_year": 1926,
+            "plot_summary": "Professional dancer Diotima finds herself the apex of a love triangle when she is pursued by two mountain climbers, Vigo and his older friend.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 94658,
+            "imdb_id": "tt0016953",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.003389",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": -3074526626450569235,
+            "title": "eXistenZ",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_year": 1999,
+            "plot_summary": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1946,
+            "imdb_id": "tt0120907",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.159145",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850tgo/",
+            "original_comment_text": "Existenz"
+          },
+          {
+            "id": -1179196893558084660,
+            "title": "Bottoms",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "release_year": 2023,
+            "plot_summary": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 814776,
+            "imdb_id": "tt17527468",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.166923",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": -4926070713163711582,
+            "title": "Mother",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wfRUjKaHRRqLWPEqqOkJ4Gbkgcm.jpg",
+            "release_year": 2024,
+            "plot_summary": "A non narrative film about the relationship between womanhood and nature.",
+            "runtime": "6m",
+            "tmdb_rating": 9.5,
+            "genres": [],
+            "tmdb_id": 1266702,
+            "imdb_id": null,
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.235842",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": -6002880103557106364,
+            "title": "Rorikon hausu: Oshimeri Junko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bSQTYQq8LKLGaDCeYr5SnZ1SqpX.jpg",
+            "release_year": 1983,
+            "plot_summary": "A high school girl lives by herself in her parent’s apartment. They deserted her and each other they both took lovers. Feeling lonely she signs up as a mistress at a “Lolicon House” to service middle-aged men.",
+            "runtime": "1h 7m",
+            "tmdb_rating": 2.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1020008,
+            "imdb_id": "tt0227405",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.267315",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": 1175450213190264573,
+            "title": "Old Boy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mr87DJqf8vCP207vqruhHvPPMPc.jpg",
+            "release_year": 2011,
+            "plot_summary": "We had a comfortable life until my father went bankrupt and I blamed him for our misfortune. Being 30 and still living with my parents, I do not speak with my father. It is my brother's wedding and I'm not attending his ceremony. I asked my friend to film the wedding and specially my father. This film is an occasion for me to revise my attitude toward every member of my family by talking to them.",
+            "runtime": "58m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 483610,
+            "imdb_id": "tt2331025",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.301161",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8519tb/",
+            "original_comment_text": "Old Boy - the original."
+          },
+          {
+            "id": -8212988825075021247,
+            "title": "Getting Any?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/owvDqHOzdeN7nMiUBZfHtpgEWW.jpg",
+            "release_year": 1995,
+            "plot_summary": "While pursuing his dream of having car sex, a goofy middle-aged man makes all the wrong moves and ends up enrolling in a number of crazy escapades.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 39767,
+            "imdb_id": "tt0110524",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.351187",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": 2744215833961897858,
+            "title": "Frailty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+            "release_year": 2002,
+            "plot_summary": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12149,
+            "imdb_id": "tt0264616",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.378983",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n851o0w/",
+            "original_comment_text": "Frailty"
+          },
+          {
+            "id": -4494215420431621662,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.390489",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852yta/",
+            "original_comment_text": "Predestination"
+          },
+          {
+            "id": -3667730325717047401,
+            "title": "One Cut of the Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+            "release_year": 2017,
+            "plot_summary": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 513434,
+            "imdb_id": "tt7914416",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.451793",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850jb5/",
+            "original_comment_text": "One Cut of the Dead. Watch it blind. Just trust me."
+          },
+          {
+            "id": -6179936214153630740,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies That Are So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:29.526113",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n858zri/",
+            "original_comment_text": "Parasite"
+          }
+        ]
+      },
+      {
+        "name": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+        "movies": [
+          {
+            "id": 2166197654648490542,
+            "title": "Hardbodies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9z7lbMRQSbcohiPV7WzMbTqhbnI.jpg",
+            "release_year": 1984,
+            "plot_summary": "Three middle-aged daddies visit California to have a marvelous time at the beach. When they learn that a nice apartment and an expensive cabriolet isn't enough for them to score with the chicks, they employ a student to help them. At first he's as disgusted of them and his job as his girlfriend, but soon they find out how to use the situation to everyone's benefit.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 52736,
+            "imdb_id": "tt0087385",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:34.837608",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2t0x/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": 8464026728570497728,
+            "title": "Barbarella",
+            "poster_url": "https://image.tmdb.org/t/p/w500/facTz5BZz4AkJal1FWgjYciekih.jpg",
+            "release_year": 1968,
+            "plot_summary": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Adventure",
+              "Comedy",
+              "Fantasy",
+              "Action"
+            ],
+            "tmdb_id": 8069,
+            "imdb_id": "tt0062711",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:34.858370",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c5fu9/",
+            "original_comment_text": "If you're okay with a late '60s movie, Barbarella is worth checking out."
+          },
+          {
+            "id": -3085083489845467104,
+            "title": "Private School",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hZLpmALf3LRUnCb0JI2ZRa9IR1F.jpg",
+            "release_year": 1983,
+            "plot_summary": "Private-school student Christine loves Jim. But her classmate, Jordan, is also vying for Jim's attention and trying to end his relationship with Christine. Meanwhile, Jim's friend Bubba embarks on a series of sexual escapades, including dressing up as a woman to access the girls' locker room. Despite Jim and Christine's efforts to spend some time alone, various shenanigans and schemes interfere.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 18835,
+            "imdb_id": "tt0086143",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:34.928170",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2t0x/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": 5645782111867611061,
+            "title": "Porky's",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+            "release_year": 1981,
+            "plot_summary": "In 1954 Florida, a group of high school boys head to a strip club in the Everglades in an attempt to lose their collective virginity. When the club's owner and his sheriff brother swindle them out of their money and embarrass them, the boys plan revenge.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 10246,
+            "imdb_id": "tt0084522",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:34.931054",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2103/",
+            "original_comment_text": "Porky's"
+          },
+          {
+            "id": 6689310923404546844,
+            "title": "Saturn 3",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zAoLR1azwd8QbglnjWpOwJ4PI6C.jpg",
+            "release_year": 1980,
+            "plot_summary": "In the future, Earth is overcrowded and the population relies on distant bases to be fed. In the Saturn 3 station, Major Adam and the scientist Alex, who is also his lover and has never been on Earth, have been researching hydroponics for three years in the base alone with their dog Sally.  Captain Benson arrives Saturn 3 with Hector, incapable to controlling his emotions he transfers his homicidal tendency and insanity to Hector.  Now Major Adam and Alex are trapped in the station with a dangerous psychopath robot.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 19761,
+            "imdb_id": "tt0079285",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:34.979799",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2t0x/",
+            "original_comment_text": "Saturn 3\n\nHardbodies\n\nPrivate Girls School\n\nReturn of the Living Dead"
+          },
+          {
+            "id": -8485211161686761873,
+            "title": "Lifeforce",
+            "poster_url": "https://image.tmdb.org/t/p/w500/urGWv3bB1V4aJHaC6ephmUTlqNF.jpg",
+            "release_year": 1985,
+            "plot_summary": "A space shuttle mission investigating Halley's Comet brings back a malevolent race of space vampires who transform most of London's population into zombies. The only survivor of the expedition and British authorities attempt to capture a mysterious but beautiful alien woman who appears responsible.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 11954,
+            "imdb_id": "tt0089489",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.002379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c1buu/",
+            "original_comment_text": "Lifeforce"
+          },
+          {
+            "id": 4374724899279076407,
+            "title": "Body Double",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+            "release_year": 1984,
+            "plot_summary": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 11507,
+            "imdb_id": "tt0086984",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.079177",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c1a0o/",
+            "original_comment_text": "Body Double"
+          },
+          {
+            "id": -1294741695285339179,
+            "title": "Caligula",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z3lYcrkzKsAM313NkmUS4HUTVtp.jpg",
+            "release_year": 1989,
+            "plot_summary": "In a dark future, a mysterious man performs experiments on rats.",
+            "runtime": "9m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Animation",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1149814,
+            "imdb_id": null,
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.144225",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c0wvb/",
+            "original_comment_text": "Caligula but it’s just pretty damn near porn in a few scenes"
+          },
+          {
+            "id": -8736335122981717974,
+            "title": "About Last Night",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z3dVYQtxXldDawz7d15wqt2PQLe.jpg",
+            "release_year": 2014,
+            "plot_summary": "Bernie and Joan are two fiery flirters who are passionate about everything from hookups to breakups and each other. When he sets up his best friend, Danny, with her roommate, Debbie, the sparks soon fly as they try to navigate the relationship minefields from the bar to the bedroom and are eventually put to the test in the real world.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 222899,
+            "imdb_id": "tt1826590",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.198824",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2k76/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": 6438582735719980697,
+            "title": "Blame It on Rio",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yzNtmqL6HUFC7FZl9DnGmhnCQUL.jpg",
+            "release_year": 1984,
+            "plot_summary": "Matthew Hollis is man on holiday in Rio with his best friend. Both men have teenage daughters with them. When Matthew falls for his best friend's amorous daughter named Jennifer, they embark on a secret, if slightly one-sided relationship. Jennifer's father is furious when he finds out about the 'older man' in his daughter's life, and sets out to hunt him down with the aid of Matthew!",
+            "runtime": "1h 40m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 14347,
+            "imdb_id": "tt0086973",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.214971",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2k76/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": -5615033652577351921,
+            "title": "Lady Emanuelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ikKkbJ7fgG3FeSeKaulHfBxJ7ST.jpg",
+            "release_year": 1989,
+            "plot_summary": "Unhappily married rich lady Emanuelle is fed up with her sleazy, disgusting and overbearing lout husband Michael and other men insensitively treating her like a piece of meat. So Emanuelle dumps Michael and gets involved in a torrid lesbian affair with enticing novelist Leona.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 3.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 351164,
+            "imdb_id": "tt0097705",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.284306",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c1ffx/",
+            "original_comment_text": "Emanuelle"
+          },
+          {
+            "id": 8929362562744303997,
+            "title": "Striptease",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4zMy6R7acotCmGoDk4sjzRtDwKn.jpg",
+            "release_year": 1996,
+            "plot_summary": "Bounced from her job, Erin Grant needs money if she's to have any chance of winning back custody of her child. But, eventually, she must confront the naked truth: to take on the system, she'll have to take it all off. Erin strips to conquer, but she faces unintended circumstances when a hound dog of a Congressman zeroes in on her and sharpens the shady tools at his fingertips, including blackmail and murder.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 9879,
+            "imdb_id": "tt0117765",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.359736",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c2k76/",
+            "original_comment_text": "Blame it on rio - Michael Caine ; Demi Moore\n\nAbout Last Night - Rob Lowe ; Demi Moore\n\nStriptease - Burt Reynolds ; Demi Moore"
+          },
+          {
+            "id": 3512479089745565179,
+            "title": "Beyond the Valley of the Dolls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kmGOF3T35Q6zM1PMmp4Gf0VNX65.jpg",
+            "release_year": 1970,
+            "plot_summary": "An all-girl rock band moves to Hollywood in the hope of achieving success, only to fall into a whirlpool of wickedness and decadence.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 5722,
+            "imdb_id": "tt0065466",
+            "category_title": "Movies from the 70s and 80s with Frequent Scenes of Female Nudity",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:35.500878",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ma55ud/im_looking_for_recommendations_for_movies_from/n5c4q6e/",
+            "original_comment_text": "Beyond the valley of the Dolls "
+          }
+        ]
+      },
+      {
+        "name": "What Is The Absolute Worst Movie Ever",
+        "movies": [
+          {
+            "id": 2986133178042212736,
+            "title": "War of the Worlds",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+            "release_year": 2025,
+            "plot_summary": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 4.3,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 755898,
+            "imdb_id": "tt13186306",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:40.985716",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jkq14/",
+            "original_comment_text": "Apparently the new War of the Worlds on Amazon is beyond redemption. "
+          },
+          {
+            "id": -6325745981623403354,
+            "title": "Manos: The Hands of Fate",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aJZsXdJWgtVCSE3SOcOkMPNpbkV.jpg",
+            "release_year": 1966,
+            "plot_summary": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+            "runtime": "1h 10m",
+            "tmdb_rating": 2.1,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 22293,
+            "imdb_id": "tt0060666",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.057585",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jkxs3/",
+            "original_comment_text": "Manos: The Hands of Fate (1966)  \nMST3K also did an episode for this movie"
+          },
+          {
+            "id": 3239447946401668434,
+            "title": "Sausage Party",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vNgdPJQ5CI60oEiiHLKRNrsDhMy.jpg",
+            "release_year": 2016,
+            "plot_summary": "Hot dog Frank leads a group of supermarket products on a quest to discover the truth about their existence and what really happens when they become chosen to leave the grocery store.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 223702,
+            "imdb_id": "tt1700841",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.085327",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jjw9x/",
+            "original_comment_text": "Somebody said Rogue One and I disagreed so so so much I just simply blocked their account. I've never done that before now. \n\nOh, my answer is Sausage Party."
+          },
+          {
+            "id": 5301089843048659693,
+            "title": "Cats",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aCNch5FmzT2WaUcY44925owIZXY.jpg",
+            "release_year": 2019,
+            "plot_summary": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 4.1,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 536869,
+            "imdb_id": "tt5697572",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.129870",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jwuyr/",
+            "original_comment_text": "It’s still Cats."
+          },
+          {
+            "id": 5344223440375451980,
+            "title": "Meet the Spartans",
+            "poster_url": "https://image.tmdb.org/t/p/w500/DWQOjAPvM8Kk1Qp3Xq0zae0Z6w.jpg",
+            "release_year": 2008,
+            "plot_summary": "The heroic Leonidas, armed with nothing but leather underwear and a cape, leads a ragtag group of thirteen Spartans to defend their homeland against the invading Persians (whose ranks include Ghost Rider, Rocky Balboa, the Transformers, and a hunchbacked Paris Hilton). No one is safe when the Spartans take on the biggest icons in pop culture!",
+            "runtime": "1h 24m",
+            "tmdb_rating": 4.1,
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 7278,
+            "imdb_id": "tt1073498",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.147218",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jqvt6/",
+            "original_comment_text": "I could never imagine walking out of a theater after paying for a movie ticket...until Meet the Spartans. That was my fault and lessons were learned"
+          },
+          {
+            "id": -5095479262563914911,
+            "title": "Highlander II: The Quickening",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg",
+            "release_year": 1991,
+            "plot_summary": "In the year 2024, the ozone layer is believed to have been destroyed, and it's up to MacLeod and Ramirez to set things right. Opposition comes from both the planet Zeist (MacLeod and Ramirez's homeworld) and a corporation profiting from the supposed lack of ozone. Also, flashbacks show the story behind MacLeod and Ramirez's exile from Zeist.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 4.7,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 8010,
+            "imdb_id": "tt0102034",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.200589",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jq7va/",
+            "original_comment_text": "Highlander 2 (Electric Boogaloo)!"
+          },
+          {
+            "id": -1083055958194353654,
+            "title": "Rhinestone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sEptnLBR09J87sR6d67QJzvnif3.jpg",
+            "release_year": 1984,
+            "plot_summary": "After a big-time country singer brags that she can turn anybody in to a country-singin' star, she's out to prove she can live up to her talk when she recruits a cab-driver as a country singer. He's scheduled to sing at a big-time NYC country night club and she puts her ample powers to work in preparing her protege.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 16551,
+            "imdb_id": "tt0088001",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.220974",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jrfs7/",
+            "original_comment_text": "Rhinestone\n\nDolly Parton has to train Sylvester Stallone to be a C&W singer.  If she does it, she gets out of her contract with her creepy agent.  If not, her agent gets to rape her!\n\nIt's a PG"
+          },
+          {
+            "id": -8397354944372555373,
+            "title": "Saving Christmas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xBR7C6Go9FsXmOWXx4R1bjIJiZY.jpg",
+            "release_year": 2017,
+            "plot_summary": "A young boy, Danny, tries to prove the existence of Santa by using his intelligence and gadgets. He and his trusted group go on an intense journey to find the truth of Santa.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Family"
+            ],
+            "tmdb_id": 561155,
+            "imdb_id": "tt6803170",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.290585",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jjop7/",
+            "original_comment_text": "“Kirk Cameron’s Saving Christmas.” Currently streaming on Tubi. It’s got a 1.3 average rating on IMDB. I’ve heard it’s excruciating but I haven’t had the guts to watch it yet."
+          },
+          {
+            "id": 5844929117143238169,
+            "title": "Rogue One: A Star Wars Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
+            "release_year": 2016,
+            "plot_summary": "A rogue band of resistance fighters unite for a mission to steal the Death Star plans and bring a new hope to the galaxy.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 330459,
+            "imdb_id": "tt3748528",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.346331",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jjw9x/",
+            "original_comment_text": "Somebody said Rogue One and I disagreed so so so much I just simply blocked their account. I've never done that before now. \n\nOh, my answer is Sausage Party."
+          },
+          {
+            "id": -3441736093150023496,
+            "title": "Birdemic 2: The Resurrection",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gb5DsfCrVHOpsqYOhnfYike1Yn3.jpg",
+            "release_year": 2013,
+            "plot_summary": "A platoon of eagles and vultures attack Hollywood, California. Why did the eagles and vultures attack? Who will survive?",
+            "runtime": "1h 22m",
+            "tmdb_rating": 2.1,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 188489,
+            "imdb_id": "tt1674047",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.363827",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jj531/",
+            "original_comment_text": "Birdemic"
+          },
+          {
+            "id": -7638370044638105941,
+            "title": "The Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wPDq3RNQYVrAdysKs3bMYTcINt0.jpg",
+            "release_year": 2019,
+            "plot_summary": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 582913,
+            "imdb_id": "tt8485364",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.434503",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jkne0/",
+            "original_comment_text": "The Room"
+          },
+          {
+            "id": 3637602264858837911,
+            "title": "Gingerdead Man vs. Evil Bong",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xFYqSjFeMrpnXWXjyyJJA1IqV8C.jpg",
+            "release_year": 2013,
+            "plot_summary": "Serial killing cookie, Gingerdead Man, tracks down the lone survivor of his murderous rampage, who unleashes the Evil Bong once again.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 3.9,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 231082,
+            "imdb_id": "tt3234078",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.484830",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jobtx/",
+            "original_comment_text": "Gingerdead Man & Gingerdead Man 2: passion of the crust"
+          },
+          {
+            "id": -2297398644136176496,
+            "title": "Blood on the Asphalt",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j2Dzy1j3xS5QnEqngx3zeXpTw9c.jpg",
+            "release_year": 1992,
+            "plot_summary": "Abul Hassan is a clerk in the Ministry of Justice who lives with his three sons: Dr. He praises a prestigious center in an international organization abroad. Walaa works in a hotel, but the children are shocked once that their father accused of stealing the file of one of the important issues. He returns to stand beside his innocent father and is surprised that his family has been decomposed. Loyalty has turned into a girl who hugs herself and Ala heroin, trying to identify the reasons that led the family to do so and help his cousin, researcher Siham, whom he had a relationship with love. The doctor begins to recognize the causes of the dissolution of his family one by one, prove the innocence of the father, \"Abul Hassan\" and commit suicide daughter loyalty and recognizes the son Alaa stealing the file and use heroin to imprisonment.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 587237,
+            "imdb_id": "tt7164750",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.504894",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jnr11/",
+            "original_comment_text": "The 1970s Drivers Ed movies were pretty bad. “Blood On The Asphalt” and such."
+          },
+          {
+            "id": -3574144790544240062,
+            "title": "You People",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg",
+            "release_year": 2023,
+            "plot_summary": "A new couple and their families reckon with modern love amid culture clashes, societal expectations and generational differences.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 866413,
+            "imdb_id": "tt14826022",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.505092",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jmr8b/",
+            "original_comment_text": "You people, the Jonah hill movie, that movie was the most unwatchable piece of shit I’ve ever seen, I’d rather watch every Steven seagal and Neil breen movie back to back than ever watch You People again"
+          },
+          {
+            "id": 3358243471104399690,
+            "title": "Gingerdead Man 2: The Passion of the Crust",
+            "poster_url": "https://image.tmdb.org/t/p/w500/foyZxQ68TaUegMxtLnI7JR0q3E7.jpg",
+            "release_year": 2008,
+            "plot_summary": "The horrifying yet delicious and chewy Gingerdead Man causes murder and mayhem on the set of a horrible low budget movie set. It will take the determination of the studio's young new owner to save both his company and well as the lives of his young new friends. Including a terminally ill young boy whose final wish it was to meet the studios stars - The Tiny Terrors.",
+            "runtime": "1h 12m",
+            "tmdb_rating": 4.7,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Fantasy"
+            ],
+            "tmdb_id": 16846,
+            "imdb_id": "tt1161646",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.576564",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jobtx/",
+            "original_comment_text": "Gingerdead Man & Gingerdead Man 2: passion of the crust"
+          },
+          {
+            "id": -4483533616639598095,
+            "title": "Battlefield Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg",
+            "release_year": 2000,
+            "plot_summary": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 3.3,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 5491,
+            "imdb_id": "tt0185183",
+            "category_title": "What Is The Absolute Worst Movie Ever",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:41.577043",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mkkzc7/what_is_the_absolute_worst_movie_ever/n7jisr9/",
+            "original_comment_text": "**Battlefield Earth** with John Travolta needs to be seen once in your lifetime."
+          }
+        ]
+      },
+      {
+        "name": "Erotic Movie Suggestions",
+        "movies": [
+          {
+            "id": -6231489995446130976,
+            "title": "Y Tu Mamá También",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eTAQWIqHyFtnvNyYpFO5IoaVi1L.jpg",
+            "release_year": 2001,
+            "plot_summary": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1391,
+            "imdb_id": "tt0245574",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.564925",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6ooic4/",
+            "original_comment_text": "Y tu mama tambien, unfaithful"
+          },
+          {
+            "id": 5395623799603740484,
+            "title": "Basic Instinct",
+            "poster_url": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+            "release_year": 1992,
+            "plot_summary": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 402,
+            "imdb_id": "tt0103772",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.616497",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6ovna7/",
+            "original_comment_text": "Basic instinct"
+          },
+          {
+            "id": -6454459625742777680,
+            "title": "Wild Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg",
+            "release_year": 1998,
+            "plot_summary": "When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 617,
+            "imdb_id": "tt0120890",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.662263",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6on21t/",
+            "original_comment_text": "Wild Things"
+          },
+          {
+            "id": 9139827982758162209,
+            "title": "The Girls of La Rochelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aGMizDvWYZnU8hRhzx2r6bxkWpZ.jpg",
+            "release_year": 1962,
+            "plot_summary": "July 13, 1389. On the initiative of the Mayor, warned by a famous astrologer, the town of La Rochelle is getting ready - 400 years in advance! to celebrate the Fête Nationale with dignity! But the English, who already held almost every square in the Kingdom of France, set their sights on La Rochelle. The enemy fleet cruised off the coast, and while preparations for the festivities continued, orders were given to stretch the enormous chain that was to block access to the port between the two towers. However, this complicated maneuver and responsibility fear to provoke countless avatars.... The fatuity of the captain of the guards, Thimoléon, the reckless coquetry of the governor's daughter, Hiildegarde, the thick stupidity of the adjutant, the deceitfulness of the traitor and the scheming of a mysterious Scotsman lead the city to the brink of the abyss, while the people, excited, stage a fleeting riot in which the daughters of La Rochelle will have the last word.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 562539,
+            "imdb_id": "tt0207470",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.676604",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6olzz6/",
+            "original_comment_text": "Rochelle Rochelle"
+          },
+          {
+            "id": 7524838862431505391,
+            "title": "Secretary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+            "release_year": 2002,
+            "plot_summary": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 11013,
+            "imdb_id": "tt0274812",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.698889",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6oqeby/",
+            "original_comment_text": "Secretary"
+          },
+          {
+            "id": -7706172080726334662,
+            "title": "Body Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_year": 1981,
+            "plot_summary": "In the midst of a searing Florida heat wave, a woman convinces her lover, a small-town lawyer, to murder her rich husband.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 14412,
+            "imdb_id": "tt0082089",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.767848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6ooqqo/",
+            "original_comment_text": "body heat"
+          },
+          {
+            "id": 1616658097771160891,
+            "title": "Another 9 1/2 Weeks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lbQjiB1KTCX1Tmrby7CV7tP5Yq5.jpg",
+            "release_year": 1997,
+            "plot_summary": "Despondent at losing his lover, a man wanders the streets of Paris and has an affair with her kinky friend.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 4.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 18167,
+            "imdb_id": "tt0119576",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.822068",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6omy3x/",
+            "original_comment_text": "One of the steamiest movies ever is 9 1/2 weeks."
+          },
+          {
+            "id": 3220702993356470663,
+            "title": "Unfaithful",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bjiHEhuiwhIygzjczbTPAA07cGc.jpg",
+            "release_year": 2002,
+            "plot_summary": "Connie is a wife and mother whose 11-year marriage to Edward has lost its sexual spark. When Connie literally runs into handsome book collector Paul, he sweeps her into an all-consuming affair. But Edward soon becomes suspicious and decides to confront the other man.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 2251,
+            "imdb_id": "tt0250797",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.845811",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6ooic4/",
+            "original_comment_text": "Y tu mama tambien, unfaithful"
+          },
+          {
+            "id": 7763191274721830386,
+            "title": "Team America: World Police",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hxQ67nOctKpUxKlghbHvZqcDETJ.jpg",
+            "release_year": 2004,
+            "plot_summary": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's 'policing the world' tactics.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Comedy"
+            ],
+            "tmdb_id": 3989,
+            "imdb_id": "tt0372588",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.888932",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6optiq/",
+            "original_comment_text": "Team America."
+          },
+          {
+            "id": -5819783480000996219,
+            "title": "The Handmaiden",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+            "release_year": 2016,
+            "plot_summary": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to elope with him, rob her of her fortune, and lock her up in a madhouse. The plan seems to proceed according to plan until Sookee and Hideko discover some unexpected emotions.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 290098,
+            "imdb_id": "tt4016934",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:46.913538",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6p238b/",
+            "original_comment_text": "The Handmaiden"
+          },
+          {
+            "id": -4745970289291575501,
+            "title": "Anora",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+            "release_year": 2024,
+            "plot_summary": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 1064213,
+            "imdb_id": "tt28607951",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:47.033499",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6oo21s/",
+            "original_comment_text": "Anora (2025) is pretty erotic to begin with, but will definitely keep you hooked. A must watch."
+          },
+          {
+            "id": 4398394710685412208,
+            "title": "The Dreamers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8xYTTQVCxVXkMtPitvwEudNrgtd.jpg",
+            "release_year": 2003,
+            "plot_summary": "When Isabelle and Theo invite Matthew to stay with them, what begins as a casual friendship ripens into a sensual voyage of discovery and desire in which nothing is off limits and everything is possible.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1278,
+            "imdb_id": "tt0309987",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:47.056816",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6p7sp9/",
+            "original_comment_text": "The Dreamers"
+          },
+          {
+            "id": -5574777266136290631,
+            "title": "Bound",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nfXU25TsAUsLMTJ6oHlgxPUcUOF.jpg",
+            "release_year": 1996,
+            "plot_summary": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 9303,
+            "imdb_id": "tt0115736",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:47.104154",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6pcp7q/",
+            "original_comment_text": "Bound. Steamy thriller with 2 hot women going for it, gangster intrigue and theft plot. Highly recommend."
+          },
+          {
+            "id": -6553623677171655861,
+            "title": "Blue Is the Warmest Color",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+            "release_year": 2013,
+            "plot_summary": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
+            "runtime": "3h",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 152584,
+            "imdb_id": "tt2278871",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:47.126699",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6omowc/",
+            "original_comment_text": "Blue is the Warmest Colour"
+          },
+          {
+            "id": -8330066084879403160,
+            "title": "Emmanuelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z0s0gmgD0FwEXsz0fkH2025Ohnk.jpg",
+            "release_year": 2024,
+            "plot_summary": "While traveling, Emmanuelle meets Kei, a man who constantly eludes her. Though she indulges in the many alluring distractions, she can’t shake their chance encounter. Will she submit to her basest desires to forge a deeper relationship?",
+            "runtime": "1h 45m",
+            "tmdb_rating": 4.9,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 976576,
+            "imdb_id": "tt20247888",
+            "category_title": "Erotic Movie Suggestions",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:47.197384",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mghs6y/erotic_movie_suggestions/n6olpd5/",
+            "original_comment_text": "Emmanuelle?"
+          }
+        ]
+      },
+      {
+        "name": "Scariest Horror Movie You've Ever Seen",
+        "movies": [
+          {
+            "id": -4096045294944252633,
+            "title": "The Exorcist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "release_year": 1973,
+            "plot_summary": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 9552,
+            "imdb_id": "tt0070047",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:52.774831",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kghaa/",
+            "original_comment_text": "The Exorcist, Hereditary, Paranormal Activity (first one)"
+          },
+          {
+            "id": -7750997544340289957,
+            "title": "The Texas Chain Saw Massacre",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mpgkRPH1GNkMCgdPk2OMyHzAks7.jpg",
+            "release_year": 1974,
+            "plot_summary": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 30497,
+            "imdb_id": "tt0072271",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:52.882198",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kiyos/",
+            "original_comment_text": "It doesn't scare me anymore, but the one that fucked with me the most was the original Texas Chainsaw Massacre."
+          },
+          {
+            "id": -7283918369217548687,
+            "title": "Session 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
+            "release_year": 2001,
+            "plot_summary": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 10972,
+            "imdb_id": "tt0261983",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:52.928255",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kizbu/",
+            "original_comment_text": "Session 9"
+          },
+          {
+            "id": 7631947376490597865,
+            "title": "Paranormal Activity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic but is certainly the most active in the middle of the night.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 23827,
+            "imdb_id": "tt1179904",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:52.953478",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kghaa/",
+            "original_comment_text": "The Exorcist, Hereditary, Paranormal Activity (first one)"
+          },
+          {
+            "id": -6120369685201653886,
+            "title": "Sinister",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nzx10sca3arCeYBAomHan4Q6wa1.jpg",
+            "release_year": 2012,
+            "plot_summary": "True-crime writer Ellison Oswald is in a slump; he hasn't had a best seller in more than 10 years and is becoming increasingly desperate for a hit. So, when he discovers the existence of a snuff film showing the deaths of a family, he vows to solve the mystery. He moves his own family into the victims' home and gets to work. However, when old film footage and other clues hint at the presence of a supernatural force, Ellison learns that living in the house may be fatal.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 82507,
+            "imdb_id": "tt1922777",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.025781",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kgjuf/",
+            "original_comment_text": "Sinister. I don’t find horror movies scary but this gave me goosebumps and a couple “oh f*ck”s."
+          },
+          {
+            "id": -5081585912373369290,
+            "title": "Martyrs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yfPA9lXqONtLMgZks87ECob1A5.jpg",
+            "release_year": 2008,
+            "plot_summary": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9539,
+            "imdb_id": "tt1029234",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.028796",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kyjro/",
+            "original_comment_text": "The French film “Martyrs”.  I knew nothing about it when i watched it.  It was very disturbing, to say the least."
+          },
+          {
+            "id": -4992483030021658814,
+            "title": "The Descent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "release_year": 2005,
+            "plot_summary": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Horror"
+            ],
+            "tmdb_id": 9392,
+            "imdb_id": "tt0435625",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.098308",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6ko066/",
+            "original_comment_text": "The Descent"
+          },
+          {
+            "id": 8828239020061807474,
+            "title": "Hereditary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "release_year": 2018,
+            "plot_summary": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 493922,
+            "imdb_id": "tt7784604",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.167564",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kglpp/",
+            "original_comment_text": "Hereditary for me."
+          },
+          {
+            "id": 7410777676211921201,
+            "title": "Grave Encounters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8vnsB3Rg9Gb91UOaecXRb7dYB37.jpg",
+            "release_year": 2011,
+            "plot_summary": "A crew from a paranormal reality television show lock themselves in a haunted psychiatric hospital. They search for evidence of paranormal activity as they shoot what ends up becoming their final episode.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 50698,
+            "imdb_id": "tt1703199",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.169711",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6khkdn/",
+            "original_comment_text": "1. Gonjiam Haunted Asylum\n2. Grave encounters (available on YouTube too)"
+          },
+          {
+            "id": 6784644842698508061,
+            "title": "Ring",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vYoj67UxQB7imDDdsY0dZB70oEd.jpg",
+            "release_year": 2021,
+            "plot_summary": "A short film by CertainVids about man who witnesses a turn of events upon finding a ring. This is part 1 of an unknown amount of episodes.",
+            "runtime": "5m",
+            "tmdb_rating": 9.5,
+            "genres": [
+              "Science Fiction"
+            ],
+            "tmdb_id": 840503,
+            "imdb_id": null,
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.236991",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kgeiy/",
+            "original_comment_text": "For me personally, it was RING, the Japanese original version"
+          },
+          {
+            "id": -7979945261059040424,
+            "title": "Candyman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n38YbNqUf5KWpMJFc4X3t0rlhg5.jpg",
+            "release_year": 1992,
+            "plot_summary": "The Candyman, a murderous soul with a hook for a hand, is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 9529,
+            "imdb_id": "tt0103919",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.310686",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kj7n0/",
+            "original_comment_text": "Candy man got me terrified as a kid. We even were too scared too say his name 3 times in the mirror."
+          },
+          {
+            "id": 7222333810316242484,
+            "title": "The Ring",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+            "release_year": 2002,
+            "plot_summary": "Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 565,
+            "imdb_id": "tt0298130",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.455113",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6khpeb/",
+            "original_comment_text": "Just said this in another thread.\n\nThe Changeling. 1980 George C Scott \n\nI rarely get spooked ( laughed my way through the likes of The Exorcist and The Ring ), but this creepy little movie got right under my skin."
+          },
+          {
+            "id": -724383548820983559,
+            "title": "The Changeling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvuAfo9RS6282KYFzd1m7IoyHQo.jpg",
+            "release_year": 1993,
+            "plot_summary": "Just days before her wedding, Beatrice-Joanna has a chance encounter with Alsemero, and realizes that she has met her one true love. To marry the man she loves, she persuades the love-struck henchman De Flores to murder her fiance, but does not anticipate the tragic consequences of her actions.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Romance",
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 233563,
+            "imdb_id": "tt0109397",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.477164",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6khpeb/",
+            "original_comment_text": "Just said this in another thread.\n\nThe Changeling. 1980 George C Scott \n\nI rarely get spooked ( laughed my way through the likes of The Exorcist and The Ring ), but this creepy little movie got right under my skin."
+          },
+          {
+            "id": 3742663104619430935,
+            "title": "Event Horizon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cHoeg3gAD5w63Et5DImY1Jb7HaO.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 8413,
+            "imdb_id": "tt0119081",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.526424",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kjft4/",
+            "original_comment_text": "Event Horizon."
+          },
+          {
+            "id": -6314476777397575783,
+            "title": "Poltergeist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+            "release_year": 1982,
+            "plot_summary": "Upon realizing that something truly evil haunts his home, Steve Freeling calls in a team of parapsychologists to help before it's too late.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 609,
+            "imdb_id": "tt0084516",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.631291",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6kibs3/",
+            "original_comment_text": "Poltergeist did it for me.  I was a young teen.  The closet in my sister’s room reminded me of the closet in the movie.  Didn’t go in there for months afterwards"
+          },
+          {
+            "id": -4850078578390479376,
+            "title": "Gonjiam: Haunted Asylum",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fNqlsmu2tiI1bXcpU31yjHPkiJz.jpg",
+            "release_year": 2018,
+            "plot_summary": "The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 508642,
+            "imdb_id": "tt8119752",
+            "category_title": "Scariest Horror Movie You've Ever Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-08-25T04:27:53.739526",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mfxqwi/scariest_horror_movie_youve_ever_seen/n6khkdn/",
+            "original_comment_text": "1. Gonjiam Haunted Asylum\n2. Grave encounters (available on YouTube too)"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 76,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-25T04:27:28.891666"
+  }
+}

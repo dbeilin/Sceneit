@@ -1,0 +1,1372 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies That Used To Be Thrilling No Longer Have An Impact",
+        "movies": [
+          {
+            "id": -130501210985347956,
+            "title": "Basic Instinct",
+            "poster_url": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+            "release_year": 1992,
+            "plot_summary": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 402,
+            "imdb_id": "tt0103772",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.171813",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 7943786822411461123,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.242732",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": -372657848984656406,
+            "title": "Gloria’s Law: The Devil’s Advocate",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vJ68hFNxYBrcSOQPYTTft2nRbgA.jpg",
+            "release_year": 2017,
+            "plot_summary": "Among France's top lawyers, Gloria Mendoza is a legend. She made a name defending mobsters before widening her list of clients to include ordinary citizens involved in crimes of blood. She won every case, earning the disapproval of the Bar Council for her loose ways with the code of ethics, and became known as \"The Devil's Advocate\". Now retired, Gloria is convinced there's a link between the deaths of a 15-year-old girl and her daughter.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 679873,
+            "imdb_id": null,
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.313006",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": -4855093819242493814,
+            "title": "The Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+            "release_year": 1997,
+            "plot_summary": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 2649,
+            "imdb_id": "tt0119174",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.372353",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tl6n7/",
+            "original_comment_text": "The Game (1997)"
+          },
+          {
+            "id": 8207153246288677280,
+            "title": "Reptile",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bk4WUvoXSqPQGrhOAtt3AR0sUZf.jpg",
+            "release_year": 2023,
+            "plot_summary": "Following the brutal murder of a young real estate agent, a hardened detective attempts to uncover the truth in a case where nothing is as it seems, and by doing so dismantles the illusions in his own life.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 866463,
+            "imdb_id": "tt13274016",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.441781",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 5535953573527313312,
+            "title": "Sicario",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+            "release_year": 2015,
+            "plot_summary": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 273481,
+            "imdb_id": "tt3397884",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.452033",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": -8755140941754174870,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.522691",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tk8vx/",
+            "original_comment_text": "Check out the movie Barbarian and go in completely blind. Very suspenseful movie."
+          },
+          {
+            "id": -4939038412883937007,
+            "title": "Green Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+            "release_year": 2016,
+            "plot_summary": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 313922,
+            "imdb_id": "tt4062536",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.584551",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tkv8r/",
+            "original_comment_text": "Green Room is a trapped room thriller that, while it doesn't have many twists and turns, it more than makes up with raw bite. It's one grisly ass movie."
+          },
+          {
+            "id": -1476510981102775719,
+            "title": "State of Play",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mWsfeSFUM3NxWa62UrA9IIn240B.jpg",
+            "release_year": 2009,
+            "plot_summary": "When a congressional aide is killed, a Washington, D.C. journalist starts investigating the case involving the Representative, his old college friend.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 16995,
+            "imdb_id": "tt0473705",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.659182",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 236138439977414573,
+            "title": "Presumed Innocent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSPWptOsqU1nxXQe6muSPB0kD3c.jpg",
+            "release_year": 1990,
+            "plot_summary": "Rusty Sabich is a deputy prosecutor engaged in an obsessive affair with a coworker who is murdered. Soon after, he's accused of the crime. And his fight to clear his name becomes a whirlpool of lies and hidden passions.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Mystery",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 11092,
+            "imdb_id": "tt0100404",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.735334",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 5697112615197389477,
+            "title": "CURE",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3KbmPXaXQ3YwQMhvwtssl2CkGKR.jpg",
+            "release_year": 2022,
+            "plot_summary": "The story takes place in the near future when everyone in this world of Capital is barcoded, in order to access all personal information. A prisoner of the Capital, Wuyi Wong escapes to the Public Housing, an anarchal free land. Yet he is jailed again here, considered suspicious as a Capital spy. He struggles to prove his innocence in order to remain in the Public Housing, whereas eventually he discovers that the Public Housing is just the Capital in another shape.",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 994903,
+            "imdb_id": "tt21052900",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.808357",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 2223494906357183693,
+            "title": "Gone Baby Gone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wZR1dvctqODqNGv6LJBEj6DQ2zK.jpg",
+            "release_year": 2007,
+            "plot_summary": "When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons—they're not cops and they know the tough neighborhood in which they all live.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 4771,
+            "imdb_id": "tt0452623",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.808742",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 4672759979389890320,
+            "title": "The Girl with the Dragon Tattoo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+            "release_year": 2011,
+            "plot_summary": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+            "runtime": "2h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 65754,
+            "imdb_id": "tt1568346",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.881192",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          },
+          {
+            "id": 8295079328359649104,
+            "title": "Zodiac",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+            "release_year": 2007,
+            "plot_summary": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1949,
+            "imdb_id": "tt0443706",
+            "category_title": "Movies That Used To Be Thrilling No Longer Have An Impact",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:24:53.953604",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvxk7g/no_thriller_movie_hits_me_anymore_please_help/n9tposk/",
+            "original_comment_text": "Gone Girl, Reptile, Sicario, Basic Instinct, Presumed Innocent, The Devil’s Advocate, Cure, Zodiac, Gone Baby Gone, State of Play, The Girl with the Dragon Tattoo, Luce,  I See You, Black Box, The Innocent, The Beasts, The Invisible Guest."
+          }
+        ]
+      },
+      {
+        "name": "Most Fun Movies Of All Time",
+        "movies": [
+          {
+            "id": -1478800722610107650,
+            "title": "Big Trouble in Little China",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+            "release_year": 1986,
+            "plot_summary": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 6978,
+            "imdb_id": "tt0090728",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.008948",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5exik/",
+            "original_comment_text": "**Big Trouble in Little China**"
+          },
+          {
+            "id": -8163640822183520917,
+            "title": "Kung Fu Hustle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+            "release_year": 2004,
+            "plot_summary": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime",
+              "Fantasy"
+            ],
+            "tmdb_id": 9470,
+            "imdb_id": "tt0373074",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.073385",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e6jl/",
+            "original_comment_text": "Kung fu hustle"
+          },
+          {
+            "id": -7912115448709640814,
+            "title": "The Blues Brothers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rhYJKOt6UrQq7JQgLyQcSWW5R86.jpg",
+            "release_year": 1980,
+            "plot_summary": "Jake Blues, just released from prison, puts his old band back together to save the Catholic home where he and his brother Elwood were raised.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Music",
+              "Comedy",
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 525,
+            "imdb_id": "tt0080455",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.079651",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e19b/",
+            "original_comment_text": "The Blues Brothers \n\nGuardians of the Galaxy \n\nClue\n\nArsenic and Old Lace \n\nGalaxy Quest \n\nRobin Hood Men in Tights"
+          },
+          {
+            "id": -2275182109973503386,
+            "title": "Raiders",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4dhYrCD1Mr9yoXVTFCSzkzx5uxY.jpg",
+            "release_year": 2014,
+            "plot_summary": "Approximately 20,000 Russian houses, businesses and private land have been victims of hostile seizures annually by an organized corporation of criminal bosses, politicians, oligarchs and men of law - the 'Raiders'",
+            "runtime": "",
+            "tmdb_rating": 5.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 397976,
+            "imdb_id": "tt4659206",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.145402",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5sk6p/",
+            "original_comment_text": "Raiders is both incredibly fun and a gold mine for great conversations. Sorry to be a hater but what the fuck?"
+          },
+          {
+            "id": -5178334056782130388,
+            "title": "Galaxy Quest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+            "release_year": 1999,
+            "plot_summary": "For four years, the courageous crew of the NSEA protector - \"Commander Peter Quincy Taggart\", \"Lt. Tawny Madison and \"Dr.Lazarus\" - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 926,
+            "imdb_id": "tt0177789",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.146666",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5dz7m/",
+            "original_comment_text": "Galaxy Quest"
+          },
+          {
+            "id": -1592133748152817194,
+            "title": "Guardians of the Galaxy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+            "release_year": 2014,
+            "plot_summary": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 118340,
+            "imdb_id": "tt2015381",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.221755",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e19b/",
+            "original_comment_text": "The Blues Brothers \n\nGuardians of the Galaxy \n\nClue\n\nArsenic and Old Lace \n\nGalaxy Quest \n\nRobin Hood Men in Tights"
+          },
+          {
+            "id": -5661130517722295366,
+            "title": "Clue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o9oVfFGNiQeWpqF6PHSodirh97y.jpg",
+            "release_year": 2022,
+            "plot_summary": "Murder and blackmail are on the menu when six mysterious guests assemble for a dinner party at Boddy Manor. Was it Mrs. Peacock in the study with the knife? Or Colonel Mustard in the library with the wrench? Based on the cult 1985 Paramount movie and inspired by the classic Hasbro game, this farce-meets-murder-mystery is bloody good fun.",
+            "runtime": "1h 15m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 938442,
+            "imdb_id": "tt23379618",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.223167",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e19b/",
+            "original_comment_text": "The Blues Brothers \n\nGuardians of the Galaxy \n\nClue\n\nArsenic and Old Lace \n\nGalaxy Quest \n\nRobin Hood Men in Tights"
+          },
+          {
+            "id": 4838188657038129866,
+            "title": "My Cousin Vinny",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+            "release_year": 1992,
+            "plot_summary": "Two carefree pals from Brooklyn traveling through rural Alabama on their way back to college are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+            "runtime": "2h",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10377,
+            "imdb_id": "tt0104952",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.315177",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5r6ox/",
+            "original_comment_text": "My Cousin Vinny 1992 (my favorite movie and always a good laugh) Marisa Tomei in particular KILLS in this movie"
+          },
+          {
+            "id": -3866978039618455449,
+            "title": "Arsenic and Old Lace",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+            "release_year": 1944,
+            "plot_summary": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 212,
+            "imdb_id": "tt0036613",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.358231",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e19b/",
+            "original_comment_text": "The Blues Brothers \n\nGuardians of the Galaxy \n\nClue\n\nArsenic and Old Lace \n\nGalaxy Quest \n\nRobin Hood Men in Tights"
+          },
+          {
+            "id": 4705253549811710163,
+            "title": "The Fifth Element",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 18,
+            "imdb_id": "tt0119116",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.442236",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5i08n/",
+            "original_comment_text": "The Fifth Element"
+          },
+          {
+            "id": -6830696659383432564,
+            "title": "Dodgeball",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3VAO3BpBRRsQijvQ2rvqnaSoux0.jpg",
+            "release_year": 2001,
+            "plot_summary": "The story of Rose, a new employee at a ruthless company where success is based upon how well you play in the weekly company dodgeball game. It's \"team-building\" taken to an extreme.",
+            "runtime": "20m",
+            "tmdb_rating": 7.0,
+            "genres": [],
+            "tmdb_id": 916060,
+            "imdb_id": "tt0305482",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.507481",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5g2tg/",
+            "original_comment_text": "Blazing saddles, Dodgeball"
+          },
+          {
+            "id": 3186920780969533073,
+            "title": "Robin Hood: Men in Tights",
+            "poster_url": "https://image.tmdb.org/t/p/w500/woexOLEkUlYsPLLuZRK6LjZaF38.jpg",
+            "release_year": 1993,
+            "plot_summary": "Robin Hood comes home after fighting in the Crusades to learn that the noble King Richard is in exile and that the despotic King John now rules England, with the help of the Sheriff of Rottingham. Robin Hood assembles a band of fellow patriots to do battle with King John and the Sheriff.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8005,
+            "imdb_id": "tt0107977",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.585657",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5e19b/",
+            "original_comment_text": "The Blues Brothers \n\nGuardians of the Galaxy \n\nClue\n\nArsenic and Old Lace \n\nGalaxy Quest \n\nRobin Hood Men in Tights"
+          },
+          {
+            "id": -3029418048651632702,
+            "title": "Blazing Saddles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+            "release_year": 1974,
+            "plot_summary": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Western",
+              "Comedy"
+            ],
+            "tmdb_id": 11072,
+            "imdb_id": "tt0071230",
+            "category_title": "Most Fun Movies Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:06.652450",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mxjoqq/most_fun_movies_of_all_time/na5g2tg/",
+            "original_comment_text": "Blazing saddles, Dodgeball"
+          }
+        ]
+      },
+      {
+        "name": "Movies To Go In Blind",
+        "movies": [
+          {
+            "id": -2022053384187622250,
+            "title": "Dark City",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+            "release_year": 1998,
+            "plot_summary": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 2666,
+            "imdb_id": "tt0118929",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.699255",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t98sc/",
+            "original_comment_text": "Dark City, maybe?"
+          },
+          {
+            "id": -4639571661757354618,
+            "title": "Upstream Color",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zeV2KXaluXjXAq9wBg6Q0LHJjNm.jpg",
+            "release_year": 2013,
+            "plot_summary": "A man and woman are drawn together, entangled in the lifecycle of an ageless organism. Identity becomes an illusion as they struggle to assemble the loose fragments of wrecked lives.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 145197,
+            "imdb_id": "tt2084989",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.788661",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tacyi/",
+            "original_comment_text": "Primer.\n\nAnd if that's not enough of a head scratcher, the director's follow up, Upstream Color."
+          },
+          {
+            "id": 5846465055527522466,
+            "title": "The Prestige",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2ZOzyhoW08neG27DVySMCcq2emd.jpg",
+            "release_year": 2006,
+            "plot_summary": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1124,
+            "imdb_id": "tt0482571",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.843664",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t971f/",
+            "original_comment_text": "Triangle\n\nThe Prestige\n\nPi\n\nCabin in the Woods"
+          },
+          {
+            "id": 1481176760286899075,
+            "title": "Triangle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zcmPxGIBxxsGVyYuzNWPCWjlQ8X.jpg",
+            "release_year": 2024,
+            "plot_summary": "Story about a happily married couple visited by an old friend, who ends up stirring the pot by becoming sexually involved with both the husband and the wife.",
+            "runtime": "1h 1m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1357459,
+            "imdb_id": "tt33475745",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.871235",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t971f/",
+            "original_comment_text": "Triangle\n\nThe Prestige\n\nPi\n\nCabin in the Woods"
+          },
+          {
+            "id": -6011671329098530835,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.913126",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tayow/",
+            "original_comment_text": "Memento"
+          },
+          {
+            "id": 7172888669044074414,
+            "title": "The Sting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ckmYng37zey8INYf6d10cVgIG93.jpg",
+            "release_year": 1973,
+            "plot_summary": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 9277,
+            "imdb_id": "tt0070735",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.913558",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tabua/",
+            "original_comment_text": "The Sting (1974 or so)"
+          },
+          {
+            "id": -1063148666316118855,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:11.982601",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tacyi/",
+            "original_comment_text": "Primer.\n\nAnd if that's not enough of a head scratcher, the director's follow up, Upstream Color."
+          },
+          {
+            "id": -3133279948610004524,
+            "title": "Swiss Army Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8pxn8CQ6SD6tly75lrKw08wfZKv.jpg",
+            "release_year": 2016,
+            "plot_summary": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 347031,
+            "imdb_id": "tt4034354",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:12.054746",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tbdqx/",
+            "original_comment_text": "Swiss Army Man"
+          },
+          {
+            "id": -1599737199287859613,
+            "title": "Pi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fJA22FjlAW8rzrOw9Mwanl6oTc9.jpg",
+            "release_year": 1998,
+            "plot_summary": "A mathematical genius discovers a link between numbers and reality, and thus believes he can predict the future.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Mystery",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 473,
+            "imdb_id": "tt0138704",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:12.125369",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t971f/",
+            "original_comment_text": "Triangle\n\nThe Prestige\n\nPi\n\nCabin in the Woods"
+          },
+          {
+            "id": -4204645728241303588,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:12.243153",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t971f/",
+            "original_comment_text": "Triangle\n\nThe Prestige\n\nPi\n\nCabin in the Woods"
+          },
+          {
+            "id": 4822856329518861730,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:12.275368",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9t9a7k/",
+            "original_comment_text": "From dusk til dawn"
+          },
+          {
+            "id": -6016110505593324219,
+            "title": "Twelve Monkeys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+            "release_year": 1995,
+            "plot_summary": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 63,
+            "imdb_id": "tt0114746",
+            "category_title": "Movies To Go In Blind",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:12.456091",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvwlvu/whats_a_good_film_to_go_in_blind/n9tb8e7/",
+            "original_comment_text": "12 Monkeys\n\nVideodrome \n\nThe Fly 1986"
+          }
+        ]
+      },
+      {
+        "name": "Films That Changed You",
+        "movies": [
+          {
+            "id": -3117691559784023660,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:16.980171",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag3x0j/",
+            "original_comment_text": "Idiocracy."
+          },
+          {
+            "id": -6682145678413288293,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:16.994040",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4b1e/",
+            "original_comment_text": "Mulholland Drive"
+          },
+          {
+            "id": 6154127517458051703,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.001268",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag938y/",
+            "original_comment_text": "Dead Poets Society.   Love Robin Williams."
+          },
+          {
+            "id": -2521933883501583907,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.007797",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4v9h/",
+            "original_comment_text": "The Matrix"
+          },
+          {
+            "id": -5321858726326281765,
+            "title": "The Seventh Seal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+            "release_year": 1957,
+            "plot_summary": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 490,
+            "imdb_id": "tt0050976",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.008627",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4wp2/",
+            "original_comment_text": "The Seventh Seal\n\nAs someone who grew up very religious and eventually drifted towards agnosticism, it was shocking to see a depiction of someone who wants to believe but can’t because of the things they’ve seen (and done). The ending shook me because it made me understand what it might mean to live a good life in a world where you see no deeper, transcendent meaning or purpose. That is (perhaps ironically): treat others as though they are more important than yourself."
+          },
+          {
+            "id": -6479425203298117818,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.009621",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagwioa/",
+            "original_comment_text": "The Secret Life of Walter Mitty"
+          },
+          {
+            "id": -2155019868248183164,
+            "title": "Stranger Than Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_year": 2006,
+            "plot_summary": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 1262,
+            "imdb_id": "tt0420223",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.009888",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag8957/",
+            "original_comment_text": "Stranger than Fiction. \nNot only is it the first film I ever watched Will Ferrell be serious in, it ultimately ended up being my favorite movie of all time. For anyone about to, going through, or over their midlife crisis this film is an absolute must watch. Multiple times."
+          },
+          {
+            "id": -1885972954950250528,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.011365",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagn990/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind"
+          },
+          {
+            "id": 2808456835640622778,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.016091",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagmy6r/",
+            "original_comment_text": "The Florida Project. \n\n***SPOILER***\n>!My parents were addicts and I experienced their decline as a kid, eventually being removed by CPS. This movie is by far the most realistic representation I have seen as far as what living that way is like as a child. Having little supervision, still doing childlike things and having fun with it, even having fun with and loving broken parents, but also being exposed to inappropriate things and slowly gaining awareness of that... And the feeling of being removed from your family...!<\n\n\nI love that they didn't make this movie overly dramatic or judgemental or preachy. It just let you get a glimpse into the lives of people who are often unseen. It was the first time a movie about this topic made *me* feel seen."
+          },
+          {
+            "id": 7799356688432211210,
+            "title": "Koyaanisqatsi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+            "release_year": 1983,
+            "plot_summary": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Drama"
+            ],
+            "tmdb_id": 11314,
+            "imdb_id": "tt0085809",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.019768",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag68gb/",
+            "original_comment_text": "Koyaanisqatsi"
+          },
+          {
+            "id": -8968399513172564977,
+            "title": "Not Without My Daughter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aEMncPIHISpaIJmYaIstS0TVnb7.jpg",
+            "release_year": 1991,
+            "plot_summary": "An American woman, trapped in Islamic Iran by her brutish husband, must find a way to escape with her daughter as well.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9585,
+            "imdb_id": "tt0102555",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.038142",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/naggrif/",
+            "original_comment_text": "Not Without My Daughter. It horrified me and changed how I see controlling men/religions."
+          },
+          {
+            "id": 5233595767705490962,
+            "title": "The Good Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jpRumFobwgPzxj5YH33Wswnxdam.jpg",
+            "release_year": 2002,
+            "plot_summary": "A discount store clerk strikes up an affair with a stock boy who considers himself the incarnation of Holden Caulfield.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 9962,
+            "imdb_id": "tt0279113",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.064424",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag3c87/",
+            "original_comment_text": "The Good Girl (2002) helped me to finally understand why I was depressed and that I needed to do something to avoid becoming like the main character. Also convinced me that Jennifer Aniston is a really underrated actress whose career has been unfairly mischaracterised."
+          },
+          {
+            "id": -6188013460084905538,
+            "title": "The Whale",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg",
+            "release_year": 2022,
+            "plot_summary": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 785084,
+            "imdb_id": "tt13833688",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.110743",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagasbv/",
+            "original_comment_text": "The Whale…It gets deeper every time I watch it."
+          },
+          {
+            "id": 4715676298206752830,
+            "title": "Thirteen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uzTLlZrNF6rMPBh5mUQu6vLnTtX.jpg",
+            "release_year": 2003,
+            "plot_summary": "When average 13-year-old Tracy befriends Evie, the most popular girl in school, Tracy's world is turned upside down as Evie introduces her to a world of sex, drugs and cash. But it isn't long before Tracy's new world and attitude finally takes a toll on her, her family, and old friends.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 11023,
+            "imdb_id": "tt0328538",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:17.135483",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag3vao/",
+            "original_comment_text": "Thirteen"
+          }
+        ]
+      },
+      {
+        "name": "Films That Capture Pure, Dreamlike Atmosphere",
+        "movies": [
+          {
+            "id": 4466479395201579439,
+            "title": "Lost in Translation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg",
+            "release_year": 2003,
+            "plot_summary": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 153,
+            "imdb_id": "tt0335266",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.110496",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 7950049211489321953,
+            "title": "Under the Skin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+            "release_year": 2014,
+            "plot_summary": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 97370,
+            "imdb_id": "tt1441395",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.134100",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 534761499152795184,
+            "title": "Suspiria",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dzWTnkert9EoiPWldWJ15dnfAFl.jpg",
+            "release_year": 2018,
+            "plot_summary": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+            "runtime": "2h 32m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 361292,
+            "imdb_id": "tt1034415",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.182377",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 86509206255642915,
+            "title": "Mirror",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bD5QZgvqC38r0fO5r8NPEbOlQlr.jpg",
+            "release_year": 2017,
+            "plot_summary": "The reflections we see in the mirrors are not us but of the actors who interpret us. What would happen if one of them got tired of not being himself?",
+            "runtime": "10m",
+            "tmdb_rating": 3.5,
+            "genres": [
+              "Science Fiction"
+            ],
+            "tmdb_id": 770921,
+            "imdb_id": "tt8478878",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.204728",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": -7242567078176281325,
+            "title": "Stalker",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g6aZ3KUntef8IbT16uMNSkcUPe1.jpg",
+            "release_year": 2023,
+            "plot_summary": "Rose Hepburn, a young actor working in horror movies, returns to her empty hotel. Forced to use the old freight elevator, it jolts to a halt on the twelfth floor, leaving her trapped with an unusual stranger. Left with no mobile phone signal as a storm approaches, tensions escalate and suspicions rise when Rose discovers the identity of the mysterious man is Daniel Reed, a camera operator on her latest movie, who is seemingly obsessed with her. As the elevator hangs precariously high about to plunge down at any minute, some harsh truths and actions start unfolding.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1004130,
+            "imdb_id": "tt21379060",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.204904",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": -4058551738709252504,
+            "title": "The Fountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bKAm43b487StTXFgNIiin7EBEMN.jpg",
+            "release_year": 1934,
+            "plot_summary": "Set during the first World War in neutral, but pro-German, Holland, Lewis Allison, an interned British officer, is paroled to the castle of Baron Von Leyden and finds living there, but now married to German officer Rupert Von Narwitz, his childhood sweetheart Julie. Long discussions between Julie and Allison, centering on family conflicts that kept them apart, take place before the severely wounded Von Narwitz returns to the castle and more long discussions ensue.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 9.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 263190,
+            "imdb_id": "tt0025133",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.252060",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": -7485429878971422340,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Fy52iMUlyJUZfMxBk9BSueUAF1.jpg",
+            "release_year": 1926,
+            "plot_summary": "Professional dancer Diotima finds herself the apex of a love triangle when she is pursued by two mountain climbers, Vigo and his older friend.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 94658,
+            "imdb_id": "tt0016953",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.274431",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 5658950985349503897,
+            "title": "Only Lovers Left Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_year": 2013,
+            "plot_summary": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 152603,
+            "imdb_id": "tt1714915",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.332057",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 849153085825117200,
+            "title": "Pan's Labyrinth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s8C4whhKtDaJvMDcyiMvx3BIF5F.jpg",
+            "release_year": 2006,
+            "plot_summary": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 1417,
+            "imdb_id": "tt0457430",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.396245",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": -7309513218971261550,
+            "title": "The Tree of Life",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+            "release_year": 2011,
+            "plot_summary": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father. Jack finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 8967,
+            "imdb_id": "tt0478304",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.467928",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 2234050597600941879,
+            "title": "Wings of Desire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+            "release_year": 1987,
+            "plot_summary": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds -- with some words of wisdom from actor Peter Falk -- that it might be possible for him to take human form.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 144,
+            "imdb_id": "tt0093191",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.493429",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          },
+          {
+            "id": 6027169071761356552,
+            "title": "A Ghost Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rp5JPIyZi9sMob15l46zNQLe5cO.jpg",
+            "release_year": 2017,
+            "plot_summary": "Recently deceased, a white-sheeted ghost returns to his suburban home to console his bereft wife, only to find that in his spectral state he has become unstuck in time, forced to watch passively as the life he knew and the woman he loves slowly slip away.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Mystery",
+              "Romance"
+            ],
+            "tmdb_id": 428449,
+            "imdb_id": "tt6265828",
+            "category_title": "Films That Capture Pure, Dreamlike Atmosphere",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-25T04:27:21.537172",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mvcoms/which_film_captures_pure_atmosphere_so_well_it/n9p76e6/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind (2004)\n\n\n\nLost in Translation (2003)\n\n\n\nThe Tree of Life (2011)\n\n\n\nThe Holy Mountain (1973)\n\n\n\nMulholland Drive (2001)\n\n\n\nSuspiria (1977)\n\n\n\nUnder the Skin (2013)\n\n\n\nMirror (1975)\n\n\n\nStalker (1979)\n\n\n\nThe Fountain (2006)\n\n\n\nPan’s Labyrinth (2006)\n\n\n\nOnly Lovers Left Alive (2013)\n\n\n\nWings of Desire (1987)\n\n\n\nA Ghost Story (2017)\n\n\n\nBrazil (1985)\n\n\n\nThe Double Life of Veronique (1991)\n\n\n\nBaraka (1992)\n\n\n\nSamsara (2011)"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 65,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-25T04:24:53.171813"
+  }
+}

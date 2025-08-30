@@ -1,0 +1,1314 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Most Underrated Documentary You've Seen",
+        "movies": [
+          {
+            "id": -1416280377617207569,
+            "title": "The Alpinist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
+            "release_year": 2021,
+            "plot_summary": "Marc-André Leclerc, an exceptional climber, has made solo his religion and ice his homeland. When filmmaker Peter Mortimer begins his film, he places his camera at the base of a British Columbia cliff and waits patiently for the star climber to come down to answer his questions. Marc André, a little uncomfortable, prefers to return to the depths of the forest where he lives in a tent with his girlfriend Brette Harrington. In the heart of winter, Peter films vertiginous solos on fragile ice. He tries to make appointments with the climber who is never there and does not seem really concerned by this camera pointed at him \"For me, it would not be a solo if there was someone else\" . Marc-André is thus, the \"pure light\" of the mountaineers of his time, which marvel Barry Blanchard, Alex Honnold or Reinhold Messner, interviewed in the film. An event film for an extraordinary character.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682587,
+            "imdb_id": "tt11790780",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.629059",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas7vrp/",
+            "original_comment_text": "The Alpinist"
+          },
+          {
+            "id": 6135283617952651655,
+            "title": "Grizzly Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+            "release_year": 2005,
+            "plot_summary": "Werner Herzog's documentary film about the \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in one man's attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 501,
+            "imdb_id": "tt0427312",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.638169",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": -5162816076327269005,
+            "title": "American Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qAoIbQDnbGgiLDBUtOh7JUe5XQX.jpg",
+            "release_year": 1999,
+            "plot_summary": "American Movie documents the story of filmmaker Mark Borchardt, his mission, and his dream. Spanning over two years of intense struggle with his film, his family, financial decline, and spiritual crisis, American Movie is a portrayal of ambition, obsession, excess, and one man's quest for the American Dream.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Documentary",
+              "Comedy"
+            ],
+            "tmdb_id": 14242,
+            "imdb_id": "tt0181288",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.697749",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nash8p0/",
+            "original_comment_text": "American Movie is such a perfect documentary that it feels like a mockumentary."
+          },
+          {
+            "id": 3036274263956861370,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.704006",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": 2230634331416255097,
+            "title": "The Queen of Versailles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eFMRyapxD7XP5Boj6CLaDtQ1m3o.jpg",
+            "release_year": 2012,
+            "plot_summary": "With the epic dimensions of a Shakespearean tragedy, The Queen of Versailles follows billionaires Jackie and David’s rags-to-riches story to uncover the innate virtues and flaws of their American dream. We open on the triumphant construction of the biggest house in America, a sprawling, 90,000-square-foot mansion inspired by Versailles. Since a booming time-share business built on the real-estate bubble is financing it, the economic crisis brings progress to a halt and seals the fate of its owners. We witness the impact of this turn of fortune over the next two years in a riveting film fraught with delusion, denial, and self-effacing humor.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 84327,
+            "imdb_id": "tt2125666",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.750292",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": 8394577577473672609,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.766575",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nase0df/",
+            "original_comment_text": "Three Identical Strangers.  Just... WOW."
+          },
+          {
+            "id": 3104310245420809048,
+            "title": "Salesman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQhe7uWygmAiQ6HNA7Jeys4wdbk.jpg",
+            "release_year": 1969,
+            "plot_summary": "This documentary from Albert and David Maysles follows the bitter rivalry of four door-to-door salesmen working for the Mid-American Bible Company: Paul \"The Badger\" Brennan, Charles \"The Gipper\" McDevitt, James \"The Rabbit\" Baker and Raymond \"The Bull\" Martos. Times are tough for this hard-living quartet, who spend their days traveling through small-town America, trying their best to peddle gold-leaf Bibles to an apathetic crowd of lower-middle-class housewives and elderly couples.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 27375,
+            "imdb_id": "tt0064921",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.774979",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -8909164796220472469,
+            "title": "The Tower",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Jilc07Guz1uDW3NcOKLp0ZsOrd.jpg",
+            "release_year": 2024,
+            "plot_summary": "A young woman engages the services of a tarot card reader and gets more than she bargained for.",
+            "runtime": "4m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1286976,
+            "imdb_id": null,
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.812743",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas9h9m/",
+            "original_comment_text": "The Tower about the University of Texas clock tower shooting. It’s incredible. Very suspenseful, even if you know what happened."
+          },
+          {
+            "id": 512930419236261703,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.850803",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas9ojx/",
+            "original_comment_text": "Idiocracy"
+          },
+          {
+            "id": 6817548378316525348,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "imdb_id": "tt2125608",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.888291",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasa9f3/",
+            "original_comment_text": "Searching for Sugarman….so so good"
+          },
+          {
+            "id": 2596068569814250719,
+            "title": "Vernon, Florida",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dqcUISuve7pUcGT75Kwa0E8Sz6H.jpg",
+            "release_year": 1981,
+            "plot_summary": "Early Errol Morris documentary intersplices random chatter he captured on film of the genuinely eccentric residents of Vernon, Florida. A few examples? The preacher giving a sermon on the definition of the word \"Therefore,\" and the obsessive turkey hunter who speaks reverentially of the \"gobblers\" he likes to track down and kill.",
+            "runtime": "55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 30142,
+            "imdb_id": "tt0083281",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:16.929545",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -8490965685890040377,
+            "title": "Gates of Heaven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+            "release_year": 1978,
+            "plot_summary": "A documentary about a pet cemetery in California, and the people who have pets buried there.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 24998,
+            "imdb_id": "tt0077598",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:17.121268",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -5076783097814415099,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+            "release_year": 1988,
+            "plot_summary": "Errol Morris's unique documentary dramatically re-enacts the crime scene and investigation of a police officer's murder in Dallas.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Documentary"
+            ],
+            "tmdb_id": 14285,
+            "imdb_id": "tt0096257",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:17.175729",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          }
+        ]
+      },
+      {
+        "name": "Movies Where Society Is Decaying",
+        "movies": [
+          {
+            "id": -977668650015490086,
+            "title": "Blade Runner 2049",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "release_year": 2017,
+            "plot_summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 335984,
+            "imdb_id": "tt1856101",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.121071",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3w8tf/",
+            "original_comment_text": "Blade Runner 2049"
+          },
+          {
+            "id": -1500628586544029236,
+            "title": "District 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+            "release_year": 2009,
+            "plot_summary": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Science Fiction"
+            ],
+            "tmdb_id": 17654,
+            "imdb_id": "tt1136608",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.262600",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3wyz2/",
+            "original_comment_text": "District 9"
+          },
+          {
+            "id": 6645238348485808359,
+            "title": "Elysium",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
+            "release_year": 2013,
+            "plot_summary": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 68724,
+            "imdb_id": "tt1535108",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.320093",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3y3hd/",
+            "original_comment_text": "Elysium (2013)"
+          },
+          {
+            "id": 6224126998328183353,
+            "title": "Mad Max",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+            "release_year": 1979,
+            "plot_summary": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9659,
+            "imdb_id": "tt0079501",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.346043",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3vi7w/",
+            "original_comment_text": "Mad Max (1979)"
+          },
+          {
+            "id": -5689806797838295687,
+            "title": "V for Vendetta",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 752,
+            "imdb_id": "tt0434409",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.349286",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb41l5x/",
+            "original_comment_text": "V for Vendetta"
+          },
+          {
+            "id": 3313264458402060169,
+            "title": "In Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+            "release_year": 2011,
+            "plot_summary": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 49530,
+            "imdb_id": "tt1637688",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.398035",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3vz87/",
+            "original_comment_text": "In Time"
+          },
+          {
+            "id": 6492893617498889044,
+            "title": "Brazil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+            "release_year": 1985,
+            "plot_summary": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 68,
+            "imdb_id": "tt0088846",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.418002",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3wbam/",
+            "original_comment_text": "Brazil"
+          },
+          {
+            "id": -2104805325283312304,
+            "title": "1984",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fnrKp98LGLaYC5a29fNAQSxGYIl.jpg",
+            "release_year": 2023,
+            "plot_summary": "In a bleak and oppressive totalitarian society ruled by Big Brother, personal freedoms are nonexistent and surveillance is constant. Art is mocked and destroyed, and imagination is considered a serious illness. In this grim world, a brilliant mathematician engages in a forbidden romance with a colleague and learns about a secret resistance. He is faced with a choice - to join or betray it.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 1107550,
+            "imdb_id": "tt23769666",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.461387",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3w5d2/",
+            "original_comment_text": "1984 with Sir John Hurt.  It's the OG societal rot story."
+          },
+          {
+            "id": 6768031241281877174,
+            "title": "Aniara",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEpEJe8NTmwWL0hwYkZguTzEqzt.jpg",
+            "release_year": 2019,
+            "plot_summary": "A ship carrying settlers to a new home on Mars after Earth is rendered uninhabitable is knocked off-course, causing the passengers to consider their place in the universe.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 496743,
+            "imdb_id": "tt7589524",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.497100",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3yem9/",
+            "original_comment_text": "Aniara probably fits. A spaceship filled with people moving to a new planet loses its propulsion systems and they realize they will be drifting in space for eternity. Society degrades as a result"
+          },
+          {
+            "id": 7733250504966211814,
+            "title": "Eleventh Station",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fd3KvaJc2xV1xsZ7C695n4GjWAC.jpg",
+            "release_year": 2017,
+            "plot_summary": "A FILM ON THE TRIBAL LIFE AT WYNAD.  DIRECTED BY  RENJITH CHITADE",
+            "runtime": "1h 16m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 495308,
+            "imdb_id": null,
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.533113",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb42e1l/",
+            "original_comment_text": "The hbo interpretation of Station Eleven is beautiful."
+          },
+          {
+            "id": 5680247107287828217,
+            "title": "They Live",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+            "release_year": 1988,
+            "plot_summary": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 8337,
+            "imdb_id": "tt0096256",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.565519",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3zdv7/",
+            "original_comment_text": "They Live\n\nDemolition Man"
+          },
+          {
+            "id": 8967730078476612450,
+            "title": "Escape from New York",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+            "release_year": 1981,
+            "plot_summary": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 1103,
+            "imdb_id": "tt0082340",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.603187",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3xw9p/",
+            "original_comment_text": "Escape From New York 1981"
+          },
+          {
+            "id": -6147522059200647081,
+            "title": "Demolition Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+            "release_year": 1993,
+            "plot_summary": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Crime",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9739,
+            "imdb_id": "tt0106697",
+            "category_title": "Movies Where Society Is Decaying",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:21.760969",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3zdv7/",
+            "original_comment_text": "They Live\n\nDemolition Man"
+          }
+        ]
+      },
+      {
+        "name": "Zodiac (2007): A Gripping True Crime Thriller",
+        "movies": [
+          {
+            "id": -1068760745170590609,
+            "title": "Longlegs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+            "release_year": 2024,
+            "plot_summary": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1226578,
+            "imdb_id": "tt23468450",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.206926",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/naxdgsn/",
+            "original_comment_text": "This one, Seven, and his great \"Girl with the Dragon tattoo\" remake are about the only things that come close to - also with regards to rewatchability - scritching that \"Silence of the Lambs\" urge for me. \n\nHigh-class crime thrillers/procedurals are probably my favourite genre, unfortunately it's a sub-genre rather limited in terms of quantity. \n\nHad high hopes for \"Longlegs\" and loved certain aspects of it (the cinemtaography and the overall athmosphere of dread and suspense), but Nicolas Cage (although I love him) and the supernatural aspects threw me off in the last act."
+          },
+          {
+            "id": -6401854187720136425,
+            "title": "Seven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/duzTrLUihxkKyX2NnF9ImR0hhuA.jpg",
+            "release_year": 2022,
+            "plot_summary": "Grieving over his lost one, a man named Seven must handle his depression while doing his best to avoid his suicidal attempts.",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 950763,
+            "imdb_id": null,
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.274010",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/naxdgsn/",
+            "original_comment_text": "This one, Seven, and his great \"Girl with the Dragon tattoo\" remake are about the only things that come close to - also with regards to rewatchability - scritching that \"Silence of the Lambs\" urge for me. \n\nHigh-class crime thrillers/procedurals are probably my favourite genre, unfortunately it's a sub-genre rather limited in terms of quantity. \n\nHad high hopes for \"Longlegs\" and loved certain aspects of it (the cinemtaography and the overall athmosphere of dread and suspense), but Nicolas Cage (although I love him) and the supernatural aspects threw me off in the last act."
+          },
+          {
+            "id": 2279252226780826123,
+            "title": "The Girl with the Dragon Tattoo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6w0TKhfR0Rzby5SXxgfuI99Jrva.jpg",
+            "release_year": 2009,
+            "plot_summary": "Swedish thriller based on Stieg Larsson's novel about a male journalist and a young female hacker. In the opening of the movie, Mikael Blomkvist, a middle-aged publisher for the magazine Millennium, loses a libel case brought by corrupt Swedish industrialist Hans-Erik Wennerström. Nevertheless, he is hired by Henrik Vanger in order to solve a cold case, the disappearance of Vanger's niece",
+            "runtime": "2h 32m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 15472,
+            "imdb_id": "tt1132620",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.336796",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/naxdgsn/",
+            "original_comment_text": "This one, Seven, and his great \"Girl with the Dragon tattoo\" remake are about the only things that come close to - also with regards to rewatchability - scritching that \"Silence of the Lambs\" urge for me. \n\nHigh-class crime thrillers/procedurals are probably my favourite genre, unfortunately it's a sub-genre rather limited in terms of quantity. \n\nHad high hopes for \"Longlegs\" and loved certain aspects of it (the cinemtaography and the overall athmosphere of dread and suspense), but Nicolas Cage (although I love him) and the supernatural aspects threw me off in the last act."
+          },
+          {
+            "id": 3766329556473033599,
+            "title": "Silence of the Lambs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cU6gd6i1tnXnPzO2RaNcQp87y7h.jpg",
+            "release_year": 2022,
+            "plot_summary": "A drama about the conflict between Captain Choi Hyeong-won, who has to silence a case to seize the last chance of promotion",
+            "runtime": "1h 4m",
+            "tmdb_rating": 4.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1064810,
+            "imdb_id": null,
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.411838",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/naxdgsn/",
+            "original_comment_text": "This one, Seven, and his great \"Girl with the Dragon tattoo\" remake are about the only things that come close to - also with regards to rewatchability - scritching that \"Silence of the Lambs\" urge for me. \n\nHigh-class crime thrillers/procedurals are probably my favourite genre, unfortunately it's a sub-genre rather limited in terms of quantity. \n\nHad high hopes for \"Longlegs\" and loved certain aspects of it (the cinemtaography and the overall athmosphere of dread and suspense), but Nicolas Cage (although I love him) and the supernatural aspects threw me off in the last act."
+          },
+          {
+            "id": 2066013294746228363,
+            "title": "Panic Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+            "release_year": 2002,
+            "plot_summary": "Trapped in their New York brownstone's panic room, a hidden chamber built as a sanctuary in the event of break-ins, newly divorced Meg Altman and her young daughter Sarah play a deadly game of cat-and-mouse with three intruders - Burnham, Raoul and Junior - during a brutal home invasion. But the room itself is the focal point because what the intruders really want is inside it.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 4547,
+            "imdb_id": "tt0258000",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.544130",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/nax7hmp/",
+            "original_comment_text": "I completely agree. From the opening scenes I was pretty shook with fear and mystery. \n\nDavid Fincher is superb. Panic Room, Zodiac, The Girl With The Dragon Tattoo, Gone Girl and Producer for Mindhunter plus more classics!"
+          },
+          {
+            "id": 2278213406268130921,
+            "title": "Memories of Murder",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2cpYsFeDLju5dk0f9NCG2wxPsf8.jpg",
+            "release_year": 1990,
+            "plot_summary": "A woman who had been suffering from amnesia suddenly gets her memory back. However, she finds that she's now married to a man who she doesn't think she really loves, and she keeps having visions of a young woman who she believes is out to kill her--but she can't get anyone to listen.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller",
+              "TV Movie"
+            ],
+            "tmdb_id": 305603,
+            "imdb_id": "tt0100132",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.552788",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/naz2xq2/",
+            "original_comment_text": "If you like that it's worth watching Memories Of Murder, A korean true crime film that has a lot of similarities."
+          },
+          {
+            "id": 2279252226780826123,
+            "title": "The Girl with the Dragon Tattoo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+            "release_year": 2011,
+            "plot_summary": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+            "runtime": "2h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 65754,
+            "imdb_id": "tt1568346",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.619258",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/nax7hmp/",
+            "original_comment_text": "I completely agree. From the opening scenes I was pretty shook with fear and mystery. \n\nDavid Fincher is superb. Panic Room, Zodiac, The Girl With The Dragon Tattoo, Gone Girl and Producer for Mindhunter plus more classics!"
+          },
+          {
+            "id": -5444067526518405973,
+            "title": "Zodiac",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6YmeO4pB7XTh8P8F960O1uA14JO.jpg",
+            "release_year": 2007,
+            "plot_summary": "The Zodiac murders cause the lives of Paul Avery, David Toschi and Robert Graysmith to intersect.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1949,
+            "imdb_id": "tt0443706",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.683519",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/nax7hmp/",
+            "original_comment_text": "I completely agree. From the opening scenes I was pretty shook with fear and mystery. \n\nDavid Fincher is superb. Panic Room, Zodiac, The Girl With The Dragon Tattoo, Gone Girl and Producer for Mindhunter plus more classics!"
+          },
+          {
+            "id": -9124447154952300895,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.763078",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/nax7hmp/",
+            "original_comment_text": "I completely agree. From the opening scenes I was pretty shook with fear and mystery. \n\nDavid Fincher is superb. Panic Room, Zodiac, The Girl With The Dragon Tattoo, Gone Girl and Producer for Mindhunter plus more classics!"
+          },
+          {
+            "id": -4890587646051774118,
+            "title": "Mindhunters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uTTGRvnqCI9ZC7WkyP9u7XRiOaA.jpg",
+            "release_year": 2004,
+            "plot_summary": "Trainees in the FBI's psychological profiling program must put their training into practice when they discover a killer in their midst.  Based very loosely on Agatha Christie's And Then There Were None.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 16617,
+            "imdb_id": "tt0297284",
+            "category_title": "Zodiac (2007): A Gripping True Crime Thriller",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:24.903013",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n1cyg7/zodiac_2007_might_be_one_of_the_most_gripping/nax7hmp/",
+            "original_comment_text": "I completely agree. From the opening scenes I was pretty shook with fear and mystery. \n\nDavid Fincher is superb. Panic Room, Zodiac, The Girl With The Dragon Tattoo, Gone Girl and Producer for Mindhunter plus more classics!"
+          }
+        ]
+      },
+      {
+        "name": "Films That Changed You",
+        "movies": [
+          {
+            "id": -8694870551548047131,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:30.671286",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagwioa/",
+            "original_comment_text": "The Secret Life of Walter Mitty"
+          },
+          {
+            "id": -7013126798901704137,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.007133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4b1e/",
+            "original_comment_text": "Mulholland Drive"
+          },
+          {
+            "id": 8601351028420493292,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.075276",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag938y/",
+            "original_comment_text": "Dead Poets Society.   Love Robin Williams."
+          },
+          {
+            "id": 1987372960998003461,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.079440",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagv7s7/",
+            "original_comment_text": "Arrival. I feel like my perception and experience of time has been fundamentally altered since watching that movie and reading the short story it’s based off of (Story of Your Life by Ted Chiang). Not quite as drastically as it’s depicted in the movie, but definitely a paradigm shifting experience for me."
+          },
+          {
+            "id": -6895672879789191909,
+            "title": "Contact",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bCpMIywuNZeWt3i5UMLEIc0VSwM.jpg",
+            "release_year": 1997,
+            "plot_summary": "A radio astronomer receives the first extraterrestrial radio signal ever picked up on Earth. As the world powers scramble to decipher the message and decide upon a course of action, she must make some difficult decisions between her beliefs, the truth, and reality.",
+            "runtime": "2h 30m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 686,
+            "imdb_id": "tt0118884",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.124126",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagd5yh/",
+            "original_comment_text": "Contact with Jodie Foster"
+          },
+          {
+            "id": 4002409201751307599,
+            "title": "Stranger Than Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_year": 2006,
+            "plot_summary": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 1262,
+            "imdb_id": "tt0420223",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.141212",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag8957/",
+            "original_comment_text": "Stranger than Fiction. \nNot only is it the first film I ever watched Will Ferrell be serious in, it ultimately ended up being my favorite movie of all time. For anyone about to, going through, or over their midlife crisis this film is an absolute must watch. Multiple times."
+          },
+          {
+            "id": -440457169298939063,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.145777",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4v9h/",
+            "original_comment_text": "The Matrix"
+          },
+          {
+            "id": 1302197490865319151,
+            "title": "Koyaanisqatsi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+            "release_year": 1983,
+            "plot_summary": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Drama"
+            ],
+            "tmdb_id": 11314,
+            "imdb_id": "tt0085809",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.196513",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag68gb/",
+            "original_comment_text": "Koyaanisqatsi"
+          },
+          {
+            "id": -58206016478298046,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.219200",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagn990/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind"
+          },
+          {
+            "id": -8835364939749372364,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.264206",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagmy6r/",
+            "original_comment_text": "The Florida Project. \n\n***SPOILER***\n>!My parents were addicts and I experienced their decline as a kid, eventually being removed by CPS. This movie is by far the most realistic representation I have seen as far as what living that way is like as a child. Having little supervision, still doing childlike things and having fun with it, even having fun with and loving broken parents, but also being exposed to inappropriate things and slowly gaining awareness of that... And the feeling of being removed from your family...!<\n\n\nI love that they didn't make this movie overly dramatic or judgemental or preachy. It just let you get a glimpse into the lives of people who are often unseen. It was the first time a movie about this topic made *me* feel seen."
+          },
+          {
+            "id": -8816994177822490020,
+            "title": "Gattaca",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eSKr5Fl1MEC7zpAXaLWBWSBjgJq.jpg",
+            "release_year": 1997,
+            "plot_summary": "Vincent is an all-too-human man who dares to defy a system obsessed with genetic perfection. He is an \"In-Valid\" who assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Mystery",
+              "Romance"
+            ],
+            "tmdb_id": 782,
+            "imdb_id": "tt0119177",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.296856",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nagvncu/",
+            "original_comment_text": "Gattaca\n\n>*You want to know how I did it? This is how I did it, Anton: I never saved anything for the swim back.*"
+          },
+          {
+            "id": -8663792260109638098,
+            "title": "The Seventh Seal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+            "release_year": 1957,
+            "plot_summary": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 490,
+            "imdb_id": "tt0050976",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.333378",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/nag4wp2/",
+            "original_comment_text": "The Seventh Seal\n\nAs someone who grew up very religious and eventually drifted towards agnosticism, it was shocking to see a depiction of someone who wants to believe but can’t because of the things they’ve seen (and done). The ending shook me because it made me understand what it might mean to live a good life in a world where you see no deeper, transcendent meaning or purpose. That is (perhaps ironically): treat others as though they are more important than yourself."
+          },
+          {
+            "id": 7557940037928262919,
+            "title": "Midsommar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+            "release_year": 2019,
+            "plot_summary": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 530385,
+            "imdb_id": "tt8772262",
+            "category_title": "Films That Changed You",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:31.385081",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mz1ys0/whats_a_film_that_didnt_just_entertain_you_but/naibe6c/",
+            "original_comment_text": "Midsommar. Seeing how her boyfriend treated her but she literally had no one else in the world, that hit me in the gut so hard. I've been there, I've had that boyfriend, with no other friends or family support. And her desperate longing to belong somewhere, and among people who could share her pain and not make her feel needy, finally finding her \"home\" (even in the creepiest of places), it all resonated with me. It was the first time I felt seen on screen."
+          }
+        ]
+      },
+      {
+        "name": "Fun 80s Movie Recommendation",
+        "movies": [
+          {
+            "id": -7569165851922676351,
+            "title": "Big Trouble in Little China",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+            "release_year": 1986,
+            "plot_summary": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 6978,
+            "imdb_id": "tt0090728",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:35.764778",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8wv3r/",
+            "original_comment_text": "Big Trouble In Little China"
+          },
+          {
+            "id": 3947311854887385599,
+            "title": "Weird Science",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jaEauZd2joSAKn42D83gm3S0y3F.jpg",
+            "release_year": 1985,
+            "plot_summary": "Two unpopular teenagers, Gary and Wyatt, fail at all attempts to be accepted by their peers. Their desperation to be liked leads them to \"create\" a woman via their computer. Their living and breathing creation is a gorgeous woman, Lisa, whose purpose is to boost their confidence level by putting them into situations which require Gary and Wyatt to act like men.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Science Fiction",
+              "Romance"
+            ],
+            "tmdb_id": 11814,
+            "imdb_id": "tt0090305",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:35.912413",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8oita/",
+            "original_comment_text": "Weird Science."
+          },
+          {
+            "id": -2562503363721503143,
+            "title": "Adventures in Babysitting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
+            "release_year": 1987,
+            "plot_summary": "When plans with her boyfriend fall through, high school senior Chris Parker ends up babysitting the Anderson kids, Brad and Sara. What should be a quiet night in, however, turns into a series of ridiculous exploits, starting when they leave the house to pick up Chris' friend Brenda. Soon, Brad's buddy Daryl is involved, and the group must contend with car thieves, blues musicians and much more.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 14367,
+            "imdb_id": "tt0092513",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:35.985635",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8odv3/",
+            "original_comment_text": "Adventures in Babysitting (1987)\n\nShould be on Disney+"
+          },
+          {
+            "id": 3100687693965281709,
+            "title": "Better Off Dead...",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pHmbSkpxdB7jXozrovEfacArtW0.jpg",
+            "release_year": 1985,
+            "plot_summary": "High school student Lane Meyer sinks into suicidal depression when his girlfriend dumps him for jock Roy Stalin, the high school ski racing champion. Meanwhile, he has to deal with his eccentric family, a tenacious paperboy and an obnoxious neighbor whose mother is hosting a beautiful French exchange student named Monique.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 13667,
+            "imdb_id": "tt0088794",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.022671",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8pu5t/",
+            "original_comment_text": "Better Off Dead is a hoot."
+          },
+          {
+            "id": 5466365522390925132,
+            "title": "Field of Dreams",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vL7F8T9B6r4Uztpe1Hw4o63I1m1.jpg",
+            "release_year": 1989,
+            "plot_summary": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 2323,
+            "imdb_id": "tt0097351",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.098524",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8pe4c/",
+            "original_comment_text": "Clue (1985) with Tim Curry and Michael McKean, Field of Dreams (1989)"
+          },
+          {
+            "id": 619444642331818544,
+            "title": "The Three Amigos - Outrageous!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vzR89gKx4klzeCqaaQrDxswEks4.jpg",
+            "release_year": 2003,
+            "plot_summary": "The Three Amigos brings you all the hilarious and outrageous comedy from a red-hot trio of Latino headliners on their sold-out national tour! With the biting social commentary of Carlos Mencia, the off-the-wall sound effects of Pablo Francisco, and the hysterical family humor of Freddy Soto, it's all-out stand-up hilarity like you've never seen before!",
+            "runtime": "1h 14m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 21493,
+            "imdb_id": "tt0301934",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.123260",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8slpb/",
+            "original_comment_text": "I’m currently watching the three amigos. Heh."
+          },
+          {
+            "id": 3791344681551294055,
+            "title": "Fletch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nKDnMvVynvj7lwdv1iAZO1DzTYn.jpg",
+            "release_year": 1985,
+            "plot_summary": "When investigative reporter Irwin \"Fletch\" Fletcher goes undercover to write a piece on the drug trade at a local beach, he's approached by wealthy businessman Alan Stanwyk, who offers him $50,000 to murder him. With sarcastic wit and a knack for disguises, Fletch sets out to uncover Stanwyk's story.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 9749,
+            "imdb_id": "tt0089155",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.171508",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8qdx8/",
+            "original_comment_text": "Trading Places (1983)  \nBetter Off Dead (1985)  \nFletch (1985)  \nSpaceballs (1987)"
+          },
+          {
+            "id": 7166513693412341669,
+            "title": "Spaceballs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o624HTt93iIJIc1Sg5hNkDTnk5l.jpg",
+            "release_year": 1987,
+            "plot_summary": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 957,
+            "imdb_id": "tt0094012",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.195003",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8qdx8/",
+            "original_comment_text": "Trading Places (1983)  \nBetter Off Dead (1985)  \nFletch (1985)  \nSpaceballs (1987)"
+          },
+          {
+            "id": -1782124415476204049,
+            "title": "Trading Places",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+            "release_year": 1983,
+            "plot_summary": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 1621,
+            "imdb_id": "tt0086465",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.249260",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8qdx8/",
+            "original_comment_text": "Trading Places (1983)  \nBetter Off Dead (1985)  \nFletch (1985)  \nSpaceballs (1987)"
+          },
+          {
+            "id": -6372351445915067831,
+            "title": "Clue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+            "release_year": 1985,
+            "plot_summary": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 15196,
+            "imdb_id": "tt0088930",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.312710",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8pe4c/",
+            "original_comment_text": "Clue (1985) with Tim Curry and Michael McKean, Field of Dreams (1989)"
+          },
+          {
+            "id": 4937069181106974354,
+            "title": "Ghostbusters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+            "release_year": 1984,
+            "plot_summary": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 620,
+            "imdb_id": "tt0087332",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.383884",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8rtj4/",
+            "original_comment_text": "Ghostbusters!!!!"
+          },
+          {
+            "id": 7673013835176491597,
+            "title": "Summer School",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s1Ad6q0XnVS6u1yoaYghHw5dskv.jpg",
+            "release_year": 1987,
+            "plot_summary": "A high-school gym teacher has big plans for the summer, but is forced to cancel them to teach a \"bonehead\" English class for misfit goof-off students. Fortunately, his unconventional brand of teaching fun field trips begins to connect with them, and even inspires ardor in some.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 14671,
+            "imdb_id": "tt0094072",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.386421",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8oijj/",
+            "original_comment_text": "Summer School (1987)\n\nWho's Harry Crumb (1989)"
+          },
+          {
+            "id": -1161277773018012758,
+            "title": "Who's Harry Crumb?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6iUoyyaMklULVoGJDyHcN4nGgSX.jpg",
+            "release_year": 1989,
+            "plot_summary": "Harry Crumb is a bumbling and inept private investigator who is hired to solve the kidnapping of a young heiress which he's not expected to solve because his employer is the mastermind behind the kidnapping.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 11718,
+            "imdb_id": "tt0098645",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.456166",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8oijj/",
+            "original_comment_text": "Summer School (1987)\n\nWho's Harry Crumb (1989)"
+          },
+          {
+            "id": -2855137247914654580,
+            "title": "Real Genius",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5mVimQD1XOMLzbO2Qug0JQxh70S.jpg",
+            "release_year": 1985,
+            "plot_summary": "When teenage geniuses Mitch Taylor and Chris Knight, working on an advanced laser project, learn that the military wants to use it as a weapon, they decide to thwart the plan.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Science Fiction"
+            ],
+            "tmdb_id": 14370,
+            "imdb_id": "tt0089886",
+            "category_title": "Fun 80s Movie Recommendation",
+            "time_period": "weekly",
+            "date_scraped": "2025-08-30T04:19:36.501682",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n2uehm/give_me_a_fun_80s_movie_to_watch/nb8rqnl/",
+            "original_comment_text": "Real Genius"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 63,
+    "totalCategories": 5,
+    "lastUpdated": "2025-08-30T04:19:16.629059"
+  }
+}

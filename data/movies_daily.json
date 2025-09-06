@@ -1,0 +1,1103 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Comfort Food Movies For The Soul",
+        "movies": [
+          {
+            "id": -2229029899908501427,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tY6ypjKOOtujhxiSwTmvA4OZ5IE.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.519767",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncls44t/",
+            "original_comment_text": "Secret life of Walter Mitty"
+          },
+          {
+            "id": 7511436082143518791,
+            "title": "Galaxy Quest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+            "release_year": 1999,
+            "plot_summary": "For four years, the courageous crew of the NSEA protector - \"Commander Peter Quincy Taggart\", \"Lt. Tawny Madison and \"Dr.Lazarus\" - set off on a thrilling and often dangerous mission in space...and then their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director and no clue, the actors must turn in the performances of their lives.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 926,
+            "imdb_id": "tt0177789",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.586333",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/nclpm4n/",
+            "original_comment_text": "'Galaxy Quest' (1999) is lots of fun."
+          },
+          {
+            "id": 6877704258010083895,
+            "title": "Secondhand Lions",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+            "release_year": 2003,
+            "plot_summary": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 13156,
+            "imdb_id": "tt0327137",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.586516",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/nclr3n6/",
+            "original_comment_text": "Secondhand Lions"
+          },
+          {
+            "id": -6648451871258978721,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dvjqlp2sAhUeFjUOfQDgqwpphHj.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.661512",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/nclm06c/",
+            "original_comment_text": "The Princess Bride"
+          },
+          {
+            "id": -100337123080034782,
+            "title": "Hunt for the Wilderpeople",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+            "release_year": 2016,
+            "plot_summary": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 371645,
+            "imdb_id": "tt4698684",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.730318",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncm7f2v/",
+            "original_comment_text": "Hunt for the Wilderpeople (2016)"
+          },
+          {
+            "id": -603036565355368213,
+            "title": "Legally Blonde",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+            "release_year": 2001,
+            "plot_summary": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 8835,
+            "imdb_id": "tt0250494",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.730615",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncluyoh/",
+            "original_comment_text": "Legally Blonde"
+          },
+          {
+            "id": -6313269946482535962,
+            "title": "Chef",
+            "poster_url": "https://image.tmdb.org/t/p/w500/htZbHJ11TuGYk77gzns5JEQugBj.jpg",
+            "release_year": 2024,
+            "plot_summary": "An enigmatic chef turns a small, austere bathroom into his peculiar kitchen. With unusual creativity, the chef transforms the sink into his work area, where a unique culinary process begins: instead of cooking, he uncooks. He takes some cooked noodles and, by dipping them in boiling water, returns them to their raw state. This process culminates when the chef presents his final work to a terrifying customer, revealing his mastery of reverse culinary art that defies all expectations.",
+            "runtime": "4m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1367841,
+            "imdb_id": null,
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.798458",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncllyd3/",
+            "original_comment_text": "Chef (2o14)"
+          },
+          {
+            "id": 4835718778393630021,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.802529",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncloszo/",
+            "original_comment_text": "Big Fish\n\nUncle Buck"
+          },
+          {
+            "id": -1224580288281868829,
+            "title": "50 First Dates",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4T0cSswKtXk37r0QbqoLbTtlbO1.jpg",
+            "release_year": 2004,
+            "plot_summary": "Henry is a player skilled at seducing women. But when this veterinarian meets Lucy, a girl with a quirky problem when it comes to total recall, he realizes it's possible to fall in love all over again…and again, and again. That's because the delightful Lucy has no short-term memory, so Henry must woo her day after day until he finally sweeps her off her feet.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 1824,
+            "imdb_id": "tt0343660",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.814379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/nclxglg/",
+            "original_comment_text": "50 First Dates"
+          },
+          {
+            "id": -6589975504043986598,
+            "title": "Marcel the Shell with Shoes On",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+            "release_year": 2022,
+            "plot_summary": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 869626,
+            "imdb_id": "tt15339456",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.869709",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/nclri4k/",
+            "original_comment_text": "Marcel the Shell with Shoes on"
+          },
+          {
+            "id": 2855832141093395936,
+            "title": "Uncle Buck",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bF0Im888LFTf8MgzcTRlT6GufxV.jpg",
+            "release_year": 1989,
+            "plot_summary": "Buck Russell, a lovable but slovenly bachelor, suddenly becomes the temporary caretaker of his nephew and nieces after a family emergency. His freewheeling attitude soon causes tension with his older niece Tia, loyal girlfriend Chanice and just about everyone else who crosses his path.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 2616,
+            "imdb_id": "tt0098554",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:26.942245",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncloszo/",
+            "original_comment_text": "Big Fish\n\nUncle Buck"
+          },
+          {
+            "id": -5367520564856604078,
+            "title": "Moonstruck",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2mnVWpvsHEHHnfvLn1NXYVvBGl5.jpg",
+            "release_year": 1987,
+            "plot_summary": "37-year-old Italian-American widow Loretta Castorini believes she is unlucky in love, and so accepts a marriage proposal from her boyfriend Johnny, even though she doesn't love him. When she meets his estranged younger brother Ronny, an emotional and passionate man, she finds herself drawn to him. She tries to resist, but Ronny, who blames his brother for the loss of his hand, has no scruples about aggressively pursuing her while Johnny is out of the country. As Loretta falls for Ronny, she learns that she's not the only one in her family with a secret romance.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 2039,
+            "imdb_id": "tt0093565",
+            "category_title": "Comfort Food Movies For The Soul",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:27.013576",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9ct5s/suggest_me_a_movie_thats_pure_comfort_food_for/ncm8nro/",
+            "original_comment_text": "Moonstruck ❤️"
+          }
+        ]
+      },
+      {
+        "name": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+        "movies": [
+          {
+            "id": 8650808537533951934,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.329339",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjnakv/",
+            "original_comment_text": "Obligatory Cabin In The Woods mention goes here."
+          },
+          {
+            "id": 5604582213684258633,
+            "title": "Vanilla Sky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg",
+            "release_year": 2001,
+            "plot_summary": "David Aames has it all: wealth, good looks and gorgeous women on his arm. But just as he begins falling for the warmhearted Sofia, his face is horribly disfigured in a car accident. That's just the beginning of his troubles as the lines between illusion and reality, between life and death, are blurred.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Mystery",
+              "Romance",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1903,
+            "imdb_id": "tt0259711",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.396294",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjhol9/",
+            "original_comment_text": "Memento\n\nVanilla Sky\n\nTotal Recall"
+          },
+          {
+            "id": 8683409405890542342,
+            "title": "The Others",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "release_year": 2001,
+            "plot_summary": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1933,
+            "imdb_id": "tt0230600",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.469154",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjjbg6/",
+            "original_comment_text": "The others. (2001)\nShutter Island (2010)"
+          },
+          {
+            "id": -1450878041360748740,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.510029",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjntoz/",
+            "original_comment_text": "Sorry to Bother You \n\nYou REALLY don't know what's going on even when you think you've got a grasp on it."
+          },
+          {
+            "id": -6587894752732315312,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.584564",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjkstw/",
+            "original_comment_text": "The answer is Parasite (2019)"
+          },
+          {
+            "id": -6694634727117133535,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.613054",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjhol9/",
+            "original_comment_text": "Memento\n\nVanilla Sky\n\nTotal Recall"
+          },
+          {
+            "id": 7939361963983698432,
+            "title": "Seven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/duzTrLUihxkKyX2NnF9ImR0hhuA.jpg",
+            "release_year": 2022,
+            "plot_summary": "Grieving over his lost one, a man named Seven must handle his depression while doing his best to avoid his suicidal attempts.",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 950763,
+            "imdb_id": null,
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.636335",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjikak/",
+            "original_comment_text": "The Usual Suspects \n\nSeven \n\nFight Club"
+          },
+          {
+            "id": -5204933115279171322,
+            "title": "The Usual Suspects",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 629,
+            "imdb_id": "tt0114814",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.654403",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjikak/",
+            "original_comment_text": "The Usual Suspects \n\nSeven \n\nFight Club"
+          },
+          {
+            "id": -251206314092655795,
+            "title": "Shutter Island",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+            "release_year": 2010,
+            "plot_summary": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 11324,
+            "imdb_id": "tt1130884",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.693607",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjjbg6/",
+            "original_comment_text": "The others. (2001)\nShutter Island (2010)"
+          },
+          {
+            "id": 6318393264153948391,
+            "title": "The Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+            "release_year": 1997,
+            "plot_summary": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 2649,
+            "imdb_id": "tt0119174",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.795950",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjrmfn/",
+            "original_comment_text": "The Game.\n\nThe problem with reading this list is that you'll watch these movies waiting for \"the thing.\""
+          },
+          {
+            "id": -8742277562152307763,
+            "title": "Fight Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_year": 1999,
+            "plot_summary": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 550,
+            "imdb_id": "tt0137523",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.808643",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjikak/",
+            "original_comment_text": "The Usual Suspects \n\nSeven \n\nFight Club"
+          },
+          {
+            "id": -194556977400125707,
+            "title": "Total Recall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "release_year": 1990,
+            "plot_summary": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 861,
+            "imdb_id": "tt0100802",
+            "category_title": "Movies Where You Think You Know What's Going On Until You Absolutely Don't",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:30.870111",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n933go/looking_for_movies_where_you_think_you_know_whats/ncjhol9/",
+            "original_comment_text": "Memento\n\nVanilla Sky\n\nTotal Recall"
+          }
+        ]
+      },
+      {
+        "name": "Family-Friendly Movie Recommendations",
+        "movies": [
+          {
+            "id": -1161784690418774260,
+            "title": "How to Train Your Dragon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+            "release_year": 2025,
+            "plot_summary": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Fantasy",
+              "Family",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 1087192,
+            "imdb_id": "tt26743210",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.193876",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjs8f3/",
+            "original_comment_text": "How to Train Your Dragon"
+          },
+          {
+            "id": -6336745549660194814,
+            "title": "The Aristocats",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1BVOSmQUhphMgnTxnXyfQ9tL1Sc.jpg",
+            "release_year": 1970,
+            "plot_summary": "When Madame Adelaide Bonfamille leaves her fortune to Duchess and her children—Bonfamille’s beloved family of cats—the butler plots to steal the money and kidnaps the legatees, leaving them out on a country road. All seems lost until the wily Thomas O’Malley Cat and his jazz-playing alley cats come to the aristocats’ rescue.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 10112,
+            "imdb_id": "tt0065421",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.215049",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjw2y2/",
+            "original_comment_text": "The Aristocrats!   No wait... sorry, The Aristocats..."
+          },
+          {
+            "id": 8197769628674707641,
+            "title": "Clue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+            "release_year": 1985,
+            "plot_summary": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 15196,
+            "imdb_id": "tt0088930",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.289675",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjta1m/",
+            "original_comment_text": "Clue (1985)"
+          },
+          {
+            "id": 5823282078707704233,
+            "title": "My Big Fat Greek Wedding",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ztc05ym0T3stnBpRHdxEs3Zwsmp.jpg",
+            "release_year": 2002,
+            "plot_summary": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 8346,
+            "imdb_id": "tt0259446",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.310867",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjz7n7/",
+            "original_comment_text": "My Big Fat Greek Wedding"
+          },
+          {
+            "id": 6212875607541453254,
+            "title": "Yesterday",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7lZY0Cfl9V63phrfFT5d0yjRYAE.jpg",
+            "release_year": 1985,
+            "plot_summary": "Set in the 60's in a provincial town: four high school teenagers approach graduation, but all they think about are The Beatles.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 273611,
+            "imdb_id": "tt0090352",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.336990",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjt8v9/",
+            "original_comment_text": "Knives Out  ( a whodunnit)\n\nWild Robot ( animation emotional)\n\nWicked little letters ( English drama set in 1920s swearing in it)\n\nYesterday  ( British Quirky drama)"
+          },
+          {
+            "id": 3594614225845253752,
+            "title": "Knives Out",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+            "release_year": 2019,
+            "plot_summary": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 546554,
+            "imdb_id": "tt8946378",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.363563",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjt8v9/",
+            "original_comment_text": "Knives Out  ( a whodunnit)\n\nWild Robot ( animation emotional)\n\nWicked little letters ( English drama set in 1920s swearing in it)\n\nYesterday  ( British Quirky drama)"
+          },
+          {
+            "id": -9038842023316064557,
+            "title": "The Wild Robot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+            "release_year": 2024,
+            "plot_summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Family"
+            ],
+            "tmdb_id": 1184918,
+            "imdb_id": "tt29623480",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.381608",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjt8v9/",
+            "original_comment_text": "Knives Out  ( a whodunnit)\n\nWild Robot ( animation emotional)\n\nWicked little letters ( English drama set in 1920s swearing in it)\n\nYesterday  ( British Quirky drama)"
+          },
+          {
+            "id": -6279255544209421848,
+            "title": "My Cousin Vinny",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+            "release_year": 1992,
+            "plot_summary": "Two carefree pals from Brooklyn traveling through rural Alabama on their way back to college are mistakenly arrested, and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend, to try his first case, it's a real shock - for him and the Deep South!",
+            "runtime": "2h",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10377,
+            "imdb_id": "tt0104952",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.429486",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjwk1p/",
+            "original_comment_text": "My cousin Vinny, been watching it w my folks for 30 years"
+          },
+          {
+            "id": 7711475448688909618,
+            "title": "Wicked Little Letters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/scAU7YudKNVeZlOfgSEWntAUSJ.jpg",
+            "release_year": 2024,
+            "plot_summary": "When the denizens of Littlehampton – including conservative Edith – begin receiving letters full of hilarious profanities, rowdy Irish migrant Rose is charged with the crime. Suspecting something amiss, the town's women band together to investigate.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 975773,
+            "imdb_id": "tt20234774",
+            "category_title": "Family-Friendly Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:34.500902",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n94j63/whats_a_movie_that_you_can_watch_with_your_family/ncjt8v9/",
+            "original_comment_text": "Knives Out  ( a whodunnit)\n\nWild Robot ( animation emotional)\n\nWicked little letters ( English drama set in 1920s swearing in it)\n\nYesterday  ( British Quirky drama)"
+          }
+        ]
+      },
+      {
+        "name": "Movies To Watch When Feeling Stuck And Needing Perspective",
+        "movies": [
+          {
+            "id": 8716198404660310057,
+            "title": "Boyhood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg",
+            "release_year": 2014,
+            "plot_summary": "The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.",
+            "runtime": "2h 46m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 85350,
+            "imdb_id": "tt1065073",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.137560",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": 7733789423045122263,
+            "title": "Columbus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6tk0xmn9k5HjUeXsnhxIa94sFXP.jpg",
+            "release_year": 2017,
+            "plot_summary": "When a renowned architecture scholar falls suddenly ill during a speaking tour, his son Jin finds himself stranded in Columbus, Indiana - a small Midwestern city celebrated for its many significant modernist buildings. Jin strikes up a friendship with Casey, a young architecture enthusiast who works at the local library.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 414453,
+            "imdb_id": "tt5990474",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.162658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": 8929838116430554899,
+            "title": "After Yang",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qjEuDeKOhA7JqaaqhLSfoS9titb.jpg",
+            "release_year": 2022,
+            "plot_summary": "When his young daughter's beloved companion — an android named Yang — malfunctions, Jake searches for a way to repair him. In the process, Jake discovers the life that has been passing in front of him, reconnecting with his wife and daughter across a distance he didn't know was there.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 585378,
+            "imdb_id": "tt8633464",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.208248",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": 35992788298074398,
+            "title": "Wild",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+            "release_year": 2014,
+            "plot_summary": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 228970,
+            "imdb_id": "tt2305051",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.232730",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": -4238779586940736138,
+            "title": "Nomadland",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Vc5EOUEIF1EUXuX9eLFf7BvN3P.jpg",
+            "release_year": 2021,
+            "plot_summary": "A woman in her sixties embarks on a journey through the western United States after losing everything in the Great Recession, living as a van-dwelling modern-day nomad.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 581734,
+            "imdb_id": "tt9770150",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.277217",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": 4100357480256986796,
+            "title": "Good Will Hunting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_year": 1997,
+            "plot_summary": "Headstrong yet aimless, Will Hunting has a genius-level IQ but chooses to work as a janitor at MIT. When he secretly solves highly difficult graduate-level math problems, his talents are discovered by Professor Gerald Lambeau, who decides to help the misguided youth reach his potential. When Will is arrested for attacking a police officer, Professor Lambeau makes a deal to get leniency for him if he gets court-ordered therapy. Eventually, therapist Dr. Sean Maguire helps Will confront the demons that are holding him back.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 489,
+            "imdb_id": "tt0119217",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.282326",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": -5473074175501271526,
+            "title": "Drive My Car",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg",
+            "release_year": 2021,
+            "plot_summary": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
+            "runtime": "2h 59m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 758866,
+            "imdb_id": "tt14039582",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.303439",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": -3080501186317703699,
+            "title": "Paterson",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hhpXV2SntaApx411hObmopQejdV.jpg",
+            "release_year": 2016,
+            "plot_summary": "A week in the life of Paterson, a poet bus driver, and his wife Laura, a very creative artist, who live in Paterson, New Jersey, hometown of many famous poets and artists.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 370755,
+            "imdb_id": "tt5247022",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.309806",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": -1112845305985886811,
+            "title": "Minari",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6mPNdmjdbVKPITv3LLCmQoKs9Zw.jpg",
+            "release_year": 2021,
+            "plot_summary": "A Korean American family moves to an Arkansas farm in search of its own American dream. Amidst the challenges of this new life in the strange and rugged Ozarks, they discover the undeniable resilience of family and what really makes a home.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 615643,
+            "imdb_id": "tt10633456",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.376629",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          },
+          {
+            "id": -3360516311653604431,
+            "title": "Sound of Metal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3178oOJKKPDeQ2legWQvMPpllv.jpg",
+            "release_year": 2020,
+            "plot_summary": "Metal drummer Ruben begins to lose his hearing. When a doctor tells him his condition will worsen, he thinks his career and life is over. His girlfriend Lou checks the former addict into a rehab for the deaf hoping it will prevent a relapse and help him adapt to his new life. After being welcomed and accepted just as he is, Ruben must choose between his new normal and the life he once knew.",
+            "runtime": "2h",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 502033,
+            "imdb_id": "tt5363618",
+            "category_title": "Movies To Watch When Feeling Stuck And Needing Perspective",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:37.449601",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n8zb3y/movies_to_watch_when_you_feel_stuck_in_life_and/ncis9bl/",
+            "original_comment_text": "Boyhood, Good Will Hunting, The Secret Life of Walter Mitty, Wild, Paterson, Chef, After Yang, Columbus, Drive My Car, Sound of Metal, Minari, Nomadland, The Banshees of Inisherin, Everything Everywhere All at Once"
+          }
+        ]
+      },
+      {
+        "name": "Best Meaningful Films",
+        "movies": [
+          {
+            "id": -3604314874395182544,
+            "title": "As Good as It Gets",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+            "release_year": 1997,
+            "plot_summary": "Melvin Udall, a cranky, bigoted, obsessive-compulsive writer of romantic fiction, is rude to everyone he meets, including his gay neighbor, Simon. After Simon is brutally attacked and hospitalized, Melvin finds his life turned upside down when he has to look after Simon's dog. In addition, Carol, the only waitress at the local diner who will tolerate him, leaves work to care for her chronically ill son, making it impossible for Melvin to eat breakfast.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2898,
+            "imdb_id": "tt0119822",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.396278",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmklui/",
+            "original_comment_text": "Not the best but **As Good as It Gets (1997)** is up there"
+          },
+          {
+            "id": 1341254680963977222,
+            "title": "Perfect Days",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+            "release_year": 2023,
+            "plot_summary": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 976893,
+            "imdb_id": "tt27503384",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.451180",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmlac6/",
+            "original_comment_text": "Perfect Days"
+          },
+          {
+            "id": -1581789380944977993,
+            "title": "Being There",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3RO3jbCKEey2T9bYFkYt9xpwen9.jpg",
+            "release_year": 1979,
+            "plot_summary": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10322,
+            "imdb_id": "tt0078841",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.464633",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmn9fc/",
+            "original_comment_text": "Being There"
+          },
+          {
+            "id": -2634365874743562298,
+            "title": "The Pursuit of Happyness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+            "release_year": 2006,
+            "plot_summary": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1402,
+            "imdb_id": "tt0454921",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.525695",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmjq6s/",
+            "original_comment_text": "The pursuit of happyness."
+          },
+          {
+            "id": 2492623275963345226,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.541291",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmowp7/",
+            "original_comment_text": "Schindler’s List."
+          },
+          {
+            "id": 7549049431275159038,
+            "title": "Into the Wild",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+            "release_year": 2007,
+            "plot_summary": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 5915,
+            "imdb_id": "tt0758758",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.662829",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmmile/",
+            "original_comment_text": "Into the Wild"
+          },
+          {
+            "id": -7120407244267936993,
+            "title": "Hedwig and the Angry Inch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jafIFAW8sHQkzWPGoMDR4892dFI.jpg",
+            "release_year": 2001,
+            "plot_summary": "Raised a boy in East Berlin, Hedwig undergoes a personal transformation in order to emigrate to the U.S., where she reinvents herself as an 'internationally ignored' but divinely talented rock diva, inhabiting a 'beautiful gender of one'.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 13403,
+            "imdb_id": "tt0248845",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.745782",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncml2gm/",
+            "original_comment_text": "Hedwig and the Angry Inch. Its at first about finding your other half but changes to becoming whole yourself first. It makes me cry and the soundtrack is top notch"
+          },
+          {
+            "id": 5474131177297127822,
+            "title": "The Right Stuff",
+            "poster_url": "https://image.tmdb.org/t/p/w500/btqTjNRxecYgQ1FGfVlLqSSNjz.jpg",
+            "release_year": 1983,
+            "plot_summary": "As the Space Race ensues, seven pilots set off on a path to become the first American astronauts to enter space. However, the road to making history brings forth momentous challenges.",
+            "runtime": "3h 13m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "History",
+              "Adventure"
+            ],
+            "tmdb_id": 9549,
+            "imdb_id": "tt0086197",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.757790",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmq5g5/",
+            "original_comment_text": "The right stuff"
+          },
+          {
+            "id": -1799692101524872067,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Best Meaningful Films",
+            "time_period": "daily",
+            "date_scraped": "2025-09-06T04:18:40.801999",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9h50c/the_best_meaningful_films_you_watched/ncmtc28/",
+            "original_comment_text": "Eternal sunshine of the spotless mind"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 52,
+    "totalCategories": 5,
+    "lastUpdated": "2025-09-06T04:18:26.519767"
+  }
+}

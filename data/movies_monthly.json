@@ -1,0 +1,1521 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "\"The Lobster\": Questioning Everything About Love",
+        "movies": [
+          {
+            "id": -1725633342135392240,
+            "title": "Kinds of Kindness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1029955,
+            "imdb_id": "tt22408160",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.879822",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": 852359683177730265,
+            "title": "Triangle of Sadness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+            "release_year": 2022,
+            "plot_summary": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 497828,
+            "imdb_id": "tt7322224",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.910826",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -8962326797759290600,
+            "title": "Phantom Thread",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+            "release_year": 2017,
+            "plot_summary": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 400617,
+            "imdb_id": "tt5776858",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.913020",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": 3629549584281484564,
+            "title": "I'm Thinking of Ending Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+            "release_year": 2020,
+            "plot_summary": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 500840,
+            "imdb_id": "tt7939766",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.923414",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": 271975932007055975,
+            "title": "The Lobster",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+            "release_year": 2015,
+            "plot_summary": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 254320,
+            "imdb_id": "tt3464902",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.923718",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx7ag7/",
+            "original_comment_text": "The Killing Of a Sacred Deer.\n\nIt's the next logical step after the Lobster. Yargos is a one of a kind filmmaker and his work is going to have that effect on you. It's brilliant."
+          },
+          {
+            "id": 1268555297014759638,
+            "title": "Uncontrollable Circumstances",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3ZtWAO07BL1H6AKbWKiiB38dQAx.jpg",
+            "release_year": 1989,
+            "plot_summary": "Philippe and Daniel decide to go on vacation Southeast Asia, where they meet Hans, a European who livesthere and he becomes their guide and host. Once the holidays are over, before leaving to return to Paris, decided to give a small gift to Hans: a small piece of hashish.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 164020,
+            "imdb_id": "tt0097376",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.923873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": 7342703989019527400,
+            "title": "Poor Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "release_year": 2023,
+            "plot_summary": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Science Fiction",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 792307,
+            "imdb_id": "tt14230458",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.924529",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": 4147279916766974820,
+            "title": "Burning",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pdEgV6PckeiVcnComUw8bOirrpC.jpg",
+            "release_year": 2021,
+            "plot_summary": "Follows the deadly Australian bushfires of 2019-2020, known as ‘Black Summer’. Burning is an exploration of what happened as told from the perspective of victims of the fires, activists and scientists.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 858058,
+            "imdb_id": "tt14671620",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.927325",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": 5584097531900042983,
+            "title": "The Killing of a Sacred Deer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_year": 2017,
+            "plot_summary": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 399057,
+            "imdb_id": "tt5715874",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.930612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx7ag7/",
+            "original_comment_text": "The Killing Of a Sacred Deer.\n\nIt's the next logical step after the Lobster. Yargos is a one of a kind filmmaker and his work is going to have that effect on you. It's brilliant."
+          },
+          {
+            "id": 4687973601138218983,
+            "title": "Welcome to the Dollhouse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+            "release_year": 1995,
+            "plot_summary": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11446,
+            "imdb_id": "tt0114906",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.946620",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          },
+          {
+            "id": 7663614232111216453,
+            "title": "Antichrist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+            "release_year": 2009,
+            "plot_summary": "A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 17609,
+            "imdb_id": "tt0870984",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.961378",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": 8319739406310377088,
+            "title": "Happiness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+            "release_year": 1998,
+            "plot_summary": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10683,
+            "imdb_id": "tt0147612",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.968398",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          },
+          {
+            "id": 7148369101825652956,
+            "title": "The Squid and the Whale",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h4FMTKrWgwSUQTSbMnSA4ECKzl2.jpg",
+            "release_year": 2005,
+            "plot_summary": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10707,
+            "imdb_id": "tt0367089",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:12.968670",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          },
+          {
+            "id": -9147479112596568449,
+            "title": "The Favourite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cwBq0onfmeilU5xgqNNjJAMPfpw.jpg",
+            "release_year": 2018,
+            "plot_summary": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
+            "runtime": "2h",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "History",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 375262,
+            "imdb_id": "tt5083738",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:13.050217",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": 7094073681136260103,
+            "title": "Under the Silver Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/771Ey73LqsE9ORJhQCI25rgMXS2.jpg",
+            "release_year": 2018,
+            "plot_summary": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 396461,
+            "imdb_id": "tt5691670",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:13.117229",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwn3so/",
+            "original_comment_text": "Try some David Lynch like Mulholland Dr or Under the Silver Lake"
+          },
+          {
+            "id": 2369164882630992590,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "\"The Lobster\": Questioning Everything About Love",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:13.138204",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwn3so/",
+            "original_comment_text": "Try some David Lynch like Mulholland Dr or Under the Silver Lake"
+          }
+        ]
+      },
+      {
+        "name": "Movies So Insane, They're Best Watched Completely Blind",
+        "movies": [
+          {
+            "id": 411475457265501649,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.378442",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n853ptl/",
+            "original_comment_text": "Sorry to Bother You is my favorite weird movie. It’s not scary - just weirdly hilarious and strangely deep and satisfying\n\n\nUpdate: thanks to everyone that liked or commented on this movie.  It is so damn good and makes me happy that so many people loved this movie the way I did."
+          },
+          {
+            "id": 8240773143104750543,
+            "title": "Mother",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lPAXtuaCIJBQ3XNXvsdpFIE668K.jpg",
+            "release_year": 2024,
+            "plot_summary": "A short revenge story, while the sun goes down.",
+            "runtime": "2m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1306289,
+            "imdb_id": null,
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.405431",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": 7285149985461283791,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.408923",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": -724447550054665947,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "A group of teens journey to a remote cabin in the woods where their fate is unknowingly controlled by technicians as part of a worldwide conspiracy where all horror movie clichés are revealed to be part of an elaborate sacrifice ritual.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.411386",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n855jcz/",
+            "original_comment_text": "Cabin in the Woods. I love this movie! Also, Mother (Darren Aronofsky) goes of the rails too, but I didn’t really find it enjoyable."
+          },
+          {
+            "id": 7011800741656861553,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uBoQytp3KTQFaVqTe6d0ECGaKh9.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.420299",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850wgs/",
+            "original_comment_text": "From Dusk Til Dawn. If you don't know anything about it yet, don't even look at the cover art, just watch it."
+          },
+          {
+            "id": 6929413823093931936,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.439219",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n858zri/",
+            "original_comment_text": "Parasite"
+          },
+          {
+            "id": -8879731410794543976,
+            "title": "Pulp Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "release_year": 1994,
+            "plot_summary": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+            "runtime": "2h 34m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 680,
+            "imdb_id": "tt0110912",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.674088",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852281/",
+            "original_comment_text": "Pulp Fiction. I walked into the theater knowing absolutely nothing about the movie. Fantastic experience!"
+          },
+          {
+            "id": 8906235029200132755,
+            "title": "eXistenZ",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_year": 1999,
+            "plot_summary": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1946,
+            "imdb_id": "tt0120907",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.678431",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850tgo/",
+            "original_comment_text": "Existenz"
+          },
+          {
+            "id": 1200294353049618401,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Fy52iMUlyJUZfMxBk9BSueUAF1.jpg",
+            "release_year": 1926,
+            "plot_summary": "Professional dancer Diotima finds herself the apex of a love triangle when she is pursued by two mountain climbers, Vigo and his older friend.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 94658,
+            "imdb_id": "tt0016953",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.742517",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": 6339680678939417104,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery",
+              "Action"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.748076",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8519tb/",
+            "original_comment_text": "Old Boy - the original."
+          },
+          {
+            "id": 553093998328097350,
+            "title": "One Cut of the Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rws34k2bqYVo2B5MkhKAbV8925j.jpg",
+            "release_year": 2017,
+            "plot_summary": "Real zombies arrive and terrorize the crew of a zombie film being shot in an abandoned warehouse, said to be the site of military experiments on humans.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 513434,
+            "imdb_id": "tt7914416",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.792465",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n850jb5/",
+            "original_comment_text": "One Cut of the Dead. Watch it blind. Just trust me."
+          },
+          {
+            "id": 1447367145759793685,
+            "title": "Getting Any?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/owvDqHOzdeN7nMiUBZfHtpgEWW.jpg",
+            "release_year": 1995,
+            "plot_summary": "While pursuing his dream of having car sex, a goofy middle-aged man makes all the wrong moves and ends up enrolling in a number of crazy escapades.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 39767,
+            "imdb_id": "tt0110524",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.814358",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          },
+          {
+            "id": -698628152034349603,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.818364",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n852yta/",
+            "original_comment_text": "Predestination"
+          },
+          {
+            "id": 4676653283473968391,
+            "title": "Frailty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+            "release_year": 2002,
+            "plot_summary": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12149,
+            "imdb_id": "tt0264616",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.891294",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n851o0w/",
+            "original_comment_text": "Frailty"
+          },
+          {
+            "id": 2217332704230999647,
+            "title": "Bottoms",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "release_year": 2023,
+            "plot_summary": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 814776,
+            "imdb_id": "tt17527468",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:18.960271",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8518v9/",
+            "original_comment_text": "Barbarian … horror that gets nutty\nBottoms … raunchy teen comedy that gets nutty"
+          },
+          {
+            "id": -874135728387662815,
+            "title": "Rorikon hausu: Oshimeri Junko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bSQTYQq8LKLGaDCeYr5SnZ1SqpX.jpg",
+            "release_year": 1983,
+            "plot_summary": "A high school girl lives by herself in her parent’s apartment. They deserted her and each other they both took lovers. Feeling lonely she signs up as a mistress at a “Lolicon House” to service middle-aged men.",
+            "runtime": "1h 7m",
+            "tmdb_rating": 2.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1020008,
+            "imdb_id": "tt0227405",
+            "category_title": "Movies So Insane, They're Best Watched Completely Blind",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:19.031407",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1mnic64/movies_that_is_so_insane_its_best_watch/n8529hm/",
+            "original_comment_text": "The Holy Mountain 1973\n\nHausu 1977\n\nGetting Any? 1994\n\nRubber 2010\n\nWrong Cops 2013\n\nUnder the Silver Lake 2018\n\nThe Substance 2024"
+          }
+        ]
+      },
+      {
+        "name": "Shocking And Mind-Blowing Documentaries",
+        "movies": [
+          {
+            "id": 828437981675323164,
+            "title": "Seven Up!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2KSbxDP4wAZBkpbW2rs6CZBZJbq.jpg",
+            "release_year": 1964,
+            "plot_summary": "A group of British children aged 7 from widely ranging backgrounds are interviewed about a range of subjects. The filmmakers plan to re-interview them at 7 year intervals to track how their lives and attitudes change as they age.",
+            "runtime": "40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary",
+              "TV Movie"
+            ],
+            "tmdb_id": 51863,
+            "imdb_id": "tt0058578",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.734968",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3scxu/",
+            "original_comment_text": "Up - Series\n\nMade/Directed by Michael Apted\n\nThe Up series of documentary films follows the lives of fourteen people in England beginning in 1964, when they were seven years old. The first film was titled Seven Up!\n\nThe documentary has had nine episodes—one every seven years—thus spanning 56 years.\n\nFascinating as you follow the lives of these children well into adulthood."
+          },
+          {
+            "id": 6754578368839638914,
+            "title": "Blackfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
+            "release_year": 2013,
+            "plot_summary": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 158999,
+            "imdb_id": "tt2545118",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.761904",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3txmy/",
+            "original_comment_text": " Blackfish"
+          },
+          {
+            "id": -7970065517946336162,
+            "title": "Abducted in Plain Sight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+            "release_year": 2017,
+            "plot_summary": "A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 470401,
+            "imdb_id": "tt3444312",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.768524",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3sa67/",
+            "original_comment_text": "Abducted in plain sight"
+          },
+          {
+            "id": 3376870262779209577,
+            "title": "Girl in the Picture",
+            "poster_url": "https://image.tmdb.org/t/p/w500/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
+            "release_year": 2022,
+            "plot_summary": "A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 988046,
+            "imdb_id": "tt21059520",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.770252",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3rd0x/",
+            "original_comment_text": "Girl in the Picture \n\nThree Identical Strangers \n\nThe Jinx"
+          },
+          {
+            "id": 235841754898528279,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.771254",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3qd3n/",
+            "original_comment_text": "Dear Zachary: A Letter to a Son about his Father.\nAbsolutely devastating."
+          },
+          {
+            "id": -7959678314753241619,
+            "title": "Unknown Number: The High School Catfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+            "release_year": 2025,
+            "plot_summary": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1517772,
+            "imdb_id": "tt37674426",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.771937",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3v4pg/",
+            "original_comment_text": "The new Netflix documentary 'Unknown Number: The High School Catfish' is a wild ride."
+          },
+          {
+            "id": -1645827488152299258,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.778627",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3rd0x/",
+            "original_comment_text": "Girl in the Picture \n\nThree Identical Strangers \n\nThe Jinx"
+          },
+          {
+            "id": -3173312544592841284,
+            "title": "The Act of Killing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+            "release_year": 2012,
+            "plot_summary": "In this chilling and groundbreaking documentary, former Indonesian death squad leaders reenact their real-life mass killings in the style of various film genres, from gangster epics to musicals. As they recreate their past atrocities, the line between reality and performance blurs, exposing the lingering impact of Indonesia’s 1965-66 anti-communist purge and the unsettling psychology of its perpetrators.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 123678,
+            "imdb_id": "tt2375605",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.781039",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3s0xt/",
+            "original_comment_text": "The Act of Killing\n\nWant to know what happens when mass murdering revolutionaries end up running the country? It gets very, very weird."
+          },
+          {
+            "id": 3122126063872044750,
+            "title": "Grizzly Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+            "release_year": 2005,
+            "plot_summary": "Werner Herzog's documentary film about the \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in one man's attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 501,
+            "imdb_id": "tt0427312",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.795379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3xjp2/",
+            "original_comment_text": "Grizzly Man"
+          },
+          {
+            "id": -4062132660413274461,
+            "title": "Dark Waters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+            "release_year": 1944,
+            "plot_summary": "Leslie Calvin, the sole survivor of a submarine accident, goes to her relatives in order to recover emotionally. Unfortunately, she encounters various scam artists led by Mr. Sydney who intend to kill her and steal the family assets. Dr. George Grover helps Leslie to defeat Sydney.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 36332,
+            "imdb_id": "tt0036745",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.809138",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3pd9n/",
+            "original_comment_text": "Dark Waters is based on true events about corporate corruption poisoning an entire town, if you want to get angry at something "
+          },
+          {
+            "id": 8953126516488471177,
+            "title": "Paradise Lost",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rFgXt24xn6KnaVS0J5IllaWUNJg.jpg",
+            "release_year": 2018,
+            "plot_summary": "Marked by losses and mismatches, José's eccentric family seek to be happy while locked in Paraíso Perdido, a nightclub that has stopped in time, where they sing popular romantic music.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 524323,
+            "imdb_id": "tt8513302",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.825329",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3qehn/",
+            "original_comment_text": "Paradise lost, the documentary about the West Memphis Three. Another one for the “it will piss you off big time” category."
+          },
+          {
+            "id": -5151796443203658418,
+            "title": "The Staircase",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7WnerGLooBIFm1AKDvBanHoTdZa.jpg",
+            "release_year": 1998,
+            "plot_summary": "A mysterious carpenter appears just as a church is in need of repair.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 113875,
+            "imdb_id": "tt0152588",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.965250",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          },
+          {
+            "id": -7341822475894613184,
+            "title": "There's Something Wrong with Aunt Diane",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ir34Bp7bHz0aaxEmtBFoUgvq2X0.jpg",
+            "release_year": 2011,
+            "plot_summary": "Filmmaker Liz Garbus investigates the mysterious tragedy of Diane Schuler in an effort to understand what went wrong.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 70845,
+            "imdb_id": "tt2011325",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:24.972754",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          },
+          {
+            "id": 1726759153882919408,
+            "title": "The Inventor: Out for Blood in Silicon Valley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
+            "release_year": 2019,
+            "plot_summary": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 566228,
+            "imdb_id": "tt8488126",
+            "category_title": "Shocking And Mind-Blowing Documentaries",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:25.034190",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          }
+        ]
+      },
+      {
+        "name": "Most Underrated Documentary You've Seen",
+        "movies": [
+          {
+            "id": 2249707201849857299,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.279696",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": 6559263615235211335,
+            "title": "The Queen of Versailles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eFMRyapxD7XP5Boj6CLaDtQ1m3o.jpg",
+            "release_year": 2012,
+            "plot_summary": "With the epic dimensions of a Shakespearean tragedy, The Queen of Versailles follows billionaires Jackie and David’s rags-to-riches story to uncover the innate virtues and flaws of their American dream. We open on the triumphant construction of the biggest house in America, a sprawling, 90,000-square-foot mansion inspired by Versailles. Since a booming time-share business built on the real-estate bubble is financing it, the economic crisis brings progress to a halt and seals the fate of its owners. We witness the impact of this turn of fortune over the next two years in a riveting film fraught with delusion, denial, and self-effacing humor.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 84327,
+            "imdb_id": "tt2125666",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.437864",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": 4728027995216619512,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "imdb_id": "tt2125608",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.566325",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasa9f3/",
+            "original_comment_text": "Searching for Sugarman….so so good"
+          },
+          {
+            "id": -366564480220760734,
+            "title": "The Alpinist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
+            "release_year": 2021,
+            "plot_summary": "Marc-André Leclerc, an exceptional climber, has made solo his religion and ice his homeland. When filmmaker Peter Mortimer begins his film, he places his camera at the base of a British Columbia cliff and waits patiently for the star climber to come down to answer his questions. Marc André, a little uncomfortable, prefers to return to the depths of the forest where he lives in a tent with his girlfriend Brette Harrington. In the heart of winter, Peter films vertiginous solos on fragile ice. He tries to make appointments with the climber who is never there and does not seem really concerned by this camera pointed at him \"For me, it would not be a solo if there was someone else\" . Marc-André is thus, the \"pure light\" of the mountaineers of his time, which marvel Barry Blanchard, Alex Honnold or Reinhold Messner, interviewed in the film. An event film for an extraordinary character.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682587,
+            "imdb_id": "tt11790780",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.692239",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas7vrp/",
+            "original_comment_text": "The Alpinist"
+          },
+          {
+            "id": -4677352467382407921,
+            "title": "Salesman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQhe7uWygmAiQ6HNA7Jeys4wdbk.jpg",
+            "release_year": 1969,
+            "plot_summary": "This documentary from Albert and David Maysles follows the bitter rivalry of four door-to-door salesmen working for the Mid-American Bible Company: Paul \"The Badger\" Brennan, Charles \"The Gipper\" McDevitt, James \"The Rabbit\" Baker and Raymond \"The Bull\" Martos. Times are tough for this hard-living quartet, who spend their days traveling through small-town America, trying their best to peddle gold-leaf Bibles to an apathetic crowd of lower-middle-class housewives and elderly couples.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 27375,
+            "imdb_id": "tt0064921",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.763741",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 8403758855134141249,
+            "title": "The Tower",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Jilc07Guz1uDW3NcOKLp0ZsOrd.jpg",
+            "release_year": 2024,
+            "plot_summary": "A young woman engages the services of a tarot card reader and gets more than she bargained for.",
+            "runtime": "4m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1286976,
+            "imdb_id": null,
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.911770",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas9h9m/",
+            "original_comment_text": "The Tower about the University of Texas clock tower shooting. It’s incredible. Very suspenseful, even if you know what happened."
+          },
+          {
+            "id": -1877733310930287533,
+            "title": "American Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qAoIbQDnbGgiLDBUtOh7JUe5XQX.jpg",
+            "release_year": 1999,
+            "plot_summary": "American Movie documents the story of filmmaker Mark Borchardt, his mission, and his dream. Spanning over two years of intense struggle with his film, his family, financial decline, and spiritual crisis, American Movie is a portrayal of ambition, obsession, excess, and one man's quest for the American Dream.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Documentary",
+              "Comedy"
+            ],
+            "tmdb_id": 14242,
+            "imdb_id": "tt0181288",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:30.980717",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nash8p0/",
+            "original_comment_text": "American Movie is such a perfect documentary that it feels like a mockumentary."
+          },
+          {
+            "id": 3949978735063272460,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+            "release_year": 1988,
+            "plot_summary": "Errol Morris's unique documentary dramatically re-enacts the crime scene and investigation of a police officer's murder in Dallas.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Documentary"
+            ],
+            "tmdb_id": 14285,
+            "imdb_id": "tt0096257",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.151343",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 353564135677136126,
+            "title": "Vernon, Florida",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dqcUISuve7pUcGT75Kwa0E8Sz6H.jpg",
+            "release_year": 1981,
+            "plot_summary": "Early Errol Morris documentary intersplices random chatter he captured on film of the genuinely eccentric residents of Vernon, Florida. A few examples? The preacher giving a sermon on the definition of the word \"Therefore,\" and the obsessive turkey hunter who speaks reverentially of the \"gobblers\" he likes to track down and kill.",
+            "runtime": "55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 30142,
+            "imdb_id": "tt0083281",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.211832",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 5747470351328408582,
+            "title": "A Brief History of Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A3sVrDThz8Xthfq2EglWoypKEfU.jpg",
+            "release_year": 1991,
+            "plot_summary": "This shows physicist Stephen Hawking's life as he deals with the ALS that renders him immobile and unable to speak without the use of a computer. Hawking's friends, family, classmates, and peers are interviewed not only about his theories but the man himself.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1358,
+            "imdb_id": "tt0103882",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.225057",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -31138208403552241,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.337957",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas9ojx/",
+            "original_comment_text": "Idiocracy"
+          },
+          {
+            "id": -401662193248669692,
+            "title": "Fast, Cheap & Out of Control",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8uXV6w3ZQUtefqjCgxXswCwPSjk.jpg",
+            "release_year": 1997,
+            "plot_summary": "Errol Morris’s Fast, Cheap & Out of Control interweaves the stories of four men, each driven to create eccentric worlds from their unique obsessions, all of which involve animals. There’s a lion tamer who shares his theories on the mental processes of wild animals; a topiary gardener who has devoted a lifetime to shaping bears and giraffes out of hedges and trees; a man fascinated with hairless mole rats; and an MIT scientist who has designed complex, autonomous robots that can crawl like bugs.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 25099,
+            "imdb_id": "tt0119107",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.366559",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 6413682816512653604,
+            "title": "Gates of Heaven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+            "release_year": 1978,
+            "plot_summary": "A documentary about a pet cemetery in California, and the people who have pets buried there.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 24998,
+            "imdb_id": "tt0077598",
+            "category_title": "Most Underrated Documentary You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:31.408832",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          }
+        ]
+      },
+      {
+        "name": "Movies About Societal Decay",
+        "movies": [
+          {
+            "id": -4115574288891180812,
+            "title": "District 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+            "release_year": 2009,
+            "plot_summary": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Science Fiction"
+            ],
+            "tmdb_id": 17654,
+            "imdb_id": "tt1136608",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:36.851402",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3wyz2/",
+            "original_comment_text": "District 9"
+          },
+          {
+            "id": -6029993961032532703,
+            "title": "Blade Runner 2049",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "release_year": 2017,
+            "plot_summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 335984,
+            "imdb_id": "tt1856101",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:36.928166",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3w8tf/",
+            "original_comment_text": "Blade Runner 2049"
+          },
+          {
+            "id": 5527676221444676328,
+            "title": "Elysium",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uiiXHBd9oUrtUa4YqZiAoy05cRz.jpg",
+            "release_year": 2013,
+            "plot_summary": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes, a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 68724,
+            "imdb_id": "tt1535108",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:36.982085",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3y3hd/",
+            "original_comment_text": "Elysium (2013)"
+          },
+          {
+            "id": -1269797239838639508,
+            "title": "Brazil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+            "release_year": 1985,
+            "plot_summary": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 68,
+            "imdb_id": "tt0088846",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:36.987634",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3wbam/",
+            "original_comment_text": "Brazil"
+          },
+          {
+            "id": 5391385882290425094,
+            "title": "1984",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fnrKp98LGLaYC5a29fNAQSxGYIl.jpg",
+            "release_year": 2023,
+            "plot_summary": "In a bleak and oppressive totalitarian society ruled by Big Brother, personal freedoms are nonexistent and surveillance is constant. Art is mocked and destroyed, and imagination is considered a serious illness. In this grim world, a brilliant mathematician engages in a forbidden romance with a colleague and learns about a secret resistance. He is faced with a choice - to join or betray it.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 1107550,
+            "imdb_id": "tt23769666",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.052236",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3w5d2/",
+            "original_comment_text": "1984 with Sir John Hurt.  It's the OG societal rot story."
+          },
+          {
+            "id": -7085935532621277224,
+            "title": "In Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3Mwj2sIONQckOZP3YwsUXF7U5I4.jpg",
+            "release_year": 2011,
+            "plot_summary": "In the not-too-distant future, the aging gene has been switched off. To avoid overpopulation, time has become the currency and the way people pay for luxuries and necessities. The rich can live forever, while the rest struggle to negotiate for their immortality. A poor young man who suddenly comes into a fortune of time finds himself on the run from a corrupt police force known as the \"time keepers\".",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 49530,
+            "imdb_id": "tt1637688",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.131235",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3vz87/",
+            "original_comment_text": "In Time"
+          },
+          {
+            "id": -3050797770953622927,
+            "title": "V for Vendetta",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a world in which Great Britain has become a fascist state, a masked vigilante known only as “V” conducts guerrilla warfare against the oppressive British government. When V rescues a young woman from the secret police, he finds in her an ally with whom he can continue his fight to free the people of Britain.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 752,
+            "imdb_id": "tt0434409",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.182508",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb41l5x/",
+            "original_comment_text": "V for Vendetta"
+          },
+          {
+            "id": -5629728227217634573,
+            "title": "Blade Runner",
+            "poster_url": "https://image.tmdb.org/t/p/w500/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg",
+            "release_year": 1982,
+            "plot_summary": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 78,
+            "imdb_id": "tt0083658",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.186472",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3xz3h/",
+            "original_comment_text": "\"Blade Runner\" (1982)"
+          },
+          {
+            "id": -2974171743529996076,
+            "title": "Mad Max",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+            "release_year": 1979,
+            "plot_summary": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9659,
+            "imdb_id": "tt0079501",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.320211",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3vi7w/",
+            "original_comment_text": "Mad Max (1979)"
+          },
+          {
+            "id": -2281485445514569453,
+            "title": "Demolition Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+            "release_year": 1993,
+            "plot_summary": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Crime",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9739,
+            "imdb_id": "tt0106697",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.333591",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3zdv7/",
+            "original_comment_text": "They Live\n\nDemolition Man"
+          },
+          {
+            "id": 7236117342641794425,
+            "title": "Eleventh Station",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fd3KvaJc2xV1xsZ7C695n4GjWAC.jpg",
+            "release_year": 2017,
+            "plot_summary": "A FILM ON THE TRIBAL LIFE AT WYNAD.  DIRECTED BY  RENJITH CHITADE",
+            "runtime": "1h 16m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 495308,
+            "imdb_id": null,
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.344121",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb42e1l/",
+            "original_comment_text": "The hbo interpretation of Station Eleven is beautiful."
+          },
+          {
+            "id": 9113140998318065703,
+            "title": "Escape from New York",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vH9llaphjAssRGi0k7e75tD40Ce.jpg",
+            "release_year": 1981,
+            "plot_summary": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 1103,
+            "imdb_id": "tt0082340",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.399744",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3xw9p/",
+            "original_comment_text": "Escape From New York 1981"
+          },
+          {
+            "id": -6936810611705818552,
+            "title": "Aniara",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEpEJe8NTmwWL0hwYkZguTzEqzt.jpg",
+            "release_year": 2019,
+            "plot_summary": "A ship carrying settlers to a new home on Mars after Earth is rendered uninhabitable is knocked off-course, causing the passengers to consider their place in the universe.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 496743,
+            "imdb_id": "tt7589524",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.481981",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3yem9/",
+            "original_comment_text": "Aniara probably fits. A spaceship filled with people moving to a new planet loses its propulsion systems and they realize they will be drifting in space for eternity. Society degrades as a result"
+          },
+          {
+            "id": -3547936803891267425,
+            "title": "They Live",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+            "release_year": 1988,
+            "plot_summary": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 8337,
+            "imdb_id": "tt0096256",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.552998",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3zdv7/",
+            "original_comment_text": "They Live\n\nDemolition Man"
+          },
+          {
+            "id": -5461348463928728963,
+            "title": "Equilibrium",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg",
+            "release_year": 2002,
+            "plot_summary": "In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 7299,
+            "imdb_id": "tt0238380",
+            "category_title": "Movies About Societal Decay",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-06T04:19:37.629798",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n28idd/im_a_sucker_for_movies_where_society_is_decaying/nb3wu20/",
+            "original_comment_text": "Equilibrium"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 74,
+    "totalCategories": 5,
+    "lastUpdated": "2025-09-06T04:19:12.879822"
+  }
+}

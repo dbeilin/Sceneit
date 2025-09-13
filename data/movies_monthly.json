@@ -1,0 +1,1521 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Questioning Everything About Love After Watching \"The Lobster\"",
+        "movies": [
+          {
+            "id": 111716903163647217,
+            "title": "Poor Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg",
+            "release_year": 2023,
+            "plot_summary": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Science Fiction",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 792307,
+            "imdb_id": "tt14230458",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.111595",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": -6660978544393114797,
+            "title": "I'm Thinking of Ending Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+            "release_year": 2020,
+            "plot_summary": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 500840,
+            "imdb_id": "tt7939766",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.181098",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -1451583797704004072,
+            "title": "Kinds of Kindness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/50lPmjIpDs8gKfgK7fPIeKzpllh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A triptych fable following a man without choice who tries to take control of his own life; a policeman who is alarmed that his wife who was missing-at-sea has returned and seems a different person; and a woman determined to find a specific someone with a special ability, who is destined to become a prodigious spiritual leader.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1029955,
+            "imdb_id": "tt22408160",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.203532",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": -4630692663313120103,
+            "title": "Triangle of Sadness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+            "release_year": 2022,
+            "plot_summary": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 497828,
+            "imdb_id": "tt7322224",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.276959",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -3111575918819169221,
+            "title": "Happiness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+            "release_year": 1998,
+            "plot_summary": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10683,
+            "imdb_id": "tt0147612",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.313001",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          },
+          {
+            "id": -2383555537284812980,
+            "title": "Antichrist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ge7zbYvpfsDP3luKi0iSpzOgncM.jpg",
+            "release_year": 2009,
+            "plot_summary": "A grieving couple retreats to their cabin 'Eden' in the woods, hoping to repair their broken hearts and troubled marriage. But nature takes its course and things go from bad to worse.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 17609,
+            "imdb_id": "tt0870984",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.325202",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -7199484603649223526,
+            "title": "The Favorite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pJctnfarsdqgw2S815haHzza3F8.jpg",
+            "release_year": 2018,
+            "plot_summary": "Another love story that ends badly at the opera ... Leonor de Guzman may be a sublime woman, a woman of high rank, she may be the favorite of the king, but true love is forever forbidden. Experience the dramatic story of La Favorite, the most French of Italian operas, given to Maggio Musicale Fiorentino in its original French version.",
+            "runtime": "",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 563749,
+            "imdb_id": null,
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.342619",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwhxr9/",
+            "original_comment_text": "Check out the other Yorgos films, but I really really need to recommend Kinds of Kindness, it’s absolutely just weird but so good at the same time. The Favorite is fantastic but the time period may be a turn off. Poor things was also really good and won some academy awards but I personally felt it was in a weird way his big swing for the mainstream."
+          },
+          {
+            "id": -2559485814891448517,
+            "title": "Phantom Thread",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg",
+            "release_year": 2017,
+            "plot_summary": "In 1950s London, a renowned dressmaker's meticulous lifestyle begins drastically changing as his relationship with his young muse intensifies.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 400617,
+            "imdb_id": "tt5776858",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.344518",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -7145294875087635117,
+            "title": "The Lobster",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+            "release_year": 2015,
+            "plot_summary": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 254320,
+            "imdb_id": "tt3464902",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.412713",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx7ag7/",
+            "original_comment_text": "The Killing Of a Sacred Deer.\n\nIt's the next logical step after the Lobster. Yargos is a one of a kind filmmaker and his work is going to have that effect on you. It's brilliant."
+          },
+          {
+            "id": -778241647019251036,
+            "title": "Burning",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pdEgV6PckeiVcnComUw8bOirrpC.jpg",
+            "release_year": 2021,
+            "plot_summary": "Follows the deadly Australian bushfires of 2019-2020, known as ‘Black Summer’. Burning is an exploration of what happened as told from the perspective of victims of the fires, activists and scientists.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 858058,
+            "imdb_id": "tt14671620",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.413761",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -3313770183496646849,
+            "title": "The Killing of a Sacred Deer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_year": 2017,
+            "plot_summary": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 399057,
+            "imdb_id": "tt5715874",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.486017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx7ag7/",
+            "original_comment_text": "The Killing Of a Sacred Deer.\n\nIt's the next logical step after the Lobster. Yargos is a one of a kind filmmaker and his work is going to have that effect on you. It's brilliant."
+          },
+          {
+            "id": 709068946201046417,
+            "title": "Under the Silver Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/771Ey73LqsE9ORJhQCI25rgMXS2.jpg",
+            "release_year": 2018,
+            "plot_summary": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 396461,
+            "imdb_id": "tt5691670",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.557726",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwn3so/",
+            "original_comment_text": "Try some David Lynch like Mulholland Dr or Under the Silver Lake"
+          },
+          {
+            "id": 1331627026040066670,
+            "title": "Uncontrollable Circumstances",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3ZtWAO07BL1H6AKbWKiiB38dQAx.jpg",
+            "release_year": 1989,
+            "plot_summary": "Philippe and Daniel decide to go on vacation Southeast Asia, where they meet Hans, a European who livesthere and he becomes their guide and host. Once the holidays are over, before leaving to return to Paris, decided to give a small gift to Hans: a small piece of hashish.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 164020,
+            "imdb_id": "tt0097376",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.557965",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwmg06/",
+            "original_comment_text": "Antichrist, I'm Thinking of Ending Things, Force Majeure, Triangle of Sadness, Phantom Thread, Burning"
+          },
+          {
+            "id": -1075352831835125955,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.676740",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbwn3so/",
+            "original_comment_text": "Try some David Lynch like Mulholland Dr or Under the Silver Lake"
+          },
+          {
+            "id": -2459870129118833139,
+            "title": "The Squid and the Whale",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h4FMTKrWgwSUQTSbMnSA4ECKzl2.jpg",
+            "release_year": 2005,
+            "plot_summary": "Based on the true childhood experiences of Noah Baumbach and his brother, The Squid and the Whale tells the touching story of two young boys dealing with their parents' divorce in Brooklyn in the 1980s.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10707,
+            "imdb_id": "tt0367089",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.705121",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          },
+          {
+            "id": -2234374210698618646,
+            "title": "Welcome to the Dollhouse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+            "release_year": 1995,
+            "plot_summary": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11446,
+            "imdb_id": "tt0114906",
+            "category_title": "Questioning Everything About Love After Watching \"The Lobster\"",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:34.766937",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n5zw0j/just_watched_the_lobster_and_im_questioning/nbx2ckm/",
+            "original_comment_text": "In addition to everything else mentioned, I recommend Todd Solondz movies like Welcome to the Dollhouse and Happiness. Then there’s Noah Baumbach’s The Squid and the Whale."
+          }
+        ]
+      },
+      {
+        "name": "Pornographic Films That Are Actually Films",
+        "movies": [
+          {
+            "id": 9173029255209460721,
+            "title": "Pirates",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tJbhumvd4gd83U4tNeYw2kRwfQY.jpg",
+            "release_year": 1998,
+            "plot_summary": "Discovery examines the history of \"Golden age of Piracy.\" The program takes a detailed look at the harsh lives of pirates, their tactics, motivations and why they would choose such a life. The geopolitical forces that lead to the proliferation of pirates and their final demise are explained.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Documentary",
+              "History"
+            ],
+            "tmdb_id": 132493,
+            "imdb_id": "tt0316410",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.212337",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncq1z92/",
+            "original_comment_text": "Nobody mentioned “Pirates”?! It’s kind of a porno spoof of Pirates of the Caribbean. It’s definitely a porno but it has a very high budget and is pretty funny in between all the porn. I think there’s even a non-porno cut.  \n\nEdit: I think I watched the sequel but I’m sure the first one is just as good."
+          },
+          {
+            "id": -5815040533701871707,
+            "title": "In the Realm of the Senses",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+            "release_year": 1976,
+            "plot_summary": "A passionate telling of the story of Sada Abe, a woman whose affair with her master led to an obsessive and ultimately destructive sexual relationship.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 5879,
+            "imdb_id": "tt0074102",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.224992",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncpy7r9/",
+            "original_comment_text": "Maybe \" in the realm of the senses\", the sex is real..."
+          },
+          {
+            "id": 3391586135150188080,
+            "title": "Shortbus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg",
+            "release_year": 2006,
+            "plot_summary": "In post-9/11 New York City, an eclectic group of citizens find their lives entangled, personally, romantically, and sexually, at Shortbus, an underground Brooklyn salon infamous for its blend of art, music, politics, and carnality.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1378,
+            "imdb_id": "tt0367027",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.225519",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncpxz87/",
+            "original_comment_text": "Shortbus"
+          },
+          {
+            "id": 3614060140815846021,
+            "title": "Caligula",
+            "poster_url": "https://image.tmdb.org/t/p/w500/IQ29MGsBWJhwpjjlcNKSvaEV3K.jpg",
+            "release_year": 2017,
+            "plot_summary": "This work – the only opera that follows the career of the Roman Emperor Caligula and his madness, passion and power – was a great success when it was first performed in Venice, largely because of the originality and the fine psychological insight of its libretto and the subtelty of its musical score. There have been some memorable puppet-theatre performances of opera, but with Caligula Le Poème Harmonique and Arcal invite us to savour something quite original by bringing together two artistic traditions that have long been separated: those of Venetian opera and Sicilian puppet-theatre. On stage, the singers and instrumentalists, conducted by Vincent Dumestre, lend their voices and rich sound to the pupi of Mimmo Cuticchio, large stick-puppets belonging to a great theatrical tradition dating back to the seventeenth century.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 581373,
+            "imdb_id": null,
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.227044",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncpyibo/",
+            "original_comment_text": "Caligula"
+          },
+          {
+            "id": 7198200431597783727,
+            "title": "Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hS2eFigVGchssBaRlbt4hkRs09e.jpg",
+            "release_year": 2020,
+            "plot_summary": "Love Hotel. The best place to spend your holiday on February 14th. So this time the doors of the hotel are open for everyone who wants to make Valentine's Day special, wants to believe in love again, or at least not be alone on this day. Former classmates meet at a restaurant in honor of the 40th anniversary of graduation and old feelings flare up with renewed vigor. A jealous man tries to enter all the rooms on the floor to find his missing wife. A private detective and his attractive client arrange a spy show with wiretaps to bring out the scoundrel husband. An immigrant maid from Uzbekistan chooses between love for her young boy and money from his mother, given for her immediate flight home. And the life of a humble student who dreams of becoming a man in just one hour will never be the same after meeting the most talkative night butterfly in the city ...",
+            "runtime": "",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 768702,
+            "imdb_id": "tt14295864",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.227790",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncpyqnz/",
+            "original_comment_text": "Love by Gaspar Noe"
+          },
+          {
+            "id": -385749757475479797,
+            "title": "Pirates of the Caribbean: On Stranger Tides",
+            "poster_url": "https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+            "release_year": 2011,
+            "plot_summary": "Captain Jack Sparrow crosses paths with a woman from his past, and he's not sure if it's love — or if she's a ruthless con artist who's using him to find the fabled Fountain of Youth. When she forces him aboard the Queen Anne's Revenge, the ship of the formidable pirate Blackbeard, Jack finds himself on an unexpected adventure in which he doesn't know who to fear more: Blackbeard or the woman from his past.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Fantasy"
+            ],
+            "tmdb_id": 1865,
+            "imdb_id": "tt1298650",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.243118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncq1z92/",
+            "original_comment_text": "Nobody mentioned “Pirates”?! It’s kind of a porno spoof of Pirates of the Caribbean. It’s definitely a porno but it has a very high budget and is pretty funny in between all the porn. I think there’s even a non-porno cut.  \n\nEdit: I think I watched the sequel but I’m sure the first one is just as good."
+          },
+          {
+            "id": 6610895355895824704,
+            "title": "Through The Looking Glass",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hJqjcWkVPkuUgjKKio8USSRphLO.jpg",
+            "release_year": 2017,
+            "plot_summary": "On a high-land Tibetan pasture, a screening event unfolds quietly. Monks, herdsmen and their families gather by the screen to observe life captured through their own lenses.",
+            "runtime": "14m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 692282,
+            "imdb_id": null,
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.277092",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncqdd08/",
+            "original_comment_text": "Café Flesh, Nightdreams, Through the Looking Glass, Baby Rosemary, Corruption, Her Name Was Lisa, The Opening of Misty Beethoven, The Image"
+          },
+          {
+            "id": -1641217908196210333,
+            "title": "Rosemary's Baby",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+            "release_year": 1968,
+            "plot_summary": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 805,
+            "imdb_id": "tt0063522",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.284388",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncqdd08/",
+            "original_comment_text": "Café Flesh, Nightdreams, Through the Looking Glass, Baby Rosemary, Corruption, Her Name Was Lisa, The Opening of Misty Beethoven, The Image"
+          },
+          {
+            "id": -8929081749379470905,
+            "title": "Corruption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tPDKxaK0GEj62RdY4ONCXVjcezV.jpg",
+            "release_year": 1968,
+            "plot_summary": "A surgeon discovers that he can restore the beauty to his girlfriend's scarred face by murdering other women and extracting fluids from their pituitary gland. However, the effects only last for a short time, so he has to kill more and more women. It is ultimately a killing spree which ends with considerable death and disaster.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 39861,
+            "imdb_id": "tt0061520",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.299704",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncqdd08/",
+            "original_comment_text": "Café Flesh, Nightdreams, Through the Looking Glass, Baby Rosemary, Corruption, Her Name Was Lisa, The Opening of Misty Beethoven, The Image"
+          },
+          {
+            "id": 2708561943511303176,
+            "title": "The Image",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vuD1urChmeSowIQdOFNmDwqeoND.jpg",
+            "release_year": 1990,
+            "plot_summary": "When career-focused journalist's investigation indirectly causes a suicide, he questions his own methods and life in general.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 5.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 75451,
+            "imdb_id": "tt0099829",
+            "category_title": "Pornographic Films That Are Actually Films",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:43.459996",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n9xx1c/are_there_any_pornographic_films_that_are/ncqdd08/",
+            "original_comment_text": "Café Flesh, Nightdreams, Through the Looking Glass, Baby Rosemary, Corruption, Her Name Was Lisa, The Opening of Misty Beethoven, The Image"
+          }
+        ]
+      },
+      {
+        "name": "Documentaries That Will Leave You Shocked And Mind-Blown",
+        "movies": [
+          {
+            "id": -5660134648496479196,
+            "title": "Blackfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
+            "release_year": 2013,
+            "plot_summary": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 158999,
+            "imdb_id": "tt2545118",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.221371",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3txmy/",
+            "original_comment_text": " Blackfish"
+          },
+          {
+            "id": 8024658062751500026,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.234024",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3rd0x/",
+            "original_comment_text": "Girl in the Picture \n\nThree Identical Strangers \n\nThe Jinx"
+          },
+          {
+            "id": -8809061625981699577,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.236690",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3qd3n/",
+            "original_comment_text": "Dear Zachary: A Letter to a Son about his Father.\nAbsolutely devastating."
+          },
+          {
+            "id": 1473237623004207845,
+            "title": "The Act of Killing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+            "release_year": 2012,
+            "plot_summary": "In this chilling and groundbreaking documentary, former Indonesian death squad leaders reenact their real-life mass killings in the style of various film genres, from gangster epics to musicals. As they recreate their past atrocities, the line between reality and performance blurs, exposing the lingering impact of Indonesia’s 1965-66 anti-communist purge and the unsettling psychology of its perpetrators.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 123678,
+            "imdb_id": "tt2375605",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.316410",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3s0xt/",
+            "original_comment_text": "The Act of Killing\n\nWant to know what happens when mass murdering revolutionaries end up running the country? It gets very, very weird."
+          },
+          {
+            "id": -2184021701834160765,
+            "title": "Up",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+            "release_year": 2009,
+            "plot_summary": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 14160,
+            "imdb_id": "tt1049413",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.403409",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3scxu/",
+            "original_comment_text": "Up - Series\n\nMade/Directed by Michael Apted\n\nThe Up series of documentary films follows the lives of fourteen people in England beginning in 1964, when they were seven years old. The first film was titled Seven Up!\n\nThe documentary has had nine episodes—one every seven years—thus spanning 56 years.\n\nFascinating as you follow the lives of these children well into adulthood."
+          },
+          {
+            "id": 6871055883050424628,
+            "title": "Abducted in Plain Sight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+            "release_year": 2017,
+            "plot_summary": "A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 470401,
+            "imdb_id": "tt3444312",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.442964",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3sa67/",
+            "original_comment_text": "Abducted in plain sight"
+          },
+          {
+            "id": 1507150277988012689,
+            "title": "The Inventor: Out for Blood in Silicon Valley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg",
+            "release_year": 2019,
+            "plot_summary": "With a magical new invention that promised to revolutionize blood testing, Elizabeth Holmes became the world’s youngest self-made billionaire, heralded as the next Steve Jobs. Then, overnight, her 10-billion-dollar company dissolved. The rise and fall of Theranos is a window into the psychology of fraud.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 566228,
+            "imdb_id": "tt8488126",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.481909",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          },
+          {
+            "id": 1325783356905698455,
+            "title": "Unknown Number: The High School Catfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+            "release_year": 2025,
+            "plot_summary": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1517772,
+            "imdb_id": "tt37674426",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.514533",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3v4pg/",
+            "original_comment_text": "The new Netflix documentary 'Unknown Number: The High School Catfish' is a wild ride."
+          },
+          {
+            "id": 4353988111524857281,
+            "title": "There's Something Wrong with Aunt Diane",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ir34Bp7bHz0aaxEmtBFoUgvq2X0.jpg",
+            "release_year": 2011,
+            "plot_summary": "Filmmaker Liz Garbus investigates the mysterious tragedy of Diane Schuler in an effort to understand what went wrong.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 70845,
+            "imdb_id": "tt2011325",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.517461",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          },
+          {
+            "id": -3117345836475315840,
+            "title": "Grizzly Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+            "release_year": 2005,
+            "plot_summary": "Werner Herzog's documentary film about the \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in one man's attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 501,
+            "imdb_id": "tt0427312",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.656251",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3xjp2/",
+            "original_comment_text": "Grizzly Man"
+          },
+          {
+            "id": 6606949091024425629,
+            "title": "Girl in the Picture",
+            "poster_url": "https://image.tmdb.org/t/p/w500/w6dnirDUhvWuHy91QECqGSYmOpa.jpg",
+            "release_year": 2022,
+            "plot_summary": "A young mother’s mysterious death and her son’s subsequent kidnapping blow open a decades-long mystery about the woman’s true identity, and the murderous federal fugitive at the center of it all.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 988046,
+            "imdb_id": "tt21059520",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.661407",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3rd0x/",
+            "original_comment_text": "Girl in the Picture \n\nThree Identical Strangers \n\nThe Jinx"
+          },
+          {
+            "id": 5781298686016763569,
+            "title": "Dark Waters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xZm932Mo56dT1GLJUWIGptYB700.jpg",
+            "release_year": 1944,
+            "plot_summary": "Leslie Calvin, the sole survivor of a submarine accident, goes to her relatives in order to recover emotionally. Unfortunately, she encounters various scam artists led by Mr. Sydney who intend to kill her and steal the family assets. Dr. George Grover helps Leslie to defeat Sydney.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 36332,
+            "imdb_id": "tt0036745",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.804541",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3pd9n/",
+            "original_comment_text": "Dark Waters is based on true events about corporate corruption poisoning an entire town, if you want to get angry at something "
+          },
+          {
+            "id": 6872651591786762487,
+            "title": "Paradise Lost",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rFgXt24xn6KnaVS0J5IllaWUNJg.jpg",
+            "release_year": 2018,
+            "plot_summary": "Marked by losses and mismatches, José's eccentric family seek to be happy while locked in Paraíso Perdido, a nightclub that has stopped in time, where they sing popular romantic music.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 524323,
+            "imdb_id": "tt8513302",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.805283",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3qehn/",
+            "original_comment_text": "Paradise lost, the documentary about the West Memphis Three. Another one for the “it will piss you off big time” category."
+          },
+          {
+            "id": 4634587076318335244,
+            "title": "The Staircase",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7WnerGLooBIFm1AKDvBanHoTdZa.jpg",
+            "release_year": 1998,
+            "plot_summary": "A mysterious carpenter appears just as a church is in need of repair.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 113875,
+            "imdb_id": "tt0152588",
+            "category_title": "Documentaries That Will Leave You Shocked And Mind-Blown",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:19:52.940592",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n6z52o/looking_for_a_documentary_that_will_leave_me/nc3t586/",
+            "original_comment_text": "There’s Something Wrong With Aunt Diane, Out for Blood in Silicon Valley\n\nThe Staircase, The Price of Honor, Three Identical Strangers\n\nUntold: The Girlfriend Who Didn’t Exist, White Boy Rick"
+          }
+        ]
+      },
+      {
+        "name": "Mind-Blowing Documentary Film Recommendations",
+        "movies": [
+          {
+            "id": -2812531130103449392,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "imdb_id": "tt2125608",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.717706",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxdpl1/",
+            "original_comment_text": "Searching for Sugar Man"
+          },
+          {
+            "id": 3833216596333265580,
+            "title": "There's Something Wrong with Aunt Diane",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ir34Bp7bHz0aaxEmtBFoUgvq2X0.jpg",
+            "release_year": 2011,
+            "plot_summary": "Filmmaker Liz Garbus investigates the mysterious tragedy of Diane Schuler in an effort to understand what went wrong.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 70845,
+            "imdb_id": "tt2011325",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.727368",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxfso1/",
+            "original_comment_text": "There’s Something Wrong with Aunt Diane\n\nEdited"
+          },
+          {
+            "id": -4921242377215020302,
+            "title": "My Octopus Teacher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+            "release_year": 2020,
+            "plot_summary": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682110,
+            "imdb_id": "tt12888462",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.729235",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxhvy7/",
+            "original_comment_text": "My Octopus Teacher"
+          },
+          {
+            "id": 5957084173978035364,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.731702",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxhul6/",
+            "original_comment_text": "Dear Zachary"
+          },
+          {
+            "id": -5473973126830691883,
+            "title": "Free Solo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v4QfYZMACODlWul9doN9RxE99ag.jpg",
+            "release_year": 2018,
+            "plot_summary": "Follow Alex Honnold as he attempts to become the first person to ever free solo climb Yosemite's 3,000 foot high El Capitan wall. With no ropes or safety gear, this would arguably be the greatest feat in rock climbing history.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Adventure"
+            ],
+            "tmdb_id": 515042,
+            "imdb_id": "tt7775622",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.734321",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxoahy/",
+            "original_comment_text": "Free Solo"
+          },
+          {
+            "id": -2001818741575341796,
+            "title": "Jesus Camp",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ueSRBYaicEYvR2sFHVvptKNaxI.jpg",
+            "release_year": 2006,
+            "plot_summary": "Jesus Camp is a Christian summer camp where children hone their \"prophetic gifts\" and are schooled in how to \"take back America for Christ\". The film is a first-ever look into an intense training ground that recruits born-again Christian children to become an active part of America's political future.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1776,
+            "imdb_id": "tt0486358",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.734723",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxik56/",
+            "original_comment_text": "Jesus Camp. Frightening to watch."
+          },
+          {
+            "id": -3724294341370877455,
+            "title": "The Imposter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/syUIxAXlTxYO0HGkJbjzeIzV683.jpg",
+            "release_year": 2008,
+            "plot_summary": "The Imposter deals with the lifestyle and subsequent breakdown of a Christian rock singer. Kevin Max stars as Johnny C, a talented singer who is addicted to oxycodone. After his wife and child leave him, Johnny is fired from the band by leader James, played by Jeff Deyo. Johnny tries to make it on his own but gets swindled by a sleazy record producer and beat up by his drug suppliers. Finally out of options, Johnny travels home to see if his family will take him back.",
+            "runtime": "",
+            "tmdb_rating": 4.0,
+            "genres": [],
+            "tmdb_id": 82880,
+            "imdb_id": "tt1175292",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.744543",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxdov5/",
+            "original_comment_text": "The Imposter (2012)"
+          },
+          {
+            "id": 4920866169316073757,
+            "title": "Touching the Void",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bXIzgyNqfjJWtUpwtadkxGp3WmA.jpg",
+            "release_year": 2021,
+            "plot_summary": "Be transported from the comfort of your living room to the freezing peaks of the Peruvian Andes, as Joe Simpson and Simon Yates’ perilous descent of Siula Grande becomes a breathtaking struggle for survival. Bringing the thrill of live theatre to your home, experience the death-defying heights and life-changing decisions from a more intimate angle than ever with our unique multi-camera set-up and an engrossing 3D soundscape. Perched on an unstable snow-cliff and battered by freezing winds, Simon is desperate to rescue his injured climbing partner who hangs from a rope below him. Meanwhile, Joe teeters on the brink of death and despair in a crevasse from which he can’t possibly climb to safety.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 837366,
+            "imdb_id": null,
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.747981",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxhh9g/",
+            "original_comment_text": "Touching The Void"
+          },
+          {
+            "id": -7936092815782502076,
+            "title": "63 Up",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gM2rFuG7woFMPpvh7WxGJ47HdYn.jpg",
+            "release_year": 2019,
+            "plot_summary": "Director Michael Apted revisits the same group of British-born adults after a 7 year wait. The subjects are interviewed as to the changes that have occurred in their lives during the last seven years.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 698102,
+            "imdb_id": "tt8929142",
+            "category_title": "Mind-Blowing Documentary Film Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:02.825311",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nax1wz/can_you_recommend_a_mindblowing_documentary_film/ncxe7yz/",
+            "original_comment_text": "It's not really mind blowing, but The Up series is worth seeing. It starts with a group of 7 year olds and every seven years, they reconnect with them to discuss their life. The most recent is 63 up. Seeing how they grew up, seeing who reached their dreams and how they turn out 54 years later is really interesting"
+          }
+        ]
+      },
+      {
+        "name": "Must-Watch Movies That Will Traumatize You",
+        "movies": [
+          {
+            "id": 7716246741648194320,
+            "title": "Irreversible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_year": 2002,
+            "plot_summary": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 979,
+            "imdb_id": "tt0290673",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.381958",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddbnet/",
+            "original_comment_text": "Irreversible "
+          },
+          {
+            "id": 951502653540848629,
+            "title": "Kids",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+            "release_year": 1995,
+            "plot_summary": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 9344,
+            "imdb_id": "tt0113540",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.384119",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddg09m/",
+            "original_comment_text": "•Happiness (1998) very chilling ‘comedy’ told across intersecting storyline. Prominent actor: Phillip Seymour Hoffman\n\n•Mysterious Skin (2004) shook me to my core, extremely dark. Prominent actor: Joseph Gordon-Levitt\n\n•Nobody Knows (2004, Japan) sad sad drama that will fuck with you also \n\n•Kids (1995) NYC, HIV, teenagers. Prominent actor: Chloe Sevigny\n\n•The Florida Project (2017) Poverty and addiction \n\nall of these have themes of child neglect and the first two have heavy child SA themes so watch with care\n\nEditing to add more as I go"
+          },
+          {
+            "id": 8220918602714106340,
+            "title": "Precious",
+            "poster_url": "https://image.tmdb.org/t/p/w500/d4ltLIDbvZskSwbzXqi0Hfv5ma4.jpg",
+            "release_year": 2009,
+            "plot_summary": "Set in Harlem in 1987, Claireece \"Precious\" Jones is a 16-year-old African American girl born into a life no one would want. She's pregnant for the second time by her absent father; at home, she must wait hand and foot on her mother, an angry woman who abuses her emotionally and physically. School is chaotic and Precious has reached the ninth grade with good marks and a secret; She can't read.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 25793,
+            "imdb_id": "tt0929632",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.388259",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddd00r/",
+            "original_comment_text": "Precious."
+          },
+          {
+            "id": 7852020264965938160,
+            "title": "Prisoners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+            "release_year": 2013,
+            "plot_summary": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+            "runtime": "2h 33m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 146233,
+            "imdb_id": "tt1392214",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.388641",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddedqo/",
+            "original_comment_text": "Prisoners"
+          },
+          {
+            "id": 4417146162294508249,
+            "title": "Incendies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+            "release_year": 2010,
+            "plot_summary": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "War",
+              "Mystery"
+            ],
+            "tmdb_id": 46738,
+            "imdb_id": "tt1255953",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.390669",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddd9r0/",
+            "original_comment_text": "Incendies"
+          },
+          {
+            "id": 2461378052854581030,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bnSTP1PY2fDyat0eUa4QouuGV7F.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.393206",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddg09m/",
+            "original_comment_text": "•Happiness (1998) very chilling ‘comedy’ told across intersecting storyline. Prominent actor: Phillip Seymour Hoffman\n\n•Mysterious Skin (2004) shook me to my core, extremely dark. Prominent actor: Joseph Gordon-Levitt\n\n•Nobody Knows (2004, Japan) sad sad drama that will fuck with you also \n\n•Kids (1995) NYC, HIV, teenagers. Prominent actor: Chloe Sevigny\n\n•The Florida Project (2017) Poverty and addiction \n\nall of these have themes of child neglect and the first two have heavy child SA themes so watch with care\n\nEditing to add more as I go"
+          },
+          {
+            "id": -565600491943740194,
+            "title": "Nobody Knows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kDUUdWrbBBVqzSmm27pHFJcTvCU.jpg",
+            "release_year": 2004,
+            "plot_summary": "In a small Tokyo apartment, twelve-year-old Akira must care for his younger siblings after their mother leaves them and shows no sign of returning.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 2517,
+            "imdb_id": "tt0408664",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.393964",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddg09m/",
+            "original_comment_text": "•Happiness (1998) very chilling ‘comedy’ told across intersecting storyline. Prominent actor: Phillip Seymour Hoffman\n\n•Mysterious Skin (2004) shook me to my core, extremely dark. Prominent actor: Joseph Gordon-Levitt\n\n•Nobody Knows (2004, Japan) sad sad drama that will fuck with you also \n\n•Kids (1995) NYC, HIV, teenagers. Prominent actor: Chloe Sevigny\n\n•The Florida Project (2017) Poverty and addiction \n\nall of these have themes of child neglect and the first two have heavy child SA themes so watch with care\n\nEditing to add more as I go"
+          },
+          {
+            "id": 7778109146415745397,
+            "title": "Watership Down",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q9ZcNxfquJbMTd6UfhAlJbmLBts.jpg",
+            "release_year": 1978,
+            "plot_summary": "When the warren belonging to a community of rabbits is threatened, a brave group led by Fiver, Bigwig, Blackberry and Hazel leave their homeland in a search of a safe new haven.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Drama"
+            ],
+            "tmdb_id": 11837,
+            "imdb_id": "tt0078480",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.394206",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddhohr/",
+            "original_comment_text": "Watership Down will fuck you the fuck up"
+          },
+          {
+            "id": -6148642316347657497,
+            "title": "Mysterious Skin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+            "release_year": 2005,
+            "plot_summary": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 11171,
+            "imdb_id": "tt0370986",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.399447",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddg09m/",
+            "original_comment_text": "•Happiness (1998) very chilling ‘comedy’ told across intersecting storyline. Prominent actor: Phillip Seymour Hoffman\n\n•Mysterious Skin (2004) shook me to my core, extremely dark. Prominent actor: Joseph Gordon-Levitt\n\n•Nobody Knows (2004, Japan) sad sad drama that will fuck with you also \n\n•Kids (1995) NYC, HIV, teenagers. Prominent actor: Chloe Sevigny\n\n•The Florida Project (2017) Poverty and addiction \n\nall of these have themes of child neglect and the first two have heavy child SA themes so watch with care\n\nEditing to add more as I go"
+          },
+          {
+            "id": 847688697499437335,
+            "title": "We Need to Talk About Kevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+            "release_year": 2011,
+            "plot_summary": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 71859,
+            "imdb_id": "tt1242460",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.408205",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddcqrx/",
+            "original_comment_text": "We Need to Talk About Kevin"
+          },
+          {
+            "id": -6379668350486784489,
+            "title": "Hereditary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4GFPuL14eXi66V96xBWY73Y9PfR.jpg",
+            "release_year": 2018,
+            "plot_summary": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 493922,
+            "imdb_id": "tt7784604",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.506946",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddd013/",
+            "original_comment_text": "Hereditary or Midsommar"
+          },
+          {
+            "id": 7078680903153328150,
+            "title": "Martyrs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yfPA9lXqONtLMgZks87ECob1A5.jpg",
+            "release_year": 2008,
+            "plot_summary": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9539,
+            "imdb_id": "tt1029234",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.542600",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddb68h/",
+            "original_comment_text": "Martyrs (French 2008)"
+          },
+          {
+            "id": -512032769583457350,
+            "title": "Midsommar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+            "release_year": 2019,
+            "plot_summary": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 530385,
+            "imdb_id": "tt8772262",
+            "category_title": "Must-Watch Movies That Will Traumatize You",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:13.629783",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1nd0up0/i_want_a_must_watch_movie_thatll_traumatize_me/nddd013/",
+            "original_comment_text": "Hereditary or Midsommar"
+          }
+        ]
+      },
+      {
+        "name": "Most Underrated Documentaries You've Seen",
+        "movies": [
+          {
+            "id": -7425944989348133511,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bVJCQfIfNC01CYOVkvBOtrY1cxy.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.719381",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": -5289976402744750851,
+            "title": "The Queen of Versailles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eFMRyapxD7XP5Boj6CLaDtQ1m3o.jpg",
+            "release_year": 2012,
+            "plot_summary": "With the epic dimensions of a Shakespearean tragedy, The Queen of Versailles follows billionaires Jackie and David’s rags-to-riches story to uncover the innate virtues and flaws of their American dream. We open on the triumphant construction of the biggest house in America, a sprawling, 90,000-square-foot mansion inspired by Versailles. Since a booming time-share business built on the real-estate bubble is financing it, the economic crisis brings progress to a halt and seals the fate of its owners. We witness the impact of this turn of fortune over the next two years in a riveting film fraught with delusion, denial, and self-effacing humor.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 84327,
+            "imdb_id": "tt2125666",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.843934",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasbmwb/",
+            "original_comment_text": "We all know the likes of Grizzly Man, Dear Zachary and Capturing the Freedmans, but here is one many people don't know of: \n\nThe Queen of Versailles\n\nIt was an eye opener! A story of what happens when a business magnate loses his business during a recession and a formerly rich family who never had to worry about money now has no source of income. Mandatory viewing."
+          },
+          {
+            "id": 4542045941463756141,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "imdb_id": "tt2125608",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.887799",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasa9f3/",
+            "original_comment_text": "Searching for Sugarman….so so good"
+          },
+          {
+            "id": 4306081237851067583,
+            "title": "The Alpinist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tYbSGAVbyACEExptLu63CxCGm4O.jpg",
+            "release_year": 2021,
+            "plot_summary": "Marc-André Leclerc, an exceptional climber, has made solo his religion and ice his homeland. When filmmaker Peter Mortimer begins his film, he places his camera at the base of a British Columbia cliff and waits patiently for the star climber to come down to answer his questions. Marc André, a little uncomfortable, prefers to return to the depths of the forest where he lives in a tent with his girlfriend Brette Harrington. In the heart of winter, Peter films vertiginous solos on fragile ice. He tries to make appointments with the climber who is never there and does not seem really concerned by this camera pointed at him \"For me, it would not be a solo if there was someone else\" . Marc-André is thus, the \"pure light\" of the mountaineers of his time, which marvel Barry Blanchard, Alex Honnold or Reinhold Messner, interviewed in the film. An event film for an extraordinary character.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682587,
+            "imdb_id": "tt11790780",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.915302",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas7vrp/",
+            "original_comment_text": "The Alpinist"
+          },
+          {
+            "id": -7382956704848207820,
+            "title": "Salesman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQhe7uWygmAiQ6HNA7Jeys4wdbk.jpg",
+            "release_year": 1969,
+            "plot_summary": "This documentary from Albert and David Maysles follows the bitter rivalry of four door-to-door salesmen working for the Mid-American Bible Company: Paul \"The Badger\" Brennan, Charles \"The Gipper\" McDevitt, James \"The Rabbit\" Baker and Raymond \"The Bull\" Martos. Times are tough for this hard-living quartet, who spend their days traveling through small-town America, trying their best to peddle gold-leaf Bibles to an apathetic crowd of lower-middle-class housewives and elderly couples.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 27375,
+            "imdb_id": "tt0064921",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.986333",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 7480291062506586183,
+            "title": "The Tower",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Jilc07Guz1uDW3NcOKLp0ZsOrd.jpg",
+            "release_year": 2024,
+            "plot_summary": "A young woman engages the services of a tarot card reader and gets more than she bargained for.",
+            "runtime": "4m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1286976,
+            "imdb_id": null,
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:31.987704",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nas9h9m/",
+            "original_comment_text": "The Tower about the University of Texas clock tower shooting. It’s incredible. Very suspenseful, even if you know what happened."
+          },
+          {
+            "id": 8213516253571964204,
+            "title": "Vernon, Florida",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dqcUISuve7pUcGT75Kwa0E8Sz6H.jpg",
+            "release_year": 1981,
+            "plot_summary": "Early Errol Morris documentary intersplices random chatter he captured on film of the genuinely eccentric residents of Vernon, Florida. A few examples? The preacher giving a sermon on the definition of the word \"Therefore,\" and the obsessive turkey hunter who speaks reverentially of the \"gobblers\" he likes to track down and kill.",
+            "runtime": "55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 30142,
+            "imdb_id": "tt0083281",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.062559",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -2861656363141307008,
+            "title": "American Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qAoIbQDnbGgiLDBUtOh7JUe5XQX.jpg",
+            "release_year": 1999,
+            "plot_summary": "American Movie documents the story of filmmaker Mark Borchardt, his mission, and his dream. Spanning over two years of intense struggle with his film, his family, financial decline, and spiritual crisis, American Movie is a portrayal of ambition, obsession, excess, and one man's quest for the American Dream.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Documentary",
+              "Comedy"
+            ],
+            "tmdb_id": 14242,
+            "imdb_id": "tt0181288",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.130340",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nash8p0/",
+            "original_comment_text": "American Movie is such a perfect documentary that it feels like a mockumentary."
+          },
+          {
+            "id": -7940186780715477173,
+            "title": "A Brief History of Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A3sVrDThz8Xthfq2EglWoypKEfU.jpg",
+            "release_year": 1991,
+            "plot_summary": "This shows physicist Stephen Hawking's life as he deals with the ALS that renders him immobile and unable to speak without the use of a computer. Hawking's friends, family, classmates, and peers are interviewed not only about his theories but the man himself.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1358,
+            "imdb_id": "tt0103882",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.138676",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -1393989401178389046,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4w4BJk3l8y9gYwPPLRs6uPHOmGL.jpg",
+            "release_year": 1988,
+            "plot_summary": "Errol Morris's unique documentary dramatically re-enacts the crime scene and investigation of a police officer's murder in Dallas.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Documentary"
+            ],
+            "tmdb_id": 14285,
+            "imdb_id": "tt0096257",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.210316",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": -4784682211729586979,
+            "title": "Mr. Death",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5WCOWYXAaeaYoi0h5b2GddRR8KJ.jpg",
+            "release_year": 2016,
+            "plot_summary": "An exclusive interview with Death as he goes about his everyday business.",
+            "runtime": "15m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Documentary",
+              "Drama"
+            ],
+            "tmdb_id": 478193,
+            "imdb_id": "tt7086072",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.215616",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 6721444581860943257,
+            "title": "Gates of Heaven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2VGQsyCvd2XJKpKZXHF4AWsADoA.jpg",
+            "release_year": 1978,
+            "plot_summary": "A documentary about a pet cemetery in California, and the people who have pets buried there.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 24998,
+            "imdb_id": "tt0077598",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.275915",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          },
+          {
+            "id": 6178458251014903821,
+            "title": "Fast, Cheap & Out of Control",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8uXV6w3ZQUtefqjCgxXswCwPSjk.jpg",
+            "release_year": 1997,
+            "plot_summary": "Errol Morris’s Fast, Cheap & Out of Control interweaves the stories of four men, each driven to create eccentric worlds from their unique obsessions, all of which involve animals. There’s a lion tamer who shares his theories on the mental processes of wild animals; a topiary gardener who has devoted a lifetime to shaping bears and giraffes out of hedges and trees; a man fascinated with hairless mole rats; and an MIT scientist who has designed complex, autonomous robots that can crawl like bugs.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 25099,
+            "imdb_id": "tt0119107",
+            "category_title": "Most Underrated Documentaries You've Seen",
+            "time_period": "monthly",
+            "date_scraped": "2025-09-13T04:20:32.373067",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1n0p5pu/most_underrated_documentary_youve_seen/nasc6z6/",
+            "original_comment_text": "Not underrated, but not nearly enough people know about:\n\nSalesman (1969). One of my favorite films of all time. \n\nErrol Morris’ early films: Vernon, Florida and Gates of Heaven; as well as his later or more well-known work: The Thin Blue Line; A Brief History of Time; Fast, Cheap, & Out of Control; Mr. Death; and The Fog of War."
+          }
+        ]
+      }
+    ],
+    "totalMovies": 75,
+    "totalCategories": 6,
+    "lastUpdated": "2025-09-13T04:19:34.111595"
+  }
+}

@@ -1,0 +1,1 @@
+import{o as i,B as s,q as r}from"#entry";import"./oG1AnvCF.js";import"./CLTw4M6j.js";const l=i({cast(t){return typeof t=="string"&&(t={name:t}),t},defaults:{"@type":"ListItem"},resolve(t,e){return typeof t.item=="string"?t.item=s(e.meta.host,t.item):typeof t.item=="object"&&(t.item=r(t.item,e)),t}});export{l as listItemResolver};

@@ -1,0 +1,1193 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "10/10 Movies Where No One Dies",
+        "movies": [
+          {
+            "id": -1120630316167931564,
+            "title": "Victor/Victoria",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mCjXcPRM3Rc7gOCGeVrBdPvF2bk.jpg",
+            "release_year": 1982,
+            "plot_summary": "A struggling female soprano finds work playing a male female impersonator, but it complicates her personal life.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Music",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 12614,
+            "imdb_id": "tt0084865",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.210558",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k5rb0/",
+            "original_comment_text": "Spotlight\n\nWhen Harry Met Sally\n\nVictor/Victoria\n\nMy Cousin Vinny (there is an off screen murder of someone we meet for 10 seconds, and mention of the death penalty taking place, but it’s such a lighthearted, funny comedy, I think you’d be okay)"
+          },
+          {
+            "id": 1738823375924494227,
+            "title": "My Cousin Vinny",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+            "release_year": 1992,
+            "plot_summary": "Two carefree pals traveling through rural Alabama on their way back to college are mistakenly arrested and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who has just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend to try his first case, it's a real shock - for him and the Deep South!",
+            "runtime": "2h",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10377,
+            "imdb_id": "tt0104952",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.283336",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k5rb0/",
+            "original_comment_text": "Spotlight\n\nWhen Harry Met Sally\n\nVictor/Victoria\n\nMy Cousin Vinny (there is an off screen murder of someone we meet for 10 seconds, and mention of the death penalty taking place, but it’s such a lighthearted, funny comedy, I think you’d be okay)"
+          },
+          {
+            "id": 3969362767791938137,
+            "title": "The Muppet Christmas Carol",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ssrV29QSVVJuemBHho0Qx7pFYak.jpg",
+            "release_year": 1992,
+            "plot_summary": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Music",
+              "Comedy",
+              "Family",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 10437,
+            "imdb_id": "tt0104940",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.348735",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k4jfa/",
+            "original_comment_text": "Can people already be dead or come back to life? \n\n\nMuppet Christmas Carol "
+          },
+          {
+            "id": 1068621472088077000,
+            "title": "Spirited Away",
+            "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "release_year": 2001,
+            "plot_summary": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 129,
+            "imdb_id": "tt0245429",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.418457",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k4vf1/",
+            "original_comment_text": "Spirited Away"
+          },
+          {
+            "id": -8119109064982883738,
+            "title": "When Harry Met Sally...",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+            "release_year": 1989,
+            "plot_summary": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 639,
+            "imdb_id": "tt0098635",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.424729",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k5rb0/",
+            "original_comment_text": "Spotlight\n\nWhen Harry Met Sally\n\nVictor/Victoria\n\nMy Cousin Vinny (there is an off screen murder of someone we meet for 10 seconds, and mention of the death penalty taking place, but it’s such a lighthearted, funny comedy, I think you’d be okay)"
+          },
+          {
+            "id": -3836215247719727439,
+            "title": "Ocean's Eleven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+            "release_year": 2001,
+            "plot_summary": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 161,
+            "imdb_id": "tt0240772",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.491409",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k3bc9/",
+            "original_comment_text": "Ocean’s Eleven"
+          },
+          {
+            "id": 1455788666763364885,
+            "title": "Dazed and Confused",
+            "poster_url": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+            "release_year": 1993,
+            "plot_summary": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 9571,
+            "imdb_id": "tt0106677",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.556121",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k3g94/",
+            "original_comment_text": "Dazed and Confused"
+          },
+          {
+            "id": -1664545190098608250,
+            "title": "The Birdcage",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hU2XeckncHS61TWZKDtw1BrKmOO.jpg",
+            "release_year": 1996,
+            "plot_summary": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 11000,
+            "imdb_id": "tt0115685",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.563844",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k7q70/",
+            "original_comment_text": "The Birdcage\n\nThe Parent Trap\n\nSabrina"
+          },
+          {
+            "id": 4436962633368454703,
+            "title": "The Parent Trap",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dNqgjqxHIdfsQRQL5XTujNfX9pj.jpg",
+            "release_year": 1998,
+            "plot_summary": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Romance"
+            ],
+            "tmdb_id": 9820,
+            "imdb_id": "tt0120783",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.638354",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k7q70/",
+            "original_comment_text": "The Birdcage\n\nThe Parent Trap\n\nSabrina"
+          },
+          {
+            "id": -2510139976975994563,
+            "title": "The Martian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+            "release_year": 2015,
+            "plot_summary": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 286217,
+            "imdb_id": "tt3659388",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.642337",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6kh2zt/",
+            "original_comment_text": "The Martian. One of my favourite films, there's not even an antagonist. And spoiler alert, no deaths."
+          },
+          {
+            "id": 1908980523626962543,
+            "title": "Back to the Future",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "release_year": 1985,
+            "plot_summary": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 105,
+            "imdb_id": "tt0088763",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.699537",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k95ab/",
+            "original_comment_text": "Back to the Future."
+          },
+          {
+            "id": -4301814634959114663,
+            "title": "Spotlight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8DPGG400FgaFWaqcv11n8mRd2NG.jpg",
+            "release_year": 2015,
+            "plot_summary": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 314365,
+            "imdb_id": "tt1895587",
+            "category_title": "10/10 Movies Where No One Dies",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:38.776292",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raj2d8/suggest_me_a_1010_movie_where_no_one_dies/o6k5rb0/",
+            "original_comment_text": "Spotlight\n\nWhen Harry Met Sally\n\nVictor/Victoria\n\nMy Cousin Vinny (there is an off screen murder of someone we meet for 10 seconds, and mention of the death penalty taking place, but it’s such a lighthearted, funny comedy, I think you’d be okay)"
+          }
+        ]
+      },
+      {
+        "name": "Movies To Watch After A Last-Minute First-Date Cancellation",
+        "movies": [
+          {
+            "id": -8072481089406657515,
+            "title": "Promising Young Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+            "release_year": 2020,
+            "plot_summary": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 582014,
+            "imdb_id": "tt9620292",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.414004",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6ozk1p/",
+            "original_comment_text": "[**Promising Young Woman**](https://www.google.com/search?q=Promising+Young+Woman&rlz=1C1CHBF_enUS982US982&oq=female+revenge+movies&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABjvBdIBCTExNDU3ajBqOagCALACAfEFQjosyzbgeEw&sourceid=chrome&ie=UTF-8&ved=2ahUKEwif0-7e7uuSAxUNnSYFHb6UF-4QgK4QegYIAQgHEAE) **(2020)**"
+          },
+          {
+            "id": -437361091269505109,
+            "title": "Casino",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+            "release_year": 1995,
+            "plot_summary": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+            "runtime": "2h 59m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 524,
+            "imdb_id": "tt0112641",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.421068",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxkdv/",
+            "original_comment_text": "Maybe weird but Goodfellas or Casino always makes me feel better 😂"
+          },
+          {
+            "id": -7422760679283035642,
+            "title": "GoodFellas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+            "release_year": 1990,
+            "plot_summary": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 769,
+            "imdb_id": "tt0099685",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.494227",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxkdv/",
+            "original_comment_text": "Maybe weird but Goodfellas or Casino always makes me feel better 😂"
+          },
+          {
+            "id": 8944882392215444083,
+            "title": "He's Just Not That Into You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jip2ap24Y6JxEgzVRyNqyYssnyR.jpg",
+            "release_year": 2009,
+            "plot_summary": "Have you ever wondered why they said they would call but didn't, or why they don't want to sleep with you anymore, or why your relationship isn't going to the next level? Maybe they're just not that into you. Gigi wants a man who says he'll call her - and actually does - while Alex advises her to stop waiting by the phone. Beth wants a proposal after years of a committed relationship with her boyfriend, Neil, who is just fine with the way things are. Janine's not sure if she can trust her husband, Ben, who can't quite trust himself around Anna. Anna can't decide between the sexy married guy or her straightforward, no-sparks standby, Conor, who can't get over the fact that he can't have her. And Mary, who's found an entire network of loving, supportive men, just needs to find one who's straight.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 10184,
+            "imdb_id": "tt1001508",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.519876",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxjkn/",
+            "original_comment_text": "He’s just not that into you"
+          },
+          {
+            "id": -6097603804286838092,
+            "title": "High Fidelity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e2LZGB62GMhv3Fo8tDZjY87I81a.jpg",
+            "release_year": 2000,
+            "plot_summary": "After his long-time girlfriend dumps him, a thirty-year-old record store owner seeks to understand why he is unlucky in love while recounting his \"top five breakups of all time\".",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance",
+              "Music"
+            ],
+            "tmdb_id": 243,
+            "imdb_id": "tt0146882",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.587873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6ozz10/",
+            "original_comment_text": "High Fidelity"
+          },
+          {
+            "id": -8350337535333107260,
+            "title": "The Seventh Seal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wcZ21zrOsy0b52AfAF50XpTiv75.jpg",
+            "release_year": 1957,
+            "plot_summary": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 490,
+            "imdb_id": "tt0050976",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.634062",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oy9we/",
+            "original_comment_text": "**THE SEVENTH SEAL (1957)**"
+          },
+          {
+            "id": 5596328854866700986,
+            "title": "Monster",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b45yfHtLk4TSSDxOLgMLBpShner.jpg",
+            "release_year": 2003,
+            "plot_summary": "In 1989, prostitute Aileen Wuornos befriends and enters a relationship with a young woman named Selby. Determined to straighten out her life, Aileen's limited education lands her back on the corner. She's raped by a trick, who she kills. A string of murder and robbery follows that ultimately leads Aileen to becoming America's first female serial killer.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 504,
+            "imdb_id": "tt0340855",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.658176",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxent/",
+            "original_comment_text": "**Monster (2003)**"
+          },
+          {
+            "id": -6535491192836858399,
+            "title": "Jurassic Park",
+            "poster_url": "https://image.tmdb.org/t/p/w500/maFjKnJ62hDQ9E66dKqDZgbUy0H.jpg",
+            "release_year": 1993,
+            "plot_summary": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 329,
+            "imdb_id": "tt0107290",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.729151",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6ozesi/",
+            "original_comment_text": "Jurassic Park. “God creates dinosaurs. God destroys dinosaurs. God creates man. Man destroys God. Man creates dinosaurs.” “Dinosaurs eat man. Woman inherits the earth.”"
+          },
+          {
+            "id": -5830372503982266458,
+            "title": "The Jerk",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mIjOWtUofyt9Jawge7FbvITjU3D.jpg",
+            "release_year": 1979,
+            "plot_summary": "After discovering he's not really black like the rest of his family, likable dimwit Navin Johnson sets off on a hilarious misadventure that takes him from rags to riches and back again. The slaphappy jerk strikes it rich, but life in the fast lane isn't all it's cracked up to be and, in the end, all that really matters to Johnson is his true love.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 6471,
+            "imdb_id": "tt0079367",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.798615",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6p53zr/",
+            "original_comment_text": "The Jerk\n\n\nBecause he's a jerk"
+          },
+          {
+            "id": 1279841646472074559,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:58.872893",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxwsv/",
+            "original_comment_text": "Gone Girl"
+          },
+          {
+            "id": 8111186442118711456,
+            "title": "Must Love Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/252PdRj3y2S05DC4oSf2qk2vva3.jpg",
+            "release_year": 2005,
+            "plot_summary": "Sarah Nolan is a newly divorced woman cautiously rediscovering romance with the enthusiastic but often misguided help of her well-meaning family. As she braves a series of hilarious disastrous mismatches and first dates, Sarah begins to trust her own instincts again and learns that, no matter what, it's never a good idea to give up on love.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 11648,
+            "imdb_id": "tt0417001",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:59.013389",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6oxtqr/",
+            "original_comment_text": "Must love dogs"
+          },
+          {
+            "id": 5935948750471295661,
+            "title": "Kill Bill: The Whole Bloody Affair",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lRQHS8x9ofDPVx9gjq6sGAfERkf.jpg",
+            "release_year": 2011,
+            "plot_summary": "A former assassin—known only as The Bride—wakes up from a coma to wreak vengeance on her former boss and lover, Bill, and his team of assassins, The Deadly Viper Assassination Squad, who betrayed her and left her for dead.  Quentin Tarantino’s 'Kill Bill: The Whole Bloody Affair' combines the two films, Kill Bill: Volume 1 (2003) and Kill Bill: Volume 2 (2004), into a single movie as it was originally intended to be.  This new version removes the cliffhanger ending from Kill Bill: Vol. 1 and the recap that began Kill Bill: Vol. 2, and adds a very brief intermission to separate the two volumes. It also includes a never-before-seen 7½-minute animated sequence, and restores to colour the 'House of Blue Leaves' fight sequence that was first presented in black and white in the U.S. theatrical cut to avoid an NC-17 rating. This unrated and unabridged version of the film has a runtime of 253 minutes.",
+            "runtime": "4h 13m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 414419,
+            "imdb_id": "tt6019206",
+            "category_title": "Movies To Watch After A Last-Minute First-Date Cancellation",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:14:59.016724",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rb79n0/first_date_cancelled_last_minute_need_a_movie_to/o6p0y83/",
+            "original_comment_text": "Kill Bill"
+          }
+        ]
+      },
+      {
+        "name": "Thrillers With Extensive Sexual Scenes And Nudity",
+        "movies": [
+          {
+            "id": 530135525097350789,
+            "title": "Wild Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg",
+            "release_year": 1998,
+            "plot_summary": "When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 617,
+            "imdb_id": "tt0120890",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:19.780917",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mi71c/",
+            "original_comment_text": "Wild Things\n\nBasic Instinct"
+          },
+          {
+            "id": -2111175066918312320,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+            "release_year": 2005,
+            "plot_summary": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1640,
+            "imdb_id": "tt0375679",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:19.823173",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mjgwb/",
+            "original_comment_text": "Jade\n\nBody of Evidence \n\nBound\n\nCrash (Cronenberg, not Boyle)"
+          },
+          {
+            "id": -3406971005390546519,
+            "title": "Jade",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vNEdHgeTFDdK0plI9LTEOMeVveA.jpg",
+            "release_year": 2024,
+            "plot_summary": "Jade presents the story of a woman who comes between a powerful businessman and a gang leader in their search for a hard drive that could damage the operations of Interpol. Despite grieving for the brother she accidentally killed, the woman is required to use her unique set of skills to retrieve the drive and protect her brother's unborn child being carried by another woman.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 849509,
+            "imdb_id": "tt14469386",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:19.894570",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mjgwb/",
+            "original_comment_text": "Jade\n\nBody of Evidence \n\nBound\n\nCrash (Cronenberg, not Boyle)"
+          },
+          {
+            "id": 7818881751298251821,
+            "title": "The Hidden Face",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sk6D07ntxMgzqArCq1ufHSvxZvt.jpg",
+            "release_year": 2011,
+            "plot_summary": "A Spanish orchestra conductor deals with the mysterious disappearance of his girlfriend.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 80184,
+            "imdb_id": "tt1772250",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:19.946638",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mjjt9/",
+            "original_comment_text": "The Handmaiden\n\nLa Cara Oculta (The Hidden Face)"
+          },
+          {
+            "id": 5854173858434191251,
+            "title": "Eyes Wide Shut",
+            "poster_url": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+            "release_year": 1999,
+            "plot_summary": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+            "runtime": "2h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 345,
+            "imdb_id": "tt0120663",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.040460",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mhftl/",
+            "original_comment_text": "Eyes Wide Shut"
+          },
+          {
+            "id": 861176160671454488,
+            "title": "Basic Instinct",
+            "poster_url": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
+            "release_year": 1992,
+            "plot_summary": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 402,
+            "imdb_id": "tt0103772",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.063852",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mi71c/",
+            "original_comment_text": "Wild Things\n\nBasic Instinct"
+          },
+          {
+            "id": -5773222459138050700,
+            "title": "Body Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_year": 1981,
+            "plot_summary": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 14412,
+            "imdb_id": "tt0082089",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.113532",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mj3xl/",
+            "original_comment_text": "Body heat"
+          },
+          {
+            "id": 9008690709355202887,
+            "title": "The Handmaiden",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+            "release_year": 2016,
+            "plot_summary": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 290098,
+            "imdb_id": "tt4016934",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.180543",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mjjt9/",
+            "original_comment_text": "The Handmaiden\n\nLa Cara Oculta (The Hidden Face)"
+          },
+          {
+            "id": 4106872994331639450,
+            "title": "Bound",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+            "release_year": 1996,
+            "plot_summary": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 9303,
+            "imdb_id": "tt0115736",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.252738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mkydy/",
+            "original_comment_text": "Try “Bound”, the 1996 one."
+          },
+          {
+            "id": 3048691981225193582,
+            "title": "Body Double",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
+            "release_year": 1984,
+            "plot_summary": "After losing an acting role and his girlfriend, Jake Scully finally catches a break: he gets offered a gig house-sitting in the Hollywood Hills. While peering through the beautiful home's telescope one night, he spies a gorgeous woman dancing in her window. But when he witnesses the girl's murder, it leads Scully through the netherworld of the adult entertainment industry on a search for answers—with porn actress Holly Body as his guide.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 11507,
+            "imdb_id": "tt0086984",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.396313",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mizdg/",
+            "original_comment_text": "Body Double (1984) de palma classic"
+          },
+          {
+            "id": -394421961180584669,
+            "title": "Body of Evidence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rGDfwZHRMpY5R0ZkmaiHHvpYQKB.jpg",
+            "release_year": 1993,
+            "plot_summary": "When an elderly millionaire is found dead with cocaine in his system, his will leaves $8 million to Rebecca Carlson, who was having an affair with him. District attorney Robert Garrett decides to prosecute Rebecca, arguing that she deliberately engaged in wild sex with the old man to overexcite him and lead to his premature death. Defense attorney Frank Dulaney defends Rebecca in court while getting sucked into a dangerous affair with her.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Romance"
+            ],
+            "tmdb_id": 2149,
+            "imdb_id": "tt0106453",
+            "category_title": "Thrillers With Extensive Sexual Scenes And Nudity",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:20.500755",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravmj7/thriller_with_a_lot_of_sexual_scenesnudity/o6mjgwb/",
+            "original_comment_text": "Jade\n\nBody of Evidence \n\nBound\n\nCrash (Cronenberg, not Boyle)"
+          }
+        ]
+      },
+      {
+        "name": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+        "movies": [
+          {
+            "id": -1973554045951690749,
+            "title": "License to Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cSGV9uXOKxu8j9mj6NmTix4GLFa.jpg",
+            "release_year": 1988,
+            "plot_summary": "Teenager Les Anderson thinks his life can't get any worse after he flunks his driver's exam, but he's wrong. Even though he didn't receive his license, Les refuses to break his date with the cool Mercedes Lane, and he decides to lift his family's prize luxury car for the occasion. Unfortunately, Mercedes sneaks some booze along and passes out drunk, and a confused Les makes the bad decision of enlisting his rebellious friend, Dean, to help.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Romance"
+            ],
+            "tmdb_id": 13704,
+            "imdb_id": "tt0095519",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.774269",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgn4h/",
+            "original_comment_text": "I agree with Adventures in Babysitting and Weekend at Bernies.\n\nAlso might like:\n\nFerris Bueller's Day Off\n\nLicense to Drive\n\nAirheads\n\nBetter Off Dead\n\nHome Alone\n\nUncle Buck"
+          },
+          {
+            "id": -3288776301550402988,
+            "title": "Adventures in Babysitting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8QiAj0Xw2UMeZMIIfZKeNoIsszs.jpg",
+            "release_year": 1987,
+            "plot_summary": "When plans with her boyfriend fall through, high school senior Chris Parker ends up babysitting the Anderson kids, Brad and Sara. What should be a quiet night in, however, turns into a series of ridiculous exploits, starting when they leave the house to pick up Chris' friend Brenda. Soon, Brad's buddy Daryl is involved, and the group must contend with car thieves, blues musicians and much more.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 14367,
+            "imdb_id": "tt0092513",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.840421",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mfaqo/",
+            "original_comment_text": "Adventures in babysitting.Mr Mom. The burbs."
+          },
+          {
+            "id": -181031403559638771,
+            "title": "Weekend at Bernie's",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+            "release_year": 1989,
+            "plot_summary": "Two young insurance corporation employees try to pretend that their murdered employer is alive by puppeteering his dead body, leading a hitman to attempt to track him down to finish him off.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 8491,
+            "imdb_id": "tt0098627",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.860190",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mfeqa/",
+            "original_comment_text": "Weekend at Bernie's"
+          },
+          {
+            "id": 3062192084974884444,
+            "title": "The 'Burbs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+            "release_year": 1989,
+            "plot_summary": "When secretive new neighbors move in next door, suburbanite Ray Peterson and his friends let their paranoia get the best of them as they start to suspect the newcomers of evildoings and commence an investigation. But it's hardly how Ray, who much prefers drinking beer, reading his newspaper and watching a ball game on the tube expected to spend his vacation.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 11974,
+            "imdb_id": "tt0096734",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.913701",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mfaqo/",
+            "original_comment_text": "Adventures in babysitting.Mr Mom. The burbs."
+          },
+          {
+            "id": -2194827351369524837,
+            "title": "So I Married an Axe Murderer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zQlpQDKDADKlgqfMs1E191ofDJU.jpg",
+            "release_year": 1993,
+            "plot_summary": "Just after a bad breakup, Charlie MacKenzie falls for lovely butcher Harriet Michaels and introduces her to his parents. But, as voracious consumers of sensational tabloids, his parents soon come to suspect that Harriet is actually a notorious serial killer -- \"Mrs. X\" -- wanted in connection with a string of bizarre honeymoon killings. Thinking his parents foolish, Charlie proposes to Harriet. But while on his honeymoon with her, he begins to fear they were right.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Romance"
+            ],
+            "tmdb_id": 10442,
+            "imdb_id": "tt0108174",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.915842",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mh5z0/",
+            "original_comment_text": "So I married an axe murderer"
+          },
+          {
+            "id": -8264719145771461311,
+            "title": "Airheads",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4xPG8pPMyeoec48gKWbbC85EC8j.jpg",
+            "release_year": 1994,
+            "plot_summary": "The Lone Rangers have heavy-metal dreams and a single demo tape they can't get anyone to play. The solution: Hijack an FM rock radio station and hold the deejays hostage until they agree to broadcast the band's tape.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Music"
+            ],
+            "tmdb_id": 13595,
+            "imdb_id": "tt0109068",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.976836",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgn4h/",
+            "original_comment_text": "I agree with Adventures in Babysitting and Weekend at Bernies.\n\nAlso might like:\n\nFerris Bueller's Day Off\n\nLicense to Drive\n\nAirheads\n\nBetter Off Dead\n\nHome Alone\n\nUncle Buck"
+          },
+          {
+            "id": -5802978462100910674,
+            "title": "Drop Dead Fred",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v2kadCRcRdq8a0aRbQg4yVk3Xmd.jpg",
+            "release_year": 1991,
+            "plot_summary": "An unhappy housewife gets a lift from the return of her imaginary childhood friend, Drop Dead Fred.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 10379,
+            "imdb_id": "tt0101775",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:42.985720",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgscv/",
+            "original_comment_text": "You want a SILLY movie? \n\nDrop dead Fred. Filled to the brim with quotable lines!"
+          },
+          {
+            "id": -7661685965285362917,
+            "title": "Mr. Mom",
+            "poster_url": "https://image.tmdb.org/t/p/w500/QuTlgKKykL7j0PnZZd3LNFVhCX.jpg",
+            "release_year": 1983,
+            "plot_summary": "Jack and Caroline are a couple making a decent living when Jack suddenly loses his job. They agree that he should stay at home and look after the house while Caroline works. It's just that he's never done it before, and really doesn't have a clue...",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 13105,
+            "imdb_id": "tt0085970",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:43.056024",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mfaqo/",
+            "original_comment_text": "Adventures in babysitting.Mr Mom. The burbs."
+          },
+          {
+            "id": 927899637311528798,
+            "title": "Ferris Bueller's Day Off",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+            "release_year": 1986,
+            "plot_summary": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9377,
+            "imdb_id": "tt0091042",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:43.060745",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgn4h/",
+            "original_comment_text": "I agree with Adventures in Babysitting and Weekend at Bernies.\n\nAlso might like:\n\nFerris Bueller's Day Off\n\nLicense to Drive\n\nAirheads\n\nBetter Off Dead\n\nHome Alone\n\nUncle Buck"
+          },
+          {
+            "id": -3209418103189038344,
+            "title": "Better Off Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1fD1fe52uB0ksQduxO8j00GMfcM.jpg",
+            "release_year": 2025,
+            "plot_summary": "When his father dies, an awkward young man is shocked by the attention of his friends. When the warmth is gone and things return to their usual coldness, he begins to wonder: “Who else must die?”",
+            "runtime": "2h",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1393071,
+            "imdb_id": "tt34761368",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:43.129600",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgn4h/",
+            "original_comment_text": "I agree with Adventures in Babysitting and Weekend at Bernies.\n\nAlso might like:\n\nFerris Bueller's Day Off\n\nLicense to Drive\n\nAirheads\n\nBetter Off Dead\n\nHome Alone\n\nUncle Buck"
+          },
+          {
+            "id": 4169347886441284683,
+            "title": "Home Alone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+            "release_year": 1990,
+            "plot_summary": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 771,
+            "imdb_id": "tt0099785",
+            "category_title": "80s Or 90s Movies Similar To Don't Tell Mom The Babysitter's Dead",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:15:43.132332",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ravcs9/suggest_me_a_80s90s_movie_with_similar_vibes_to/o6mgn4h/",
+            "original_comment_text": "I agree with Adventures in Babysitting and Weekend at Bernies.\n\nAlso might like:\n\nFerris Bueller's Day Off\n\nLicense to Drive\n\nAirheads\n\nBetter Off Dead\n\nHome Alone\n\nUncle Buck"
+          }
+        ]
+      },
+      {
+        "name": "Movies Like Pride And Prejudice",
+        "movies": [
+          {
+            "id": -5610924595169690623,
+            "title": "Ever After",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s5gPne7RUoFoSXvkz3o5yfWr7QE.jpg",
+            "release_year": 2025,
+            "plot_summary": "Belly sinks further and further down into the depths of a mysterious underwater garden. Above water, she is bullied at school for not speaking the language and already having her period. At home, her mother gives her nothing but tough love. Down below is the only place she feels free. But before she can truly live and breathe in this dark fairy tale realm, she must grow the fins of a mermaid, which requires a very painful sacrifice.",
+            "runtime": "18m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Fantasy"
+            ],
+            "tmdb_id": 1394425,
+            "imdb_id": "tt34619222",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:37.858818",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6mybpi/",
+            "original_comment_text": "Ever After always had the similar vibes to me growing up"
+          },
+          {
+            "id": -6216484977826184003,
+            "title": "Little Women",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+            "release_year": 2019,
+            "plot_summary": "Four sisters come of age in America in the aftermath of the Civil War.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "History"
+            ],
+            "tmdb_id": 331482,
+            "imdb_id": "tt3281548",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:37.913647",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -3954251351542854780,
+            "title": "Portrait of a Lady on Fire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+            "release_year": 2019,
+            "plot_summary": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 531428,
+            "imdb_id": "tt8613070",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:37.931998",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n28nq/",
+            "original_comment_text": "Portrait of a Lady on Fire"
+          },
+          {
+            "id": 5066899420975436436,
+            "title": "Age of Innocence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zyox9TUrs9cSkjIv0nb5GAlXOa4.jpg",
+            "release_year": 1977,
+            "plot_summary": "A British schoolteacher finds trouble in a conservative Canadian town.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 3.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 214566,
+            "imdb_id": "tt0075640",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:37.979422",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -7560872637163227185,
+            "title": "Far from the Madding Crowd",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cr4cctBPv9qHDtjDps4wi0kqI7h.jpg",
+            "release_year": 2015,
+            "plot_summary": "In Victorian England, the independent and headstrong Bathsheba Everdene attracts three very different suitors: Gabriel Oak, a hardworking young sheep farmer; Frank Troy, a handsome and reckless Sergeant; and William Boldwood, a prosperous and mature bachelor.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 250734,
+            "imdb_id": "tt2935476",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.002881",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -3109304254250114536,
+            "title": "Atonement",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hMRIyBjPzxaSXWM06se3OcNjIQa.jpg",
+            "release_year": 2007,
+            "plot_summary": "A young girl irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 4347,
+            "imdb_id": "tt0783233",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.075215",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6my07z/",
+            "original_comment_text": "Atonement. One of my faves. I don’t know if it is like pride and prejudice  but I love its vibe .\n\nFar from the maddening crowd. Absolutely one of my faves . 2015 with Matthias Schoenaerts as Gabriel oak!"
+          },
+          {
+            "id": 6993143888005279461,
+            "title": "North and South",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dtPDxEbMLSANIQrv69AK0fc9tiT.jpg",
+            "release_year": 1965,
+            "plot_summary": "Based on a radio drama, this wartime melodrama revolves around a woman caught between two men: her husband, a South Korean lieutenant, and her former lover, a North Korean officer who defects to come find her. The film portrays not only their tragic love triangle but also the empathetic bond that develops between the two men.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Drama",
+              "War",
+              "Romance"
+            ],
+            "tmdb_id": 371292,
+            "imdb_id": "tt0300244",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.075431",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -4736173422793852269,
+            "title": "Bright Star",
+            "poster_url": "https://image.tmdb.org/t/p/w500/csN6y4nq2kaBiegHaGw0DGp4plf.jpg",
+            "release_year": 2009,
+            "plot_summary": "In 1818, high-spirited young Fanny Brawne finds herself increasingly intrigued by the handsome but aloof poet John Keats, who lives next door to her family friends the Dilkes. After reading a book of his poetry, she finds herself even more drawn to the taciturn Keats. Although he agrees to teach her about poetry, Keats cannot act on his reciprocated feelings for Fanny, since as a struggling poet he has no money to support a wife.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 29963,
+            "imdb_id": "tt0810784",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.149026",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -8288620777006094820,
+            "title": "Belle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qCK00C3L0bM5jphoYU0gFpG3Hly.jpg",
+            "release_year": 2013,
+            "plot_summary": "Dido Elizabeth Bell, the illegitimate, mixed-race daughter of a Royal Navy admiral, plays an important role in the campaign to abolish slavery in England.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 205601,
+            "imdb_id": "tt2404181",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.149367",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -5079700651570178914,
+            "title": "Room With a View",
+            "poster_url": "https://image.tmdb.org/t/p/w500/epLYhfyWmyP593ThjlryPeetTRa.jpg",
+            "release_year": 2020,
+            "plot_summary": "The wind is blowing in the Châtelet Theatre. This destructive hurricane sweeps away all the remnants of a dying world. Shot just before the closure of theatres during lockdown, the film is like one last rave before the Apocalypse.",
+            "runtime": "5m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 933948,
+            "imdb_id": null,
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.214781",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          },
+          {
+            "id": -158114575783646208,
+            "title": "The Duchess",
+            "poster_url": "https://image.tmdb.org/t/p/w500/77ckyYrWmR12kl3qToqmDySnuwv.jpg",
+            "release_year": 2008,
+            "plot_summary": "A chronicle of the life of 18th century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "History",
+              "Romance"
+            ],
+            "tmdb_id": 12783,
+            "imdb_id": "tt0864761",
+            "category_title": "Movies Like Pride And Prejudice",
+            "time_period": "daily",
+            "date_scraped": "2026-02-22T05:16:38.291109",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1raxocf/i_need_a_movie_like_pride_and_prejudice/o6n2aka/",
+            "original_comment_text": "For the intense yearning theme: North and South, Far from Madding Crowd, Bright Star, Room with a View, Age of Innocence\n\nYou might also like: Little Women, Belle, The Duchess, Emma, and The Young Victoria."
+          }
+        ]
+      }
+    ],
+    "totalMovies": 57,
+    "totalCategories": 5,
+    "lastUpdated": "2026-02-22T05:14:38.210558"
+  }
+}

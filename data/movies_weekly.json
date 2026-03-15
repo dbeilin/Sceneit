@@ -1,0 +1,1416 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+        "movies": [
+          {
+            "id": -3646901242585222481,
+            "title": "Exit Through the Gift Shop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+            "release_year": 2010,
+            "plot_summary": "Banksy is a graffiti artist with a global reputation whose work can be seen on walls from post-hurricane New Orleans to the separation barrier on the Palestinian West Bank. Fiercely guarding his anonymity to avoid prosecution, Banksy has so far resisted all attempts to be captured on film. Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 39452,
+            "imdb_id": "tt1587707",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:38.906828",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa61alt/",
+            "original_comment_text": "Exit Through The Gift Shop from 2010 if you want something that isn’t quite as dark as the more crime focused docs."
+          },
+          {
+            "id": 3360479304555581009,
+            "title": "The Tiger King Returns",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lsNoT6vjro9P0TbzB8WmnPULh0u.jpg",
+            "release_year": 2024,
+            "plot_summary": "During the period of the Five-Hu Rebellion, there was an old forest where the legend of the \"Mountain God\" was spread. The White Head Village, which had always believed in the White Tiger, was suddenly slaughtered by the White Tiger after a blessing ceremony. In response, the people invited Chu Jiang, the legendary hunter of White Head Village, to come out to the mountain",
+            "runtime": "1h 17m",
+            "tmdb_rating": 7.0,
+            "genres": [],
+            "tmdb_id": 1250797,
+            "imdb_id": null,
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:38.986462",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa63tpx/",
+            "original_comment_text": "Tiger King was a gift that kept giving"
+          },
+          {
+            "id": 1841933307717696317,
+            "title": "The Alabama Solution",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gultnK0rYs4xLLYhxQ9ZnvPfVAn.jpg",
+            "release_year": 2025,
+            "plot_summary": "Incarcerated men defy the odds to expose a cover-up in one of America’s deadliest prison systems.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Documentary",
+              "Drama"
+            ],
+            "tmdb_id": 1413805,
+            "imdb_id": "tt35307139",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.050624",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5ws5n/",
+            "original_comment_text": "The Alabama Solution\n\nDocumentary covering a BBQ at an Alabama Prison and Eureka, there is wide spread abuse going on. \n\nPretty harsh in your face conditions exposed. "
+          },
+          {
+            "id": 4816445613875665506,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/toJRzlXOSZYWW5IUk7DrZJv7kHF.jpg",
+            "release_year": 1966,
+            "plot_summary": "The work of the US police force and the problem of fighting rising crime across the country.",
+            "runtime": "52m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Documentary",
+              "TV Movie"
+            ],
+            "tmdb_id": 545938,
+            "imdb_id": "tt0860931",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.119695",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xole/",
+            "original_comment_text": "Thin Blue Line seems like the most obvious example. Maybe Capturing the Freedmans?"
+          },
+          {
+            "id": 8594970342248996347,
+            "title": "The King of Kong: A Fistful of Quarters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wACtXGiO08EBbJhqsD2nUzPsrKe.jpg",
+            "release_year": 2007,
+            "plot_summary": "In this hilarious arcade showdown, a humble novice goes head-to-head against the reigning Donkey Kong champ in a confrontation that rocks the gaming world to its processors! For over 20 years, Billy Mitchell has owned the throne of the Donkey Kong world. No one could beat his top score until now. Newcomer Steve Wiebe claims to have beaten the unbeatable, but Mitchell isn't ready to relinquish his crown without a fight. Go behind the barrels as the two battle it out in a vicious war to earn the title of the true King of Kong.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 13958,
+            "imdb_id": "tt0923752",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.193065",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xg8o/",
+            "original_comment_text": "King of Kong-A Fistful of Quarters\n\nThe doc becomes the doc. Really good. Especially if you love video games. \n\nIt’s about some guy that breaks the Donkey Kong high score that’s over 30 years old. \nThen the original record holder shows up. "
+          },
+          {
+            "id": 7317638663753942105,
+            "title": "Unknown Number: The High School Catfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+            "release_year": 2025,
+            "plot_summary": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1517772,
+            "imdb_id": "tt37674426",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.193272",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5wcdm/",
+            "original_comment_text": "The Unknown Number: The High School Catfish. This kinda falls into this category. It’s jaw-dropping. "
+          },
+          {
+            "id": -1996908359427708968,
+            "title": "Tickled",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qxUbPwyhzNEyUZYOZm6t8yYSQf.jpg",
+            "release_year": 2016,
+            "plot_summary": "Journalist David Farrier stumbles upon a mysterious tickling competition online. As he delves deeper he comes up against fierce resistance, but that doesn’t stop him getting to the bottom of a story stranger than fiction.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 373072,
+            "imdb_id": "tt5278506",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.259860",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5uotq/",
+            "original_comment_text": "Tickled"
+          },
+          {
+            "id": 3404339537493286880,
+            "title": "Icarus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
+            "release_year": 2010,
+            "plot_summary": "Trained KGB assassin, Edward Genn (code name ICARUS), worked years ago as a sleeper agent in America. But when the Soviet Union collapsed, he quickly found himself in a foreign country with no one to trust. Determined to escape his muddled existence, Edward tries to start over. He assumes a new identity, starts a family and tries to start his own legitimate business that could potentially pull him out of his world of being a hitman.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 35402,
+            "imdb_id": "tt1261862",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.261674",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5uz3y/",
+            "original_comment_text": "Icarus (2017) -- starts with a guy trying PEDs for amateur cycling, and leads to the Russian Olympic doping program"
+          },
+          {
+            "id": 1759230582782355409,
+            "title": "Capturing the Friedmans",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+            "release_year": 2003,
+            "plot_summary": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 2260,
+            "imdb_id": "tt0342172",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.263297",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xole/",
+            "original_comment_text": "Thin Blue Line seems like the most obvious example. Maybe Capturing the Freedmans?"
+          },
+          {
+            "id": -8524045977689889996,
+            "title": "The Keepers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wb5pyYMrT85wSFeWr22RvRQvLtu.jpg",
+            "release_year": 2016,
+            "plot_summary": "The Keepers is a documentary portrait of the personalities and work of zookeepers shot with unprecedented behind-the-scenes access at the Memphis Zoo. The film is a bittersweet, nonjudgmental look at what it means to find a place for yourself, working a job that you love.",
+            "runtime": "1h 11m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 333869,
+            "imdb_id": "tt4176684",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.335540",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5x7jq/",
+            "original_comment_text": "The Keepers is initially about the murder of a Baltimore nun, but as they look into it, they unravel an entire child abuse scandal that went on for years. "
+          },
+          {
+            "id": 6943221606961358471,
+            "title": "Borat Subsequent Moviefilm",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+            "release_year": 2020,
+            "plot_summary": "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 740985,
+            "imdb_id": "tt13143964",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.338770",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa6cjc6/",
+            "original_comment_text": "I'm not joking when I say Borat 2- the Giuliani scene was ended because he was about to commit a crime against a minor girl on camera "
+          },
+          {
+            "id": 4989908243776880380,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.356908",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa6hbsx/",
+            "original_comment_text": "\"three identical strangers\"\n\nabout identical triplets robert shafran, eddy galland, and david kellman, who were separated at birth and discovered each other by chance at age 19 in 1980. \n\ntheir joyous reunion and subsequent media fame lead to the uncovering of a disturbing, secret scientific study that deliberately placed them in different socioeconomic environments to investigate the \"nature vs. nurture\" debate, revealing a sinister truth behind their separation. \n\nother sets of twins/triplets separated at birth by the same scientific study were also later identified."
+          },
+          {
+            "id": 1914159283498944865,
+            "title": "Collective",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oR93n0CAn2GznyHDFSRTp0J1t8c.jpg",
+            "release_year": 2019,
+            "plot_summary": "In the aftermath of a tragic fire in a Romanian club, burn victims begin dying in hospitals from wounds that were not life threatening.  A team of investigative journalists move into action uncovering the mass corruption of the health system and of the state institutions. Collective follows journalists, whistle blowers, and authorities alike. An immersive and uncompromising look into a dysfunctional system, exposing corruption, propaganda, and manipulation that nowadays affect not only Romania, but societies around the world.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 618363,
+            "imdb_id": "tt10706602",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:28:39.477785",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5y8j5/",
+            "original_comment_text": "Collective (2019) \n\n\nStarted essentially as a real life version of The Office with the office being that of a Romanian sports newspaper and turns into... I won't spoil it but it's so good.\n\n\n\n\n\"A few days after the fire, the Romanian director Alexander Nanau began following a small team of journalists at Gazeta Sporturilor, a sports newspaper, impressed at the way its reporters, who were more used to writing about football, were asking piercing questions about the state’s response to the fire.\"\n\n\nhttps://www.theguardian.com/film/2020/nov/13/collective-alexander-nanau-romania-state-corruption"
+          }
+        ]
+      },
+      {
+        "name": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+        "movies": [
+          {
+            "id": 5933662687722753616,
+            "title": "Harold and Maude",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+            "release_year": 1971,
+            "plot_summary": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 343,
+            "imdb_id": "tt0067185",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:03.948722",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bj4w1/",
+            "original_comment_text": "Harold and Maude"
+          },
+          {
+            "id": -4431014210056203596,
+            "title": "På'en igen Amalie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jco9964pIHxLQZvykFQHcWrsDoW.jpg",
+            "release_year": 1973,
+            "plot_summary": "Amalie is walking along the Copenhagen canal when a woman falls into the water. She jumps in and tries to save the woman, but ends up drowning herself. When Amalie wakes up in the hospital, she finds out that the other woman is dead and that the authorities believe she is the one who died. Now begins a long and tough battle against the bureaucracy of the Danish social system. It all ends with Amalie deciding to commit one crazy crime after another, culminating in an attempt to steal the crown jewels...",
+            "runtime": "",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 224510,
+            "imdb_id": "tt0070579",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.019270",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bitxc/",
+            "original_comment_text": "Amálie, even though she's the main character. \n\n\nThe Perks of Being a Wallflower\n\n\n(In book form, Clarisse in Fahrenheit 451, but not so much in either film)"
+          },
+          {
+            "id": -1489304209818809877,
+            "title": "Almost Famous",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+            "release_year": 2000,
+            "plot_summary": "In 1973, 15-year-old William Miller's unabashed love of music and aspiration to become a rock journalist lands him an assignment from Rolling Stone magazine to interview and tour with the up-and-coming band, Stillwater.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 786,
+            "imdb_id": "tt0181875",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.077294",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bhlwg/",
+            "original_comment_text": "Almost Famous (2000)"
+          },
+          {
+            "id": 4410996897655352840,
+            "title": "Ruby Sparks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zELurt0GVRkR5X5ymuk7KXUxhC8.jpg",
+            "release_year": 2012,
+            "plot_summary": "Calvin is a young novelist who achieved phenomenal success early in his career but is now struggling with his writing – as well as his romantic life. Finally, he makes a breakthrough and creates a character named Ruby who inspires him. When Calvin finds Ruby, in the flesh, sitting on his couch about a week later, he is completely flabbergasted that his words have turned into a living, breathing person.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 103332,
+            "imdb_id": "tt1839492",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.145246",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bh8e7/",
+            "original_comment_text": "Ruby Sparks (2012)"
+          },
+          {
+            "id": 2729491911786754333,
+            "title": "Fahrenheit 451",
+            "poster_url": "https://image.tmdb.org/t/p/w500/urH9H50gKbUK8U6qTVd89SLQPjx.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an oppressive future, a 'fireman' whose duty is to destroy all books begins to question his task.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 401905,
+            "imdb_id": "tt0360556",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.166020",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bitxc/",
+            "original_comment_text": "Amálie, even though she's the main character. \n\n\nThe Perks of Being a Wallflower\n\n\n(In book form, Clarisse in Fahrenheit 451, but not so much in either film)"
+          },
+          {
+            "id": 4391423401317014187,
+            "title": "Breakfast at Tiffany's",
+            "poster_url": "https://image.tmdb.org/t/p/w500/79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
+            "release_year": 1961,
+            "plot_summary": "Holly Golightly is an eccentric New York City playgirl determined to marry a Brazilian millionaire. But when young writer Paul Varjak moves into her apartment building, her past threatens to get in their way.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 164,
+            "imdb_id": "tt0054698",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.257184",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bj03u/",
+            "original_comment_text": "Breakfast at Tiffany's, What's Up Doc? - start with the classics. "
+          },
+          {
+            "id": -7501578072062376920,
+            "title": "Watching the Detectives",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wm2TaGTXpy30WNLuZaqagIMbf1K.jpg",
+            "release_year": 2007,
+            "plot_summary": "Neil, a self-proclaimed film geek and owner of Gumshoe video, has always been content to live vicariously through his favorite films noir. But when he meets Violet, a real-life femme fatale, his mundane world gets turned upside down and the line between reality and the movies quickly begins to blur.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 22100,
+            "imdb_id": "tt0472205",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.286917",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bj28z/",
+            "original_comment_text": "Chungking Express is the best MPDG movie ever and also just generally a masterpiece\n\nWatching the Detectives is like a 6/10 movie but it’s got Lucy Liu and Cillian Murphy and feels very likable"
+          },
+          {
+            "id": -868838450156223631,
+            "title": "What's Up Doc?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A89X2FGciNcbOFhZrp69hwhjHOT.jpg",
+            "release_year": 1985,
+            "plot_summary": "Bohouš Burda, a forty-year-old idealist disillusioned with city life and his failing marriage, abandons it all to run a mobile dental clinic in the mountains. He meets Terezka, who shares his yearning for a simpler existence, but even in remote nature they must confront unforeseen challenges.",
+            "runtime": "1h 19m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 255778,
+            "imdb_id": "tt0087066",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.332076",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bj03u/",
+            "original_comment_text": "Breakfast at Tiffany's, What's Up Doc? - start with the classics. "
+          },
+          {
+            "id": 1634754679267184583,
+            "title": "Wristcutters: A Love Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qModiIR60IMLP28ruGZluQOtsOj.jpg",
+            "release_year": 2007,
+            "plot_summary": "Zia, distraught over breaking up with his girlfriend, decides to end it all. Unfortunately, he discovers that there is no real ending, only a run-down afterlife that is strikingly similar to his old one, just a bit worse. Discovering that his ex-girlfriend has also \"offed\" herself, he sets out on a road trip to find her.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 13198,
+            "imdb_id": "tt0477139",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.440398",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bih3w/",
+            "original_comment_text": "Wristcutters a love story"
+          },
+          {
+            "id": -2293283995510587708,
+            "title": "The Fifth Element",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 18,
+            "imdb_id": "tt0119116",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.475488",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bhctm/",
+            "original_comment_text": "The Fifth Element. Leeloo is a SUPERPOWERED MPDG."
+          },
+          {
+            "id": -7209682654563367617,
+            "title": "The Perks of Being a Wallflower",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aKCvdFFF5n80P2VdS7d8YBwbCjh.jpg",
+            "release_year": 2012,
+            "plot_summary": "Pittsburgh, Pennsylvania, 1991. High school freshman Charlie is a wallflower, always watching life from the sidelines, until two senior students, Sam and her stepbrother Patrick, become his mentors, helping him discover the joys of friendship, music and love.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 84892,
+            "imdb_id": "tt1659337",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.542384",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bitxc/",
+            "original_comment_text": "Amálie, even though she's the main character. \n\n\nThe Perks of Being a Wallflower\n\n\n(In book form, Clarisse in Fahrenheit 451, but not so much in either film)"
+          },
+          {
+            "id": -409722477358918370,
+            "title": "Chungking Express",
+            "poster_url": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+            "release_year": 1994,
+            "plot_summary": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 11104,
+            "imdb_id": "tt0109424",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.656571",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bj28z/",
+            "original_comment_text": "Chungking Express is the best MPDG movie ever and also just generally a masterpiece\n\nWatching the Detectives is like a 6/10 movie but it’s got Lucy Liu and Cillian Murphy and feels very likable"
+          },
+          {
+            "id": 2774573441291283272,
+            "title": "Yes Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Vk2nQF1kY34x53YnWd5zDaTht.jpg",
+            "release_year": 2008,
+            "plot_summary": "Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 10201,
+            "imdb_id": "tt1068680",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.686081",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bhf1w/",
+            "original_comment_text": "Yes Man"
+          },
+          {
+            "id": 8705220453103393912,
+            "title": "Elizabethtown",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mOdlzAQxhMgiaazRzif1YtJzg9s.jpg",
+            "release_year": 2005,
+            "plot_summary": "Drew Baylor is fired after causing his shoe company to lose hundreds of millions of dollars. To make matters worse, he's also dumped by his girlfriend. On the verge of ending it all, Drew gets a new lease on life when he returns to his family's small Kentucky hometown after his father dies. Along the way, he meets a flight attendant with whom he falls in love.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 9621,
+            "imdb_id": "tt0368709",
+            "category_title": "Manic Pixie Dream Girl Movies That Get The Trope Right",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:29:04.764278",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ro5u2f/manic_pixie_dream_girl_movies_that_do_the_trope/o9bkg8t/",
+            "original_comment_text": "Elizabethtown is the movie where a reviewer coined the term Manix Pixie Dream Girl."
+          }
+        ]
+      },
+      {
+        "name": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+        "movies": [
+          {
+            "id": 4901239873462566319,
+            "title": "A Simple Plan",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wO2gH7DMqpMeHlj5QmDhW4IkgAr.jpg",
+            "release_year": 1998,
+            "plot_summary": "Captivated by the lure of sudden wealth, the quiet rural lives of two brothers erupt into conflicts of greed, paranoia and distrust when over $4 million in cash is discovered at the remote site of a downed small airplane. Their simple plan to retain the money while avoiding detection opens a Pandora's box when the fear of getting caught triggers panicked behavior and leads to virulent consequences.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 10223,
+            "imdb_id": "tt0120324",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:20.956091",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9webu6/",
+            "original_comment_text": "A Simple Plan (1998)"
+          },
+          {
+            "id": 7537569568768820527,
+            "title": "Michael Clayton",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hhkW4yVIGo8Bee3UITKvqOvhNMG.jpg",
+            "release_year": 2007,
+            "plot_summary": "A law firm brings in its \"fixer\" to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multi-billion dollar class action suit.",
+            "runtime": "2h",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 4566,
+            "imdb_id": "tt0465538",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.096314",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9we1dn/",
+            "original_comment_text": "Michael Clayton (2007) was exactly what you are requesting for me. I somehow had not even heard of it."
+          },
+          {
+            "id": 6435386666924311447,
+            "title": "Dead Again",
+            "poster_url": "https://image.tmdb.org/t/p/w500/irEnDVtxox6gnRJuwtEZuxvl2vZ.jpg",
+            "release_year": 1991,
+            "plot_summary": "In 1949, composer Roman Strauss is executed for the murder of his wife. In 1990s Los Angeles, a detective comes across a mute amnesiac woman who is somehow linked to the Strauss murder.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Mystery",
+              "Drama",
+              "Crime",
+              "Thriller",
+              "Romance"
+            ],
+            "tmdb_id": 11498,
+            "imdb_id": "tt0101669",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.099653",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": -7967974052597203422,
+            "title": "Sneakers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l2pIGwCvpZEpBuMb55YBl6A04Jv.jpg",
+            "release_year": 1992,
+            "plot_summary": "When shadowy U.S. intelligence agents blackmail a reformed computer hacker and his eccentric team of security experts into stealing a code-breaking 'black box' from a Soviet-funded genius, they uncover a bigger conspiracy. Now, he and his 'sneakers' must save themselves and the world economy by retrieving the box from their blackmailers.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 2322,
+            "imdb_id": "tt0105435",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.169536",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": -955702691415039609,
+            "title": "GoodFellas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9OkCLM73MIU2CrKZbqiT8Ln1wY2.jpg",
+            "release_year": 1990,
+            "plot_summary": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 769,
+            "imdb_id": "tt0099685",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.189784",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9weq2v/",
+            "original_comment_text": "My Blue Heaven. Written by Nora Ephron and based on the same mobster Henry Hill that Goodfellas was about. "
+          },
+          {
+            "id": 4119428333646582098,
+            "title": "L.A. Confidential",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lWCgf5sD5FpMljjpkRhcC8pXcch.jpg",
+            "release_year": 1997,
+            "plot_summary": "Three detectives in the corrupt and brutal L.A. police force of the 1950s use differing methods to uncover a conspiracy behind the shotgun slayings of the patrons at an all-night diner.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 2118,
+            "imdb_id": "tt0119488",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.246963",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": -6046794912286156928,
+            "title": "Dark City",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+            "release_year": 1998,
+            "plot_summary": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 2666,
+            "imdb_id": "tt0118929",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.261436",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": 2957841947209382534,
+            "title": "Dave",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wIUuf1NFchdCJe833JBTiSMzqfv.jpg",
+            "release_year": 1993,
+            "plot_summary": "A sweet-natured Temp Agency operator and amateur Presidential look-alike is recruited by the Secret Service to become a temporary stand-in for the President of the United States.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 11566,
+            "imdb_id": "tt0106673",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.309168",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": 1277207778276633127,
+            "title": "Article 99",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vqgKO2qredWaXjwHg3GBDOzLErx.jpg",
+            "release_year": 1992,
+            "plot_summary": "Dr. Richard Sturgess leads a team of compassionate doctors at a veteran's hospital. Along with Drs. Morgan, Handleman and Van Dorn, he fights to deliver adequate care to needy veterans in the face of funding cuts and a corrupt administration. To succeed, the staff may have to bend the rules and circumvent the villainous \"Article 99,\" a bureaucratic loophole that prevents veterans from receiving the benefits they deserve.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 25269,
+            "imdb_id": "tt0101371",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.310464",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": -3471491714801976487,
+            "title": "Sling Blade",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+            "release_year": 1996,
+            "plot_summary": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 12498,
+            "imdb_id": "tt0117666",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.380729",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whi4i/",
+            "original_comment_text": "Sling Blade "
+          },
+          {
+            "id": -8692457290327580631,
+            "title": "Wild at Heart",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+            "release_year": 1990,
+            "plot_summary": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Romance"
+            ],
+            "tmdb_id": 483,
+            "imdb_id": "tt0100935",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.405913",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": -4961072893796990595,
+            "title": "Kiss Kiss Bang Bang",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aWfjIkpENFX6Uw82pET7EQ6jnrd.jpg",
+            "release_year": 2005,
+            "plot_summary": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 5236,
+            "imdb_id": "tt0373469",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.474489",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          },
+          {
+            "id": 4289703671475869878,
+            "title": "My Blue Heaven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ggk34Nr1e8LOeAdVncuYz6pyYDe.jpg",
+            "release_year": 1990,
+            "plot_summary": "FBI agent Barney Coopersmith is assigned to protect former Mafia figure turned informant Vincent Antonelli. In the witness protection program one is supposed to keep a low profile, but that is something that Antonelli has trouble doing. Coopersmith certainly has his hands full keeping Antonelli away from the Mafia hitmen who want to stop him testifying, not to mention the nightclubs...",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 16384,
+            "imdb_id": "tt0100212",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.505272",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9weq2v/",
+            "original_comment_text": "My Blue Heaven. Written by Nora Ephron and based on the same mobster Henry Hill that Goodfellas was about. "
+          },
+          {
+            "id": 7223437294148400266,
+            "title": "The Last Boy Scout",
+            "poster_url": "https://image.tmdb.org/t/p/w500/glPswihcZYoAQ4YM2uJF4UACy8T.jpg",
+            "release_year": 1991,
+            "plot_summary": "Somewhere in Los Angeles, the city of broken dreams, a stripper is murdered. Now, the private detective she had hired and her ex-footballer boyfriend are going to find her murderer... if they don't kill each other first. But the more they dig, the deeper they become enmeshed in a web of extortion, blackmail and corrupt politics hidden beneath the surface of professional football.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 9319,
+            "imdb_id": "tt0102266",
+            "category_title": "Well-Made Middlebrow Movies From The 1990s And Early 2000s That Were Unfairly Forgotten",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:21.547678",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rr1y74/looking_for_solid_wellmade_middlebrow_movies_of/o9whdc5/",
+            "original_comment_text": "Some of my favorite '90s and '00s movies that weren't huge hits, that too many people don't know or remember:\n\nSneakers (1992)  \nL.A. Confidential (1997)  \nDark City (1998)  \nDave (1993)  \nArticle 99 (1992)  \nDead Again (1991)  \nWild at Heart (1990)  \nThe Last Boy Scout (1991)  \nKiss Kiss Bang Bang (2006)  \nKeeping the Faith (2000)  \nThe Game (1997)  \nDevil in a Blue Dress (1995)  \nRed Rock West (1993)  \nThe Rocketeer (1991)  \nWet Hot American Summer (2001) - kind of a cult classic, and it inspired prequel and sequel series on Netflix, but still mostly obscure.  \nThe Specials (2000) - a low-budget superhero mockumentary that was ahead of its time, coming out before superhero movies and mockumentaries became huge things in the 2000s.  Also, James Gunn wrote it."
+          }
+        ]
+      },
+      {
+        "name": "Movies That Start Normal And Gradually Become Disturbing",
+        "movies": [
+          {
+            "id": -5772945411014917986,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.352120",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xwvn/",
+            "original_comment_text": "\"Sorry to Bother You\" starts out kinda funny, gets weirder as you go, ending felt like something out of a fever dream."
+          },
+          {
+            "id": 3299625624063847793,
+            "title": "The Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+            "release_year": 1997,
+            "plot_summary": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 2649,
+            "imdb_id": "tt0119174",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.494561",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xjep/",
+            "original_comment_text": "\"The Game (1997)\" - Michael Douglas and Sean Penn - starts like it is all hunky-dory, but then the movie takes us for an eerie ride!"
+          },
+          {
+            "id": -4469906441361877176,
+            "title": "The Killing of a Sacred Deer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_year": 2017,
+            "plot_summary": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 399057,
+            "imdb_id": "tt5715874",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.535343",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xvrc/",
+            "original_comment_text": "Barbarian (2022)\n\nSorry to Bother You (2018)\n\nThe Killing of a Sacred Deer (2017)\n\nThese are all best to go into as blind as possible"
+          },
+          {
+            "id": 1352253537710908412,
+            "title": "Audition",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gh8HwpGmCmlf1dSFQFUSn522BCf.jpg",
+            "release_year": 2017,
+            "plot_summary": "A young girl struggles with anxiety and fear as she gets ready for her first audition. Before she is let in to the theater where its at, she stumbles on some strange and excited people. She calls her mum.",
+            "runtime": "7m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 483169,
+            "imdb_id": "tt6904742",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.562000",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xrgl/",
+            "original_comment_text": "# Audition (1999)"
+          },
+          {
+            "id": 2944326038346276790,
+            "title": "Midsommar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+            "release_year": 2019,
+            "plot_summary": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 530385,
+            "imdb_id": "tt8772262",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.564770",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa1a4vy/",
+            "original_comment_text": "Midsommar "
+          },
+          {
+            "id": -2505662523484359276,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.604921",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xvrc/",
+            "original_comment_text": "Barbarian (2022)\n\nSorry to Bother You (2018)\n\nThe Killing of a Sacred Deer (2017)\n\nThese are all best to go into as blind as possible"
+          },
+          {
+            "id": 5382244738391392601,
+            "title": "The Invitation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/otZMaGHWnKPgOODF6SSVNGqbI4X.jpg",
+            "release_year": 2016,
+            "plot_summary": "Will and his new girlfriend Kira are invited to a dinner with old friends at the house of Will’s ex Eden and her new partner David. Although the evening appears to be relaxed, Will soon gets a creeping suspicion that their charming host David is up to something.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 306947,
+            "imdb_id": "tt2400463",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.635434",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xyld/",
+            "original_comment_text": "The Invitation (2015)\n\nThe Vanishing (1988)\n\nThe Menu (2022)\n\nEdit: Added Speak No Evil (Danish version) it has the tension build up and is very disturbing, but warning it is not for the faint hearted."
+          },
+          {
+            "id": 1117452277162642088,
+            "title": "The Menu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+            "release_year": 2022,
+            "plot_summary": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 593643,
+            "imdb_id": "tt9764362",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.677476",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xyld/",
+            "original_comment_text": "The Invitation (2015)\n\nThe Vanishing (1988)\n\nThe Menu (2022)\n\nEdit: Added Speak No Evil (Danish version) it has the tension build up and is very disturbing, but warning it is not for the faint hearted."
+          },
+          {
+            "id": -2076626949494474921,
+            "title": "The Vanishing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/whCG6TGm3h9AHBkfh5M0MnJ8zT0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The boyfriend of an abducted woman never gives up the search as the abductor looks on.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery",
+              "Horror"
+            ],
+            "tmdb_id": 1644,
+            "imdb_id": "tt0108473",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.779001",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xyld/",
+            "original_comment_text": "The Invitation (2015)\n\nThe Vanishing (1988)\n\nThe Menu (2022)\n\nEdit: Added Speak No Evil (Danish version) it has the tension build up and is very disturbing, but warning it is not for the faint hearted."
+          },
+          {
+            "id": 6387993730097457412,
+            "title": "Don't Worry Darling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jOqxKIOC92BVyinYO1Fm73XY7Tc.jpg",
+            "release_year": 2022,
+            "plot_summary": "Alice and Jack are lucky to be living in the idealized community of Victory, the experimental company town housing the men who work for the top-secret Victory Project and their families. But when cracks in their idyllic life begin to appear, exposing flashes of something much more sinister lurking beneath the attractive façade, Alice can’t help questioning exactly what they’re doing in Victory, and why.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 619730,
+            "imdb_id": "tt10731256",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.821260",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa1fulz/",
+            "original_comment_text": "Don’t Worry Darling "
+          },
+          {
+            "id": -8969195065351944484,
+            "title": "Speak No Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+            "release_year": 2024,
+            "plot_summary": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1114513,
+            "imdb_id": "tt27534307",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.851170",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0xyld/",
+            "original_comment_text": "The Invitation (2015)\n\nThe Vanishing (1988)\n\nThe Menu (2022)\n\nEdit: Added Speak No Evil (Danish version) it has the tension build up and is very disturbing, but warning it is not for the faint hearted."
+          },
+          {
+            "id": -2852418701117019598,
+            "title": "Saltburn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+            "release_year": 2023,
+            "plot_summary": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Thriller"
+            ],
+            "tmdb_id": 930564,
+            "imdb_id": "tt17351924",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.895413",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa10csn/",
+            "original_comment_text": "Saltburn "
+          },
+          {
+            "id": -1256578486852414503,
+            "title": "Vivarium",
+            "poster_url": "https://image.tmdb.org/t/p/w500/myf3qzpeN0JbuFRPwSpJcz7rmAT.jpg",
+            "release_year": 2019,
+            "plot_summary": "A young woman and her fiancé are in search of the perfect starter home. After following a mysterious real estate agent to a new housing development, the couple finds themselves trapped in a maze of identical houses and forced to raise an otherworldly child.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Mystery",
+              "Horror"
+            ],
+            "tmdb_id": 458305,
+            "imdb_id": "tt8368406",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.924252",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa0y9hx/",
+            "original_comment_text": "Vivarium\n"
+          },
+          {
+            "id": -8245420002294276552,
+            "title": "From Dusk To Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sOaUyJW6MVPJviOaK0QwuPvbXLe.jpg",
+            "release_year": 1913,
+            "plot_summary": "An employee of an iron works is fired as a dangerous agitator, and after his friend dies in an explosion at the iron works, he runs for governor on a labor ticket.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 1.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 517917,
+            "imdb_id": "tt0002885",
+            "category_title": "Movies That Start Normal And Gradually Become Disturbing",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:30:46.960859",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rrouw5/suggest_movies_that_start_normal_but_slowly/oa104hu/",
+            "original_comment_text": "From Dusk to Dawn. I still think about it sometimes. "
+          }
+        ]
+      },
+      {
+        "name": "Most Disturbing Films Of All Time",
+        "movies": [
+          {
+            "id": 87728982855646979,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.117417",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafj8uv/",
+            "original_comment_text": "Requiem for A Dream messed me up. I watched it in HS after smoking pot with friends. I never touched a hard drug after that movie. "
+          },
+          {
+            "id": 3259119650877441089,
+            "title": "Kids",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+            "release_year": 1995,
+            "plot_summary": "A group of bored, disaffected New York City teenagers spend a day skating, smoking, drinking, partying, deflowering virgins, and getting into fights.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 9344,
+            "imdb_id": "tt0113540",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.139486",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafz6w8/",
+            "original_comment_text": "Kids"
+          },
+          {
+            "id": 7464591628285410293,
+            "title": "Funny Games",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 8461,
+            "imdb_id": "tt0808279",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.149782",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafjwvi/",
+            "original_comment_text": "Funny games 1997"
+          },
+          {
+            "id": -1097137649008665933,
+            "title": "Happiness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+            "release_year": 1998,
+            "plot_summary": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10683,
+            "imdb_id": "tt0147612",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.154160",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafhx3j/",
+            "original_comment_text": "Happiness (1998)"
+          },
+          {
+            "id": 8063240454070704096,
+            "title": "A Serbian Film",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+            "release_year": 2010,
+            "plot_summary": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 73861,
+            "imdb_id": "tt1273235",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.154709",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafgvp3/",
+            "original_comment_text": "120 days of salo..a Serbian film.. the killer list..cannibal corpse."
+          },
+          {
+            "id": 4619190228693001863,
+            "title": "Martyrs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eaaoQLCT38CrKxX53WRpjw1ZPVz.jpg",
+            "release_year": 2008,
+            "plot_summary": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9539,
+            "imdb_id": "tt1029234",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.154984",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafhf0p/",
+            "original_comment_text": "Martyrs. "
+          },
+          {
+            "id": -19184047155556575,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.162455",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafh8gd/",
+            "original_comment_text": "Schindler's List. There's nothing more disturbing than history..."
+          },
+          {
+            "id": -4513843078772620751,
+            "title": "Salò, or the 120 Days of Sodom",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+            "release_year": 1976,
+            "plot_summary": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 5336,
+            "imdb_id": "tt0073650",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.163789",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafgvp3/",
+            "original_comment_text": "120 days of salo..a Serbian film.. the killer list..cannibal corpse."
+          },
+          {
+            "id": 6608949044838259207,
+            "title": "Irreversible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_year": 2002,
+            "plot_summary": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 979,
+            "imdb_id": "tt0290673",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.164155",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafnpzn/",
+            "original_comment_text": "Irreversible "
+          },
+          {
+            "id": -2263463873457189048,
+            "title": "We Need to Talk About Kevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+            "release_year": 2011,
+            "plot_summary": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 71859,
+            "imdb_id": "tt1242460",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.164464",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafilsi/",
+            "original_comment_text": "We need to talk about Kevin…..\n\nTry it out if you haven’t seen it. It’s one of those movies you will just sit there in the quiet after it ends asking yourself wtf…. Just wtf "
+          },
+          {
+            "id": -7734329734902071269,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.172695",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafrb21/",
+            "original_comment_text": "Dear Zachary"
+          },
+          {
+            "id": 989180638398346940,
+            "title": "Come and See",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+            "release_year": 1985,
+            "plot_summary": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 25237,
+            "imdb_id": "tt0091251",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.188582",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oagkl20/",
+            "original_comment_text": "Come and See."
+          },
+          {
+            "id": 1593953275987815416,
+            "title": "Man Bites Dog",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uRVI98a6MxdLkpsXM8LqIM9W7XZ.jpg",
+            "release_year": 1992,
+            "plot_summary": "The activities of rampaging, indiscriminate serial killer Ben are recorded by a willingly complicit documentary team, who eventually become his accomplices and active participants. Ben provides casual commentary on the nature of his work and arbitrary musings on topics of interest to him, such as music or the conditions of low-income housing, and even goes so far as to introduce the documentary crew to his family. But their reckless indulgences soon get the better of them.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 10086,
+            "imdb_id": "tt0103905",
+            "category_title": "Most Disturbing Films Of All Time",
+            "time_period": "weekly",
+            "date_scraped": "2026-03-15T05:31:16.256884",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oagh3gl/",
+            "original_comment_text": "man bites dog \n\nand it’s not even close, a very far off second would be salo "
+          }
+        ]
+      }
+    ],
+    "totalMovies": 68,
+    "totalCategories": 5,
+    "lastUpdated": "2026-03-15T05:28:38.906828"
+  }
+}

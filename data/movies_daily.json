@@ -1,0 +1,1210 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Most Disturbing Movies Ever",
+        "movies": [
+          {
+            "id": 4720934238872950952,
+            "title": "Happiness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rYfUcEV88Z3gENrfYTE6i8yBkDr.jpg",
+            "release_year": 1998,
+            "plot_summary": "The lives of several individuals intertwine as they go about their lives in their own unique ways, engaging in acts which society as a whole might find disturbing in a desperate search for human connection.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10683,
+            "imdb_id": "tt0147612",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.107045",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafhx3j/",
+            "original_comment_text": "Happiness (1998)"
+          },
+          {
+            "id": -2601351099479386935,
+            "title": "Kids",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8qV8hUVCUnFIQKewzlhaFWhdszK.jpg",
+            "release_year": 1995,
+            "plot_summary": "A group of bored, disaffected New York City teenagers spend a day skating, smoking, drinking, partying, deflowering virgins, and getting into fights.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 9344,
+            "imdb_id": "tt0113540",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.292528",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafz6w8/",
+            "original_comment_text": "Kids"
+          },
+          {
+            "id": 6551877469133056188,
+            "title": "We Need to Talk About Kevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+            "release_year": 2011,
+            "plot_summary": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 71859,
+            "imdb_id": "tt1242460",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.314364",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafilsi/",
+            "original_comment_text": "We need to talk about Kevin…..\n\nTry it out if you haven’t seen it. It’s one of those movies you will just sit there in the quiet after it ends asking yourself wtf…. Just wtf "
+          },
+          {
+            "id": 1362153083153522915,
+            "title": "Salò, or the 120 Days of Sodom",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xnaDdiRfZlJaTf6JRc4in40eaeI.jpg",
+            "release_year": 1976,
+            "plot_summary": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 5336,
+            "imdb_id": "tt0073650",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.365083",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafgvp3/",
+            "original_comment_text": "120 days of salo..a Serbian film.. the killer list..cannibal corpse."
+          },
+          {
+            "id": 8525508918822373204,
+            "title": "Martyrs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eaaoQLCT38CrKxX53WRpjw1ZPVz.jpg",
+            "release_year": 2008,
+            "plot_summary": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9539,
+            "imdb_id": "tt1029234",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.366039",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafhf0p/",
+            "original_comment_text": "Martyrs. "
+          },
+          {
+            "id": 5281101065554020112,
+            "title": "Funny Games",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 8461,
+            "imdb_id": "tt0808279",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.435944",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafjwvi/",
+            "original_comment_text": "Funny games 1997"
+          },
+          {
+            "id": -995153498019332884,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.437169",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafj8uv/",
+            "original_comment_text": "Requiem for A Dream messed me up. I watched it in HS after smoking pot with friends. I never touched a hard drug after that movie. "
+          },
+          {
+            "id": 9095920978002516467,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.585053",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafh8gd/",
+            "original_comment_text": "Schindler's List. There's nothing more disturbing than history..."
+          },
+          {
+            "id": 2761649288951867412,
+            "title": "Irreversible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg",
+            "release_year": 2002,
+            "plot_summary": "A woman’s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can’t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 979,
+            "imdb_id": "tt0290673",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.647065",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafnpzn/",
+            "original_comment_text": "Irreversible "
+          },
+          {
+            "id": -8328424713867121367,
+            "title": "A Serbian Film",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cToUzXZ9AcUylfIt8vnXhiy6Y9m.jpg",
+            "release_year": 2010,
+            "plot_summary": "Retired porn star Milos leads a normal family life trying to make ends meet. Presented with the opportunity of a lifetime to financially support his family for the rest of their lives, Milos must participate in one last mysterious film. From then on, Milos is drawn into a maelstrom of unbelievable cruelty and mayhem.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 73861,
+            "imdb_id": "tt1273235",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.725814",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafgvp3/",
+            "original_comment_text": "120 days of salo..a Serbian film.. the killer list..cannibal corpse."
+          },
+          {
+            "id": 7557662848031520023,
+            "title": "Come and See",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qNbMsKVzigERgJUbwf8pKyZogpb.jpg",
+            "release_year": 1985,
+            "plot_summary": "The invasion of a village in Belarus by German forces sends young Florya into the forest to join the weary Resistance fighters, against his family's wishes. There he meets a girl, Glasha, who accompanies him back to his village. On returning home, Florya finds his family and fellow peasants massacred. His continued survival amidst the brutal debris of war becomes increasingly nightmarish, a battle between despair and hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 25237,
+            "imdb_id": "tt0091251",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.817248",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oagkl20/",
+            "original_comment_text": "Come and See."
+          },
+          {
+            "id": -5582307596612592644,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Most Disturbing Movies Ever",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:26:32.862748",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rton1o/most_disturbing_film_ever/oafrb21/",
+            "original_comment_text": "Dear Zachary"
+          }
+        ]
+      },
+      {
+        "name": "Scary Movies For Four-Year-Olds",
+        "movies": [
+          {
+            "id": 6937281317485018462,
+            "title": "Monsters, Inc.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+            "release_year": 2001,
+            "plot_summary": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 585,
+            "imdb_id": "tt0198781",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:00.676624",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oafts7t/",
+            "original_comment_text": "Monsters, Inc. (2001)"
+          },
+          {
+            "id": 7116435561518788703,
+            "title": "Monster House",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zCRPr4bkO3ae0U1134vJ39xZnAG.jpg",
+            "release_year": 2006,
+            "plot_summary": "Monsters under the bed are scary enough, but what happens when an entire house is out to get you? Three teens aim to find out when they go up against a decrepit neighboring home and unlock its frightening secrets.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 9297,
+            "imdb_id": "tt0385880",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:00.818393",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": -7072399399640614312,
+            "title": "Despicable Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b1BT309QWjtFUlJPLmXmrcHOWEL.jpg",
+            "release_year": 2010,
+            "plot_summary": "Gru is a supervillain determined to prove he’s the greatest by stealing the Moon. To pull off his plan, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as part of his scheme. However, as Gru bonds with the girls, his cold, villainous exterior begins to melt.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Animation",
+              "Science Fiction",
+              "Crime"
+            ],
+            "tmdb_id": 20352,
+            "imdb_id": "tt1323594",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:00.875763",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": 1919955819359367045,
+            "title": "Home",
+            "poster_url": "https://image.tmdb.org/t/p/w500/usFenYnk6mr8C62dB1MoAfSWMGR.jpg",
+            "release_year": 2015,
+            "plot_summary": "When Earth is taken over by the overly-confident Boov, an alien race in search of a new place to call home, all humans are promptly relocated, while all Boov get busy reorganizing the planet. But when one resourceful girl, Tip, manages to avoid capture, she finds herself the accidental accomplice of a banished Boov named Oh. The two fugitives realize there’s a lot more at stake than intergalactic relations as they embark on the road trip of a lifetime.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Animation",
+              "Science Fiction",
+              "Family"
+            ],
+            "tmdb_id": 228161,
+            "imdb_id": "tt2224026",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:00.984017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": 5558409996245949790,
+            "title": "The Land Before Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wSC2wxFj3ZgrIHlIaePeuHN4igo.jpg",
+            "release_year": 1988,
+            "plot_summary": "An orphaned brontosaurus named Littlefoot sets off in search of the legendary Great Valley. A land of lush vegetation where the dinosaurs can thrive and live in peace. Along the way he meets four other young dinosaurs, each one a different species, and they encounter several obstacles as they learn to work together in order to survive.",
+            "runtime": "1h 9m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Family",
+              "Animation",
+              "Adventure"
+            ],
+            "tmdb_id": 12144,
+            "imdb_id": "tt0095489",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:00.992109",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": 8895273261269995661,
+            "title": "Megamind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+            "release_year": 2010,
+            "plot_summary": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Animation",
+              "Action",
+              "Comedy",
+              "Family",
+              "Science Fiction"
+            ],
+            "tmdb_id": 38055,
+            "imdb_id": "tt1001526",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:01.030849",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": -4205910428959819572,
+            "title": "Casper",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+            "release_year": 1995,
+            "plot_summary": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 8839,
+            "imdb_id": "tt0112642",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:01.069784",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oafulhk/",
+            "original_comment_text": "Casper."
+          },
+          {
+            "id": -122635841075562752,
+            "title": "Monsters vs. Aliens: Supersonic Joyride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lYaKyhbm5bpB4bvCT0MJ4XE398W.jpg",
+            "release_year": 2014,
+            "plot_summary": "The monstrous laughs and ginormous adventures continue with this action-packed collection of Monsters vs. Aliens TV episodes inspired by DreamWorks Animation's hit movie. Buckle up for a joyride of fun as the members of Team Monster — Susan, Link, Dr. Cockroach, Ph.D. and B.O.B., the gelatinous blob — work together to save the world from an outrageous assortment of power-hungry aliens, including a few new colourful characters!",
+            "runtime": "3h 18m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1031810,
+            "imdb_id": null,
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:01.099182",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": 8171888714363497174,
+            "title": "Curious George: A Halloween Boo Fest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cUXJXP4ASZLU47L4BfMiTeaDSgu.jpg",
+            "release_year": 2013,
+            "plot_summary": "Halloween is almost here and George can't wait for the festivities to begin: carving pumpkins, costume contests, and especially the Annual Boo Festival. Eager to get the festivities started, George and Allie visit Renkins' Farm to pick out the perfect pumpkin. There, they are told the spooky tale of the Legend of No Noggin. As the story goes, No Noggin is a hat-kicking scarecrow who appears on Halloween to kick people's hats off. On Halloween night, George and Allie are determined to get a picture of No Noggin and prove he's real once and for all. Will they be able to get the proof? Only the curious will find out!",
+            "runtime": "58m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Family",
+              "Animation"
+            ],
+            "tmdb_id": 256051,
+            "imdb_id": "tt3124292",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:01.136219",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          },
+          {
+            "id": -3737919977112157854,
+            "title": "Hotel Transylvania",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg",
+            "release_year": 2012,
+            "plot_summary": "Welcome to Hotel Transylvania, Dracula's lavish five-stake resort, where monsters and their families can live it up and no humans are allowed. One special weekend, Dracula has invited all his best friends to celebrate his beloved daughter Mavis's 118th birthday. For Dracula catering to all of these legendary monsters is no problem but the party really starts when one ordinary guy stumbles into the hotel and changes everything!",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 76492,
+            "imdb_id": "tt0837562",
+            "category_title": "Scary Movies For Four-Year-Olds",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:01.209919",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtqbez/my_4_year_old_has_been_repeatedly_asking_to_watch/oag0ogm/",
+            "original_comment_text": "Mom of 3 big weenies here, their favorites \"scary\" movies around that age: \n\nCurious George Halloween Boo Fest  \nA Nightmare Before Christmas  \nMonsters Inc  \nThe Land Before Time  \nMonster House  \nMegamind  \nMonsters vs. Aliens  \nDespicable Me  \nHotel Transylvania  \nHome  \nShreck  \nDisney's Ichabod and Mr. Toad  \nDumbo  \nFantasia  \nPeter and the Wolf  \n\n\nMovies they found too scary, even now:\n\nThe Secret of NIMH  \nThe Black Cauldron   \nJames and the Giant Peach  \nFrankenweenie  \nSpirited Away (that was on me, they were too young)  \nAnything with unwanted transformation scenes: Luca, Turning Red, the donkey scene in Pinocchio\n\n"
+          }
+        ]
+      },
+      {
+        "name": "Genuinely Terrifying Horror Movies For Movie Night",
+        "movies": [
+          {
+            "id": -5619393990375124719,
+            "title": "Hereditary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg",
+            "release_year": 2018,
+            "plot_summary": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 493922,
+            "imdb_id": "tt7784604",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.241050",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaea4oe/",
+            "original_comment_text": "Hereditary"
+          },
+          {
+            "id": 1955756540732354592,
+            "title": "Smile 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+            "release_year": 2024,
+            "plot_summary": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 1100782,
+            "imdb_id": "tt29268110",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.316288",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaedzvy/",
+            "original_comment_text": "For me it's Smile and Smile 2. A decent mix of jumpscares, uneasiness and dread. Last time a film scared me like this was the Ring.....that was 24 years ago."
+          },
+          {
+            "id": -8694919877170315055,
+            "title": "Session 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
+            "release_year": 2001,
+            "plot_summary": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 10972,
+            "imdb_id": "tt0261983",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.384270",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaedkc6/",
+            "original_comment_text": "Session 9. ALL the lights out in your place, crank it up. Immerse yourself."
+          },
+          {
+            "id": 364336840774550820,
+            "title": "Kill List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qwT2I3ons0oD58jIppKmd4qLtvB.jpg",
+            "release_year": 2011,
+            "plot_summary": "Nearly a year after a botched job, a hitman takes a new assignment with the promise of a big payoff for three killings. What starts off as an easy task soon unravels, sending the killer into the heart of darkness.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 74725,
+            "imdb_id": "tt1788391",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.454696",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaefxva/",
+            "original_comment_text": "Kill List \n\nThe Babadook \n\nExorcist \n\nThe Ring (Japanese version)  "
+          },
+          {
+            "id": 4131677557197245559,
+            "title": "The Wailing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aXlL7yYwpXInhltamtzKQFBG08G.jpg",
+            "release_year": 2016,
+            "plot_summary": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+            "runtime": "2h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 293670,
+            "imdb_id": "tt5215952",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.454907",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaecqm2/",
+            "original_comment_text": "Not the scariest, but go with \"The Wailing\""
+          },
+          {
+            "id": 3469942180790152652,
+            "title": "[REC]",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hgyJR4sgMsee6xMFM3xYiG6cDCh.jpg",
+            "release_year": 2007,
+            "plot_summary": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 8329,
+            "imdb_id": "tt1038988",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.493246",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaeai96/",
+            "original_comment_text": "[Rec]"
+          },
+          {
+            "id": -3647390370305335616,
+            "title": "The Ring",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+            "release_year": 2002,
+            "plot_summary": "Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 565,
+            "imdb_id": "tt0298130",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.569834",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaedzvy/",
+            "original_comment_text": "For me it's Smile and Smile 2. A decent mix of jumpscares, uneasiness and dread. Last time a film scared me like this was the Ring.....that was 24 years ago."
+          },
+          {
+            "id": -6475433400707466545,
+            "title": "Smile",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg",
+            "release_year": 2022,
+            "plot_summary": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 882598,
+            "imdb_id": "tt15474916",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.598127",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaedzvy/",
+            "original_comment_text": "For me it's Smile and Smile 2. A decent mix of jumpscares, uneasiness and dread. Last time a film scared me like this was the Ring.....that was 24 years ago."
+          },
+          {
+            "id": 5582879657653306420,
+            "title": "The Ritual",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9022CYEGqYETCeXN1oE3uwYJWub.jpg",
+            "release_year": 2017,
+            "plot_summary": "A group of college friends reunite for a trip to the forest, but encounter a menacing presence in the woods that's stalking them.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 433808,
+            "imdb_id": "tt5638642",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.636206",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaej2fq/",
+            "original_comment_text": "The Ritual. "
+          },
+          {
+            "id": -8127964357645231337,
+            "title": "Event Horizon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 8413,
+            "imdb_id": "tt0119081",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.667560",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaebgdp/",
+            "original_comment_text": "Event Horizon"
+          },
+          {
+            "id": 4466117602200336989,
+            "title": "The Babadook",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qt3fqapeo94TfvMyld8P7gkpXLz.jpg",
+            "release_year": 2014,
+            "plot_summary": "A grieving single mother and her child fall into a deep well of paranoia when an eerie children's book manifests in their home.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 242224,
+            "imdb_id": "tt2321549",
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.738973",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaefxva/",
+            "original_comment_text": "Kill List \n\nThe Babadook \n\nExorcist \n\nThe Ring (Japanese version)  "
+          },
+          {
+            "id": 703179495669053338,
+            "title": "Exorcist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4PSm83kOjLRNWcJFt5CGyhxCzrz.jpg",
+            "release_year": 1976,
+            "plot_summary": "A SOV remake of The Exorcist, made by children.",
+            "runtime": "2m",
+            "tmdb_rating": 4.0,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 1427468,
+            "imdb_id": null,
+            "category_title": "Genuinely Terrifying Horror Movies For Movie Night",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:20.779269",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtj0cg/looking_for_a_genuinely_terrifying_horror_movie/oaefxva/",
+            "original_comment_text": "Kill List \n\nThe Babadook \n\nExorcist \n\nThe Ring (Japanese version)  "
+          }
+        ]
+      },
+      {
+        "name": "Movies That Will Have You Discussing Them Hours After They End",
+        "movies": [
+          {
+            "id": -570007680213912878,
+            "title": "Repo Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
+            "release_year": 1984,
+            "plot_summary": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 13820,
+            "imdb_id": "tt0087995",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.625846",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahdjaa/",
+            "original_comment_text": "repo man..."
+          },
+          {
+            "id": 2493091627384989872,
+            "title": "Coherence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+            "release_year": 2014,
+            "plot_summary": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 220289,
+            "imdb_id": "tt2866360",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.720017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbtlk/",
+            "original_comment_text": "Coherence: What happened?\n\nThe Matrix: Red pill or blue?\n\nParasite: Social commentary \n\nEternal Sunshine of the Spotless Mind: What would you do?"
+          },
+          {
+            "id": 2982276133581408894,
+            "title": "The Man from Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/V086R82gNgWrotaXZFO4JhdgB1.jpg",
+            "release_year": 2007,
+            "plot_summary": "A departing professor gathers his closest colleagues for an intimate farewell, but the night takes an unexpected turn when he shares a stunning secret about his past. As the conversation unfolds, skepticism and curiosity collide, challenging everything they thought they knew about history, science, and belief.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 13363,
+            "imdb_id": "tt0756683",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.837699",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbco2/",
+            "original_comment_text": "The Man From Earth. "
+          },
+          {
+            "id": 6544113276007626443,
+            "title": "Donnie Darko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+            "release_year": 2001,
+            "plot_summary": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 141,
+            "imdb_id": "tt0246578",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.913023",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahdk2h/",
+            "original_comment_text": "Donnie Darko"
+          },
+          {
+            "id": -5633811650759828689,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.952020",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbtlk/",
+            "original_comment_text": "Coherence: What happened?\n\nThe Matrix: Red pill or blue?\n\nParasite: Social commentary \n\nEternal Sunshine of the Spotless Mind: What would you do?"
+          },
+          {
+            "id": 1108418853699563059,
+            "title": "Frailty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+            "release_year": 2002,
+            "plot_summary": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12149,
+            "imdb_id": "tt0264616",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:37.978674",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oai08tj/",
+            "original_comment_text": "Frailty with Matthew mcconaughey"
+          },
+          {
+            "id": 6761930253587512572,
+            "title": "Being John Malkovich",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+            "release_year": 1999,
+            "plot_summary": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 492,
+            "imdb_id": "tt0120601",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.050635",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbv1w/",
+            "original_comment_text": "Being John Malkovich (1999)"
+          },
+          {
+            "id": 7581840658905877345,
+            "title": "Triangle of Sadness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+            "release_year": 2022,
+            "plot_summary": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 497828,
+            "imdb_id": "tt7322224",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.075484",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahf2dg/",
+            "original_comment_text": "Triangle of Sadness\n\nThe Gods Must Be Crazy\n\n"
+          },
+          {
+            "id": 6181402175422144737,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.125611",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbtlk/",
+            "original_comment_text": "Coherence: What happened?\n\nThe Matrix: Red pill or blue?\n\nParasite: Social commentary \n\nEternal Sunshine of the Spotless Mind: What would you do?"
+          },
+          {
+            "id": 5596760493650963974,
+            "title": "It's What's Inside",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+            "release_year": 2024,
+            "plot_summary": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1052280,
+            "imdb_id": "tt14577874",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.125809",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbu4a/",
+            "original_comment_text": "It’s What’s Inside (2024) !!!"
+          },
+          {
+            "id": 8746046191778056683,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.193484",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahbtlk/",
+            "original_comment_text": "Coherence: What happened?\n\nThe Matrix: Red pill or blue?\n\nParasite: Social commentary \n\nEternal Sunshine of the Spotless Mind: What would you do?"
+          },
+          {
+            "id": 8415027458282473498,
+            "title": "Arlington Road",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4yYHyZuyTTQaEZuHKS7561jXjtR.jpg",
+            "release_year": 1999,
+            "plot_summary": "Bedraggled college professor Michael Faraday has been vexed — and increasingly paranoid — since his wife's accidental death in a botched FBI operation. When a seemingly all-American couple set up house next door, Michael begins to suspect there’s more to them than meets the eye.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 1073,
+            "imdb_id": "tt0137363",
+            "category_title": "Movies That Will Have You Discussing Them Hours After They End",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:27:38.195110",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxifo/movies_that_will_you_discussing_about_it_hours/oahe4u0/",
+            "original_comment_text": "How'bout a psychological twister?\n\nAcross the board, it was done brilliantly---however, I've always averred that it really should come with a label which emphasizes unmistakably that it 'May cause viewers to find their sensibilities quicksanded into degrees of despair, in some cases with a prolonged (although temporary) lastingness of helpless regret. Results may vary.'\n\n>!ARLINGTON ROAD (1998)!<. See it sometime."
+          }
+        ]
+      },
+      {
+        "name": "Movies That Feel Like Everyone's High",
+        "movies": [
+          {
+            "id": 1678196537124740080,
+            "title": "Fear and Loathing in Las Vegas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+            "release_year": 1998,
+            "plot_summary": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1878,
+            "imdb_id": "tt0120669",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.576156",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahe7kl/",
+            "original_comment_text": "Fear and Loathing in Las Vegas"
+          },
+          {
+            "id": -1711357984920915487,
+            "title": "mother!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fjny9chXPx69ln1LMJxbwi5yHMt.jpg",
+            "release_year": 2017,
+            "plot_summary": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 381283,
+            "imdb_id": "tt5109784",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.577563",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahe36e/",
+            "original_comment_text": "Mother!\n\nRequiem for a Dream\n\nMullholland Drive "
+          },
+          {
+            "id": 3194422123471446035,
+            "title": "eXistenZ",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+            "release_year": 1999,
+            "plot_summary": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1946,
+            "imdb_id": "tt0120907",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.640285",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": -8643629332472817818,
+            "title": "Gothic",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xGXj6wpJimmWkQMahZryM7xB9EX.jpg",
+            "release_year": 1987,
+            "plot_summary": "Living on an estate on the shores of Lake Geneva, Lord Byron is visited by Percy and Mary Shelley. Together with Byron's lover Claire Clairmont, and aided by hallucinogenic substances, they devise an evening of ghoulish tales. However, when confronted by horrors, ostensibly of their own creation, it becomes difficult to tell apparition from reality.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 33516,
+            "imdb_id": "tt0091142",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.644850",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": -3235732785437636691,
+            "title": "Altered States",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fsoaPN5SWYgZ4B7GG9nRNj33so.jpg",
+            "release_year": 1980,
+            "plot_summary": "A research scientist explores the boundaries and frontiers of human consciousness. Using sensory deprivation and hallucinogenic mixtures from Native American shamans, he explores these altered states of cognizance and finds that memory, time, and reality itself are states of mind.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 11542,
+            "imdb_id": "tt0080360",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.710735",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": 8414454167081582312,
+            "title": "Videodrome",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+            "release_year": 1983,
+            "plot_summary": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 837,
+            "imdb_id": "tt0086541",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.719460",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": -4120023854880008293,
+            "title": "Natural Born Killers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg",
+            "release_year": 1994,
+            "plot_summary": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 241,
+            "imdb_id": "tt0110632",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.781417",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgmu2/",
+            "original_comment_text": "Natural Born Killers"
+          },
+          {
+            "id": 8001207559678405580,
+            "title": "The Devils",
+            "poster_url": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+            "release_year": 1971,
+            "plot_summary": "Father Urbain Grandier’s unorthodox views of sex and religion make him a polarizing figure in 17th-century France. His outspokenness has amassed a passionate following of nuns and a respected reputation for protecting the city of Loudon from corruption. Grandier’s influence is then undermined following a sexually repressed nun’s accusation of witchcraft.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "History",
+              "Horror"
+            ],
+            "tmdb_id": 31767,
+            "imdb_id": "tt0066993",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.786163",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": 7995211496561073982,
+            "title": "Naked Lunch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u01kh5jKUWjhom76mguRqUgdvja.jpg",
+            "release_year": 1991,
+            "plot_summary": "Blank-faced bug killer Bill Lee and his dead-eyed wife, Joan, like to get high on Bill's pest poisons while lounging with Beat poet pals. After meeting the devilish Dr. Benway, Bill gets a drug made from a centipede. Upon indulging, he accidentally kills Joan, takes orders from his typewriter-turned-cockroach, ends up in a constantly mutating Mediterranean city and learns that his hip friends have published his work -- which he doesn't remember writing.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 2742,
+            "imdb_id": "tt0102511",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.854886",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          },
+          {
+            "id": -2727194277326824749,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.863218",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahe36e/",
+            "original_comment_text": "Mother!\n\nRequiem for a Dream\n\nMullholland Drive "
+          },
+          {
+            "id": 7484356552068508959,
+            "title": "The Brood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zSEt4QXRI4Gypd9xvzvucOmPNl5.jpg",
+            "release_year": 1979,
+            "plot_summary": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalized wife, while a series of brutal attacks committed by a brood of mutant children coincides with the husband's investigation.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 28942,
+            "imdb_id": "tt0078908",
+            "category_title": "Movies That Feel Like Everyone's High",
+            "time_period": "daily",
+            "date_scraped": "2026-03-15T05:28:07.929189",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rtxuyg/a_movie_that_feels_like_everyones_high/oahgr5a/",
+            "original_comment_text": "Ken Russell films like The Devils, Altered States, Gothic.\n\nDavid Cronenberg films like Videodrome, Existenz, Naked Lunch, and The Brood.\n\nJan Švankmajer films like Faust and Alice. His shorts too.\n\nShinya Tsukamoto films like Tetsuo: The Iron Man and Gemini.\n\nDavid Lynch films like Eraserhead and Twin Peaks: Fire Walk with me.\n\nGaspar Noé's Enter the Void.\n\nAlejandro Jodorowsky is already mentioned."
+          }
+        ]
+      }
+    ],
+    "totalMovies": 57,
+    "totalCategories": 5,
+    "lastUpdated": "2026-03-15T05:26:32.107045"
+  }
+}

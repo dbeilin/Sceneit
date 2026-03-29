@@ -1,0 +1,1578 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+        "movies": [
+          {
+            "id": -2764510876231408594,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.184761",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa6hbsx/",
+            "original_comment_text": "\"three identical strangers\"\n\nabout identical triplets robert shafran, eddy galland, and david kellman, who were separated at birth and discovered each other by chance at age 19 in 1980. \n\ntheir joyous reunion and subsequent media fame lead to the uncovering of a disturbing, secret scientific study that deliberately placed them in different socioeconomic environments to investigate the \"nature vs. nurture\" debate, revealing a sinister truth behind their separation. \n\nother sets of twins/triplets separated at birth by the same scientific study were also later identified."
+          },
+          {
+            "id": 9074450774288849330,
+            "title": "Tickled",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qxUbPwyhzNEyUZYOZm6t8yYSQf.jpg",
+            "release_year": 2016,
+            "plot_summary": "Journalist David Farrier stumbles upon a mysterious tickling competition online. As he delves deeper he comes up against fierce resistance, but that doesn’t stop him getting to the bottom of a story stranger than fiction.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 373072,
+            "imdb_id": "tt5278506",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.260580",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5uotq/",
+            "original_comment_text": "Tickled"
+          },
+          {
+            "id": 3750582373884846300,
+            "title": "Unknown Number: The High School Catfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nu3LtgefE2lsgYw1hxHZFoBXk9U.jpg",
+            "release_year": 2025,
+            "plot_summary": "Vulgar, taunting texts blow up the phones of a teen and her boyfriend. Who's sending them — and why? This twisty documentary reveals the shocking answer.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1517772,
+            "imdb_id": "tt37674426",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.282255",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5wcdm/",
+            "original_comment_text": "The Unknown Number: The High School Catfish. This kinda falls into this category. It’s jaw-dropping. "
+          },
+          {
+            "id": -5169843313317116621,
+            "title": "The King of Kong: A Fistful of Quarters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wACtXGiO08EBbJhqsD2nUzPsrKe.jpg",
+            "release_year": 2007,
+            "plot_summary": "In this hilarious arcade showdown, a humble novice goes head-to-head against the reigning Donkey Kong champ in a confrontation that rocks the gaming world to its processors! For over 20 years, Billy Mitchell has owned the throne of the Donkey Kong world. No one could beat his top score until now. Newcomer Steve Wiebe claims to have beaten the unbeatable, but Mitchell isn't ready to relinquish his crown without a fight. Go behind the barrels as the two battle it out in a vicious war to earn the title of the true King of Kong.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 13958,
+            "imdb_id": "tt0923752",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.327018",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xg8o/",
+            "original_comment_text": "King of Kong-A Fistful of Quarters\n\nThe doc becomes the doc. Really good. Especially if you love video games. \n\nIt’s about some guy that breaks the Donkey Kong high score that’s over 30 years old. \nThen the original record holder shows up. "
+          },
+          {
+            "id": -3796716020687633914,
+            "title": "The Alabama Solution",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gultnK0rYs4xLLYhxQ9ZnvPfVAn.jpg",
+            "release_year": 2025,
+            "plot_summary": "Incarcerated men defy the odds to expose a cover-up in one of America’s deadliest prison systems.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 1413805,
+            "imdb_id": "tt35307139",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.352648",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5ws5n/",
+            "original_comment_text": "The Alabama Solution\n\nDocumentary covering a BBQ at an Alabama Prison and Eureka, there is wide spread abuse going on. \n\nPretty harsh in your face conditions exposed. "
+          },
+          {
+            "id": 4968174203460422590,
+            "title": "Icarus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cmDDkOXzEICJ3v6pIxOsmulwPi9.jpg",
+            "release_year": 2010,
+            "plot_summary": "Trained KGB assassin, Edward Genn (code name ICARUS), worked years ago as a sleeper agent in America. But when the Soviet Union collapsed, he quickly found himself in a foreign country with no one to trust. Determined to escape his muddled existence, Edward tries to start over. He assumes a new identity, starts a family and tries to start his own legitimate business that could potentially pull him out of his world of being a hitman.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 4.9,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 35402,
+            "imdb_id": "tt1261862",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.429390",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5uz3y/",
+            "original_comment_text": "Icarus (2017) -- starts with a guy trying PEDs for amateur cycling, and leads to the Russian Olympic doping program"
+          },
+          {
+            "id": 8396506943533455798,
+            "title": "The Keepers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wb5pyYMrT85wSFeWr22RvRQvLtu.jpg",
+            "release_year": 2016,
+            "plot_summary": "The Keepers is a documentary portrait of the personalities and work of zookeepers shot with unprecedented behind-the-scenes access at the Memphis Zoo. The film is a bittersweet, nonjudgmental look at what it means to find a place for yourself, working a job that you love.",
+            "runtime": "1h 11m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 333869,
+            "imdb_id": "tt4176684",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.470993",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5x7jq/",
+            "original_comment_text": "The Keepers is initially about the murder of a Baltimore nun, but as they look into it, they unravel an entire child abuse scandal that went on for years. "
+          },
+          {
+            "id": -1256898391194811566,
+            "title": "The Tiger King Returns",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lsNoT6vjro9P0TbzB8WmnPULh0u.jpg",
+            "release_year": 2024,
+            "plot_summary": "During the period of the Five-Hu Rebellion, there was an old forest where the legend of the \"Mountain God\" was spread. The White Head Village, which had always believed in the White Tiger, was suddenly slaughtered by the White Tiger after a blessing ceremony. In response, the people invited Chu Jiang, the legendary hunter of White Head Village, to come out to the mountain",
+            "runtime": "1h 17m",
+            "tmdb_rating": 7.0,
+            "genres": [],
+            "tmdb_id": 1250797,
+            "imdb_id": null,
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.496838",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa63tpx/",
+            "original_comment_text": "Tiger King was a gift that kept giving"
+          },
+          {
+            "id": 6952141912795363671,
+            "title": "Exit Through the Gift Shop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ruM5ehUQlHC1Kx3SF18d6klfrAx.jpg",
+            "release_year": 2010,
+            "plot_summary": "Banksy is a graffiti artist with a global reputation whose work can be seen on walls from post-hurricane New Orleans to the separation barrier on the Palestinian West Bank. Fiercely guarding his anonymity to avoid prosecution, Banksy has so far resisted all attempts to be captured on film. Exit Through the Gift Shop tells the incredible true story of how an eccentric French shop keeper turned documentary maker attempted to locate and befriend Banksy, only to have the artist turn the camera back on its owner.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 39452,
+            "imdb_id": "tt1587707",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.497749",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa61alt/",
+            "original_comment_text": "Exit Through The Gift Shop from 2010 if you want something that isn’t quite as dark as the more crime focused docs."
+          },
+          {
+            "id": -3703018133922212744,
+            "title": "Borat Subsequent Moviefilm",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3L1Ml5RWjFVfVq3rQENvgFymT0U.jpg",
+            "release_year": 2020,
+            "plot_summary": "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 740985,
+            "imdb_id": "tt13143964",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.679912",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa6cjc6/",
+            "original_comment_text": "I'm not joking when I say Borat 2- the Giuliani scene was ended because he was about to commit a crime against a minor girl on camera "
+          },
+          {
+            "id": 963985543432253963,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/toJRzlXOSZYWW5IUk7DrZJv7kHF.jpg",
+            "release_year": 1966,
+            "plot_summary": "The work of the US police force and the problem of fighting rising crime across the country.",
+            "runtime": "52m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Documentary",
+              "TV Movie"
+            ],
+            "tmdb_id": 545938,
+            "imdb_id": "tt0860931",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.701066",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xole/",
+            "original_comment_text": "Thin Blue Line seems like the most obvious example. Maybe Capturing the Freedmans?"
+          },
+          {
+            "id": 8268103400304173785,
+            "title": "Abducted in Plain Sight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/licfKJMCnGFgFDATHeUZuy047RB.jpg",
+            "release_year": 2017,
+            "plot_summary": "A family falls prey to the manipulative charms of a neighbor, who abducts their adolescent daughter. Twice.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 470401,
+            "imdb_id": "tt3444312",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.711079",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa66lni/",
+            "original_comment_text": "I think it's called Abducted in Plain Sight. That doesn't sound quite right, but it's what Google came up with.  Story is about a guy who \"falls in love\" with a little girl neighbor and abducts her TWICE.  He was friends with her parents and the more you find out, the weirder it gets."
+          },
+          {
+            "id": 8706256639169520869,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.752772",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5zsmn/",
+            "original_comment_text": "Dear Zachary (can't remember the rest of the official title) \n\nStarts off as a long time amateur videophile trying to compile snippets into narratives/a documentary about his close friend who is deceased. During this time he follows along with the family on the many twists and turns the case stay takes, with the most devastating and senseless results."
+          },
+          {
+            "id": 5307869089689909787,
+            "title": "Capturing the Friedmans",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qWdMQj0HN7QxKxEkm0tk04nuAQ2.jpg",
+            "release_year": 2003,
+            "plot_summary": "An Oscar nominated documentary about a middle-class American family who is torn apart when the father Arnold and son Jesse are accused of sexually abusing numerous children. Director Jarecki interviews people from different sides of this tragic story and raises the question of whether they were rightfully tried when they claim they were innocent and there was never any evidence against them.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 2260,
+            "imdb_id": "tt0342172",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.783098",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5xole/",
+            "original_comment_text": "Thin Blue Line seems like the most obvious example. Maybe Capturing the Freedmans?"
+          },
+          {
+            "id": 6721603343248011375,
+            "title": "Collective",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oR93n0CAn2GznyHDFSRTp0J1t8c.jpg",
+            "release_year": 2019,
+            "plot_summary": "In the aftermath of a tragic fire in a Romanian club, burn victims begin dying in hospitals from wounds that were not life threatening.  A team of investigative journalists move into action uncovering the mass corruption of the health system and of the state institutions. Collective follows journalists, whistle blowers, and authorities alike. An immersive and uncompromising look into a dysfunctional system, exposing corruption, propaganda, and manipulation that nowadays affect not only Romania, but societies around the world.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 618363,
+            "imdb_id": "tt10706602",
+            "category_title": "Documentaries Where A Crew Uncovers Something Bigger Than Expected",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:46:33.822278",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rsc4qm/documentaries_where_a_crew_uncover_something_that/oa5y8j5/",
+            "original_comment_text": "Collective (2019) \n\n\nStarted essentially as a real life version of The Office with the office being that of a Romanian sports newspaper and turns into... I won't spoil it but it's so good.\n\n\n\n\n\"A few days after the fire, the Romanian director Alexander Nanau began following a small team of journalists at Gazeta Sporturilor, a sports newspaper, impressed at the way its reporters, who were more used to writing about football, were asking piercing questions about the state’s response to the fire.\"\n\n\nhttps://www.theguardian.com/film/2020/nov/13/collective-alexander-nanau-romania-state-corruption"
+          }
+        ]
+      },
+      {
+        "name": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+        "movies": [
+          {
+            "id": 2296282742720870012,
+            "title": "Toy Story 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "release_year": 1999,
+            "plot_summary": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 863,
+            "imdb_id": "tt0120363",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.699564",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": -6268311220378342430,
+            "title": "The Iron Giant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+            "release_year": 1999,
+            "plot_summary": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Family",
+              "Drama"
+            ],
+            "tmdb_id": 10386,
+            "imdb_id": "tt0129167",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.708370",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5ofp/",
+            "original_comment_text": "The Iron Giant?"
+          },
+          {
+            "id": 5573428536423583425,
+            "title": "Night at the Museum",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+            "release_year": 2006,
+            "plot_summary": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Fantasy",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 1593,
+            "imdb_id": "tt0477347",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.715118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5xp8/",
+            "original_comment_text": "Night at the Museum will do the trick"
+          },
+          {
+            "id": 713561696716944439,
+            "title": "Secondhand Lions",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+            "release_year": 2003,
+            "plot_summary": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 13156,
+            "imdb_id": "tt0327137",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.718717",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce7nun/",
+            "original_comment_text": "Secondhand Lions"
+          },
+          {
+            "id": 2143424600291027663,
+            "title": "Hook",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+            "release_year": 1991,
+            "plot_summary": "The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. During his trip to see Granny Wendy in London, the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 879,
+            "imdb_id": "tt0102057",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.719401",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce72g6/",
+            "original_comment_text": "**Hook** \\- *Robin Williams / Julia Roberts / Dustin Hoffman / Maggie Smith*"
+          },
+          {
+            "id": 1030959009924069856,
+            "title": "Toy Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+            "release_year": 1995,
+            "plot_summary": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Animation",
+              "Adventure"
+            ],
+            "tmdb_id": 862,
+            "imdb_id": "tt0114709",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.719573",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": -4998587493631467887,
+            "title": "Journey to the Center of the Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+            "release_year": 2008,
+            "plot_summary": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 88751,
+            "imdb_id": "tt0373051",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.719736",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce8z5q/",
+            "original_comment_text": "The Princess Bride.   - my grandson didn't want to watch it because of the word Princess, but he loved it.\nJourney to the Center of Earth "
+          },
+          {
+            "id": -5455872138220428208,
+            "title": "Monsters, Inc.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+            "release_year": 2001,
+            "plot_summary": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 585,
+            "imdb_id": "tt0198781",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.723760",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": 1683187894704051254,
+            "title": "The Sandlot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+            "release_year": 1993,
+            "plot_summary": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11528,
+            "imdb_id": "tt0108037",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.729198",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5v2x/",
+            "original_comment_text": "The Sandlot"
+          },
+          {
+            "id": -3432755485163021155,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.745211",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": -7934472868836123850,
+            "title": "Wreck-It Ralph",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+            "release_year": 2012,
+            "plot_summary": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Family",
+              "Animation",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 82690,
+            "imdb_id": "tt1772341",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.776634",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5ya5/",
+            "original_comment_text": "Wreck-it Ralph"
+          },
+          {
+            "id": -5789353367878034021,
+            "title": "The Incredibles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "release_year": 2004,
+            "plot_summary": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 9806,
+            "imdb_id": "tt0317705",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.795483",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/ocebaxq/",
+            "original_comment_text": "The incredibles. "
+          },
+          {
+            "id": -4840615586456480552,
+            "title": "Shrek",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+            "release_year": 2001,
+            "plot_summary": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Fantasy",
+              "Adventure",
+              "Family"
+            ],
+            "tmdb_id": 808,
+            "imdb_id": "tt0126029",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.797156",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oceajj3/",
+            "original_comment_text": "Shrek?"
+          },
+          {
+            "id": 2432104651804862013,
+            "title": "Paddington 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+            "release_year": 2017,
+            "plot_summary": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 346648,
+            "imdb_id": "tt4468740",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.945155",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce79m9/",
+            "original_comment_text": "Paddington 1 or 2"
+          },
+          {
+            "id": -5308738236226397841,
+            "title": "Paddington",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+            "release_year": 2014,
+            "plot_summary": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Adventure",
+              "Family"
+            ],
+            "tmdb_id": 116149,
+            "imdb_id": "tt1109624",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:21.990951",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce79m9/",
+            "original_comment_text": "Paddington 1 or 2"
+          },
+          {
+            "id": 7879254262999989101,
+            "title": "Fantastic Mr. Fox",
+            "poster_url": "https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+            "release_year": 2009,
+            "plot_summary": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 10315,
+            "imdb_id": "tt0432283",
+            "category_title": "Movies For A 6-Year-Old Girl, 10-Year-Old Boy, And 67-Year-Old Man",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:22.015613",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5qap/",
+            "original_comment_text": "I liked Fantastic Mr. Fox, and the related movie by the same author.  Also, James and the Giant Peach was good.  Matilda was good, maybe a bit scary for 6 yr old.  Also, we used to watch nature movies with David Attenborough narrating."
+          }
+        ]
+      },
+      {
+        "name": "Movies That Make You Feel Happy",
+        "movies": [
+          {
+            "id": 8118589306149523327,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.358730",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamswz5/",
+            "original_comment_text": "Big Fish"
+          },
+          {
+            "id": 451972918641835567,
+            "title": "The Straight Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+            "release_year": 1999,
+            "plot_summary": "Retired farmer and widower Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 404,
+            "imdb_id": "tt0166896",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.576595",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oams5p6/",
+            "original_comment_text": "**My Neighbor Totoro (1988)** \\- animated fantasy film about childhood wonder\n\n**The Straight Story (1999)** \\- uplifting drama where an old man drives 240 miles on a lawnmower to meet his estranged brother"
+          },
+          {
+            "id": -3684981253689646187,
+            "title": "What We Do in the Shadows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+            "release_year": 2014,
+            "plot_summary": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 246741,
+            "imdb_id": "tt3416742",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.608729",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamv3ge/",
+            "original_comment_text": "What We Do In the Shadows "
+          },
+          {
+            "id": -3276451625957973590,
+            "title": "Drop Dead Gorgeous",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s4nHRCB5GqWyWiqweVf6UUv8GWt.jpg",
+            "release_year": 1999,
+            "plot_summary": "In a small Minnesota town, the annual beauty pageant is being covered by a TV crew. Former winner Gladys Leeman wants to make sure her daughter follows in her footsteps; explosions, falling lights, and trailer fires prove that. As the Leemans are the richest family in town, the police are pretty relaxed about it all. Despite everything, main rival (but sweet) Amber Atkins won't give up without a fight.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 10490,
+            "imdb_id": "tt0157503",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.676960",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamr14p/",
+            "original_comment_text": "Drop Dead Gorgeous, although it's a dark comedy it's still one of the funniest movies I've ever seen"
+          },
+          {
+            "id": -4837728658603305102,
+            "title": "Happy Gilmore",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg",
+            "release_year": 1996,
+            "plot_summary": "Failed hockey player-turned-golf whiz Happy Gilmore — whose unconventional approach and antics on the green courts the ire of rival Shooter McGavin — is determined to win a PGA tournament so he can save his granny's house with the prize money. Meanwhile, an attractive tour publicist tries to soften Happy's image.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9614,
+            "imdb_id": "tt0116483",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.787611",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": -4609491346313836076,
+            "title": "My Neighbor Totoro",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+            "release_year": 1988,
+            "plot_summary": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 8392,
+            "imdb_id": "tt0096283",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.856754",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oams5p6/",
+            "original_comment_text": "**My Neighbor Totoro (1988)** \\- animated fantasy film about childhood wonder\n\n**The Straight Story (1999)** \\- uplifting drama where an old man drives 240 miles on a lawnmower to meet his estranged brother"
+          },
+          {
+            "id": 7410769679708774748,
+            "title": "Horrible Bosses",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg",
+            "release_year": 2011,
+            "plot_summary": "For Nick, Kurt and Dale, the only thing that would make the daily grind more tolerable would be to grind their intolerable bosses into dust. Quitting is not an option, so, with the benefit of a few-too-many drinks and some dubious advice from a hustling ex-con, the three friends devise a convoluted and seemingly foolproof plan to rid themselves of their respective employers... permanently.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 51540,
+            "imdb_id": "tt1499658",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.860844",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": -3117610428365328910,
+            "title": "Napoleon Dynamite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+            "release_year": 2004,
+            "plot_summary": "A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8193,
+            "imdb_id": "tt0374900",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.885979",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oams7kw/",
+            "original_comment_text": "Napoleon Dynamite is good for days like this imo. The vibe is extremely gentle."
+          },
+          {
+            "id": -8561855007282244473,
+            "title": "Home Alone 2: Lost in New York",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
+            "release_year": 1992,
+            "plot_summary": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
+            "runtime": "2h",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 772,
+            "imdb_id": "tt0104431",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.930383",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": -1541888130409079272,
+            "title": "Priscilla, Queen of the Desert: The Musical",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ApbHECrVsWFdPtbnGv8EARpFcFz.jpg",
+            "release_year": 2025,
+            "plot_summary": "This musical follows an incredibly colorful troupe – three drag queens who embark on a hilarious and moving journey in a pink bus they have named \"Priscilla\" to perform a drag show at the end of the world.  It's a story about a father's love for his son, uncompromised friendship, and a celebration of individual freedom and self-fulfillment.  Accompanied by a dreamy soundtrack of the greatest and most timeless pop and disco hits, with spectacular costumes and a message of openness, acceptance, and compassion.",
+            "runtime": "2h 30m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Music",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 1528980,
+            "imdb_id": null,
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.936877",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamstde/",
+            "original_comment_text": "Pracilla queen of the desert. No romance just three Aussie queens being their best selves across the continent"
+          },
+          {
+            "id": -516322317886492629,
+            "title": "Home Alone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+            "release_year": 1990,
+            "plot_summary": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 771,
+            "imdb_id": "tt0099785",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:46.961705",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": 4102028712435978460,
+            "title": "The Birdcage",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hU2XeckncHS61TWZKDtw1BrKmOO.jpg",
+            "release_year": 1996,
+            "plot_summary": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 11000,
+            "imdb_id": "tt0115685",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:47.004406",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsmiu/",
+            "original_comment_text": "The Birdcage is hands down my favorite comfort movie when I’m full spiral "
+          },
+          {
+            "id": 7150849410625350736,
+            "title": "The Hangover",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+            "release_year": 2009,
+            "plot_summary": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 18785,
+            "imdb_id": "tt1119646",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:47.033776",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": 7251310305490190193,
+            "title": "Best in Show",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+            "release_year": 2000,
+            "plot_summary": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 13785,
+            "imdb_id": "tt0218839",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:47.070693",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsioj/",
+            "original_comment_text": "Best in show "
+          },
+          {
+            "id": -6233367237593425258,
+            "title": "Ferris Bueller's Day Off",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+            "release_year": 1986,
+            "plot_summary": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9377,
+            "imdb_id": "tt0091042",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:47.215220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          },
+          {
+            "id": -3377514277680970672,
+            "title": "Office Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+            "release_year": 1999,
+            "plot_summary": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 1542,
+            "imdb_id": "tt0151804",
+            "category_title": "Movies That Make You Feel Happy",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:47:47.248680",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ruomkb/im_having_a_very_bad_mental_health_day_please/oamsybs/",
+            "original_comment_text": "Happy Gilmore, Home Alone 1 & 2, Horrible Boses, The Hangover, Office Space, Ferris Bueller’s Day Off"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Accurately Depict Life As A Woman",
+        "movies": [
+          {
+            "id": 7960620249415450702,
+            "title": "Fried Green Tomatoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+            "release_year": 1991,
+            "plot_summary": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1633,
+            "imdb_id": "tt0101921",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.588666",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnny00/",
+            "original_comment_text": "Fried Grren Tomatoes!"
+          },
+          {
+            "id": 2487702233828615103,
+            "title": "Lady Bird",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+            "release_year": 2017,
+            "plot_summary": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 391713,
+            "imdb_id": "tt4925292",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.603811",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnmq0z/",
+            "original_comment_text": "Ladybird"
+          },
+          {
+            "id": 5058099181603176461,
+            "title": "Thelma & Louise",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+            "release_year": 1991,
+            "plot_summary": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Adventure"
+            ],
+            "tmdb_id": 1541,
+            "imdb_id": "tt0103074",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.607450",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnwcvb/",
+            "original_comment_text": "I'm surprised I haven't seen these listed so here you are!\n\n9 to 5- 1980, Dolly Patron, Jane Fonda, Lily Tomlin. Amazing movie depicting womens' opinions of one another, workplace harassment, women doing 99% of the work and the male boss getting 100% of the praise before they get revenge and shake shit up. \n\nThelma & Louise- 1991, Geena Davis and Susan Sarandon. Thelma is in a shitty relationship where she's afraid to even go on a girl's trip because he husband will freak out. So she leaves him a note and they head on the road. Thelma is sweet and sort of naive but brings a gun on the trip. Louise ends up having to shoot a man who tries to rape Thelma when she gets drunk and from there they go on an escapee road trip. Amazing movie with lots of love, fighting, emotion. "
+          },
+          {
+            "id": 4869831771386253065,
+            "title": "Sorry, Baby",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+            "release_year": 2025,
+            "plot_summary": "Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1205515,
+            "imdb_id": "tt32843349",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.614730",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnn47y/",
+            "original_comment_text": "Sorry, Baby (2025)"
+          },
+          {
+            "id": 1247557883150255003,
+            "title": "The Accused",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg",
+            "release_year": 1988,
+            "plot_summary": "Out drinking one night after a fight with her boyfriend, three men brutally rape Sarah Tobias in a bar while people watch and cheer. District Attorney Kathryn Murphy takes the case; however, she allows the rapists to receive a mild sentence. A distraught Sarah decides to seek punishment for the men who witnessed and encouraged the rape. To get justice, Sarah must take the stand and revisit the night of her attack.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 10868,
+            "imdb_id": "tt0094608",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.617873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnnlcw/",
+            "original_comment_text": "The Accused (1988) Jodie Foster, Kelly McGillis"
+          },
+          {
+            "id": -5742411133807445545,
+            "title": "Hidden Figures",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+            "release_year": 2016,
+            "plot_summary": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 381284,
+            "imdb_id": "tt4846340",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.618929",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnmus0/",
+            "original_comment_text": "Hidden Figures"
+          },
+          {
+            "id": -1347113785611500561,
+            "title": "Promising Young Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+            "release_year": 2020,
+            "plot_summary": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 582014,
+            "imdb_id": "tt9620292",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.621688",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnqb4l/",
+            "original_comment_text": "Promising Young Woman"
+          },
+          {
+            "id": 6229219591254052092,
+            "title": "The Substance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "release_year": 2024,
+            "plot_summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 933260,
+            "imdb_id": "tt17526714",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.624131",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnyguk/",
+            "original_comment_text": "Honestly, The Substance. "
+          },
+          {
+            "id": -6620192482132422908,
+            "title": "Barbie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_year": 2023,
+            "plot_summary": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 346698,
+            "imdb_id": "tt1517268",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.627389",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnobcc/",
+            "original_comment_text": "America Ferrera's big speech in \"Barbie\" summed it up for me. Had me crying in what was otherwise a comedy!"
+          },
+          {
+            "id": 743979907142353209,
+            "title": "Everything Everywhere All at Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_year": 2022,
+            "plot_summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 545611,
+            "imdb_id": "tt6710474",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.666339",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnn4qa/",
+            "original_comment_text": "Everything everywhere all at once "
+          },
+          {
+            "id": -1560439348962984089,
+            "title": "Frances Ha",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+            "release_year": 2013,
+            "plot_summary": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 121986,
+            "imdb_id": "tt2347569",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.683150",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnnaw1/",
+            "original_comment_text": "frances ha (single, directionless, navigating adult friendships, flat shares)\n\nmelancholia (getting married, being depressed)\n\neighth grade (entering puberty)"
+          },
+          {
+            "id": 1142961109951469147,
+            "title": "Melancholia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+            "release_year": 2011,
+            "plot_summary": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 62215,
+            "imdb_id": "tt1527186",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.685590",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnnaw1/",
+            "original_comment_text": "frances ha (single, directionless, navigating adult friendships, flat shares)\n\nmelancholia (getting married, being depressed)\n\neighth grade (entering puberty)"
+          },
+          {
+            "id": 2744270620146298006,
+            "title": "Eighth Grade",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg",
+            "release_year": 2018,
+            "plot_summary": "Thirteen-year-old Kayla endures the tidal wave of contemporary suburban adolescence as she makes her way through the last week of middle school — the end of her thus far disastrous eighth grade year — before she begins high school.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 489925,
+            "imdb_id": "tt7014006",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.703274",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnnaw1/",
+            "original_comment_text": "frances ha (single, directionless, navigating adult friendships, flat shares)\n\nmelancholia (getting married, being depressed)\n\neighth grade (entering puberty)"
+          },
+          {
+            "id": 4055738197841338209,
+            "title": "Jennifer's Body",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+            "release_year": 2009,
+            "plot_summary": "Jennifer, a gorgeous, seductive cheerleader takes evil to a whole new level after she's possessed by a sinister demon. Now it's up to her best friend to stop Jennifer's reign of terror before it's too late.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 19994,
+            "imdb_id": "tt1131734",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.793446",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnps8g/",
+            "original_comment_text": "Ok so I'm gonna say something really controversial, maybe, but\n\n\nJennifer's Body (2009)\n\n\nYou have to take the movie seriously to be able to see what I mean, even though I know it seems like a very unserious movie at first glance. But I promise you it has Themes."
+          },
+          {
+            "id": -8627310413738310687,
+            "title": "Heavenly Creatures",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
+            "release_year": 1994,
+            "plot_summary": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 1024,
+            "imdb_id": "tt0110005",
+            "category_title": "Movies That Accurately Depict Life As A Woman",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:48:12.894845",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/oco55eo/",
+            "original_comment_text": "Heavenly Creatures - for a very specific but kinda relatable intense female friendship you can have in your early teens (not the murder part. But if you were an intense teenager who wrote a lot of expansive fanfic worlds with your bestie)\n\nJoy Luck Club - the immigrant mother daughter relationship \n\nPortrait of a Women on Fire - no men for such a long stretch of the movies it’s almost jarring when one pops up to delivery supplies \n\nNow and Then \n\nA League of Their Own \n\nWomen Talking "
+          }
+        ]
+      },
+      {
+        "name": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+        "movies": [
+          {
+            "id": 5850462504095158200,
+            "title": "Life Is Beautiful",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+            "release_year": 1997,
+            "plot_summary": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 637,
+            "imdb_id": "tt0118799",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:36.852540",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob19ynu/",
+            "original_comment_text": "Oh god, Hereditary definitely stuck with me. Such a well done movie. \n\nWhen I was in high school I watched Life is Beautiful on a whim and it hit me so hard. "
+          },
+          {
+            "id": 4286988687070386595,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 823219,
+            "imdb_id": "tt4772188",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:36.859120",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob1cjzt/",
+            "original_comment_text": "Flow (2024), the animated film. I went into it knowing nothing about it, and never expected to find it so moving. Also, Train To Busan. I was expecting a basic zombie movie and never guessed there would be at least three scenes that would make me bawl like a baby."
+          },
+          {
+            "id": 4287734850381052394,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:36.861146",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob19yig/",
+            "original_comment_text": "Arrival "
+          },
+          {
+            "id": -2862598030096604415,
+            "title": "What Dreams May Come",
+            "poster_url": "https://image.tmdb.org/t/p/w500/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+            "release_year": 1998,
+            "plot_summary": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 12159,
+            "imdb_id": "tt0120889",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:36.885948",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob1b7qh/",
+            "original_comment_text": "What Dreams May Come "
+          },
+          {
+            "id": -6834399779733716990,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:36.898397",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob1e0tg/",
+            "original_comment_text": "About Time.\n\nI spent the first part cringing and laughing because it's just a fun, lighthearted rom-com, only to be wrecked during that damn pingpong scene."
+          },
+          {
+            "id": 7671446152877650449,
+            "title": "Hereditary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg",
+            "release_year": 2018,
+            "plot_summary": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 493922,
+            "imdb_id": "tt7784604",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.020807",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob19ynu/",
+            "original_comment_text": "Oh god, Hereditary definitely stuck with me. Such a well done movie. \n\nWhen I was in high school I watched Life is Beautiful on a whim and it hit me so hard. "
+          },
+          {
+            "id": -7800220960842062351,
+            "title": "We Need to Talk About Kevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg",
+            "release_year": 2011,
+            "plot_summary": "After her son Kevin commits a horrific act, troubled mother Eva reflects on her complicated relationship with her disturbed son as he grew from a toddler into a teenager.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 71859,
+            "imdb_id": "tt1242460",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.091182",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob17rzs/",
+            "original_comment_text": "We Need To Talk About Kevin "
+          },
+          {
+            "id": 6855826909995543283,
+            "title": "Hamnet",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+            "release_year": 2025,
+            "plot_summary": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance",
+              "History"
+            ],
+            "tmdb_id": 858024,
+            "imdb_id": "tt14905854",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.138013",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob17w8k/",
+            "original_comment_text": "Hamnet, please go into it blind. It absolutely crushed me."
+          },
+          {
+            "id": -4052337901628715999,
+            "title": "Train to Busan",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+            "release_year": 2016,
+            "plot_summary": "When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 396535,
+            "imdb_id": "tt5700672",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.212812",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob1cjzt/",
+            "original_comment_text": "Flow (2024), the animated film. I went into it knowing nothing about it, and never expected to find it so moving. Also, Train To Busan. I was expecting a basic zombie movie and never guessed there would be at least three scenes that would make me bawl like a baby."
+          },
+          {
+            "id": 3166751469408369771,
+            "title": "Sling Blade",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+            "release_year": 1996,
+            "plot_summary": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 12498,
+            "imdb_id": "tt0117666",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.277215",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob1839c/",
+            "original_comment_text": "Sling Blade - Billy Bob Thornton masterpiece"
+          },
+          {
+            "id": -2888145653243266930,
+            "title": "Click",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg",
+            "release_year": 2006,
+            "plot_summary": "A married workaholic, Michael Newman doesn't have time for his wife and children, not if he's to impress his ungrateful boss and earn a well-deserved promotion. So when he meets Morty, a loopy sales clerk, he gets the answer to his prayers: a magical remote that allows him to bypass life's little distractions with increasingly hysterical results.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 9339,
+            "imdb_id": "tt0389860",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.279158",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob18jp0/",
+            "original_comment_text": "Click of course. You think it's gonna be a fun adam sandler movie and end up sobbing "
+          },
+          {
+            "id": 7678374926746319510,
+            "title": "The Florida Project",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5QnDxdJg1fi6uMSkSi4x8tHsltm.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of a precocious six year-old and her ragtag group of friends whose summer break is filled with childhood wonder, possibility and a sense of adventure while the adults around them struggle with hard times.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 394117,
+            "imdb_id": "tt5649144",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.346361",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob17zew/",
+            "original_comment_text": "Florida Project"
+          },
+          {
+            "id": 4809747024532754870,
+            "title": "Aftersun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+            "release_year": 2022,
+            "plot_summary": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 965150,
+            "imdb_id": "tt19770238",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.350319",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob196j8/",
+            "original_comment_text": "Oh my god Manchester by the sea and aftersun RUINED me. Also beautiful boy is amazing  "
+          },
+          {
+            "id": 6877395514410852583,
+            "title": "Manchester by the Sea",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o9VXYOuaJxCEKOxbA86xqtwmqYn.jpg",
+            "release_year": 2016,
+            "plot_summary": "After his older brother passes away, Lee Chandler is forced to return home to care for his 16-year-old nephew. There he is compelled to deal with a tragic past that separated him from his family and the community where he was born and raised.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 334541,
+            "imdb_id": "tt4034228",
+            "category_title": "Movies That Unexpectedly Wrecked Viewers Emotionally",
+            "time_period": "monthly",
+            "date_scraped": "2026-03-29T05:49:37.421912",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1rwongc/movies_where_you_had_no_idea_what_you_were/ob196j8/",
+            "original_comment_text": "Oh my god Manchester by the sea and aftersun RUINED me. Also beautiful boy is amazing  "
+          }
+        ]
+      }
+    ],
+    "totalMovies": 76,
+    "totalCategories": 5,
+    "lastUpdated": "2026-03-29T05:46:33.184761"
+  }
+}

@@ -1,0 +1,1700 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+        "movies": [
+          {
+            "id": -1855534800914865004,
+            "title": "Little Miss Sunshine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+            "release_year": 2006,
+            "plot_summary": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 773,
+            "imdb_id": "tt0449059",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.660236",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcwnx8/",
+            "original_comment_text": "Little Miss Sunshine "
+          },
+          {
+            "id": 1753770510815179838,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.660422",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcjdq8/",
+            "original_comment_text": "Amelie, About Time. "
+          },
+          {
+            "id": 2816119622575682480,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 823219,
+            "imdb_id": "tt4772188",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.662866",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcmaig/",
+            "original_comment_text": "Flow. No talking. Just a cat and other animals caught in a flood and then going down a river as unlikely friends. Just beautiful. \n\nJust in case you haven’t - be sure she sees a psychiatrist. Sometimes prescription meds can help balance the mind until things get settled. Chemical imbalance is a real thing and it isn’t about just working through it"
+          },
+          {
+            "id": 4011395136512005811,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.663888",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcrz48/",
+            "original_comment_text": "That's called depression \n\nAlso Big Fish is a good one"
+          },
+          {
+            "id": 7577308709519730785,
+            "title": "Amelie or The Time to Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wG7uqSM7oE3mRJ2u8BX7wiNgwhZ.jpg",
+            "release_year": 1961,
+            "plot_summary": "The vagaries of love are often tragic, as Amelie ou le Temps d'Aimer seems to say. Directed by Michel Drach in his second try at a feature-length film, the well-wrought romance revolves around the love that develops between Amelie (Marie-Jose Nat) and her cousin Alain (Jean Sorel). Amelie is an orphan who lives with Alain and his family on an island off the coast of France. Alain has dreams of working as a seaman, while Amelie works for Alain's father. The budding romance between the two takes a nose-dive when Alain falls for a glamorous actress who shows up on the island one day. Not mature enough yet to make a wise choice, Alain's betrayal of Amelie turns out to be a grievous mistake.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 4.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 269107,
+            "imdb_id": "tt0166076",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.835282",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcjdq8/",
+            "original_comment_text": "Amelie, About Time. "
+          },
+          {
+            "id": 5558139266737188395,
+            "title": "The Station Agent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+            "release_year": 2003,
+            "plot_summary": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 2056,
+            "imdb_id": "tt0340377",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.892871",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcl8zk/",
+            "original_comment_text": "The Station Agent.  It's about a man who is almost completely isolated/solitary and likely depressed who gradually develops community.  A slow and sweet film."
+          },
+          {
+            "id": -78436117413460076,
+            "title": "Cinema Paradiso",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+            "release_year": 1988,
+            "plot_summary": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 11216,
+            "imdb_id": "tt0095765",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.896982",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcnpuj/",
+            "original_comment_text": "**Cinema Paradiso**, watch it together."
+          },
+          {
+            "id": -7416434214243685688,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.906068",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcjpmn/",
+            "original_comment_text": "I really like The Secret Life of Walter Mitty for this"
+          },
+          {
+            "id": -287494893755834898,
+            "title": "Marcel the Shell with Shoes On",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+            "release_year": 2022,
+            "plot_summary": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 869626,
+            "imdb_id": "tt15339456",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.968320",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcmhsl/",
+            "original_comment_text": "Marcel the Shell With Shoes On."
+          },
+          {
+            "id": -2743482224536979687,
+            "title": "Everything Everywhere All at Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_year": 2022,
+            "plot_summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 545611,
+            "imdb_id": "tt6710474",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:06.971631",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odd82ho/",
+            "original_comment_text": "Everything Everywhere All at Once "
+          },
+          {
+            "id": 401195157807859132,
+            "title": "A Christmas Carol",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+            "release_year": 2009,
+            "plot_summary": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Animation",
+              "Fantasy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 17979,
+            "imdb_id": "tt1067106",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.046919",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odd0xd3/",
+            "original_comment_text": "Ok, so I know everyone is different. But I've felt like you're describing, and those beautiful gentle movies wouldn't be the kinds of movies that would help. So I'm going to suggest something different.\n\nIf she's not finding joy in the usual things in life, and she's feeling kinda disconnected, and you mentioned she's a cinephile - maybe create a sort of game out of watching some movies? \n\nBecause passive viewing might just continue the disconnect, while active viewing might stir a spark. \n\nSo maybe pick a theme and do some movie comparisons (i.e. all Kevin Bacon movies - how do they rank?, or all of the versions of A Christmas Carol - which version does each ghost best?, that kind of thing). Or ask her to create a list where *she* tries to find the perfect movie for *other* people.  The idea is to make it active, like a fun project, rather than passive viewing where you're just staring at a screen.  \n\nJust a thought."
+          },
+          {
+            "id": 8181130802456979524,
+            "title": "Perfect Days",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+            "release_year": 2023,
+            "plot_summary": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 976893,
+            "imdb_id": "tt27503384",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.052919",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcs0tm/",
+            "original_comment_text": "Perfect Days by Wim Wenders - it's on Hulu!\n\nIt's about a man in Tokyo who happily cleans bathrooms for a living (some of the most beautiful and unique bathrooms I've ever seen too). He doesn't have many friends and is just kind of reading and listening to music and being benevolent to strangers he meets. \n\nIt was so soothing watching someone live a very mundane life and feel content, peaceful, and satisfied with it. It's very slow paced and has an awesome soundtrack bc the main character is a musichead lmao. It's what aspire to live like once my ego finally dies and i can just have gratitude for my life all the time 😎"
+          },
+          {
+            "id": -7616013911428500429,
+            "title": "Hail Mary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lORZMj1NIBrOb5umMK9CZP85A3y.jpg",
+            "release_year": 2023,
+            "plot_summary": "A young Belizean girl, Maria, finds herself mysteriously pregnant and trying to cross the US/MEX border while outrunning a deadly virus, the Cartels, Border Patrol and the right-hand man of the Devil. This genre-bending retelling of the Mary and Joseph story begs the question – who are the real monsters?",
+            "runtime": "1h 40m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 1081706,
+            "imdb_id": "tt11125634",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.120043",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odctxy2/",
+            "original_comment_text": "Take her to hail mary"
+          },
+          {
+            "id": -3695319923525170964,
+            "title": "The Fall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vIU6fiyTWa56OXK9nwxK9tDVR6G.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 14784,
+            "imdb_id": "tt0460791",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.123900",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcjxtp/",
+            "original_comment_text": "The Fall (2006)"
+          },
+          {
+            "id": -8016819926222079991,
+            "title": "Rental Family",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A5lswNlytTUrnMWsuD0NFfhZlf3.jpg",
+            "release_year": 2025,
+            "plot_summary": "An American actor in Tokyo struggles to find purpose until he lands an unusual gig: working for a Japanese 'rental family' agency, playing stand-in roles for strangers. As he immerses himself in his clients' worlds, he begins to form genuine bonds that blur the lines between performance and reality.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1208348,
+            "imdb_id": "tt14142060",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.174325",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odczg3e/",
+            "original_comment_text": "Rental Family. It’s a newer Japanese film starring Brendan Fraser."
+          },
+          {
+            "id": -3585188197143052392,
+            "title": "Soul",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+            "release_year": 2020,
+            "plot_summary": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Family",
+              "Drama",
+              "Music",
+              "Fantasy"
+            ],
+            "tmdb_id": 508442,
+            "imdb_id": "tt2948372",
+            "category_title": "Visually Beautiful Movies That Gently Remind You Life Is Worth Living",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:19:07.181876",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s7x4is/looking_for_movie_recommendations_for_my_23f/odcqxmt/",
+            "original_comment_text": "Soul"
+          }
+        ]
+      },
+      {
+        "name": "Ethical Erotic Movies For Date Night",
+        "movies": [
+          {
+            "id": 1576436005591732647,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+            "release_year": 2005,
+            "plot_summary": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1640,
+            "imdb_id": "tt0375679",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.358769",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofafnp8/",
+            "original_comment_text": "i mean Crash by Cronenberg kinda"
+          },
+          {
+            "id": -8579412259055612367,
+            "title": "Only Lovers Left Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_year": 2013,
+            "plot_summary": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 152603,
+            "imdb_id": "tt1714915",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.634019",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaaieb/",
+            "original_comment_text": "Only lovers left alive"
+          },
+          {
+            "id": 2773741327995371168,
+            "title": "The Girls of La Rochelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aGMizDvWYZnU8hRhzx2r6bxkWpZ.jpg",
+            "release_year": 1962,
+            "plot_summary": "July 13, 1389. On the initiative of the Mayor, warned by a famous astrologer, the town of La Rochelle is getting ready - 400 years in advance! to celebrate the Fête Nationale with dignity! But the English, who already held almost every square in the Kingdom of France, set their sights on La Rochelle. The enemy fleet cruised off the coast, and while preparations for the festivities continued, orders were given to stretch the enormous chain that was to block access to the port between the two towers. However, this complicated maneuver and responsibility fear to provoke countless avatars.... The fatuity of the captain of the guards, Thimoléon, the reckless coquetry of the governor's daughter, Hiildegarde, the thick stupidity of the adjutant, the deceitfulness of the traitor and the scheming of a mysterious Scotsman lead the city to the brink of the abyss, while the people, excited, stage a fleeting riot in which the daughters of La Rochelle will have the last word.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 562539,
+            "imdb_id": "tt0207470",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.712934",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaejy6/",
+            "original_comment_text": "Rochelle, Rochelle. It's about a young girls strange, erotic journey from Milan to Minsk."
+          },
+          {
+            "id": -2286323258126961667,
+            "title": "Secretary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+            "release_year": 2002,
+            "plot_summary": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 11013,
+            "imdb_id": "tt0274812",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.748356",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofadgf6/",
+            "original_comment_text": "Secretary"
+          },
+          {
+            "id": 6334548213006806120,
+            "title": "The Piano",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+            "release_year": 1993,
+            "plot_summary": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+            "runtime": "2h",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 713,
+            "imdb_id": "tt0107822",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.782159",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          },
+          {
+            "id": -2429940049332401387,
+            "title": "Y Tu Mamá También",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+            "release_year": 2001,
+            "plot_summary": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1391,
+            "imdb_id": "tt0245574",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.865463",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofag324/",
+            "original_comment_text": "Y tu mamá también "
+          },
+          {
+            "id": -4777610215592839407,
+            "title": "Body Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_year": 1981,
+            "plot_summary": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 14412,
+            "imdb_id": "tt0082089",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.870708",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          },
+          {
+            "id": -6003172428888564294,
+            "title": "Space Jam",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+            "release_year": 1996,
+            "plot_summary": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Family",
+              "Animation",
+              "Science Fiction",
+              "Fantasy",
+              "Comedy"
+            ],
+            "tmdb_id": 2300,
+            "imdb_id": "tt0117705",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.894931",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofacdz7/",
+            "original_comment_text": "Space Jam "
+          },
+          {
+            "id": 665754086131733011,
+            "title": "Bound",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+            "release_year": 1996,
+            "plot_summary": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 9303,
+            "imdb_id": "tt0115736",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:13.895918",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          },
+          {
+            "id": 307064033994972975,
+            "title": "Brokeback Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+            "release_year": 2005,
+            "plot_summary": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 142,
+            "imdb_id": "tt0388795",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:14.068707",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofacwox/",
+            "original_comment_text": "Broke Back Mountain "
+          },
+          {
+            "id": -7884092836686617170,
+            "title": "Whispers in the Wind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sp3k5hNOH29QnBkZaCKbtLVT3ft.jpg",
+            "release_year": 2024,
+            "plot_summary": "In a Japanese town devastated by a tsunami, two newfound friends make sense of their grief and a curious phone booth that sends messages to the dead.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1328705,
+            "imdb_id": "tt33093444",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:14.138722",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofazaka/",
+            "original_comment_text": "\"Whispers in the Wind\"\n\n\"To Each His Own\"\n\n\"Put It Where It Doesn't Belong\"\n\n\"My Pipes Need Cleaning\"\n\n\"All Tit-Fucking, Volume 8\"\n\n\"I Need Your Cock\"\n\n\"Ass-Worshipping Rimjobbers\"\n\n\"My Cunt and Eight Shafts\"\n\n\"Cum Clean\"\n\n\"Cum-Gargling Naked Sluts\"\n\n\"Cum Buns 3\"\n\n\"Cumming in Socks\"\n\n\"Cum on Eileen\"\n\n\"Huge Black Cocks with Pearly White Cum\"\n\n\"Girls Who Crave Cock\"\n\n\"Girls Who Crave Cunt\"\n\n\"Men Alone 2: The K-Y Connection\"\n\n\"Pink Pussy Lips\"\n\n\"All Holes Filled with Hard Cock\"\n\n\"Happy Scrappy Hero Pup\""
+          },
+          {
+            "id": 4326367094090445161,
+            "title": "To Each His Own",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bpHDTrGsdCR8uB7nhKGtPzf7E3f.jpg",
+            "release_year": 2017,
+            "plot_summary": "Takashi Aoyama has way too much work to do and pushes himself mentally too hard. He blacks out and collapses at a railroad station. When he is about to be hit by a train, he is saved by Yamamoto. After his encounter with Yamamoto, Takashi recovers his bright personality and gets better results at work. One day, Takashi sees Yamamoto boarding a bus to the cemetery with a serious expression.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 474626,
+            "imdb_id": "tt5922578",
+            "category_title": "Ethical Erotic Movies For Date Night",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:14.206538",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofazaka/",
+            "original_comment_text": "\"Whispers in the Wind\"\n\n\"To Each His Own\"\n\n\"Put It Where It Doesn't Belong\"\n\n\"My Pipes Need Cleaning\"\n\n\"All Tit-Fucking, Volume 8\"\n\n\"I Need Your Cock\"\n\n\"Ass-Worshipping Rimjobbers\"\n\n\"My Cunt and Eight Shafts\"\n\n\"Cum Clean\"\n\n\"Cum-Gargling Naked Sluts\"\n\n\"Cum Buns 3\"\n\n\"Cumming in Socks\"\n\n\"Cum on Eileen\"\n\n\"Huge Black Cocks with Pearly White Cum\"\n\n\"Girls Who Crave Cock\"\n\n\"Girls Who Crave Cunt\"\n\n\"Men Alone 2: The K-Y Connection\"\n\n\"Pink Pussy Lips\"\n\n\"All Holes Filled with Hard Cock\"\n\n\"Happy Scrappy Hero Pup\""
+          }
+        ]
+      },
+      {
+        "name": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+        "movies": [
+          {
+            "id": -3760113804088317924,
+            "title": "The Sandlot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+            "release_year": 1993,
+            "plot_summary": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11528,
+            "imdb_id": "tt0108037",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.207712",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5v2x/",
+            "original_comment_text": "The Sandlot"
+          },
+          {
+            "id": 7541631611475571866,
+            "title": "Monsters, Inc.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+            "release_year": 2001,
+            "plot_summary": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 585,
+            "imdb_id": "tt0198781",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.386694",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": 1485454467873426485,
+            "title": "The Iron Giant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ct04FCFLPImNG5thcPLRnVsZlmS.jpg",
+            "release_year": 1999,
+            "plot_summary": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Family",
+              "Drama"
+            ],
+            "tmdb_id": 10386,
+            "imdb_id": "tt0129167",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.456449",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5ofp/",
+            "original_comment_text": "The Iron Giant?"
+          },
+          {
+            "id": -4335551777461649712,
+            "title": "Journey to the Center of the Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kL55wY0s2H9JdwfjoWIp9plvYnl.jpg",
+            "release_year": 2008,
+            "plot_summary": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 88751,
+            "imdb_id": "tt0373051",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.458213",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce8z5q/",
+            "original_comment_text": "The Princess Bride.   - my grandson didn't want to watch it because of the word Princess, but he loved it.\nJourney to the Center of Earth "
+          },
+          {
+            "id": 3362415296803875562,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.522854",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": 1141401452561574960,
+            "title": "Toy Story 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4rbcp3ng8n1MKHjpeqW0L7Fnpzz.jpg",
+            "release_year": 1999,
+            "plot_summary": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 863,
+            "imdb_id": "tt0120363",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.526198",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": 4837577058061154960,
+            "title": "Secondhand Lions",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+            "release_year": 2003,
+            "plot_summary": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 13156,
+            "imdb_id": "tt0327137",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.568121",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce7nun/",
+            "original_comment_text": "Secondhand Lions"
+          },
+          {
+            "id": -7428418043963561377,
+            "title": "The Wild Robot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+            "release_year": 2024,
+            "plot_summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Family",
+              "Animation",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 1184918,
+            "imdb_id": "tt29623480",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.595809",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce7r2y/",
+            "original_comment_text": "The Wild Robot!! Sooo good"
+          },
+          {
+            "id": -1988101878512410522,
+            "title": "Toy Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+            "release_year": 1995,
+            "plot_summary": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Animation",
+              "Adventure"
+            ],
+            "tmdb_id": 862,
+            "imdb_id": "tt0114709",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.637443",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5x0h/",
+            "original_comment_text": "Toy Story\n\nToy Story 2\n\nMonsters Inc\n\nThe Princess Bride"
+          },
+          {
+            "id": -2313422020207248852,
+            "title": "Hook",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+            "release_year": 1991,
+            "plot_summary": "The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. During his trip to see Granny Wendy in London, the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 879,
+            "imdb_id": "tt0102057",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.680540",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce72g6/",
+            "original_comment_text": "**Hook** \\- *Robin Williams / Julia Roberts / Dustin Hoffman / Maggie Smith*"
+          },
+          {
+            "id": 3677329291468139387,
+            "title": "The Incredibles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "release_year": 2004,
+            "plot_summary": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 9806,
+            "imdb_id": "tt0317705",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.741792",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/ocebaxq/",
+            "original_comment_text": "The incredibles. "
+          },
+          {
+            "id": 2799860064045898929,
+            "title": "Paddington 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+            "release_year": 2017,
+            "plot_summary": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 346648,
+            "imdb_id": "tt4468740",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.766002",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce79m9/",
+            "original_comment_text": "Paddington 1 or 2"
+          },
+          {
+            "id": -6363976385237922113,
+            "title": "Night at the Museum",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pDsAAYf6Zn0yiAGJ6lYGs6hoZ4E.jpg",
+            "release_year": 2006,
+            "plot_summary": "Chaos reigns at the natural history museum when night watchman Larry Daley accidentally stirs up an ancient curse, awakening Attila the Hun, an army of gladiators, a Tyrannosaurus rex and other exhibits.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Fantasy",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 1593,
+            "imdb_id": "tt0477347",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.780783",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5xp8/",
+            "original_comment_text": "Night at the Museum will do the trick"
+          },
+          {
+            "id": -4531942108212256305,
+            "title": "Wreck-It Ralph",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zWoIgZ7mgmPkaZjG0102BSKFIqQ.jpg",
+            "release_year": 2012,
+            "plot_summary": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys. Wanting to prove he can be a good guy and not just a villain, Ralph escapes his game and lands in Hero's Duty, a first-person shooter where he helps the game's hero battle against alien invaders. He later enters Sugar Rush, a kart racing game set on tracks made of candies, cookies and other sweets. There, Ralph meets Vanellope von Schweetz who has learned that her game is faced with a dire threat that could affect the entire arcade, and one that Ralph may have inadvertently started.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Family",
+              "Animation",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 82690,
+            "imdb_id": "tt1772341",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.815365",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce5ya5/",
+            "original_comment_text": "Wreck-it Ralph"
+          },
+          {
+            "id": -8148472001623323616,
+            "title": "Paddington",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wpchRGhRhvhtU083PfX2yixXtiw.jpg",
+            "release_year": 2014,
+            "plot_summary": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Adventure",
+              "Family"
+            ],
+            "tmdb_id": 116149,
+            "imdb_id": "tt1109624",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:57.939473",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oce79m9/",
+            "original_comment_text": "Paddington 1 or 2"
+          },
+          {
+            "id": -8319229119384540585,
+            "title": "Shrek",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+            "release_year": 2001,
+            "plot_summary": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Fantasy",
+              "Adventure",
+              "Family"
+            ],
+            "tmdb_id": 808,
+            "imdb_id": "tt0126029",
+            "category_title": "Movies For A 6-Year-Old, 10-Year-Old, And 67-Year-Old To Watch Together",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:21:58.018548",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s3bc3t/what_would_a_6yearold_girl_10yearold_boy_and/oceajj3/",
+            "original_comment_text": "Shrek?"
+          }
+        ]
+      },
+      {
+        "name": "Life-Changing Movies To Watch",
+        "movies": [
+          {
+            "id": -6760992386421348358,
+            "title": "City of God",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+            "release_year": 2002,
+            "plot_summary": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 598,
+            "imdb_id": "tt0317248",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.344775",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzo5xd/",
+            "original_comment_text": "City of God"
+          },
+          {
+            "id": 8207592032099816158,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.346221",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzp5ns/",
+            "original_comment_text": "Arrival"
+          },
+          {
+            "id": -5618957216967181434,
+            "title": "The Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+            "release_year": 1997,
+            "plot_summary": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 2649,
+            "imdb_id": "tt0119174",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.477347",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmrzr/",
+            "original_comment_text": "The Game"
+          },
+          {
+            "id": 4398796156253385577,
+            "title": "Spirited Away",
+            "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "release_year": 2001,
+            "plot_summary": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 129,
+            "imdb_id": "tt0245429",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.548235",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmp6k/",
+            "original_comment_text": "Spirited Away "
+          },
+          {
+            "id": -8962435197359499540,
+            "title": "The Life of Chuck",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+            "release_year": 2025,
+            "plot_summary": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 842924,
+            "imdb_id": "tt12908150",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.618659",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odznak0/",
+            "original_comment_text": "The Life of Chuck"
+          },
+          {
+            "id": 2153273912431469681,
+            "title": "The Terminator",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qvktm0BHcnmDpul4Hz01GIazWPr.jpg",
+            "release_year": 1984,
+            "plot_summary": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 218,
+            "imdb_id": "tt0088247",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.661911",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzm012/",
+            "original_comment_text": "Terminator 1+2"
+          },
+          {
+            "id": -1377106482989873506,
+            "title": "Prisoners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
+            "release_year": 2013,
+            "plot_summary": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+            "runtime": "2h 33m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 146233,
+            "imdb_id": "tt1392214",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.695118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          },
+          {
+            "id": -7490930743109881956,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.732263",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          },
+          {
+            "id": -7362613775958643501,
+            "title": "Gravity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+            "release_year": 2013,
+            "plot_summary": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 49047,
+            "imdb_id": "tt1454468",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.766273",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          },
+          {
+            "id": -8741697340951409241,
+            "title": "Unbreakable",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+            "release_year": 2000,
+            "plot_summary": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 9741,
+            "imdb_id": "tt0217869",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.800979",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmjd4/",
+            "original_comment_text": "Unbreakable"
+          },
+          {
+            "id": 8814833330088763778,
+            "title": "No Country for Old Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6d5XOczc226jECq0LIX0siKtgHR.jpg",
+            "release_year": 2007,
+            "plot_summary": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Western"
+            ],
+            "tmdb_id": 6977,
+            "imdb_id": "tt0477348",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.841017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          },
+          {
+            "id": -7960988413102484781,
+            "title": "Terminator 2: Judgment Day",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+            "release_year": 1991,
+            "plot_summary": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+            "runtime": "2h 17m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 280,
+            "imdb_id": "tt0103064",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:33.882825",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzm012/",
+            "original_comment_text": "Terminator 1+2"
+          },
+          {
+            "id": -4549767410512289076,
+            "title": "Whiplash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+            "release_year": 2014,
+            "plot_summary": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Music",
+              "Thriller"
+            ],
+            "tmdb_id": 244786,
+            "imdb_id": "tt2582802",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:34.047620",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          },
+          {
+            "id": 1680079796401828420,
+            "title": "Sicario",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lz8vNyXeidqqOdJW9ZjnDAMb5Vr.jpg",
+            "release_year": 2015,
+            "plot_summary": "An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 273481,
+            "imdb_id": "tt3397884",
+            "category_title": "Life-Changing Movies To Watch",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:22:34.072661",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1saz9ah/im_in_the_mood_for_a_life_changing_movie_what/odzmwws/",
+            "original_comment_text": "Life changing movie — Dear Zachary: A letter to a son about his father.\n\nA movie that makes you forget you exist because you’re so focused on the screen - Prisoners, Gravity, Sicario, No Country for old men, Whiplash, Edge of Tomorrow, Dunkirk"
+          }
+        ]
+      },
+      {
+        "name": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+        "movies": [
+          {
+            "id": -1549829712700044917,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:10.884414",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od04oa7/",
+            "original_comment_text": "\nEternal Sunshine of the Spotless Mind\n\nCinema Paradiso\n\nPortrait of a Lady on Fire\n\nLife is Beautiful\n\nCoco\n\nGrave of the Fireflies"
+          },
+          {
+            "id": 914482917014410191,
+            "title": "Good Will Hunting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_year": 1997,
+            "plot_summary": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 489,
+            "imdb_id": "tt0119217",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:10.920611",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od03f0e/",
+            "original_comment_text": "Good Will Hunting (1997) may be a cliche answer but Robin William’s role in it is one i think of often. He has a monologue that feels deeply personal & cathartic. I can’t help but cry every rewatch. Crazy to think this was Matt Damon & Ben Affleck’s very first screenplay"
+          },
+          {
+            "id": 1905355609461164572,
+            "title": "Life Is Beautiful",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+            "release_year": 1997,
+            "plot_summary": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 637,
+            "imdb_id": "tt0118799",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:10.922411",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od04oa7/",
+            "original_comment_text": "\nEternal Sunshine of the Spotless Mind\n\nCinema Paradiso\n\nPortrait of a Lady on Fire\n\nLife is Beautiful\n\nCoco\n\nGrave of the Fireflies"
+          },
+          {
+            "id": -7899637889454459883,
+            "title": "What Dreams May Come",
+            "poster_url": "https://image.tmdb.org/t/p/w500/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+            "release_year": 1998,
+            "plot_summary": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 12159,
+            "imdb_id": "tt0120889",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.054286",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od053zh/",
+            "original_comment_text": "What Dreams May Come.  Beautiful scenes, but uff... harsh topic."
+          },
+          {
+            "id": 9216639738597616208,
+            "title": "Grave of the Fireflies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76826,
+            "imdb_id": "tt0491652",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.102309",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od04oa7/",
+            "original_comment_text": "\nEternal Sunshine of the Spotless Mind\n\nCinema Paradiso\n\nPortrait of a Lady on Fire\n\nLife is Beautiful\n\nCoco\n\nGrave of the Fireflies"
+          },
+          {
+            "id": 6724174524835362097,
+            "title": "Crouching Tiger, Hidden Dragon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+            "release_year": 2000,
+            "plot_summary": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+            "runtime": "2h",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Action",
+              "Romance"
+            ],
+            "tmdb_id": 146,
+            "imdb_id": "tt0190332",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.128455",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od0ebbf/",
+            "original_comment_text": "Crouching Tiger, Hidden Dragon. Everything about that movie is beautiful and heart breaking."
+          },
+          {
+            "id": -4340763115254223179,
+            "title": "Train Dreams",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+            "release_year": 2025,
+            "plot_summary": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1241983,
+            "imdb_id": "tt29768334",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.167614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od0f36h/",
+            "original_comment_text": "Just watched Train Dreams. Its emotional depth and beauty didn’t really hit me until the end. Great film. "
+          },
+          {
+            "id": 4442071338869354106,
+            "title": "Portrait of a Lady on Fire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LquGwEhbg3soxSCs9VNyh5VJd9.jpg",
+            "release_year": 2019,
+            "plot_summary": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 531428,
+            "imdb_id": "tt8613070",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.189618",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od04oa7/",
+            "original_comment_text": "\nEternal Sunshine of the Spotless Mind\n\nCinema Paradiso\n\nPortrait of a Lady on Fire\n\nLife is Beautiful\n\nCoco\n\nGrave of the Fireflies"
+          },
+          {
+            "id": 8588253676974970911,
+            "title": "Coco",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+            "release_year": 2017,
+            "plot_summary": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Family",
+              "Animation",
+              "Music",
+              "Adventure"
+            ],
+            "tmdb_id": 354912,
+            "imdb_id": "tt2380307",
+            "category_title": "Most Beautiful And Emotional Films Viewers Have Ever Watched",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:11.197674",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s68ndb/whats_the_most_beautiful_and_emotional_film_you/od04oa7/",
+            "original_comment_text": "\nEternal Sunshine of the Spotless Mind\n\nCinema Paradiso\n\nPortrait of a Lady on Fire\n\nLife is Beautiful\n\nCoco\n\nGrave of the Fireflies"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+        "movies": [
+          {
+            "id": 6369250144101659374,
+            "title": "Fried Green Tomatoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+            "release_year": 1991,
+            "plot_summary": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1633,
+            "imdb_id": "tt0101921",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.108287",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnny00/",
+            "original_comment_text": "Fried Grren Tomatoes!"
+          },
+          {
+            "id": -5329544402084417204,
+            "title": "Sorry, Baby",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+            "release_year": 2025,
+            "plot_summary": "Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1205515,
+            "imdb_id": "tt32843349",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.235136",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnn47y/",
+            "original_comment_text": "Sorry, Baby (2025)"
+          },
+          {
+            "id": 7330279652457036696,
+            "title": "The Accused",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg",
+            "release_year": 1988,
+            "plot_summary": "Out drinking one night after a fight with her boyfriend, three men brutally rape Sarah Tobias in a bar while people watch and cheer. District Attorney Kathryn Murphy takes the case; however, she allows the rapists to receive a mild sentence. A distraught Sarah decides to seek punishment for the men who witnessed and encouraged the rape. To get justice, Sarah must take the stand and revisit the night of her attack.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 10868,
+            "imdb_id": "tt0094608",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.358923",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnnlcw/",
+            "original_comment_text": "The Accused (1988) Jodie Foster, Kelly McGillis"
+          },
+          {
+            "id": -3727120523068001939,
+            "title": "Thelma & Louise",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+            "release_year": 1991,
+            "plot_summary": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Adventure"
+            ],
+            "tmdb_id": 1541,
+            "imdb_id": "tt0103074",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.501616",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnwcvb/",
+            "original_comment_text": "I'm surprised I haven't seen these listed so here you are!\n\n9 to 5- 1980, Dolly Patron, Jane Fonda, Lily Tomlin. Amazing movie depicting womens' opinions of one another, workplace harassment, women doing 99% of the work and the male boss getting 100% of the praise before they get revenge and shake shit up. \n\nThelma & Louise- 1991, Geena Davis and Susan Sarandon. Thelma is in a shitty relationship where she's afraid to even go on a girl's trip because he husband will freak out. So she leaves him a note and they head on the road. Thelma is sweet and sort of naive but brings a gun on the trip. Louise ends up having to shoot a man who tries to rape Thelma when she gets drunk and from there they go on an escapee road trip. Amazing movie with lots of love, fighting, emotion. "
+          },
+          {
+            "id": -5413778039049817812,
+            "title": "Barbie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_year": 2023,
+            "plot_summary": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 346698,
+            "imdb_id": "tt1517268",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.575466",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnobcc/",
+            "original_comment_text": "America Ferrera's big speech in \"Barbie\" summed it up for me. Had me crying in what was otherwise a comedy!"
+          },
+          {
+            "id": 4219321772270762041,
+            "title": "Lady Bird",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+            "release_year": 2017,
+            "plot_summary": "Lady Bird McPherson, a strong willed, deeply opinionated, artistic 17 year old comes of age in Sacramento. Her relationship with her mother and her upbringing are questioned and tested as she plans to head off to college.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 391713,
+            "imdb_id": "tt4925292",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.646050",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnmq0z/",
+            "original_comment_text": "Ladybird"
+          },
+          {
+            "id": 1291689118808827411,
+            "title": "Hidden Figures",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9lfz2W2uGjyow3am00rsPJ8iOyq.jpg",
+            "release_year": 2016,
+            "plot_summary": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 381284,
+            "imdb_id": "tt4846340",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.647775",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnmus0/",
+            "original_comment_text": "Hidden Figures"
+          },
+          {
+            "id": -7349971277334488815,
+            "title": "Heavenly Creatures",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AsZ286PDaYy8rZTKDDEbhrWV9gq.jpg",
+            "release_year": 1994,
+            "plot_summary": "Precocious teenager Juliet moves to New Zealand with her family and soon befriends the quiet, brooding Pauline through their shared love of fantasy and literature. This friendship gradually develops into an intense and obsessive bond.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 1024,
+            "imdb_id": "tt0110005",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.671093",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/oco55eo/",
+            "original_comment_text": "Heavenly Creatures - for a very specific but kinda relatable intense female friendship you can have in your early teens (not the murder part. But if you were an intense teenager who wrote a lot of expansive fanfic worlds with your bestie)\n\nJoy Luck Club - the immigrant mother daughter relationship \n\nPortrait of a Women on Fire - no men for such a long stretch of the movies it’s almost jarring when one pops up to delivery supplies \n\nNow and Then \n\nA League of Their Own \n\nWomen Talking "
+          },
+          {
+            "id": -4018218586625820088,
+            "title": "Promising Young Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+            "release_year": 2020,
+            "plot_summary": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 582014,
+            "imdb_id": "tt9620292",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.716790",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnqb4l/",
+            "original_comment_text": "Promising Young Woman"
+          },
+          {
+            "id": 2486787527795070106,
+            "title": "The Substance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "release_year": 2024,
+            "plot_summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 933260,
+            "imdb_id": "tt17526714",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.717338",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnyguk/",
+            "original_comment_text": "Honestly, The Substance. "
+          },
+          {
+            "id": -3021577123577611505,
+            "title": "Jennifer's Body",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg",
+            "release_year": 2009,
+            "plot_summary": "Jennifer, a gorgeous, seductive cheerleader takes evil to a whole new level after she's possessed by a sinister demon. Now it's up to her best friend to stop Jennifer's reign of terror before it's too late.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 19994,
+            "imdb_id": "tt1131734",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.858870",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/ocnps8g/",
+            "original_comment_text": "Ok so I'm gonna say something really controversial, maybe, but\n\n\nJennifer's Body (2009)\n\n\nYou have to take the movie seriously to be able to see what I mean, even though I know it seems like a very unserious movie at first glance. But I promise you it has Themes."
+          },
+          {
+            "id": 7164926950687028729,
+            "title": "Now and Then",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q31Ks8oAmM4Nq2CcGjyYYpdBAmh.jpg",
+            "release_year": 1995,
+            "plot_summary": "Waxing nostalgic about the bittersweet passage from childhood to puberty, four childhood girlfriends — Teeny, Chrissy, Samantha and Roberta — recall the magical summer of 1970. During their walk down memory lane, they reconcile experiences with boys, secrets, bullies and more.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 9263,
+            "imdb_id": "tt0114011",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:58.928487",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/oco55eo/",
+            "original_comment_text": "Heavenly Creatures - for a very specific but kinda relatable intense female friendship you can have in your early teens (not the murder part. But if you were an intense teenager who wrote a lot of expansive fanfic worlds with your bestie)\n\nJoy Luck Club - the immigrant mother daughter relationship \n\nPortrait of a Women on Fire - no men for such a long stretch of the movies it’s almost jarring when one pops up to delivery supplies \n\nNow and Then \n\nA League of Their Own \n\nWomen Talking "
+          },
+          {
+            "id": -5862542634609441434,
+            "title": "The Joy Luck Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/s1Sk0hhVARNs7i9wqRHqbCriu8n.jpg",
+            "release_year": 1993,
+            "plot_summary": "Through a series of flashbacks, four Chinese women born in America and their respective mothers born in feudal China explore their pasts.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 19931,
+            "imdb_id": "tt0107282",
+            "category_title": "Movies That Accurately Depict Life As A Woman, Both Good And Bad",
+            "time_period": "monthly",
+            "date_scraped": "2026-04-20T06:23:59.003752",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1s4jzd0/asking_the_women_here_for_movies_that_they_feel/oco55eo/",
+            "original_comment_text": "Heavenly Creatures - for a very specific but kinda relatable intense female friendship you can have in your early teens (not the murder part. But if you were an intense teenager who wrote a lot of expansive fanfic worlds with your bestie)\n\nJoy Luck Club - the immigrant mother daughter relationship \n\nPortrait of a Women on Fire - no men for such a long stretch of the movies it’s almost jarring when one pops up to delivery supplies \n\nNow and Then \n\nA League of Their Own \n\nWomen Talking "
+          }
+        ]
+      }
+    ],
+    "totalMovies": 80,
+    "totalCategories": 6,
+    "lastUpdated": "2026-04-20T06:19:06.660236"
+  }
+}

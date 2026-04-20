@@ -1,0 +1,1229 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "90-Minute Edge-Of-Your-Seat Thrillers",
+        "movies": [
+          {
+            "id": -6968466416616981474,
+            "title": "Strange Darling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "release_year": 2024,
+            "plot_summary": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1029281,
+            "imdb_id": "tt22375054",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.404603",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fqr6/",
+            "original_comment_text": "Strange darling "
+          },
+          {
+            "id": -8013269322762902515,
+            "title": "Green Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+            "release_year": 2016,
+            "plot_summary": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 313922,
+            "imdb_id": "tt4062536",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.540724",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fun8/",
+            "original_comment_text": "Green Room. Anxiety and tension starts five minutes in and doesn't stop until 90 minutes later. Highly recommend!"
+          },
+          {
+            "id": -7874995460809417480,
+            "title": "Carry-On",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+            "release_year": 2024,
+            "plot_summary": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+            "runtime": "2h",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Action"
+            ],
+            "tmdb_id": 1005331,
+            "imdb_id": "tt21382296",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.606161",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2f0ic/",
+            "original_comment_text": "I honestly really enjoyed Carry-on"
+          },
+          {
+            "id": 540104113831047265,
+            "title": "The Descent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "release_year": 2005,
+            "plot_summary": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Horror"
+            ],
+            "tmdb_id": 9392,
+            "imdb_id": "tt0435625",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.620769",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2gtyp/",
+            "original_comment_text": "The Descent"
+          },
+          {
+            "id": 6517581820345951830,
+            "title": "Red Eye",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j33szyBdJjrmnItyUgPBsqaBECE.jpg",
+            "release_year": 2005,
+            "plot_summary": "An overnight flight to Miami quickly becomes a battle for survival when Lisa realizes her seatmate plans to use her as part of a chilling assassination plot against the Deputy Secretary of Homeland Security. If she refuses to cooperate, her own father will be killed. As the miles tick by, she's in a race against time to find a way to warn the potential victims before it's too late.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 11460,
+            "imdb_id": "tt0421239",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.688873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2dy08/",
+            "original_comment_text": "Red Eye (2005)"
+          },
+          {
+            "id": -1825675900984414763,
+            "title": "Nightcrawler",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+            "release_year": 2014,
+            "plot_summary": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 242582,
+            "imdb_id": "tt2872718",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.766925",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2d87s/",
+            "original_comment_text": "Nightcrawler"
+          },
+          {
+            "id": 6034750129092843607,
+            "title": "Run Lola Run",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+            "release_year": 1998,
+            "plot_summary": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 104,
+            "imdb_id": "tt0130827",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.793216",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fsic/",
+            "original_comment_text": "run lola run!"
+          },
+          {
+            "id": 3576635884118446969,
+            "title": "Breakdown",
+            "poster_url": "https://image.tmdb.org/t/p/w500/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg",
+            "release_year": 1997,
+            "plot_summary": "On their cross-country drive, a married couple, Jeff and Amy Taylor, experience car trouble after their SUV breaks down. Stranded in the New Mexico desert, the two catch a break when a passing truck driver offers Amy a ride to a nearby café to call for help. Meanwhile, Jeff is able to fix the car and make his way to the café, but Amy isn't there. He tracks down the trucker ― who tells the police he's never seen Jeff or his wife before. Jeff then begins a desperate, frenzied search for Amy.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller",
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 2163,
+            "imdb_id": "tt0118771",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.865489",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2efn1/",
+            "original_comment_text": "Breakdown "
+          },
+          {
+            "id": -4872288223253310401,
+            "title": "Phone Booth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg",
+            "release_year": 2003,
+            "plot_summary": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1817,
+            "imdb_id": "tt0183649",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:17.943372",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2e8b4/",
+            "original_comment_text": "Phone Booth 2002"
+          },
+          {
+            "id": -8729226652582482103,
+            "title": "Crank",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
+            "release_year": 2006,
+            "plot_summary": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1948,
+            "imdb_id": "tt0479884",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:18.013075",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2h3t9/",
+            "original_comment_text": "Does Crank fit the bill?"
+          },
+          {
+            "id": -5288428909172742317,
+            "title": "Misery",
+            "poster_url": "https://image.tmdb.org/t/p/w500/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+            "release_year": 1990,
+            "plot_summary": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 1700,
+            "imdb_id": "tt0100157",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:18.078689",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2g91k/",
+            "original_comment_text": "More like an hour 40, but misery is a fun classic. "
+          },
+          {
+            "id": 3051439007063127648,
+            "title": "The Menu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+            "release_year": 2022,
+            "plot_summary": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 593643,
+            "imdb_id": "tt9764362",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thrillers",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:18.154031",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2etzs/",
+            "original_comment_text": "The Menu"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Feel Like Summer",
+        "movies": [
+          {
+            "id": 4595143920234731626,
+            "title": "Do the Right Thing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg",
+            "release_year": 1989,
+            "plot_summary": "Sal is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.",
+            "runtime": "2h",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 925,
+            "imdb_id": "tt0097216",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.418985",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6gotu/",
+            "original_comment_text": "Do the right thing"
+          },
+          {
+            "id": 9095732678587849346,
+            "title": "Adventureland",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eeSJNAR1aWcgANq26KWIHm3cbyB.jpg",
+            "release_year": 2009,
+            "plot_summary": "It's the summer of 1987, and recent college grad James Brennan can't wait to begin his long-anticipated dream trip to Europe. Unfortunately, James' plans come to a screeching halt when his parents announce that they are unable to subsidize his trip. Forced to take a job at the local amusement park, James prepares for the worst summer ever, until he finds love with a captivating co-worker named Em.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 16614,
+            "imdb_id": "tt1091722",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.558277",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6gvm9/",
+            "original_comment_text": "Adventureland"
+          },
+          {
+            "id": -8156128339098191054,
+            "title": "Summer Rental",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t1ezbv4rVZ8xoCbenHyMnkt7SmR.jpg",
+            "release_year": 1985,
+            "plot_summary": "Jack Chester, an overworked air traffic controller, takes his family on vacation to the beach. Things immediately start to go wrong for the Chesters, and steadily get worse. Jack ends up in a feud with a local yachtsman, and has to race him to regain his pride and family's respect.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 19357,
+            "imdb_id": "tt0090098",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.632695",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6h6ah/",
+            "original_comment_text": "Summer Rental and Great Outdoors if you love John Candy. Also Caddyshack to throw in a golf element "
+          },
+          {
+            "id": -4280135516734991113,
+            "title": "Stand by Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+            "release_year": 1986,
+            "plot_summary": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 235,
+            "imdb_id": "tt0092005",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.647359",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6fnud/",
+            "original_comment_text": "Stand By Me "
+          },
+          {
+            "id": -4443719182585024363,
+            "title": "The Sandlot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+            "release_year": 1993,
+            "plot_summary": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11528,
+            "imdb_id": "tt0108037",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.678233",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6fmff/",
+            "original_comment_text": "The Sandlot "
+          },
+          {
+            "id": -6697996273755555489,
+            "title": "Caddyshack",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lXnNz7zOXCsftMDVoU3VSo0Eioi.jpg",
+            "release_year": 1980,
+            "plot_summary": "At an exclusive country club, an ambitious young caddy, Danny Noonan, eagerly pursues a caddy scholarship in hopes of attending college and, in turn, avoiding a job at the lumber yard. In order to succeed, he must first win the favour of the elitist Judge Smails, and then the caddy golf tournament which Smails sponsors.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 11977,
+            "imdb_id": "tt0080487",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.703521",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6h6ah/",
+            "original_comment_text": "Summer Rental and Great Outdoors if you love John Candy. Also Caddyshack to throw in a golf element "
+          },
+          {
+            "id": 7529497592146103205,
+            "title": "The Way Way Back",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4DgA0EDDVv37C8xISc3Vv0rhxlL.jpg",
+            "release_year": 2013,
+            "plot_summary": "Shy 14-year-old Duncan goes on summer vacation with his mother, her overbearing boyfriend, and her boyfriend's daughter. Having a rough time fitting in, Duncan finds an unexpected friend in Owen, manager of the Water Wizz water park.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 147773,
+            "imdb_id": "tt1727388",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.714151",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6ftku/",
+            "original_comment_text": "The Way Way Back (2013)"
+          },
+          {
+            "id": -1464606527951727227,
+            "title": "The Great Outdoors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zxIoPZiqKOxrWvieumpxA6bOgkt.jpg",
+            "release_year": 1988,
+            "plot_summary": "It's vacation time for outdoorsy Chicago man Chet Ripley, along with his wife, Connie, and their two kids, Buck and Ben. But a serene weekend of fishing at a Wisconsin lakeside cabin gets crashed by Connie's obnoxious brother-in-law, Roman Craig, his wife, Kate, and the couple's two daughters. As the excursion wears on, the Ripleys find themselves at odds with the stuffy Craig family.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 2617,
+            "imdb_id": "tt0095253",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.743332",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6h6ah/",
+            "original_comment_text": "Summer Rental and Great Outdoors if you love John Candy. Also Caddyshack to throw in a golf element "
+          },
+          {
+            "id": -5717686615057830630,
+            "title": "Jaws",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjbLSFwi0I3phZwh8zoHWNfbsEp.jpg",
+            "release_year": 1975,
+            "plot_summary": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Adventure"
+            ],
+            "tmdb_id": 578,
+            "imdb_id": "tt0073195",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.860427",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6ge9b/",
+            "original_comment_text": "Jaws"
+          },
+          {
+            "id": -7035333080035199320,
+            "title": "Licorice Pizza",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivXtvzfliGvoJ1DhSHIGyYBToWe.jpg",
+            "release_year": 2021,
+            "plot_summary": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 718032,
+            "imdb_id": "tt11271038",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.895213",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6htyd/",
+            "original_comment_text": "Licorice Pizza, I can't recommend it enough. It's outstanding."
+          },
+          {
+            "id": 1529734882350752604,
+            "title": "Call Me by Your Name",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mZ4gBdfkhP9tvLH1DO4m4HYtiyi.jpg",
+            "release_year": 2017,
+            "plot_summary": "In the summer of 1983, a 17-year-old Elio spends his days in his family's villa in Italy. One day Oliver, a graduate student, arrives to assist Elio's father, a professor of Greco-Roman culture. Soon, Elio and Oliver discover a summer that will alter their lives forever.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 398818,
+            "imdb_id": "tt5726616",
+            "category_title": "Movies That Feel Like Summer",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:13:40.932102",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqafhw/movies_that_feel_like_summer/oh6hx16/",
+            "original_comment_text": "Call Me By Your Name"
+          }
+        ]
+      },
+      {
+        "name": "Movies About The Good In Humanity",
+        "movies": [
+          {
+            "id": -2429652388497286563,
+            "title": "It's a Wonderful Life",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+            "release_year": 1946,
+            "plot_summary": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 1585,
+            "imdb_id": "tt0038650",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.214688",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4waag/",
+            "original_comment_text": "It’s a Wonderful Life"
+          },
+          {
+            "id": -3392759006011488110,
+            "title": "Hunt for the Wilderpeople",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+            "release_year": 2016,
+            "plot_summary": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 371645,
+            "imdb_id": "tt4698684",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.255434",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4wp2m/",
+            "original_comment_text": "Hunt for the Wilderpeople"
+          },
+          {
+            "id": 8273112961111896537,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.287665",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4wdxs/",
+            "original_comment_text": "Big Fish is more about the good of being good to humanity and how it's good back, but a great watch"
+          },
+          {
+            "id": -1153468378013658557,
+            "title": "Children of Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lQcXgb0fFzffnLV5WY0Q0X2WW7E.jpg",
+            "release_year": 2006,
+            "plot_summary": "In 2027, in a chaotic world in which humans can no longer procreate, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea, where her child's birth may help scientists save the future of humankind.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Action"
+            ],
+            "tmdb_id": 9693,
+            "imdb_id": "tt0206634",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.336133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4vwi8/",
+            "original_comment_text": "Children of Men."
+          },
+          {
+            "id": 4754768042357270394,
+            "title": "Harvey",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg",
+            "release_year": 1950,
+            "plot_summary": "The story of Elwood P. Dowd who makes friends with a spirit taking the form of a human-sized rabbit named Harvey that only he sees (and a few privileged others on occasion also.) After his sister tries to commit him to a mental institution, a comedy of errors ensues. Elwood and Harvey become the catalysts for a family mending its wounds and for romance blossoming in unexpected places.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 11787,
+            "imdb_id": "tt0042546",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.355314",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4vq16/",
+            "original_comment_text": "Harvey"
+          },
+          {
+            "id": 8625458330821608052,
+            "title": "As Good as It Gets",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xXxuJPNUDZ0vjsAXca0O5p3leVB.jpg",
+            "release_year": 1997,
+            "plot_summary": "A misanthropic author, a single mother and waitress, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2898,
+            "imdb_id": "tt0119822",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.401455",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4uprd/",
+            "original_comment_text": "As Good as it Gets (1997)\n\nA Man Called Otto (2022)\n\nThe Terminal (2004)"
+          },
+          {
+            "id": 6861372631923880965,
+            "title": "A Man Called Otto",
+            "poster_url": "https://image.tmdb.org/t/p/w500/130H1gap9lFfiTF9iDrqNIkFvC9.jpg",
+            "release_year": 2022,
+            "plot_summary": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 937278,
+            "imdb_id": "tt7405458",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.428921",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4uprd/",
+            "original_comment_text": "As Good as it Gets (1997)\n\nA Man Called Otto (2022)\n\nThe Terminal (2004)"
+          },
+          {
+            "id": 1816846836233719857,
+            "title": "Life Is Beautiful",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg",
+            "release_year": 1997,
+            "plot_summary": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 637,
+            "imdb_id": "tt0118799",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.470613",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4vicp/",
+            "original_comment_text": "It's a little bit of a downer, but Life is Beautiful"
+          },
+          {
+            "id": -3927692876081690664,
+            "title": "Babette's Feast",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3ibptSbnAHd0SUBnOKapNZQBpCl.jpg",
+            "release_year": 1987,
+            "plot_summary": "A French housekeeper with a mysterious past brings quiet revolution in the form of one exquisite meal to a circle of starkly pious villagers in late 19th century Denmark.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "History",
+              "Comedy"
+            ],
+            "tmdb_id": 11832,
+            "imdb_id": "tt0092603",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.495569",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4u8p3/",
+            "original_comment_text": "Babette's Feast (1987)"
+          },
+          {
+            "id": -4053039160371560547,
+            "title": "Harold and Maude",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+            "release_year": 1971,
+            "plot_summary": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 343,
+            "imdb_id": "tt0067185",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.521578",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4x374/",
+            "original_comment_text": "Harold and Maude "
+          },
+          {
+            "id": 634575727437653651,
+            "title": "The Terminal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cPB3ZMM4UdsSAhNdS4c7ps5nypY.jpg",
+            "release_year": 2004,
+            "plot_summary": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 594,
+            "imdb_id": "tt0362227",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.642568",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh4uprd/",
+            "original_comment_text": "As Good as it Gets (1997)\n\nA Man Called Otto (2022)\n\nThe Terminal (2004)"
+          },
+          {
+            "id": -4676837496880631824,
+            "title": "Pay It Forward",
+            "poster_url": "https://image.tmdb.org/t/p/w500/62OIokwaxFwBFWM147ijLJsaVJD.jpg",
+            "release_year": 2000,
+            "plot_summary": "Like some other kids, 12-year-old Trevor McKinney believed in the goodness of human nature. Like many other kids, he was determined to change the world for the better. Unlike most other kids, he succeeded.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 10647,
+            "imdb_id": "tt0223897",
+            "category_title": "Movies About The Good In Humanity",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:01.667831",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq30a1/movies_about_the_good_in_humanity/oh50f5t/",
+            "original_comment_text": "Pay it forward"
+          }
+        ]
+      },
+      {
+        "name": "Movies Like The Talented Mr. Ripley",
+        "movies": [
+          {
+            "id": 3927007724587692095,
+            "title": "Evil Under the Sun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rQNMZoVVURf9YyYiBTsrOTEKALH.jpg",
+            "release_year": 1982,
+            "plot_summary": "An opulent beach resort provides a scenic background to this amusing whodunit as Poirot attempts to uncover the nefarious evildoer behind the strangling of a notorious stage star.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 4193,
+            "imdb_id": "tt0083908",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.055611",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5u2v0/",
+            "original_comment_text": "Evil Under The Sun (1982)\n\n"
+          },
+          {
+            "id": 901817781456102270,
+            "title": "Ripley's Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eVhycD9GBWPwnttygKYDi9hllAy.jpg",
+            "release_year": 2002,
+            "plot_summary": "Tom Ripley - cool, urbane, wealthy, and murderous - lives in a villa in the Veneto with Luisa, his harpsichord-playing girlfriend. A former business associate from Berlin's underworld pays a call asking Ripley's help in killing a rival. Ripley - ever a student of human nature - initiates a game to turn a mild and innocent local picture framer into a hit man. The artisan, Jonathan Trevanny, who's dying of cancer, has a wife, young son, and little to leave them. If Ripley draws Jonathan into the game, can Ripley maintain control? Does it stop at one killing? What if Ripley develops a conscience?",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 10955,
+            "imdb_id": "tt0265651",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.120906",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5t5tu/",
+            "original_comment_text": "Patricia Highsmith adaptations, i can personally recommend:\n\n-\tThe Two Faces of January (2014)\n-\tRipley’s Game (2002) - yes, the same Tom Ripley character!\n\nThere’s others but i’ve only seen these and the one you listed\n\nSaltburn (2023) is kind of in a similar ballpark but the tone is way darker and leans almost into horror"
+          },
+          {
+            "id": 4506463951581707037,
+            "title": "The Last of Sheila",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oTwaBz4wByO8qcYqWaBuRLeCTC8.jpg",
+            "release_year": 1973,
+            "plot_summary": "A year after Sheila is killed in a hit-and-run, her multimillionaire husband invites a group of friends to spend a week on his yacht playing a scavenger hunt-style mystery game—but the game turns out to be all too real and all too deadly.",
+            "runtime": "2h",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 26331,
+            "imdb_id": "tt0070291",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.148668",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5th2t/",
+            "original_comment_text": "I’ll give three suggestions that all hit your criteria in different ways.\nThe Last of Sheila (1973)\nA Bigger Splash (2015)\nMatch Point (2005)"
+          },
+          {
+            "id": -6621365879686747201,
+            "title": "The Two Faces of January",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9Ts7aYrxMlT65tU0UZbmuPEBIc4.jpg",
+            "release_year": 2014,
+            "plot_summary": "1962. A con artist, his wife, and a dangerous stranger are caught up in the murder of a private detective and are forced to try and escape Athens.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Thriller"
+            ],
+            "tmdb_id": 192149,
+            "imdb_id": "tt1976000",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.197080",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5t5tu/",
+            "original_comment_text": "Patricia Highsmith adaptations, i can personally recommend:\n\n-\tThe Two Faces of January (2014)\n-\tRipley’s Game (2002) - yes, the same Tom Ripley character!\n\nThere’s others but i’ve only seen these and the one you listed\n\nSaltburn (2023) is kind of in a similar ballpark but the tone is way darker and leans almost into horror"
+          },
+          {
+            "id": -4730421158059023199,
+            "title": "The Talented Mr. Ripley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+            "release_year": 1999,
+            "plot_summary": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 1213,
+            "imdb_id": "tt0134119",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.221340",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh61ih5/",
+            "original_comment_text": "Ripley Netflix series even better than the movie "
+          },
+          {
+            "id": -1032766553684006610,
+            "title": "Swimming Pool",
+            "poster_url": "https://image.tmdb.org/t/p/w500/10xMAznUxI0LZPYyPxA9WjJsThr.jpg",
+            "release_year": 2003,
+            "plot_summary": "A British crime novelist travels to her publisher's upmarket summer house in Southern France to seek solitude in order to work on her next book. However, the unexpected arrival of the publisher's daughter induces complications and a subsequent crime.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 302,
+            "imdb_id": "tt0324133",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.253877",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5tigp/",
+            "original_comment_text": "Purple Noon — Italy\n\nThe Two Faces of January — Greece\n\nA Bigger Splash — Italy\n\nSwimming Pool — France"
+          },
+          {
+            "id": 2501531805220609348,
+            "title": "Saltburn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg",
+            "release_year": 2023,
+            "plot_summary": "Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Thriller"
+            ],
+            "tmdb_id": 930564,
+            "imdb_id": "tt17351924",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.326632",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5t5tu/",
+            "original_comment_text": "Patricia Highsmith adaptations, i can personally recommend:\n\n-\tThe Two Faces of January (2014)\n-\tRipley’s Game (2002) - yes, the same Tom Ripley character!\n\nThere’s others but i’ve only seen these and the one you listed\n\nSaltburn (2023) is kind of in a similar ballpark but the tone is way darker and leans almost into horror"
+          },
+          {
+            "id": 9169418946455198263,
+            "title": "A Bigger Splash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b9ca2L41R43Lg1hpSzJHwtDTvYU.jpg",
+            "release_year": 2015,
+            "plot_summary": "An American couple, Paul and Marianne, spend their vacation in Italy and experience trouble when Marianne invites a former lover and his teenage daughter to visit, which leads to jealousy and dangerous sexual scenarios.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Romance"
+            ],
+            "tmdb_id": 324807,
+            "imdb_id": "tt2056771",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.361657",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5th2t/",
+            "original_comment_text": "I’ll give three suggestions that all hit your criteria in different ways.\nThe Last of Sheila (1973)\nA Bigger Splash (2015)\nMatch Point (2005)"
+          },
+          {
+            "id": 1981601930576057191,
+            "title": "Purple Noon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg",
+            "release_year": 1960,
+            "plot_summary": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 10363,
+            "imdb_id": "tt0054189",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.397133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5tigp/",
+            "original_comment_text": "Purple Noon — Italy\n\nThe Two Faces of January — Greece\n\nA Bigger Splash — Italy\n\nSwimming Pool — France"
+          },
+          {
+            "id": 2769093461400695909,
+            "title": "Match Point",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vHjEVTD8ucuwKSFOZJeyAnTZYli.jpg",
+            "release_year": 2005,
+            "plot_summary": "Chris, a former tennis pro, takes a job as an instructor and befriends his wealthy young student, Tom. After being introduced to his family, Chris is soon engaged to Tom's sister, Chloe. Despite the professional and financial advantages that this relationship affords him, Chris becomes obsessed with Tom's fiancee, American actress Nola.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Thriller"
+            ],
+            "tmdb_id": 116,
+            "imdb_id": "tt0416320",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.469466",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5th2t/",
+            "original_comment_text": "I’ll give three suggestions that all hit your criteria in different ways.\nThe Last of Sheila (1973)\nA Bigger Splash (2015)\nMatch Point (2005)"
+          },
+          {
+            "id": -7416955408221410634,
+            "title": "All the Money in the World",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q6nE9Hf0ezszjI4DbCxwzQ73MMy.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of the kidnapping of 16-year-old John Paul Getty III and the desperate attempt by his devoted mother to convince his billionaire grandfather Jean Paul Getty to pay the ransom.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Crime",
+              "History",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 446791,
+            "imdb_id": "tt5294550",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.548130",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5un98/",
+            "original_comment_text": "All the Money in the World (2017)"
+          },
+          {
+            "id": 5442332721513983004,
+            "title": "Notes on a Scandal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ieX6ZO2Kf2qjoIBXbQW5awivbhY.jpg",
+            "release_year": 2006,
+            "plot_summary": "A veteran high school teacher befriends a younger art teacher, who is having an affair with one of her 15-year-old students. However, her intentions with this new \"friend\" also go well beyond platonic friendship.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1259,
+            "imdb_id": "tt0465551",
+            "category_title": "Movies Like The Talented Mr. Ripley",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:25.617111",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sq7d35/looking_for_movies_like_the_talented_mr_ripley/oh5v0nz/",
+            "original_comment_text": "Notes on a Scandal >!(European setting, rich family, stalking and manipulation)!<"
+          }
+        ]
+      },
+      {
+        "name": "Movies With Mid-Movie Twists, Not Just Endings",
+        "movies": [
+          {
+            "id": 2814184148189080235,
+            "title": "The Crying Game",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ynEfiiwS0dosbPjzGqBLo7FXMlD.jpg",
+            "release_year": 1992,
+            "plot_summary": "Irish Republican Army member Fergus forms an unexpected bond with Jody, a kidnapped British soldier in his custody, despite the warnings of fellow IRA members Jude and Maguire. Jody makes Fergus promise he'll visit his girlfriend, Dil, in London, and when Fergus flees to the city, he seeks her out. Hounded by his former IRA colleagues, he finds himself increasingly drawn to the enigmatic, and surprising, Dil.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 11386,
+            "imdb_id": "tt0104036",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.635373",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh46qe5/",
+            "original_comment_text": "The Crying Game"
+          },
+          {
+            "id": 5887846199780800835,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.682005",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh478zn/",
+            "original_comment_text": "Vertigo\n\nThe Matrix's big twist was more like 20-30 minutes in."
+          },
+          {
+            "id": -3958189761333342637,
+            "title": "The Handmaiden",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+            "release_year": 2016,
+            "plot_summary": "1930s Korea, in the period of Japanese occupation, a new girl, Sookee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 290098,
+            "imdb_id": "tt4016934",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.752459",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh49vdr/",
+            "original_comment_text": "The Handmaiden"
+          },
+          {
+            "id": -8177501124241397479,
+            "title": "The Place Beyond the Pines",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vY5j2xQzMGWmxBuhQo0HfA4Lxqb.jpg",
+            "release_year": 2013,
+            "plot_summary": "A motorcycle stunt rider considers committing a crime in order to provide for his wife and child, an act that puts him on a collision course with a cop-turned-politician.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 97367,
+            "imdb_id": "tt1817273",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.789398",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh46e0f/",
+            "original_comment_text": "*The Place Beyond the Pines*\n\nIt becomes a completely different film at the halfway point. \n"
+          },
+          {
+            "id": 333984334737078823,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.827354",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh45tpu/",
+            "original_comment_text": "Sorry to Bother You. That movie took a crazy turn\n \nA show not a movie, Sugar on Apple TV\n"
+          },
+          {
+            "id": -4199572112828301765,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious vampire clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.902279",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh47sy5/",
+            "original_comment_text": "From Dusk Till Dawn "
+          },
+          {
+            "id": 4392669176187210135,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.921704",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh46pvp/",
+            "original_comment_text": "Gone Girl"
+          },
+          {
+            "id": -3661571753599980922,
+            "title": "Jojo Rabbit",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7GsM4mtM0worCtIVeiQt28HieeN.jpg",
+            "release_year": 2019,
+            "plot_summary": "Jojo, a lonely German boy during World War II has his world shaken when he learns that his single mother is hiding a Jewish girl in their home. Influenced by a buffoonish imaginary version of Adolf Hitler, he begins to question his beliefs and confront the conflict between propaganda and his own humanity.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Comedy",
+              "War",
+              "Drama"
+            ],
+            "tmdb_id": 515001,
+            "imdb_id": "tt2584384",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:50.971373",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh45gim/",
+            "original_comment_text": "Jojo Rabbit "
+          },
+          {
+            "id": 6226220568184626870,
+            "title": "Knives Out",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+            "release_year": 2019,
+            "plot_summary": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 546554,
+            "imdb_id": "tt8946378",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:51.038841",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh496qe/",
+            "original_comment_text": "All the Knives Out movies. "
+          },
+          {
+            "id": -508566526709911840,
+            "title": "Vertigo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg",
+            "release_year": 1958,
+            "plot_summary": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Mystery",
+              "Romance",
+              "Thriller"
+            ],
+            "tmdb_id": 426,
+            "imdb_id": "tt0052357",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:51.107008",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh478zn/",
+            "original_comment_text": "Vertigo\n\nThe Matrix's big twist was more like 20-30 minutes in."
+          },
+          {
+            "id": -1085754044220671939,
+            "title": "Crazy, Stupid, Love.",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+            "release_year": 2011,
+            "plot_summary": "Cal Weaver is living the American dream. He has a good job, a beautiful house, great children and a beautiful wife, named Emily. Cal's seemingly perfect life unravels, however, when he learns that Emily has been unfaithful and wants a divorce. Over 40 and suddenly single, Cal is adrift in the fickle world of dating. Enter, Jacob Palmer, a self-styled player who takes Cal under his wing and teaches him how to be a hit with the ladies.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 50646,
+            "imdb_id": "tt1570728",
+            "category_title": "Movies With Mid-Movie Twists, Not Just Endings",
+            "time_period": "daily",
+            "date_scraped": "2026-04-20T06:14:51.185369",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1spzu8q/movies_with_big_twists_in_the_middle_of_them_not/oh465qt/",
+            "original_comment_text": "Crazy Stupid Love\n\nA Place Beyond the Pines"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 58,
+    "totalCategories": 5,
+    "lastUpdated": "2026-04-20T06:13:17.404603"
+  }
+}

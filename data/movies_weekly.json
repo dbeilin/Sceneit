@@ -1,0 +1,1366 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Life-Changing Movies Of Any Length",
+        "movies": [
+          {
+            "id": -2027735191001922072,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.639756",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmejw1/",
+            "original_comment_text": "Arrival. "
+          },
+          {
+            "id": -3327065118931075802,
+            "title": "Good Will Hunting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_year": 1997,
+            "plot_summary": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 489,
+            "imdb_id": "tt0119217",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.702277",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmfk8k/",
+            "original_comment_text": "Good Will Hunting (1997)"
+          },
+          {
+            "id": -2267840773795321809,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.706437",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmf2qd/",
+            "original_comment_text": "Eternal Sunshine of the Spotless Mind "
+          },
+          {
+            "id": 8863440791838469922,
+            "title": "Harold and Maude",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+            "release_year": 1971,
+            "plot_summary": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 343,
+            "imdb_id": "tt0067185",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.743254",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmhu92/",
+            "original_comment_text": "Harold and Maude"
+          },
+          {
+            "id": 283316758981534254,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father tells his son that the men in his family have always had the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.771028",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmel6g/",
+            "original_comment_text": "About Time. "
+          },
+          {
+            "id": 7185955455807580854,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.775648",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmnx9h/",
+            "original_comment_text": "Dead Poets Society "
+          },
+          {
+            "id": 5169444215942650294,
+            "title": "Sling Blade",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivBIBd1LNaozcmytZUyE1yIXZms.jpg",
+            "release_year": 1996,
+            "plot_summary": "Karl Childers, a mentally disabled man, has been in the custody of the state mental hospital since the age of 12 for killing his mother and her lover. Although thoroughly institutionalized, he is deemed fit to be released into the outside world.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 12498,
+            "imdb_id": "tt0117666",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.842930",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmjr8b/",
+            "original_comment_text": "Sling Blade "
+          },
+          {
+            "id": 8419846592351070711,
+            "title": "City of God",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k7eYdWvhYQyRQoU2TB2A2Xu2TfD.jpg",
+            "release_year": 2002,
+            "plot_summary": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence of his neighborhood, while José “Zé” Pequeno is an ambitious drug dealer diving into a dangerous life of crime.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 598,
+            "imdb_id": "tt0317248",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.920939",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmeq7i/",
+            "original_comment_text": "City of god"
+          },
+          {
+            "id": -2963138752327510662,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 823219,
+            "imdb_id": "tt4772188",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:43.986135",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogn0240/",
+            "original_comment_text": "Flow - the animated cat movie. \n\nIt's about an independent cat getting caught up in a flood and surviving with a group of other animals. No dialogue, so it has a meditative quality, along with the stunning animation. \n\nIt may sound like a juvenile story, but words can't really describe it. There's something about it that resonates on a deep level and you'll feel like a different person after watching it. "
+          },
+          {
+            "id": 8399657392215576338,
+            "title": "Koyaanisqatsi",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6zCNciRcob8lwuydVXgq0esla8L.jpg",
+            "release_year": 1983,
+            "plot_summary": "Takes us to locations all around the US and shows us the heavy toll that modern technology is having on humans and the earth. The visual tone poem contains neither dialogue nor a vocalized narration: its tone is set by the juxtaposition of images and the exceptional music by Philip Glass.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary",
+              "Music"
+            ],
+            "tmdb_id": 11314,
+            "imdb_id": "tt0085809",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:44.059090",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmfqam/",
+            "original_comment_text": "Koyaanisqatsi "
+          },
+          {
+            "id": 7934671073238898167,
+            "title": "American Beauty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "release_year": 1999,
+            "plot_summary": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 14,
+            "imdb_id": "tt0169547",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:44.067223",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmgx1l/",
+            "original_comment_text": "American Beauty was life-changing to me as a depressed teen in a conservative environment and with a dad who lived in the same house yet never talked to me. (unless he needed something done) American Beauty showed me a flawed father’s perspective on life and it made it easier to understand the mind of a man and my dad better. I also related to Lester’s mindset despite hating him, which made me realise that teenaged girls and adult men are really not that different.\n\nGreat movie."
+          },
+          {
+            "id": 7960673784722295527,
+            "title": "Cinema Paradiso",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg",
+            "release_year": 1988,
+            "plot_summary": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 11216,
+            "imdb_id": "tt0095765",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:44.130302",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmgafc/",
+            "original_comment_text": "Cinema Paradiso \n\nOnce Upon a Time in America\n\nSpirited Away\n\nBoogie Nights "
+          },
+          {
+            "id": -2539109884070106114,
+            "title": "The Shawshank Redemption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_year": 1994,
+            "plot_summary": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 278,
+            "imdb_id": "tt0111161",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:44.136212",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmg9ew/",
+            "original_comment_text": "Shawshank redemption "
+          },
+          {
+            "id": 6953928639835128606,
+            "title": "Apocalypto",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+            "release_year": 2006,
+            "plot_summary": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Action",
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 1579,
+            "imdb_id": "tt0472043",
+            "category_title": "Life-Changing Movies Of Any Length",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:15:44.216114",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snktzi/suggest_me_a_lifechanging_movie_no_matter_how/ogmindr/",
+            "original_comment_text": "Apocalypto "
+          }
+        ]
+      },
+      {
+        "name": "Movies Starring Plus-Size Women",
+        "movies": [
+          {
+            "id": -8156632108768351695,
+            "title": "Misery",
+            "poster_url": "https://image.tmdb.org/t/p/w500/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+            "release_year": 1990,
+            "plot_summary": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 1700,
+            "imdb_id": "tt0100157",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.441533",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9x4fv/",
+            "original_comment_text": "Bagdad Cafe (1987) with Marianne Sägebrecht\n\nMisery (1990) with Kathy Bates\n\nFried Green Tomatoes (1991) with Kathy Bates "
+          },
+          {
+            "id": 3744603172129095167,
+            "title": "Hairspray",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+            "release_year": 1988,
+            "plot_summary": "'Pleasantly plump' teenager Tracy Turnblad achieves her dream of becoming a regular on the Corny Collins Dance Show. Now a teen hero, she starts using her fame to speak out for the causes she believes in, most of all integration. In doing so, she earns the wrath of the show's former star, Amber Von Tussle, as well as Amber's manipulative, pro-segregation parents. The rivalry comes to a head as Amber and Tracy vie for the title of Miss Auto Show 1963.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 11054,
+            "imdb_id": "tt0095270",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.610624",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9uze0/",
+            "original_comment_text": "Hairspray. Hallmark has also been making movies with larger female actors playing the leads\n\n"
+          },
+          {
+            "id": -1031332416133342935,
+            "title": "Fried Green Tomatoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+            "release_year": 1991,
+            "plot_summary": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1633,
+            "imdb_id": "tt0101921",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.645841",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9x4fv/",
+            "original_comment_text": "Bagdad Cafe (1987) with Marianne Sägebrecht\n\nMisery (1990) with Kathy Bates\n\nFried Green Tomatoes (1991) with Kathy Bates "
+          },
+          {
+            "id": 5126778004140800539,
+            "title": "Beauty Shop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3y5I9WKlfeNnSQbOvS4l3mVPqri.jpg",
+            "release_year": 2005,
+            "plot_summary": "Far from Chicago, hairdresser Gina Norris has relocated to Atlanta with her daughter and has quickly established herself as a rare talent in her profession. But after repeatedly butting heads with her shady, over-the-top boss, Jorge, Norris sets out to create her own salon -- even snagging a few of Jorge's employees and clients. Now, Jorge will do anything to shut her down.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 14177,
+            "imdb_id": "tt0388500",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.714043",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9w3s1/",
+            "original_comment_text": "Anything with Queen Latifah.\n\nLast Holiday (2006)\n\nBeauty Shop (2005)\n\nLiving Out Loud (1996)"
+          },
+          {
+            "id": 9102601390161138736,
+            "title": "Can You Ever Forgive Me?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/y9pDvBdvU8Z5QjQ6Y4oF0Cq7p5j.jpg",
+            "release_year": 2018,
+            "plot_summary": "When a bestselling celebrity biographer is no longer able to get published because she has fallen out of step with current tastes, she turns her art form to deception.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Comedy"
+            ],
+            "tmdb_id": 401847,
+            "imdb_id": "tt4595882",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.753999",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9vz5b/",
+            "original_comment_text": "Spy and Can You Ever Forgive Me are good movies starring a fat woman that aren't about being fat"
+          },
+          {
+            "id": 8698027720532023896,
+            "title": "Bagdad Cafe",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zeEa3jVkLE8C0KjOiiKqMbhHgaL.jpg",
+            "release_year": 1987,
+            "plot_summary": "A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 3543,
+            "imdb_id": "tt0095801",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.806222",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9x4fv/",
+            "original_comment_text": "Bagdad Cafe (1987) with Marianne Sägebrecht\n\nMisery (1990) with Kathy Bates\n\nFried Green Tomatoes (1991) with Kathy Bates "
+          },
+          {
+            "id": 5231331418699510325,
+            "title": "Dumplin'",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xJAB1HrFUuOf2VkWPaZ4N2DACCo.jpg",
+            "release_year": 2018,
+            "plot_summary": "To prove a point about measuring up and fitting in, Texas teen Willowdean “Dumplin’” Dickson enters a local pageant run by her ex-beauty queen mom.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 472734,
+            "imdb_id": "tt4878482",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.872719",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9wzpv/",
+            "original_comment_text": "Dumplin' -2018"
+          },
+          {
+            "id": 5756782334042267564,
+            "title": "Precious",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5sgEouJ0kmjrqFNEV9igJzZLles.jpg",
+            "release_year": 2024,
+            "plot_summary": "Mark Young is a mentally distraught HVAC technician, restricted by the demons of his past. After suffering through a divorce, the likes of which he still doesn't understand, Mark yearns for some semblance of balance and direction, yet lacks any true purpose. After accepting a repair job in an upscale suburban neighborhood, Mark is immediately greeted by the homeowner Bree, a seemingly fearless and financially successful woman, oozing with sarcasm and a surface-level perspective. Mark begins his work like any ordinary day until he hears a voice, one that is ringing and familiar. Following the voice, Mark encounters his ex-wife, Vanessa, now in a romantic relationship with Bree. Finally forced to confront his past, will Mark be able to move on, or will seeing the woman he once loved only push him further into repression?",
+            "runtime": "22m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 1213697,
+            "imdb_id": "tt29568487",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.932960",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9vrg7/",
+            "original_comment_text": "Precious (2009) is great & heartbreaking. I don’t want to simplify the main character as a fat girl as she’s so much more than that caricature, but it’s my favorite movie with such a character. Based on the novel “Push” by Sapphire"
+          },
+          {
+            "id": -869871580853445784,
+            "title": "Last Holiday",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hRNZszPHjIpYGlrMN3o4f6f6cVd.jpg",
+            "release_year": 2006,
+            "plot_summary": "The discovery that she has a terminal illness prompts introverted department store saleswoman Georgia Byrd to reflect on what she realizes has been an overly cautious life. With weeks to live, she withdraws her life savings, sells all her possessions and jets off to Europe where she lives it up at a posh hotel. Upbeat and passionate, Georgia charms everybody she meets, including renowned Chef Didier. The only one missing from her new life is her longtime crush Sean Matthews.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 17379,
+            "imdb_id": "tt0408985",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:15.948157",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9v6dv/",
+            "original_comment_text": "Last Holiday"
+          },
+          {
+            "id": -1174671174249524478,
+            "title": "Muriel's Wedding",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+            "release_year": 1994,
+            "plot_summary": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 236,
+            "imdb_id": "tt0110598",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:16.023515",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9v9hu/",
+            "original_comment_text": "Muriel's Wedding, Toni Collette's plus size debut. Fantastic Australian comedy"
+          },
+          {
+            "id": -6308115098030048653,
+            "title": "Living Out Loud",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uegG68vP7leUDQbG8fP4ihgTo0i.jpg",
+            "release_year": 1998,
+            "plot_summary": "Judith Moore is suddenly single after discovering her husband of fifteen years, a successful doctor, has been having an affair with a younger woman. Judith stews, plans, plots and fantasizes, but she can't decide what to do with her life until she goes out to a night club to see singer Liz Bailey, who is full of advice on life and love. While out on the town, Judith is suddenly kissed by a total stranger, which opens her eyes to new possibilities... which is when she notices Pat, the elevator operator in her building.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 46889,
+            "imdb_id": "tt0120722",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:16.042739",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9w3s1/",
+            "original_comment_text": "Anything with Queen Latifah.\n\nLast Holiday (2006)\n\nBeauty Shop (2005)\n\nLiving Out Loud (1996)"
+          },
+          {
+            "id": -3780507070268545393,
+            "title": "Little Miss Sunshine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+            "release_year": 2006,
+            "plot_summary": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 773,
+            "imdb_id": "tt0449059",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:16.091356",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9z8p4/",
+            "original_comment_text": "Different kind of girl, but little miss sunshine is a great movie!"
+          },
+          {
+            "id": -6625862358044752077,
+            "title": "Spy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg",
+            "release_year": 2015,
+            "plot_summary": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+            "runtime": "2h",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 238713,
+            "imdb_id": "tt3079380",
+            "category_title": "Movies Starring Plus-Size Women",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:16.113963",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slwjzi/movies_starring_fat_girls/og9vz5b/",
+            "original_comment_text": "Spy and Can You Ever Forgive Me are good movies starring a fat woman that aren't about being fat"
+          }
+        ]
+      },
+      {
+        "name": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+        "movies": [
+          {
+            "id": 4444388178925101167,
+            "title": "Run Lola Run",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v0giIi4bTILVhNhJajet3WWY3FA.jpg",
+            "release_year": 1998,
+            "plot_summary": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 104,
+            "imdb_id": "tt0130827",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.634247",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fsic/",
+            "original_comment_text": "run lola run!"
+          },
+          {
+            "id": -4517570131423648950,
+            "title": "Crank",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
+            "release_year": 2006,
+            "plot_summary": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1948,
+            "imdb_id": "tt0479884",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.645693",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2h3t9/",
+            "original_comment_text": "Does Crank fit the bill?"
+          },
+          {
+            "id": -3467458162757808637,
+            "title": "Strange Darling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "release_year": 2024,
+            "plot_summary": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1029281,
+            "imdb_id": "tt22375054",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.648648",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fqr6/",
+            "original_comment_text": "Strange darling "
+          },
+          {
+            "id": -5769725045862201858,
+            "title": "Red Eye",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j33szyBdJjrmnItyUgPBsqaBECE.jpg",
+            "release_year": 2005,
+            "plot_summary": "An overnight flight to Miami quickly becomes a battle for survival when Lisa realizes her seatmate plans to use her as part of a chilling assassination plot against the Deputy Secretary of Homeland Security. If she refuses to cooperate, her own father will be killed. As the miles tick by, she's in a race against time to find a way to warn the potential victims before it's too late.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 11460,
+            "imdb_id": "tt0421239",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.648809",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2dy08/",
+            "original_comment_text": "Red Eye (2005)"
+          },
+          {
+            "id": 7989050488297133049,
+            "title": "Nightcrawler",
+            "poster_url": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+            "release_year": 2014,
+            "plot_summary": "When Lou Bloom, desperate for work, muscles into the world of L.A. crime journalism, he blurs the line between observer and participant to become the star of his own story. Aiding him in his effort is Nina, a TV-news veteran.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 242582,
+            "imdb_id": "tt2872718",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.650192",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2d87s/",
+            "original_comment_text": "Nightcrawler"
+          },
+          {
+            "id": 2387294602759850056,
+            "title": "The Menu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fPtUgMcLIboqlTlPrq0bQpKK8eq.jpg",
+            "release_year": 2022,
+            "plot_summary": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 593643,
+            "imdb_id": "tt9764362",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.651799",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2etzs/",
+            "original_comment_text": "The Menu"
+          },
+          {
+            "id": 7867106850731627670,
+            "title": "Green Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+            "release_year": 2016,
+            "plot_summary": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 313922,
+            "imdb_id": "tt4062536",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.652058",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2fun8/",
+            "original_comment_text": "Green Room. Anxiety and tension starts five minutes in and doesn't stop until 90 minutes later. Highly recommend!"
+          },
+          {
+            "id": -5066289259051688987,
+            "title": "Breakdown",
+            "poster_url": "https://image.tmdb.org/t/p/w500/m3VB59ppr1RlpxNUYRUfZTgjgU.jpg",
+            "release_year": 1997,
+            "plot_summary": "On their cross-country drive, a married couple, Jeff and Amy Taylor, experience car trouble after their SUV breaks down. Stranded in the New Mexico desert, the two catch a break when a passing truck driver offers Amy a ride to a nearby café to call for help. Meanwhile, Jeff is able to fix the car and make his way to the café, but Amy isn't there. He tracks down the trucker ― who tells the police he's never seen Jeff or his wife before. Jeff then begins a desperate, frenzied search for Amy.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller",
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 2163,
+            "imdb_id": "tt0118771",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.654280",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2efn1/",
+            "original_comment_text": "Breakdown "
+          },
+          {
+            "id": 7432346053403188385,
+            "title": "The Descent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "release_year": 2005,
+            "plot_summary": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Horror"
+            ],
+            "tmdb_id": 9392,
+            "imdb_id": "tt0435625",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.660319",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2gtyp/",
+            "original_comment_text": "The Descent"
+          },
+          {
+            "id": 8170451644776706362,
+            "title": "Phone Booth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/r6lIwPKVDa6Q76qH2TbIBqPhXL3.jpg",
+            "release_year": 2003,
+            "plot_summary": "A slick New York publicist who picks up a ringing receiver in a phone booth is told that if he hangs up, he'll be killed... and the little red light from a laser rifle sight is proof that the caller isn't kidding.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1817,
+            "imdb_id": "tt0183649",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.660805",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2e8b4/",
+            "original_comment_text": "Phone Booth 2002"
+          },
+          {
+            "id": -8534254240106368686,
+            "title": "Carry-On",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sjMN7DRi4sGiledsmllEw5HJjPy.jpg",
+            "release_year": 2024,
+            "plot_summary": "An airport security officer races to outsmart a mysterious traveler forcing him to let a dangerous item slip onto a Christmas Eve flight.",
+            "runtime": "2h",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Action"
+            ],
+            "tmdb_id": 1005331,
+            "imdb_id": "tt21382296",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.699311",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2f0ic/",
+            "original_comment_text": "I honestly really enjoyed Carry-on"
+          },
+          {
+            "id": -2667880426344289576,
+            "title": "Eden Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tOg6ElTe1mJwaCFN0172U4oso22.jpg",
+            "release_year": 2008,
+            "plot_summary": "When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 13510,
+            "imdb_id": "tt1020530",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.874987",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2givd/",
+            "original_comment_text": "Eden lake"
+          },
+          {
+            "id": -2146092428685967790,
+            "title": "Speed",
+            "poster_url": "https://image.tmdb.org/t/p/w500/82PkCE4R95KhHICUDF7G4Ly2z3l.jpg",
+            "release_year": 1994,
+            "plot_summary": "Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 1637,
+            "imdb_id": "tt0111257",
+            "category_title": "90-Minute Edge-Of-Your-Seat Thriller Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:16:50.944793",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sprqh5/90_minutes_edge_of_the_seat_thriller_movies/oh2e86r/",
+            "original_comment_text": "Speed"
+          }
+        ]
+      },
+      {
+        "name": "Mind-Bending Movies To Watch",
+        "movies": [
+          {
+            "id": 1465378350189250683,
+            "title": "Coherence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+            "release_year": 2014,
+            "plot_summary": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 220289,
+            "imdb_id": "tt2866360",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.507963",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoedzu/",
+            "original_comment_text": "Coherence (2013)"
+          },
+          {
+            "id": -575047654599855359,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.575513",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": 4390299302073218470,
+            "title": "Triangle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+            "release_year": 2009,
+            "plot_summary": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 26466,
+            "imdb_id": "tt1187064",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.613044",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": -4057263485086363109,
+            "title": "Archive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hmz9ySdCqW9FiHpM9JdSCkjQzFA.jpg",
+            "release_year": 2020,
+            "plot_summary": "2038: George Almore is working on a true human-equivalent AI, and his latest prototype is almost ready. This sensitive phase is also the riskiest as he has a goal that must be hidden at all costs—being reunited with his dead wife.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Fantasy",
+              "Thriller"
+            ],
+            "tmdb_id": 606234,
+            "imdb_id": "tt6882604",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.649487",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": -3649131478239654590,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.691531",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": 8460663676512699518,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.750153",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogofvky/",
+            "original_comment_text": "Memento (2000)"
+          },
+          {
+            "id": -2919939235411360786,
+            "title": "Source Code",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nTr0lvAzeQmUjgSgDEHTJpnrxTz.jpg",
+            "release_year": 2011,
+            "plot_summary": "When decorated soldier Captain Colter Stevens wakes up in the body of an unknown man, he discovers he's part of a mission to find the bomber of a Chicago commuter train.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 45612,
+            "imdb_id": "tt0945513",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.752036",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": -5210912601597284421,
+            "title": "Enemy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vf40tyDRKZsBmaLsYeopzfFLzLx.jpg",
+            "release_year": 2014,
+            "plot_summary": "A mild-mannered college professor discovers a look-alike actor and delves into the other man's private affairs.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 181886,
+            "imdb_id": "tt2316411",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.820584",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": 299506760206795158,
+            "title": "The Thirteenth Floor",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+            "release_year": 1999,
+            "plot_summary": "In Los Angeles, a wealthy man, known as Mr. Fuller, discovers a shocking secret about the world he lives in. Fearing for his life, he leaves a desperate message for a friend of his in the most unexpected place.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 1090,
+            "imdb_id": "tt0139809",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.899503",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": 358410514733394759,
+            "title": "Donnie Darko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg",
+            "release_year": 2001,
+            "plot_summary": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 141,
+            "imdb_id": "tt0246578",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.925436",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoiwme/",
+            "original_comment_text": "Donnie Darko\n\nRequiem for a Dream\n\nOldboy (Original)"
+          },
+          {
+            "id": -6313714853306027264,
+            "title": "Deja Vu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/anhkLaFfPAg9rwnFLNTCIl5nyPe.jpg",
+            "release_year": 1999,
+            "plot_summary": "Psychological drama revolving around a couple caught in a living nightmare after the death of their young son in a car crash.",
+            "runtime": "49m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Thriller",
+              "TV Movie",
+              "Drama"
+            ],
+            "tmdb_id": 438185,
+            "imdb_id": "tt0285009",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:30.962247",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoek4p/",
+            "original_comment_text": "Im diving into something similar right now and here are the ones ive watched so far\n\n* Triangle\n* Predestination\n* Archive\n* Source Code\n* Enemy\n* Thirteenth Floor\n* Primer\n* Deja Vu\n\n"
+          },
+          {
+            "id": -7208290464407588072,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:31.035210",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoiwme/",
+            "original_comment_text": "Donnie Darko\n\nRequiem for a Dream\n\nOldboy (Original)"
+          },
+          {
+            "id": -1759343384725345436,
+            "title": "The Village",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg",
+            "release_year": 2004,
+            "plot_summary": "When a willful young man tries to venture beyond his sequestered Pennsylvania hamlet, his actions set off a chain of chilling incidents that will alter the community forever.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 6947,
+            "imdb_id": "tt0368447",
+            "category_title": "Mind-Bending Movies To Watch",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:17:31.036517",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1snv3zf/any_mindfuck_movies_to_watch/ogoej6w/",
+            "original_comment_text": "The Village"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+        "movies": [
+          {
+            "id": -6426239649584101188,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/86BdPC6RDX88NC880pLidKn2LCj.jpg",
+            "release_year": 2005,
+            "plot_summary": "In post-Sept. 11 Los Angeles, tensions erupt when the lives of a Brentwood housewife, her district attorney husband, a Persian shopkeeper, two cops, a pair of carjackers and a Korean couple converge during a 36-hour period.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1640,
+            "imdb_id": "tt0375679",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.510064",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8ggfz/",
+            "original_comment_text": "Cronenberg’s Crash. "
+          },
+          {
+            "id": 4670170615872232804,
+            "title": "A Scanner Darkly",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+            "release_year": 2006,
+            "plot_summary": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 3509,
+            "imdb_id": "tt0405296",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.583359",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": 1373248245758052312,
+            "title": "Something in the Dirt",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l0kUj5y1t6LDN9ssfYe7c1NVym1.jpg",
+            "release_year": 2022,
+            "plot_summary": "When neighbors John and Levi witness supernatural events in their LA apartment building, they realize documenting the paranormal could inject some fame and fortune into their wasted lives.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 843621,
+            "imdb_id": "tt14895716",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.624340",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": -4070501568472106152,
+            "title": "Blue Velvet",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+            "release_year": 1986,
+            "plot_summary": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "runtime": "2h",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 793,
+            "imdb_id": "tt0090756",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.652338",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8ihx1/",
+            "original_comment_text": "Blue Velvet (1986)"
+          },
+          {
+            "id": 3795634222943133272,
+            "title": "Baby Driver",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tYzFuYXmT8LOYASlFCkaPiAFAl0.jpg",
+            "release_year": 2017,
+            "plot_summary": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 339403,
+            "imdb_id": "tt3890160",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.700268",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": -4600587743059744444,
+            "title": "Under the Silver Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/771Ey73LqsE9ORJhQCI25rgMXS2.jpg",
+            "release_year": 2018,
+            "plot_summary": "Young and disenchanted Sam meets a mysterious and beautiful woman who's swimming in his building's pool one night. When she suddenly vanishes the next morning, Sam embarks on a surreal quest across Los Angeles to decode the secret behind her disappearance, leading him into the murkiest depths of mystery, scandal and conspiracy.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 396461,
+            "imdb_id": "tt5691670",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.719381",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8i22g/",
+            "original_comment_text": "Under the Silver Lake"
+          },
+          {
+            "id": -7610239842350403085,
+            "title": "After Hours",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+            "release_year": 1985,
+            "plot_summary": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 10843,
+            "imdb_id": "tt0088680",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.833185",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hu1h/",
+            "original_comment_text": "After Hours "
+          },
+          {
+            "id": -548814869355185093,
+            "title": "Fear and Loathing in Las Vegas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
+            "release_year": 1998,
+            "plot_summary": "Raoul Duke and his attorney Dr. Gonzo drive a red convertible across the Mojave desert to Las Vegas with a suitcase full of drugs to cover a motorcycle race. As their consumption of drugs increases at an alarming rate, the stoned duo trash their hotel room and fear legal repercussions. Duke begins to drive back to L.A., but after an odd run-in with a cop, he returns to Sin City and continues his wild drug binge.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1878,
+            "imdb_id": "tt0120669",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.833696",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": 4826520888725562807,
+            "title": "The Truman Show",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+            "release_year": 1998,
+            "plot_summary": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a reality TV show.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 37165,
+            "imdb_id": "tt0120382",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.863508",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": 694298231177530355,
+            "title": "The Dangerous Lives of Altar Boys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4uTWXZ2Rvizl3ycMHtODfRjks4W.jpg",
+            "release_year": 2002,
+            "plot_summary": "A group of Catholic school friends, after being caught drawing an obscene comic book, plan a heist that will outdo their previous prank and make them local legends.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 16857,
+            "imdb_id": "tt0238924",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.909144",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8g1pv/",
+            "original_comment_text": "Dangerous Lives of Altar Boys\n\nWelcome to the Dollhouse\n\nUnited States of Leland \n\nIgby Goes Down \n\n(this was like my fav genre as a misanthropic teen)"
+          },
+          {
+            "id": 5290215232958288368,
+            "title": "Being John Malkovich",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+            "release_year": 1999,
+            "plot_summary": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 492,
+            "imdb_id": "tt0120601",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:00.933902",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8hflx/",
+            "original_comment_text": "- Something In The Dirt\n- Coherence\n- A Scanner Darkly\n- Baby Driver\n- Being John Malkovich\n- Fear and Loathing in Las Vegas\n- The Truman Show\n- Little Miss Sunshine\n- Castle Rock, if you feel like a tv show"
+          },
+          {
+            "id": 2799279944332958697,
+            "title": "Welcome to the Dollhouse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fsMMOVto87pvUQyozOF9CaT9aMR.jpg",
+            "release_year": 1996,
+            "plot_summary": "An unattractive 7th grader struggles to cope with suburban life as the middle child with inattentive parents and bullies at school.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11446,
+            "imdb_id": "tt0114906",
+            "category_title": "Movies That Feel Like Mulholland Drive, Donnie Darko, And Twin Peaks",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-20T06:18:01.007931",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1slpxpk/need_movies_that_feel_like_mulholland_drive/og8g1pv/",
+            "original_comment_text": "Dangerous Lives of Altar Boys\n\nWelcome to the Dollhouse\n\nUnited States of Leland \n\nIgby Goes Down \n\n(this was like my fav genre as a misanthropic teen)"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 65,
+    "totalCategories": 5,
+    "lastUpdated": "2026-04-20T06:15:43.639756"
+  }
+}

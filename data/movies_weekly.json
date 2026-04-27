@@ -1,0 +1,1448 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+        "movies": [
+          {
+            "id": 1176714467670602507,
+            "title": "The Incredibles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "release_year": 2004,
+            "plot_summary": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 9806,
+            "imdb_id": "tt0317705",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.268851",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjg4nz/",
+            "original_comment_text": "The Incredibles\n\nSorry to Bother You\n\nWorking Girl"
+          },
+          {
+            "id": -384273745126984620,
+            "title": "Office Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+            "release_year": 1999,
+            "plot_summary": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 1542,
+            "imdb_id": "tt0151804",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.307385",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjdyz6/",
+            "original_comment_text": "Office Space"
+          },
+          {
+            "id": -8280859338066204882,
+            "title": "After Hours",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+            "release_year": 1985,
+            "plot_summary": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 10843,
+            "imdb_id": "tt0088680",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.353411",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjed44/",
+            "original_comment_text": "After Hours (1985) by Martin Scorsese!  "
+          },
+          {
+            "id": -7860079672122179820,
+            "title": "American Beauty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "release_year": 1999,
+            "plot_summary": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 14,
+            "imdb_id": "tt0169547",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.388527",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjf99e/",
+            "original_comment_text": "American Beauty, I think."
+          },
+          {
+            "id": 8857298427958848990,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.427340",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohje86j/",
+            "original_comment_text": "The Matrix "
+          },
+          {
+            "id": -2010728011021426995,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.451196",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjg4nz/",
+            "original_comment_text": "The Incredibles\n\nSorry to Bother You\n\nWorking Girl"
+          },
+          {
+            "id": 3591782988943533984,
+            "title": "Working Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+            "release_year": 1988,
+            "plot_summary": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 3525,
+            "imdb_id": "tt0096463",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.477239",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjg4nz/",
+            "original_comment_text": "The Incredibles\n\nSorry to Bother You\n\nWorking Girl"
+          },
+          {
+            "id": -1742672033763577546,
+            "title": "Falling Down",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+            "release_year": 1993,
+            "plot_summary": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 37094,
+            "imdb_id": "tt0106856",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.524848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjez9k/",
+            "original_comment_text": "Falling Down"
+          },
+          {
+            "id": -7798457806104917500,
+            "title": "Joe Versus the Volcano",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+            "release_year": 1990,
+            "plot_summary": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2565,
+            "imdb_id": "tt0099892",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.549916",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjecv1/",
+            "original_comment_text": "Joe Versus the Volcano (1990)"
+          },
+          {
+            "id": 3697179520798250367,
+            "title": "Brazil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+            "release_year": 1985,
+            "plot_summary": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 68,
+            "imdb_id": "tt0088846",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.566741",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjgg8t/",
+            "original_comment_text": "Brazil\n\n\nJoe vs the volcano "
+          },
+          {
+            "id": -7776909583610838837,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.597334",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjfsro/",
+            "original_comment_text": "Not precisely it, but might still be the vibe you’re looking for: The Secret Life of Walter Mitty"
+          },
+          {
+            "id": 3657063808429816140,
+            "title": "Stranger Than Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_year": 2006,
+            "plot_summary": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 1262,
+            "imdb_id": "tt0420223",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.639042",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjgq33/",
+            "original_comment_text": "Stranger Than Fiction"
+          },
+          {
+            "id": -5224755717372630798,
+            "title": "The Apartment",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+            "release_year": 1960,
+            "plot_summary": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 284,
+            "imdb_id": "tt0053604",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.739688",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjhvmm/",
+            "original_comment_text": "The Apartment"
+          },
+          {
+            "id": 6323518376249136243,
+            "title": "Nobody",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "release_year": 2021,
+            "plot_summary": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 615457,
+            "imdb_id": "tt7888964",
+            "category_title": "Movies That Start With A Person Working A Boring, Depressing Office Job",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:27:51.772797",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjezxg/",
+            "original_comment_text": "Nobody "
+          }
+        ]
+      },
+      {
+        "name": "Slow Yet Beautiful Movies",
+        "movies": [
+          {
+            "id": 4716406914320560653,
+            "title": "Mountain Miracle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f46ZJBN8RxdqKW6UqGIkJGT7hRB.jpg",
+            "release_year": 2017,
+            "plot_summary": "A girl struggling with asthma is taken to a clinic in South Tyrol to be cured. After some time she decides to get out of this hell (that's how she feels about it) and soon she'll meet a new friend. Together they try to reach the peak of a mountain where, according to an old custom, she can be healed.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 433763,
+            "imdb_id": "tt5712474",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.111805",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia6oye/",
+            "original_comment_text": "Amelie"
+          },
+          {
+            "id": 714519514245693280,
+            "title": "Train Dreams",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg",
+            "release_year": 2025,
+            "plot_summary": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1241983,
+            "imdb_id": "tt29768334",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.230737",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia3a8v/",
+            "original_comment_text": "Train dreams! "
+          },
+          {
+            "id": 3348842655574088685,
+            "title": "Paris, Texas",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+            "release_year": 1984,
+            "plot_summary": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 655,
+            "imdb_id": "tt0087884",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.292850",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia3l6h/",
+            "original_comment_text": "The Straight Story and its spiritual predecessor, Paris, Texas."
+          },
+          {
+            "id": 1027907512566742967,
+            "title": "The Assassination of Jesse James by the Coward Robert Ford",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
+            "release_year": 2007,
+            "plot_summary": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+            "runtime": "2h 40m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Western"
+            ],
+            "tmdb_id": 4512,
+            "imdb_id": "tt0443680",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.431589",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia2f74/",
+            "original_comment_text": "The Assassination of Jesse James by the Coward Robert Ford (2007)\n\n\nPretty much any Terrance Malik movie but my personal favorite is Days of Heaven (1978)"
+          },
+          {
+            "id": 4617151758217568090,
+            "title": "The Tree of Life",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg",
+            "release_year": 2011,
+            "plot_summary": "The impressionistic story of a Texas family in the 1950s. The film follows the life journey of the eldest son, Jack, through the innocence of childhood to his disillusioned adult years as he tries to reconcile a complicated relationship with his father. Jack finds himself a lost soul in the modern world, seeking answers to the origins and meaning of life while questioning the existence of faith.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 8967,
+            "imdb_id": "tt0478304",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.479632",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia2mqy/",
+            "original_comment_text": "The Tree of life"
+          },
+          {
+            "id": 3948192728734515381,
+            "title": "Days of Heaven",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+            "release_year": 1978,
+            "plot_summary": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 16642,
+            "imdb_id": "tt0077405",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.501412",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia2f74/",
+            "original_comment_text": "The Assassination of Jesse James by the Coward Robert Ford (2007)\n\n\nPretty much any Terrance Malik movie but my personal favorite is Days of Heaven (1978)"
+          },
+          {
+            "id": 8957687046336355454,
+            "title": "Lars and the Real Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+            "release_year": 2007,
+            "plot_summary": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 6615,
+            "imdb_id": "tt0805564",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.576032",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia3jmb/",
+            "original_comment_text": "Lars and the real girl"
+          },
+          {
+            "id": -3147334422922180604,
+            "title": "Melancholia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg",
+            "release_year": 2011,
+            "plot_summary": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 62215,
+            "imdb_id": "tt1527186",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.627557",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia1ql3/",
+            "original_comment_text": "Melancholia (2011) so gorgeous.  Makes you reflect on the beauty of life in a different sort of way."
+          },
+          {
+            "id": -6974957213783281906,
+            "title": "Ikiru",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg",
+            "release_year": 1952,
+            "plot_summary": "Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 3782,
+            "imdb_id": "tt0044741",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.631709",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia31pa/",
+            "original_comment_text": "I would recommend Ikiru from 1952, if she doesn’t mind older movies. It’s not as slow as some movies that might be mentioned but it definitely reflects on the beauty of life. I also recommend Red Beard by the same director (Akira Kurosawa) if you like Ikiru. "
+          },
+          {
+            "id": -7253130382958422657,
+            "title": "Only Lovers Left Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_year": 2013,
+            "plot_summary": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 152603,
+            "imdb_id": "tt1714915",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.649778",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia467n/",
+            "original_comment_text": "Only Lovers Left Alive is probably my favorite \"slow\" movie. It's about depressed vampires and is absolutely beautiful."
+          },
+          {
+            "id": 588417121903116591,
+            "title": "Somewhere in Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hmdegiSwVYUNvEfihaE3HRM3Sos.jpg",
+            "release_year": 1980,
+            "plot_summary": "Young writer Richard Collier is met on the opening night of his first play by an old lady who begs him to \"Come back to me\". Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early twentieth century. Becoming more and more obsessed with her, by self-hypnosis he manages to travel back in time—where he meets her.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 16633,
+            "imdb_id": "tt0081534",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.717138",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia4ax0/",
+            "original_comment_text": "Somewhere in Time "
+          },
+          {
+            "id": -3797917573430023962,
+            "title": "The Straight Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+            "release_year": 1999,
+            "plot_summary": "Retired farmer and widower Alvin Straight learns one day that his distant brother Lyle has suffered a stroke and may not recover. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 404,
+            "imdb_id": "tt0166896",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.764028",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia3l6h/",
+            "original_comment_text": "The Straight Story and its spiritual predecessor, Paris, Texas."
+          },
+          {
+            "id": -1013697618494632649,
+            "title": "Barry Lyndon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+            "release_year": 1975,
+            "plot_summary": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+            "runtime": "3h 8m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Romance",
+              "War",
+              "History"
+            ],
+            "tmdb_id": 3175,
+            "imdb_id": "tt0072684",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.792137",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia4sh5/",
+            "original_comment_text": "Barry Lyndon"
+          },
+          {
+            "id": 2228380149304177451,
+            "title": "What Dreams May Come",
+            "poster_url": "https://image.tmdb.org/t/p/w500/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+            "release_year": 1998,
+            "plot_summary": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he dies, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 12159,
+            "imdb_id": "tt0120889",
+            "category_title": "Slow Yet Beautiful Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:10.840316",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1svpwz3/movies_that_are_slow_yet_beautiful/oia4pw1/",
+            "original_comment_text": "What Dreams May Come"
+          }
+        ]
+      },
+      {
+        "name": "Scariest Horror Movies With Strong Plots",
+        "movies": [
+          {
+            "id": 2378574853583548360,
+            "title": "Grave Encounters",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8vnsB3Rg9Gb91UOaecXRb7dYB37.jpg",
+            "release_year": 2011,
+            "plot_summary": "A crew from a paranormal reality television show lock themselves in a haunted psychiatric hospital. They search for evidence of paranormal activity as they shoot what ends up becoming their final episode.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 50698,
+            "imdb_id": "tt1703199",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.716228",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": 6556563942823490228,
+            "title": "When Evil Lurks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg",
+            "release_year": 2023,
+            "plot_summary": "When brothers Pedro and Jimi discover that a demonic infection has been festering in a nearby farmhouse, they attempt to evict the victim from their land. Failing to adhere to the proper rites of exorcism, their reckless actions inadvertently trigger an epidemic of possessions across their rural community.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 744857,
+            "imdb_id": "tt16300962",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.731598",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": 6795105247264119107,
+            "title": "Bring Her Back",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+            "release_year": 2025,
+            "plot_summary": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 1151031,
+            "imdb_id": "tt32246771",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.799609",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": -3549364574534498224,
+            "title": "The Thing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+            "release_year": 1982,
+            "plot_summary": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1091,
+            "imdb_id": "tt0084787",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.870253",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohf3dsj/",
+            "original_comment_text": "The Thing (1982) Kurt Russell at his finest."
+          },
+          {
+            "id": -5898912244603082945,
+            "title": "Session 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A3Au37c3KJX29BDvldzGiYtaU5B.jpg",
+            "release_year": 2001,
+            "plot_summary": "Tensions rise within an asbestos cleaning crew as they work in an abandoned mental hospital with a horrific past that seems to be coming back.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Drama"
+            ],
+            "tmdb_id": 10972,
+            "imdb_id": "tt0261983",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.874095",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": -3455870356993366823,
+            "title": "Terrified",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eMP4F0POBgrB4icn6XgYeLLIrld.jpg",
+            "release_year": 2018,
+            "plot_summary": "Police commissioner Funes and three researchers of supernatural phenomena investigate inexplicable events that are occurring in the suburbs of Buenos Aires.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 489430,
+            "imdb_id": "tt7549892",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.935333",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": -8670816182541007611,
+            "title": "The Descent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+            "release_year": 2005,
+            "plot_summary": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Horror"
+            ],
+            "tmdb_id": 9392,
+            "imdb_id": "tt0435625",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:32.950588",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": 3519302927310228437,
+            "title": "Hereditary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hjlZSXM86wJrfCv5VKfR5DI2VeU.jpg",
+            "release_year": 2018,
+            "plot_summary": "Following the death of the Leigh family matriarch, Annie and her children uncover disturbing secrets about their heritage. Their daily lives are not only impacted, but they also become entangled in a chilling fate from which they cannot escape, driving them to the brink of madness.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 493922,
+            "imdb_id": "tt7784604",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.024573",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": 2933548791425223066,
+            "title": "[REC]",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hgyJR4sgMsee6xMFM3xYiG6cDCh.jpg",
+            "release_year": 2007,
+            "plot_summary": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 8329,
+            "imdb_id": "tt1038988",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.085562",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": -6195914328518460645,
+            "title": "Talk to Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+            "release_year": 2023,
+            "plot_summary": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Fantasy"
+            ],
+            "tmdb_id": 1008042,
+            "imdb_id": "tt10638522",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.085958",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          },
+          {
+            "id": 2194108267230072738,
+            "title": "Something Wicked This Way Comes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/94dMO6kAawyFUk0sCDGIjAnchED.jpg",
+            "release_year": 1983,
+            "plot_summary": "In a small American town, a diabolical circus arrives, granting wishes for the townsfolk, but twisted as only the esteemed Mr. Dark can make them. Can two young boys overcome the worst the devil himself can deal out?",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Fantasy",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 24808,
+            "imdb_id": "tt0086336",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.160605",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohf2hz4/",
+            "original_comment_text": "The Ring\n\nEvent Horizon\n\nSomething Wicked This Way Comes"
+          },
+          {
+            "id": 1734478305374581389,
+            "title": "Event Horizon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 8413,
+            "imdb_id": "tt0119081",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.231915",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohf2hz4/",
+            "original_comment_text": "The Ring\n\nEvent Horizon\n\nSomething Wicked This Way Comes"
+          },
+          {
+            "id": 4424375021825370093,
+            "title": "The Ring",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AeRpUynJKDpJveklBJipOYrVxCS.jpg",
+            "release_year": 2002,
+            "plot_summary": "Journalist Rachel Keller investigates a strange videotape that may be behind the untimely deaths of four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring in order to save herself and her son.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 565,
+            "imdb_id": "tt0298130",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.285517",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohf2hz4/",
+            "original_comment_text": "The Ring\n\nEvent Horizon\n\nSomething Wicked This Way Comes"
+          },
+          {
+            "id": 6946985937179580362,
+            "title": "Martyrs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eaaoQLCT38CrKxX53WRpjw1ZPVz.jpg",
+            "release_year": 2008,
+            "plot_summary": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9539,
+            "imdb_id": "tt1029234",
+            "category_title": "Scariest Horror Movies With Strong Plots",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:33.294663",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1srio3q/what_is_the_scariest_actually_scary_horror_movie/ohezyxh/",
+            "original_comment_text": "* Hereditary\n* Bring Her Back\n* Talk to Me\n* Terrified\n* When Evil Lurks\n* \\[REC\\]\n* Grave Encounters\n* Session 9\n* The Descent\n* Martyrs(2008)"
+          }
+        ]
+      },
+      {
+        "name": "Movies For Single Women That Are Not Male-Centric",
+        "movies": [
+          {
+            "id": 8811729154350151530,
+            "title": "Annihilation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+            "release_year": 2018,
+            "plot_summary": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 300668,
+            "imdb_id": "tt2798920",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.235267",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": -4373160129531731557,
+            "title": "Thelma & Louise",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gQSUVGR80RVHxJywtwXm2qa1ebi.jpg",
+            "release_year": 1991,
+            "plot_summary": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Adventure"
+            ],
+            "tmdb_id": 1541,
+            "imdb_id": "tt0103074",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.303223",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9qt8e/",
+            "original_comment_text": "Not sure if I could say the end is \"Thriving\", but Thelma and Louise has all sorts of discovering and is more about losing men.  \nAlso maybe \"First Wives Club\""
+          },
+          {
+            "id": 6538249145630511147,
+            "title": "Gravity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kZ2nZw8D681aphje8NJi8EfbL1U.jpg",
+            "release_year": 2013,
+            "plot_summary": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 49047,
+            "imdb_id": "tt1454468",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.311228",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": -6236534297479139987,
+            "title": "Aliens",
+            "poster_url": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "release_year": 1986,
+            "plot_summary": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+            "runtime": "2h 17m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 679,
+            "imdb_id": "tt0090605",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.321499",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": -6859291885518013865,
+            "title": "Silence of the Lambs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cU6gd6i1tnXnPzO2RaNcQp87y7h.jpg",
+            "release_year": 2022,
+            "plot_summary": "A drama about the conflict between Captain Choi Hyeong-won, who has to silence a case to seize the last chance of promotion",
+            "runtime": "1h 4m",
+            "tmdb_rating": 4.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1064810,
+            "imdb_id": null,
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.377787",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": -4743384458489775749,
+            "title": "Fried Green Tomatoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+            "release_year": 1991,
+            "plot_summary": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1633,
+            "imdb_id": "tt0101921",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.379692",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": 3347148462247483355,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.397347",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": 3491455285995417880,
+            "title": "Muriel's Wedding",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+            "release_year": 1994,
+            "plot_summary": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 236,
+            "imdb_id": "tt0110598",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.450277",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9rluw/",
+            "original_comment_text": "Muriel's Wedding"
+          },
+          {
+            "id": -3741810636118270891,
+            "title": "Shocking Dark",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tztmdSyvfvQBVyzqyh6sKQeJP5g.jpg",
+            "release_year": 1989,
+            "plot_summary": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 4.4,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 66664,
+            "imdb_id": "tt0098321",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.516076",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9udl9/",
+            "original_comment_text": "Gravity\n\nArrival\n\nFried Green Tomatoes\n\nAliens\n\nAnnihilation\n\nSilence of the Lambs\n\nTerminator 2"
+          },
+          {
+            "id": 1315154924286930841,
+            "title": "Civil War",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "release_year": 2024,
+            "plot_summary": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "War",
+              "Action",
+              "Drama"
+            ],
+            "tmdb_id": 929590,
+            "imdb_id": "tt17279496",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.584512",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9u478/",
+            "original_comment_text": "One movie I REALLY liked and I believe also very much misunderstood, and fits your criteria, is in fact, Alex Garland's Civil War (2024). The protagonist is a young photojournalist tries to find her place in the world.. nothing about relationships. It's about her experience as a person, a photographer, and most of all, a human being. Highly recommended if you haven't seen it."
+          },
+          {
+            "id": 347675534582348386,
+            "title": "The First Wives Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+            "release_year": 1996,
+            "plot_summary": "After years of helping their hubbies climb the ladder of success, three mid-life Manhattanites have been dumped for a newer, curvier model. But the trio is determined to turn their pain into gain. They come up with a cleverly devious plan to hit their exes where it really hurts - in the wallet!",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 2925,
+            "imdb_id": "tt0116313",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.596449",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9qt8e/",
+            "original_comment_text": "Not sure if I could say the end is \"Thriving\", but Thelma and Louise has all sorts of discovering and is more about losing men.  \nAlso maybe \"First Wives Club\""
+          },
+          {
+            "id": -1001263425093971697,
+            "title": "Mona Lisa Smile",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bg0VKsXnLjIZ0cHmZHZLs9gzrvm.jpg",
+            "release_year": 2003,
+            "plot_summary": "Katherine Watson is a recent UCLA graduate hired to teach art history at the prestigious all-female Wellesley College, in 1953. Determined to confront the outdated mores of society and the institution that embraces them, Katherine inspires her traditional students, including Betty and Joan, to challenge the lives they are expected to lead.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "History",
+              "Romance"
+            ],
+            "tmdb_id": 11820,
+            "imdb_id": "tt0304415",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.647924",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9qcj2/",
+            "original_comment_text": "Mona Lisa Smile"
+          },
+          {
+            "id": 6033939951605542777,
+            "title": "Jackie Brown",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rOUx7qg4KmEh1juEDwqzbDSL1Nr.jpg",
+            "release_year": 1997,
+            "plot_summary": "Jackie Brown is a flight attendant who gets caught in the middle of smuggling cash into the country for her gunrunner boss. When the cops try to use Jackie to get to her boss, she hatches a plan — with help from a bail bondsman — to keep the money for herself.",
+            "runtime": "2h 34m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 184,
+            "imdb_id": "tt0119396",
+            "category_title": "Movies For Single Women That Are Not Male-Centric",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:28:54.665841",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sqrhf0/films_for_single_ladies_that_arent_malecentric/oh9ubms/",
+            "original_comment_text": "jackie brown"
+          }
+        ]
+      },
+      {
+        "name": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+        "movies": [
+          {
+            "id": 9043133926584244415,
+            "title": "Primal Fear",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+            "release_year": 1996,
+            "plot_summary": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1592,
+            "imdb_id": "tt0117381",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.107329",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi21vvh/",
+            "original_comment_text": "Primal Fear with Edward Norton and Richard Gere. "
+          },
+          {
+            "id": 695814371456720494,
+            "title": "You're Next",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l163jakfKvchUTVTtBi0KA7ZhIc.jpg",
+            "release_year": 2013,
+            "plot_summary": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of their victims harbors a secret talent for fighting back.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 83899,
+            "imdb_id": "tt1853739",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.179096",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1wcyi/",
+            "original_comment_text": "You're Next "
+          },
+          {
+            "id": 1935212899832441653,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.218239",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1xlvl/",
+            "original_comment_text": "Gone Girl.   \nRambo, Last Blood. \n"
+          },
+          {
+            "id": 6152396679150402298,
+            "title": "Rambo: Last Blood",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",
+            "release_year": 2019,
+            "plot_summary": "After fighting his demons for decades, John Rambo now lives in peace on his family ranch in Arizona, but his rest is interrupted when Gabriela, the granddaughter of his housekeeper María, disappears after crossing the border into Mexico to meet her biological father. Rambo, who has become a true father figure for Gabriela over the years, undertakes a desperate and dangerous journey to find her.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 522938,
+            "imdb_id": "tt1206885",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.259727",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1xlvl/",
+            "original_comment_text": "Gone Girl.   \nRambo, Last Blood. \n"
+          },
+          {
+            "id": -512274918864545467,
+            "title": "Home Alone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+            "release_year": 1990,
+            "plot_summary": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 771,
+            "imdb_id": "tt0099785",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.385675",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1z944/",
+            "original_comment_text": "Home Alone "
+          },
+          {
+            "id": 7105278365930003319,
+            "title": "Don't Breathe",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dSxHyPZ2nipSfvdft4IhQKjk5eZ.jpg",
+            "release_year": 2016,
+            "plot_summary": "A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 300669,
+            "imdb_id": "tt4160708",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.435183",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1w00w/",
+            "original_comment_text": "Don't Breathe"
+          },
+          {
+            "id": -4446028077678006479,
+            "title": "Strange Darling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "release_year": 2024,
+            "plot_summary": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1029281,
+            "imdb_id": "tt22375054",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.454104",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1xsgs/",
+            "original_comment_text": "Strange Darling"
+          },
+          {
+            "id": -618407833976901018,
+            "title": "Hard Candy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uHTmlcivbPeclEdmtuQg3zOQWPS.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hayley’s a smart, charming teenage girl. Jeff’s a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff’s place. Jeff thinks it’s his lucky night. He’s in for a surprise.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 2652,
+            "imdb_id": "tt0424136",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.517507",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1w254/",
+            "original_comment_text": " Hard Candy"
+          },
+          {
+            "id": -5803433236134931803,
+            "title": "The Perfect Host",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tYqk1u5d3eARg5gV8cF4RZFZKKQ.jpg",
+            "release_year": 2010,
+            "plot_summary": "Warwick Wilson is the consummate host. He carefully prepares for a dinner party, the table impeccably set and the duck perfectly timed for 8:30 p.m. John Taylor is a career criminal. He’s just robbed a bank and needs to get off the streets. He finds himself on Warwick’s doorstep posing as a friend of a friend, new to Los Angeles, who’s been mugged and lost his luggage.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 66195,
+            "imdb_id": "tt1334553",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.663800",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi28h1t/",
+            "original_comment_text": "The Perfect Host (2010)\n\n"
+          },
+          {
+            "id": 7985175258899060013,
+            "title": "Secret Window",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvzw4wufKZkDCTPVeG71Z7pGfZh.jpg",
+            "release_year": 2004,
+            "plot_summary": "Mort Rainey, a writer just emerging from a painful divorce with his ex-wife, is stalked at his remote lake house by a psychotic stranger and would-be scribe who claims Rainey swiped his best story idea. But as Rainey endeavors to prove his innocence, he begins to question his own sanity.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1586,
+            "imdb_id": "tt0363988",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.719516",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1zghj/",
+            "original_comment_text": "Secret Window (2004) an underrated Johnny Depp role."
+          },
+          {
+            "id": 8893674399558948216,
+            "title": "Abigail",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "release_year": 2024,
+            "plot_summary": "A group of criminals kidnap a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with no normal little girl.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1111873,
+            "imdb_id": "tt27489557",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.809872",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi202f9/",
+            "original_comment_text": "Abigail (2024) for sure. 🤌"
+          },
+          {
+            "id": -2542907904142100305,
+            "title": "High Tension",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vKeFa7CqSxmWsQDjHP6SJXKoDbj.jpg",
+            "release_year": 2003,
+            "plot_summary": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 10226,
+            "imdb_id": "tt0338095",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.861821",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi1xqhl/",
+            "original_comment_text": "High Tension"
+          },
+          {
+            "id": -5623375028421406515,
+            "title": "Crocodile Dundee II",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2Nf0xeDuToLHysdkWj3aT5r42rC.jpg",
+            "release_year": 1988,
+            "plot_summary": "Australian outback expert protects his New York love from gangsters who've followed her down under.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 9396,
+            "imdb_id": "tt0092493",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:12.948068",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi220eo/",
+            "original_comment_text": "Crocodile Dundee 2. An American gang is after him, he leads them to the Australian Outback and picks them off one by one (not lethally). While doing so, he makes them think he’s got supernatural powers."
+          },
+          {
+            "id": -5504885577449441141,
+            "title": "Becky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+            "release_year": 2020,
+            "plot_summary": "A teenager's weekend at a lake house with her father takes a turn for the worse when a group of convicts wreaks havoc on their lives.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Thriller",
+              "Horror",
+              "Action"
+            ],
+            "tmdb_id": 601844,
+            "imdb_id": "tt10314450",
+            "category_title": "Movies Where The Victim Turns Out To Be The Real Nightmare",
+            "time_period": "weekly",
+            "date_scraped": "2026-04-27T06:29:13.024159",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sumidf/looking_for_movies_where_the_victim_turns_out_to/oi23t2l/",
+            "original_comment_text": "Becky. And the sequel Wrath of Becky."
+          }
+        ]
+      }
+    ],
+    "totalMovies": 69,
+    "totalCategories": 5,
+    "lastUpdated": "2026-04-27T06:27:51.268851"
+  }
+}

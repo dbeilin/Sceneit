@@ -1,0 +1,1146 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+        "movies": [
+          {
+            "id": -2402458739680721616,
+            "title": "Welcome to Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pGZV5m7T8NzNC4V2gk304W5SpVX.jpg",
+            "release_year": 2015,
+            "plot_summary": "A year in the life of Alice Klieg, a woman with Borderline personality disorder who wins the Mega Millions lottery, quits her meds and buys her own talk show.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 284537,
+            "imdb_id": "tt2788716",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:12.938056",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oif5bg3/",
+            "original_comment_text": "Silver Linings Playbook, Welcome to Me"
+          },
+          {
+            "id": 7697984321296656566,
+            "title": "28 Days",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tlgz7Shx0UavR5pyITeJ2mUHKFI.jpg",
+            "release_year": 2000,
+            "plot_summary": "After getting into a car accident while drunk on the day of her sister's wedding, Gwen Cummings is given a choice between prison or a rehab center. She chooses rehab, but is extremely resistant to taking part in any of the treatment programs they have to offer, refusing to admit that she has an alcohol addiction.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10468,
+            "imdb_id": "tt0191754",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:12.940769",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oiepych/",
+            "original_comment_text": "28 days"
+          },
+          {
+            "id": -7627411188194005778,
+            "title": "Girl, Interrupted",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dOBdatHIVppvmRFw2z7bf9VKJr9.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the changing world of the late 1960s, Susanna Kaysen's prescribed \"short rest\" from a psychiatrist she had met only once becomes a strange, unknown journey into Alice's Wonderland, where she struggles with the thin line between normal and crazy. Susanna soon realizes how hard it is to get out once she has been committed, and she ultimately has to choose between the world of people who belong inside or the difficult world of reality outside.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 3558,
+            "imdb_id": "tt0172493",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.010437",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oiemy6h/",
+            "original_comment_text": "[Girl, Interrupted (1999)](https://en.wikipedia.org/wiki/Girl,_Interrupted_(film))"
+          },
+          {
+            "id": -1119621857322243244,
+            "title": "Frances Ha",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jrq1NoKvsxWCcffVOjegiYwloFN.jpg",
+            "release_year": 2013,
+            "plot_summary": "An aspiring dancer moves to New York City and becomes caught up in a whirlwind of flighty fair-weather friends, diminishing fortunes and career setbacks.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 121986,
+            "imdb_id": "tt2347569",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.012857",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oieq907/",
+            "original_comment_text": "Frances ha "
+          },
+          {
+            "id": -3799656756013202726,
+            "title": "Kiki's Delivery Service",
+            "poster_url": "https://image.tmdb.org/t/p/w500/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+            "release_year": 1989,
+            "plot_summary": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 16859,
+            "imdb_id": "tt0097814",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.083154",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oieus81/",
+            "original_comment_text": "Kiki's Delivery Service "
+          },
+          {
+            "id": -4013246028701345041,
+            "title": "Brittany Runs a Marathon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aSWePCEtLpNdD7ykW6OuZqvVhyn.jpg",
+            "release_year": 2019,
+            "plot_summary": "Hilarious and outgoing, Brittany Forgler, is everybody’s best friend ― except her own. Her partying, underemployment and toxic relationships are catching up with her. She receives a startling wake-up call when a visit to the doctor reveals how unhealthy she is. Motivated to lose weight, but too broke for a gym and too proud to ask for help, Brit is at a loss, until her neighbor pushes her to run one sweaty block. Soon, she sets an almost unthinkable goal: the New York City Marathon.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 529862,
+            "imdb_id": "tt7671064",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.083358",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oif5jsb/",
+            "original_comment_text": "I feel like I recommend this movie in this sub once a week but seriously: Brittany Runs a Marathon."
+          },
+          {
+            "id": 6525027303491575294,
+            "title": "Wild",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ohhWI4Xwf4m4HjbQiIkyAhLekUy.jpg",
+            "release_year": 2014,
+            "plot_summary": "A woman with a tragic past decides to start her new life by hiking for one thousand miles on the Pacific Crest Trail.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 228970,
+            "imdb_id": "tt2305051",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.153972",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oiep0dh/",
+            "original_comment_text": "Wild (2014) "
+          },
+          {
+            "id": 5761071850392148124,
+            "title": "Colossal",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4VOyofBd1pexblxtDZYtYIk7NI4.jpg",
+            "release_year": 2017,
+            "plot_summary": "A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 339967,
+            "imdb_id": "tt4680182",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.156923",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oif2jms/",
+            "original_comment_text": "Colossal"
+          },
+          {
+            "id": 1808565463985620846,
+            "title": "The Outrun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zfRR2CkbvYrLuOPQFm8vBaENyMy.jpg",
+            "release_year": 2024,
+            "plot_summary": "Fresh out of rehab, Rona returns to the Orkney Islands—a place both wild and beautiful, right off the Scottish coast. Now 29 and after more than a decade of living life on the edge in London, where she both found and lost love, Rona attempts to come to terms with her troubled past. As she reconnects with the dramatic landscape where she grew up, memories of her traumatic childhood merge with more recent challenging events that have set her on the path to recovery.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 785542,
+            "imdb_id": "tt11687002",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.229092",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oifozqx/",
+            "original_comment_text": "The Outrun is about alcoholism but fits this model and is excellent "
+          },
+          {
+            "id": -450541188651135463,
+            "title": "Silver Linings Playbook",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fhHB1uvfFKKFbj6bTKE8xdtsjKi.jpg",
+            "release_year": 2012,
+            "plot_summary": "After losing his job and wife, and spending time in an institution, a former teacher winds up living with his parents. He wants to rebuild his life and reconcile with his wife, but his father would be happy if he shared his obsession with the Philadelphia Eagles. Things get complicated when he meets Tiffany Maxwell who offers to help him reconnect with his wife if he will do something very important for her in exchange.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 82693,
+            "imdb_id": "tt1045658",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.298469",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oif5bg3/",
+            "original_comment_text": "Silver Linings Playbook, Welcome to Me"
+          },
+          {
+            "id": -6145525325841345841,
+            "title": "Four Good Days",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uaJmqZxwAsdFLLjPGH5DzIEnbpj.jpg",
+            "release_year": 2021,
+            "plot_summary": "A mother helps her daughter work through four crucial days of recovery from substance abuse.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 641960,
+            "imdb_id": "tt10344522",
+            "category_title": "Uplifting Movies Where Female Characters With Mental Health Struggles Get Their Act Together",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:13.368200",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swcyxf/uplifting_movie_where_female_character_with/oiemtrn/",
+            "original_comment_text": "Four Good Days\n\nGirl Interrupted"
+          }
+        ]
+      },
+      {
+        "name": "Classic Horror Movies",
+        "movies": [
+          {
+            "id": 7657585596930085625,
+            "title": "Scanners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
+            "release_year": 1981,
+            "plot_summary": "After a man with extraordinary, and frighteningly destructive, telepathic abilities is nabbed by agents from a mysterious rogue corporation, he discovers he is far from the only possessor of such strange powers. Some of the other “scanners” have their minds set on world domination, while others are trying to stop them.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 9538,
+            "imdb_id": "tt0081455",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.154204",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigdpb9/",
+            "original_comment_text": "Scanners and Videodrome. Neither are traditional horrors but you can’t go wrong with Cronenberg body-horror. And I’d absolutely say they’re both good watches now - not “good for the time” or anything. "
+          },
+          {
+            "id": -1681561355353186526,
+            "title": "Don't Look Now",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+            "release_year": 1973,
+            "plot_summary": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 931,
+            "imdb_id": "tt0069995",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.293974",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigco0c/",
+            "original_comment_text": "Don’t Look Now (1973)"
+          },
+          {
+            "id": -1911461293542666912,
+            "title": "Videodrome",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+            "release_year": 1983,
+            "plot_summary": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 837,
+            "imdb_id": "tt0086541",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.320104",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigdpb9/",
+            "original_comment_text": "Scanners and Videodrome. Neither are traditional horrors but you can’t go wrong with Cronenberg body-horror. And I’d absolutely say they’re both good watches now - not “good for the time” or anything. "
+          },
+          {
+            "id": 282922501224892088,
+            "title": "Doctor Sleep",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+            "release_year": 2019,
+            "plot_summary": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
+            "runtime": "2h 32m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Fantasy"
+            ],
+            "tmdb_id": 501170,
+            "imdb_id": "tt5606664",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.373052",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigd6bt/",
+            "original_comment_text": "Shining / Doctor Sleep"
+          },
+          {
+            "id": -6823319909200645114,
+            "title": "The Exorcist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+            "release_year": 1973,
+            "plot_summary": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 9552,
+            "imdb_id": "tt0070047",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.390836",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigb84d/",
+            "original_comment_text": "The Exorcist"
+          },
+          {
+            "id": 2806135234476435428,
+            "title": "Suspiria",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sEcvc9h1X3hYZdFgtiiKMm6RB3f.jpg",
+            "release_year": 1977,
+            "plot_summary": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 11906,
+            "imdb_id": "tt0076786",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.418142",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigas1h/",
+            "original_comment_text": "Suspiria (1977) "
+          },
+          {
+            "id": -7518228628134766914,
+            "title": "Shining",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e7E6bkSITjpNVLWkNIx1pInKHHA.jpg",
+            "release_year": 2024,
+            "plot_summary": "A mysterious and terrifying paranormal presence terrorizes the inhabitants of a secret location.",
+            "runtime": "57m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1441396,
+            "imdb_id": "tt30869020",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.439226",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigd6bt/",
+            "original_comment_text": "Shining / Doctor Sleep"
+          },
+          {
+            "id": -4140205900897529617,
+            "title": "The Changeling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvuAfo9RS6282KYFzd1m7IoyHQo.jpg",
+            "release_year": 1993,
+            "plot_summary": "Just days before her wedding, Beatrice-Joanna has a chance encounter with Alsemero, and realizes that she has met her one true love. To marry the man she loves, she persuades the love-struck henchman De Flores to murder her fiance, but does not anticipate the tragic consequences of her actions.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Romance",
+              "Drama",
+              "TV Movie"
+            ],
+            "tmdb_id": 233563,
+            "imdb_id": "tt0109397",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.562008",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigbo21/",
+            "original_comment_text": "The Changeling (1980)\n\nThe Fly (both 1958 and 1986!)"
+          },
+          {
+            "id": 707414608684736100,
+            "title": "The Fly",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+            "release_year": 1986,
+            "plot_summary": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9426,
+            "imdb_id": "tt0091064",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.632157",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigbo21/",
+            "original_comment_text": "The Changeling (1980)\n\nThe Fly (both 1958 and 1986!)"
+          },
+          {
+            "id": -219747423452493724,
+            "title": "Carnival of Souls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9ddPGH7kMe81xznwIKCt17VFUPi.jpg",
+            "release_year": 1962,
+            "plot_summary": "Mary Henry ends up the sole survivor of a fatal car accident through mysterious circumstances. Trying to put the incident behind her, she moves to Utah and takes a job as a church organist. But her fresh start is interrupted by visions of a fiendish man. As the visions begin to occur more frequently, Mary finds herself drawn to the deserted carnival on the outskirts of town. The strangely alluring carnival may hold the secret to her tragic past.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Fantasy"
+            ],
+            "tmdb_id": 16093,
+            "imdb_id": "tt0055830",
+            "category_title": "Classic Horror Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:31.700985",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swksy8/classic_horror_films/oigcwt7/",
+            "original_comment_text": "Carnival of Souls"
+          }
+        ]
+      },
+      {
+        "name": "Movies Similar To Sister Act",
+        "movies": [
+          {
+            "id": 587617443425595932,
+            "title": "School of Rock",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_year": 2003,
+            "plot_summary": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey risks everything to prove that rock 'n' roll can change lives.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Family"
+            ],
+            "tmdb_id": 1584,
+            "imdb_id": "tt0332379",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.200063",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oiew64t/",
+            "original_comment_text": "School of Rock"
+          },
+          {
+            "id": -8289415651179724605,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.226833",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": 5664584419596203962,
+            "title": "Mountain Miracle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f46ZJBN8RxdqKW6UqGIkJGT7hRB.jpg",
+            "release_year": 2017,
+            "plot_summary": "A girl struggling with asthma is taken to a clinic in South Tyrol to be cured. After some time she decides to get out of this hell (that's how she feels about it) and soon she'll meet a new friend. Together they try to reach the peak of a mountain where, according to an old custom, she can be healed.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 433763,
+            "imdb_id": "tt5712474",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.287988",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": 5644145092564606844,
+            "title": "The First Wives Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2ApifgYnfdJUSmCKzTBrWOYYWsn.jpg",
+            "release_year": 1996,
+            "plot_summary": "After years of helping their hubbies climb the ladder of success, three mid-life Manhattanites have been dumped for a newer, curvier model. But the trio is determined to turn their pain into gain. They come up with a cleverly devious plan to hit their exes where it really hurts - in the wallet!",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 2925,
+            "imdb_id": "tt0116313",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.338468",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": -7923747782146839460,
+            "title": "The Full Monty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xkMiZv2FPrhIAtxvEcN1jAbkHRY.jpg",
+            "release_year": 1997,
+            "plot_summary": "Sheffield, England. Gaz, a jobless steelworker in need of quick cash persuades his mates to bare it all in a one-night-only strip show.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9427,
+            "imdb_id": "tt0119164",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.359947",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oieyerq/",
+            "original_comment_text": "The Full Monty"
+          },
+          {
+            "id": -9064886045510367326,
+            "title": "The Intern",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bTQ46fupPbjBfFBHuzfD3hxxL0Q.jpg",
+            "release_year": 2015,
+            "plot_summary": "70-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 257211,
+            "imdb_id": "tt2361509",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.423360",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": -8298984193849996628,
+            "title": "Harold and Maude",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t7qEuGwDjcYu8ajaKZ68DeDnOxw.jpg",
+            "release_year": 1971,
+            "plot_summary": "A deadpan young man obsessed with death meets an eccentric septuagenarian who teaches him to live life to the fullest.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 343,
+            "imdb_id": "tt0067185",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.433265",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": 4736100815861038844,
+            "title": "Hairspray",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+            "release_year": 1988,
+            "plot_summary": "'Pleasantly plump' teenager Tracy Turnblad achieves her dream of becoming a regular on the Corny Collins Dance Show. Now a teen hero, she starts using her fame to speak out for the causes she believes in, most of all integration. In doing so, she earns the wrath of the show's former star, Amber Von Tussle, as well as Amber's manipulative, pro-segregation parents. The rivalry comes to a head as Amber and Tracy vie for the title of Miss Auto Show 1963.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 11054,
+            "imdb_id": "tt0095270",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.505615",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oif2ufd/",
+            "original_comment_text": "Amelie: a lonely 20-something decides to make people's lives better ... secretly.\n\nHairspray: a fat girl joins a popular tv show and ends up integrating 60s Baltimore.\n\nHarold and Maude: a lonely 18 y/o boy meets an old woman who shakes up his life.\n\nThe Intern: a retired CEO returns to work as an e-commerce intern and mentors everyone.\n\nDead Poets Society: a new English teacher teaches prep school boys about life.\n\nFirst Wives Club: not an outsider-coming-in story, but similar vibes.\n\n9 to 5: ditto."
+          },
+          {
+            "id": 4348621948469126593,
+            "title": "Little Miss Sunshine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/niNdhTpPHSgw22tK0PLjQMV640v.jpg",
+            "release_year": 2006,
+            "plot_summary": "A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 773,
+            "imdb_id": "tt0449059",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.676509",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oieyg7l/",
+            "original_comment_text": "Little Miss Sunshine "
+          },
+          {
+            "id": 5695511465813646551,
+            "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8bkJiI6N8wDxAtQ49bLUt0qCBII.jpg",
+            "release_year": 1995,
+            "plot_summary": "Manhattan drag queens Vida Boheme and Noxeema Jackson impress regional judges in competition, securing berths in the Nationals in Los Angeles. When the two meet pathetic drag novice Chi-Chi Rodriguez — one of the losers that evening — the charmed Vida and Noxeema agree to take the hopeless youngster under their joined wing. Soon the three set off on a madcap road trip across America and struggle to make it to Los Angeles in time.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 9090,
+            "imdb_id": "tt0114682",
+            "category_title": "Movies Similar To Sister Act",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:26:47.718768",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swe68t/any_movies_with_the_same_feel_as_sister_act/oifbx29/",
+            "original_comment_text": "To Wong Foo"
+          }
+        ]
+      },
+      {
+        "name": "Movies Similar To The Thing (1982)",
+        "movies": [
+          {
+            "id": 4620616978698719136,
+            "title": "Big Trouble in Little China",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+            "release_year": 1986,
+            "plot_summary": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 6978,
+            "imdb_id": "tt0090728",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.695452",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihxpiu/",
+            "original_comment_text": "If you haven’t seen Big Trouble in Little China, you should.  Both directed by John Carpenter and starred Kurt Russel. Absolutely nothing like the Thing other I think you may be able to tell they were made by the same person.    The Thing is in a class by itself.  "
+          },
+          {
+            "id": 8185187867373767249,
+            "title": "Invasion of the Body Snatchers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/skS02wdeH2C0nrbCQP3qKwJdZtZ.jpg",
+            "release_year": 1978,
+            "plot_summary": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 11850,
+            "imdb_id": "tt0077745",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.763884",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihytrg/",
+            "original_comment_text": "[Fallen (1998)](https://www.themoviedb.org/movie/9411-fallen)\n\n[The Hidden (1987)](https://www.themoviedb.org/movie/12476-the-hidden)\n\n[ Invasion of the Body Snatchers (1978) ](https://www.themoviedb.org/movie/11850-invasion-of-the-body-snatchers)"
+          },
+          {
+            "id": -7601722326997525091,
+            "title": "The Thing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+            "release_year": 1982,
+            "plot_summary": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1091,
+            "imdb_id": "tt0084787",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.836350",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihxpiu/",
+            "original_comment_text": "If you haven’t seen Big Trouble in Little China, you should.  Both directed by John Carpenter and starred Kurt Russel. Absolutely nothing like the Thing other I think you may be able to tell they were made by the same person.    The Thing is in a class by itself.  "
+          },
+          {
+            "id": 1046422838602698032,
+            "title": "Prince of Darkness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
+            "release_year": 1987,
+            "plot_summary": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 8852,
+            "imdb_id": "tt0093777",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.910627",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy3p7/",
+            "original_comment_text": "In 80s body horror, The Fly is neck and neck IMO, but its a much different movie. Great body horror, but a very different story. Much more intimate and personal and sad. It's a masterpiece in its own right. Cronenberg's flagship movie.\n\n\nSpecies is similar in some ways. From Beyond is similar in some ways. It Follows is similar in some ways. The Thing is hard to match.\n\n\nI guess it depends which parts you want to duolicate. Do you want another movie where it's isolated and people slowly become unhinged and suspicious? Do you want a body horror type movie with similar effects and visuals? Do you want a shapeshifter movie? Do you want another movie with the same aesthetic? If so, try other John Carpenter horrors movies like Prince of Darkness and In the Mouth of Madness."
+          },
+          {
+            "id": -4804469988220958717,
+            "title": "Species",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg",
+            "release_year": 1995,
+            "plot_summary": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Horror",
+              "Action"
+            ],
+            "tmdb_id": 9348,
+            "imdb_id": "tt0114508",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.914018",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy3p7/",
+            "original_comment_text": "In 80s body horror, The Fly is neck and neck IMO, but its a much different movie. Great body horror, but a very different story. Much more intimate and personal and sad. It's a masterpiece in its own right. Cronenberg's flagship movie.\n\n\nSpecies is similar in some ways. From Beyond is similar in some ways. It Follows is similar in some ways. The Thing is hard to match.\n\n\nI guess it depends which parts you want to duolicate. Do you want another movie where it's isolated and people slowly become unhinged and suspicious? Do you want a body horror type movie with similar effects and visuals? Do you want a shapeshifter movie? Do you want another movie with the same aesthetic? If so, try other John Carpenter horrors movies like Prince of Darkness and In the Mouth of Madness."
+          },
+          {
+            "id": 2990877468723441676,
+            "title": "From Beyond",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zwmyxaKzIRLD4iUqZAQW940omdm.jpg",
+            "release_year": 1986,
+            "plot_summary": "The Resonator, a powerful machine that can control the sixth sense, has killed its creator and sent his associate into an insane asylum. When a psychiatrist becomes determined to continue the experiment, she unwittingly opens the door to a hostile parallel universe.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 14510,
+            "imdb_id": "tt0091083",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.976672",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy3p7/",
+            "original_comment_text": "In 80s body horror, The Fly is neck and neck IMO, but its a much different movie. Great body horror, but a very different story. Much more intimate and personal and sad. It's a masterpiece in its own right. Cronenberg's flagship movie.\n\n\nSpecies is similar in some ways. From Beyond is similar in some ways. It Follows is similar in some ways. The Thing is hard to match.\n\n\nI guess it depends which parts you want to duolicate. Do you want another movie where it's isolated and people slowly become unhinged and suspicious? Do you want a body horror type movie with similar effects and visuals? Do you want a shapeshifter movie? Do you want another movie with the same aesthetic? If so, try other John Carpenter horrors movies like Prince of Darkness and In the Mouth of Madness."
+          },
+          {
+            "id": -2922317016430526194,
+            "title": "Reservoir Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "release_year": 1992,
+            "plot_summary": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 500,
+            "imdb_id": "tt0105236",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:09.978649",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy7xf/",
+            "original_comment_text": "Quentin Tarantino is a big fan of The Thing. It shows up in Reservoir Dogs and The Hateful Eight. True Detective: Night Country pays homage to The Thing. It's a TV series. But it definitely has that vibe of not being able to trust the people around you. Rosemary's Baby is a great movie that feeds paranoia as well."
+          },
+          {
+            "id": 9208328952680754251,
+            "title": "It Follows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg",
+            "release_year": 2015,
+            "plot_summary": "A young woman is followed by an unknown supernatural force after a sexual encounter.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 270303,
+            "imdb_id": "tt3235888",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:10.097060",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy3p7/",
+            "original_comment_text": "In 80s body horror, The Fly is neck and neck IMO, but its a much different movie. Great body horror, but a very different story. Much more intimate and personal and sad. It's a masterpiece in its own right. Cronenberg's flagship movie.\n\n\nSpecies is similar in some ways. From Beyond is similar in some ways. It Follows is similar in some ways. The Thing is hard to match.\n\n\nI guess it depends which parts you want to duolicate. Do you want another movie where it's isolated and people slowly become unhinged and suspicious? Do you want a body horror type movie with similar effects and visuals? Do you want a shapeshifter movie? Do you want another movie with the same aesthetic? If so, try other John Carpenter horrors movies like Prince of Darkness and In the Mouth of Madness."
+          },
+          {
+            "id": -7708766836022369502,
+            "title": "The Hidden",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tImKQZsw5rx5jyr70Uc3Pxym0LJ.jpg",
+            "release_year": 1987,
+            "plot_summary": "When average, law-abiding citizens suddenly turn to a life of hedonistic behavior and violent crime, Detective Tom Beck is tasked with helping young FBI agent Lloyd Gallagher determine the cause.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 12476,
+            "imdb_id": "tt0093185",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:10.166238",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihytrg/",
+            "original_comment_text": "[Fallen (1998)](https://www.themoviedb.org/movie/9411-fallen)\n\n[The Hidden (1987)](https://www.themoviedb.org/movie/12476-the-hidden)\n\n[ Invasion of the Body Snatchers (1978) ](https://www.themoviedb.org/movie/11850-invasion-of-the-body-snatchers)"
+          },
+          {
+            "id": 8355266518840829762,
+            "title": "Fallen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nEDvTB9cP2oIKY0M1ZdDvuUEJ8d.jpg",
+            "release_year": 1998,
+            "plot_summary": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution the killings start again, and they are very similar to Reese's style.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9411,
+            "imdb_id": "tt0119099",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:10.235554",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihytrg/",
+            "original_comment_text": "[Fallen (1998)](https://www.themoviedb.org/movie/9411-fallen)\n\n[The Hidden (1987)](https://www.themoviedb.org/movie/12476-the-hidden)\n\n[ Invasion of the Body Snatchers (1978) ](https://www.themoviedb.org/movie/11850-invasion-of-the-body-snatchers)"
+          },
+          {
+            "id": 2281642515127815959,
+            "title": "In the Mouth of Madness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+            "release_year": 1995,
+            "plot_summary": "An insurance investigator visits a small town while looking into the strange disappearance of a popular horror novelist. He soon finds that the impact of the author’s books is far more than inspirational.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 2654,
+            "imdb_id": "tt0113409",
+            "category_title": "Movies Similar To The Thing (1982)",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:10.306967",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swsib1/movies_that_are_similar_to_the_thing_1982/oihy3p7/",
+            "original_comment_text": "In 80s body horror, The Fly is neck and neck IMO, but its a much different movie. Great body horror, but a very different story. Much more intimate and personal and sad. It's a masterpiece in its own right. Cronenberg's flagship movie.\n\n\nSpecies is similar in some ways. From Beyond is similar in some ways. It Follows is similar in some ways. The Thing is hard to match.\n\n\nI guess it depends which parts you want to duolicate. Do you want another movie where it's isolated and people slowly become unhinged and suspicious? Do you want a body horror type movie with similar effects and visuals? Do you want a shapeshifter movie? Do you want another movie with the same aesthetic? If so, try other John Carpenter horrors movies like Prince of Darkness and In the Mouth of Madness."
+          }
+        ]
+      },
+      {
+        "name": "Animated Movies Like The Last Unicorn",
+        "movies": [
+          {
+            "id": 4586768498259708142,
+            "title": "Princes and Princesses",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gP1PDJmbsF5J2teuond2OtRiEaC.jpg",
+            "release_year": 2000,
+            "plot_summary": "In this episodic animated fantasy from France, an art teacher interprets a series of six fairy tales (each involving a prince or princess) with the help of two precocious students. Princes and Princesses was created using a special style of cutout animation, with black silhouetted characters performing the action against backlit backdrops in striking colors.",
+            "runtime": "1h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Animation",
+              "Fantasy",
+              "Comedy",
+              "Family",
+              "Romance",
+              "Mystery",
+              "Adventure"
+            ],
+            "tmdb_id": 65592,
+            "imdb_id": "tt0229664",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.156413",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          },
+          {
+            "id": -7110933796664591843,
+            "title": "The Secret of Kells",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vBymyj7QsXiW4TICD2JC5pAuBHO.jpg",
+            "release_year": 2009,
+            "plot_summary": "Adventure awaits 12 year old Brendan who must fight Vikings and a serpent god to find a crystal and complete the legendary Book of Kells. In order to finish Brother Aiden's book, Brendan must overcome his deepest fears on a secret quest that will take him beyond the abbey walls and into the enchanted forest where dangerous mythical creatures hide. Will Brendan succeed in his quest?",
+            "runtime": "1h 19m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 26963,
+            "imdb_id": "tt0485601",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.271717",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          },
+          {
+            "id": 6702846360581863751,
+            "title": "Wizards",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jeAxoYepnVirGe0H7pmwviSZYul.jpg",
+            "release_year": 1977,
+            "plot_summary": "After the death of his mother, evil mutant wizard Blackwolf discovers long-lost military technologies. Full of ego and ambition, Blackwolf claims his mother's throne, assembles an army, and sets out to brainwash and conquer Earth. Meanwhile, Blackwolf's gentle twin brother, the bearded sage Avatar, calls upon his own magical abilities to foil Blackwolf's plans for world domination — even if it means eliminating his own flesh and blood.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Animation",
+              "Fantasy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 16220,
+            "imdb_id": "tt0076929",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.293234",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oiftkg2/",
+            "original_comment_text": "Spirited away is a fantasy lil different to the last unicorn also I would try wizards is a good film"
+          },
+          {
+            "id": -6173384671798441139,
+            "title": "Little Nemo: Adventures in Slumberland",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uVyqRtRaIGrHJvfxImrHHFaQNxM.jpg",
+            "release_year": 1989,
+            "plot_summary": "A little boy whose dreams transcend reality is sucked into his own fantasy, which is everything he has dreamed of, until he unleashes an old secret that may not only destroy this perfect dream world but reality itself.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 22611,
+            "imdb_id": "tt0104740",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.341420",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifuk9d/",
+            "original_comment_text": "Little Nemos Adventures in Slumberland\n\nSecret of Nimh"
+          },
+          {
+            "id": 6228630064823566905,
+            "title": "The Last Unicorn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/MRHFtXTjxC74MGCzHACcuqvHiw.jpg",
+            "release_year": 1982,
+            "plot_summary": "A unicorn learns from a riddle-speaking butterfly that she is supposedly the last of her kind, all the others having been herded away by the monstrous Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 10150,
+            "imdb_id": "tt0084237",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.416678",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oiftkg2/",
+            "original_comment_text": "Spirited away is a fantasy lil different to the last unicorn also I would try wizards is a good film"
+          },
+          {
+            "id": 394281145416080979,
+            "title": "Song of the Sea",
+            "poster_url": "https://image.tmdb.org/t/p/w500/16LQC6zpqB0l74mVWb93a2oMFnX.jpg",
+            "release_year": 2014,
+            "plot_summary": "The story of the last Seal Child’s journey home. After their mother’s disappearance, Ben and Saoirse are sent to live with Granny in the city. When they resolve to return to their home by the sea, their journey becomes a race against time as they are drawn into a world Ben knows only from his mother’s folktales. But this is no bedtime story; these fairy folk have been in our world far too long. It soon becomes clear to Ben that Saoirse is the key to their survival.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Family",
+              "Animation",
+              "Fantasy"
+            ],
+            "tmdb_id": 110416,
+            "imdb_id": "tt1865505",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.487391",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          },
+          {
+            "id": 6673759785819422698,
+            "title": "The Black Cauldron",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h64i9e6oJs2jrDZ4QzspXMqZhPF.jpg",
+            "release_year": 1985,
+            "plot_summary": "Taran is an assistant pigkeeper with boyish dreams of becoming a great warrior. However, he has to put the daydreaming aside when his charge, an oracular pig named Hen Wen, is kidnapped by an evil lord known as the Horned King. The villain hopes Hen will show him the way to The Black Cauldron, which has the power to create a giant army of unstoppable soldiers.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 10957,
+            "imdb_id": "tt0088814",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.585641",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifub9s/",
+            "original_comment_text": "The Black Cauldron\n\nWizards (kind of)\n\nThe Flight of Dragons "
+          },
+          {
+            "id": 5676518918425107652,
+            "title": "Son of the White Mare",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cYYYIfBFG5nszjDk5xea4MQHyDS.jpg",
+            "release_year": 1981,
+            "plot_summary": "A horse goddess gives birth to three powerful brothers who set out into the Underworld to save three princesses from three evil dragons and reclaim their ancestors' lost kingdom.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "tmdb_id": 41077,
+            "imdb_id": "tt0083931",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.628914",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          },
+          {
+            "id": -7499010523102687524,
+            "title": "Spirited Away",
+            "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "release_year": 2001,
+            "plot_summary": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 129,
+            "imdb_id": "tt0245429",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.701207",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oiftkg2/",
+            "original_comment_text": "Spirited away is a fantasy lil different to the last unicorn also I would try wizards is a good film"
+          },
+          {
+            "id": -6957718922509368605,
+            "title": "The Secret of NIMH",
+            "poster_url": "https://image.tmdb.org/t/p/w500/prNrnOKlkV9wl5Sl3zwHu1f3t2z.jpg",
+            "release_year": 1982,
+            "plot_summary": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Animation",
+              "Fantasy",
+              "Adventure",
+              "Mystery",
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 11704,
+            "imdb_id": "tt0084649",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.772818",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifuk9d/",
+            "original_comment_text": "Little Nemos Adventures in Slumberland\n\nSecret of Nimh"
+          },
+          {
+            "id": -295585319723162958,
+            "title": "Wolfwalkers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+            "release_year": 2020,
+            "plot_summary": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure",
+              "Fantasy"
+            ],
+            "tmdb_id": 441130,
+            "imdb_id": "tt5198068",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.843870",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          },
+          {
+            "id": 1697868361349675069,
+            "title": "Sirocco and the Kingdom of Winds",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3n8tWaBBGS6Df1MtX44aTFws7WJ.jpg",
+            "release_year": 2023,
+            "plot_summary": "Agnès, Juliette and Carmen's neighbour, writes children's storybooks that take place in a fantasy world, The Kingdom of the Winds. The intrepid sisters discover a passageway between their world and this extraordinary universe. Once on the other side, the girls take on the appearance of cats and discover Sirocco, a terrifying character who can control the wind.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 676696,
+            "imdb_id": "tt12015692",
+            "category_title": "Animated Movies Like The Last Unicorn",
+            "time_period": "daily",
+            "date_scraped": "2026-04-27T06:27:28.913868",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1swijdp/animated_films_like_the_last_unicorn/oifth3w/",
+            "original_comment_text": "Princes and Princesses\n\nSon of the White Mare \n\nIrish Folklore Trilogy (Secret of Kells, Song of the Sea, Wolfwalkers)\n\nSirocco and the Kingdom of Winds"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 54,
+    "totalCategories": 5,
+    "lastUpdated": "2026-04-27T06:26:12.938056"
+  }
+}

@@ -1,0 +1,1354 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+        "movies": [
+          {
+            "id": 6040612640354055678,
+            "title": "Soul",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+            "release_year": 2020,
+            "plot_summary": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Family",
+              "Drama",
+              "Music",
+              "Fantasy"
+            ],
+            "tmdb_id": 508442,
+            "imdb_id": "tt2948372",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.851323",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf3kzf/",
+            "original_comment_text": "Soul is a good one for adults."
+          },
+          {
+            "id": 8365559650546902326,
+            "title": "Ratatouille",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "release_year": 2007,
+            "plot_summary": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He dreams of becoming a chef, one who creates rather than scavenges. When fate deposits him in the sewers beneath one of Paris’s most famous restaurants, he finds himself ideally placed to fulfill his dream. Forming an unusual alliance with a hapless young kitchen worker, Remy begins a daring culinary double life.  As Remy pursues his vision, he must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, who strikes fear in the hearts of chefs all throughout France.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 2062,
+            "imdb_id": "tt0382932",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.860319",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4ei5/",
+            "original_comment_text": "Ratatouille and The Incredibles are two of the more “grown up” ones, different vibes but both great films "
+          },
+          {
+            "id": -3781328889544968059,
+            "title": "Dawn Wall Exclusive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qTLvb2OffmxL8zECq8cyVA2XAAO.jpg",
+            "release_year": 2015,
+            "plot_summary": "S10 of Reel Rock. A first look at Tommy Caldwell and Kevin Jorgeson's epic final push to free climb the Dawn Wall. It marked the greatest climbing achievement of a generation and captured the world's imagination. As our team works on a major feature film about the event slated for next year, Reel Rock 10 will include an exclusive first look at the drama playing out at the crux of the route.",
+            "runtime": "13m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1298068,
+            "imdb_id": "tt5068500",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.892002",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf3r78/",
+            "original_comment_text": "WALL-E"
+          },
+          {
+            "id": -8105192239119297773,
+            "title": "Finding Nemo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+            "release_year": 2003,
+            "plot_summary": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 12,
+            "imdb_id": "tt0266543",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.926404",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4acx/",
+            "original_comment_text": "Up or Coco have themes and characters for all ages, and humans might be the easiest to connect to after not watching animation for a while.\n\nFinding Nemo if you don’t mind animals."
+          },
+          {
+            "id": 3949140306782340481,
+            "title": "Coco",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6Ryitt95xrO8KXuqRGm1fUuNwqF.jpg",
+            "release_year": 2017,
+            "plot_summary": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Family",
+              "Animation",
+              "Music",
+              "Adventure"
+            ],
+            "tmdb_id": 354912,
+            "imdb_id": "tt2380307",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.929494",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4acx/",
+            "original_comment_text": "Up or Coco have themes and characters for all ages, and humans might be the easiest to connect to after not watching animation for a while.\n\nFinding Nemo if you don’t mind animals."
+          },
+          {
+            "id": 3450289163754926762,
+            "title": "The Wild Robot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eG9lz41mJqsI4J6ubMtVqD26q2J.jpg",
+            "release_year": 2024,
+            "plot_summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Family",
+              "Animation",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 1184918,
+            "imdb_id": "tt29623480",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:35.963377",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4yjp/",
+            "original_comment_text": "The Wild Robot"
+          },
+          {
+            "id": 966373288108579829,
+            "title": "The Incredibles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "release_year": 2004,
+            "plot_summary": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 9806,
+            "imdb_id": "tt0317705",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.001598",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4ei5/",
+            "original_comment_text": "Ratatouille and The Incredibles are two of the more “grown up” ones, different vibes but both great films "
+          },
+          {
+            "id": -6782259691980408224,
+            "title": "Up",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mFvoEwSfLqbcWwFsDjQebn9bzFe.jpg",
+            "release_year": 2009,
+            "plot_summary": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 14160,
+            "imdb_id": "tt1049413",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.069933",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf4acx/",
+            "original_comment_text": "Up or Coco have themes and characters for all ages, and humans might be the easiest to connect to after not watching animation for a while.\n\nFinding Nemo if you don’t mind animals."
+          },
+          {
+            "id": 8053932269192049656,
+            "title": "Cars",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+            "release_year": 2006,
+            "plot_summary": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs. On route across the country to the big Piston Cup Championship in California to compete against two seasoned pros, McQueen gets to know the town's offbeat characters.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 920,
+            "imdb_id": "tt0317219",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.074990",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf7u0h/",
+            "original_comment_text": "Cars, but it's a little racy."
+          },
+          {
+            "id": 8597755269335769077,
+            "title": "The Emperor's New Groove",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wwbgkXQBEKtnyIJapk6gUgWkVw8.jpg",
+            "release_year": 2000,
+            "plot_summary": "When the self‑absorbed Emperor Kuzco is accidentally transformed into a llama, he must rely on a humble villager to survive the jungle and reclaim his throne.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 11688,
+            "imdb_id": "tt0120917",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.106340",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojfjnu3/",
+            "original_comment_text": "The Emperor's New Groove. Everybody needs to watch this movie. The voice cast is brilliant, it's absolutely hilarious and a wonderful story too."
+          },
+          {
+            "id": -667525838575465530,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
+            "release_year": 2024,
+            "plot_summary": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 823219,
+            "imdb_id": "tt4772188",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.274563",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf5ctl/",
+            "original_comment_text": "Flow is beautiful. "
+          },
+          {
+            "id": 7323479405893301813,
+            "title": "Tangled",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+            "release_year": 2010,
+            "plot_summary": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 38757,
+            "imdb_id": "tt0398286",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.280966",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf7de6/",
+            "original_comment_text": "Great suggestions here. I’ll add Encanto. It’s. Disney not Pixar but surprisingly fun. Also Tangled is worth a go, Flynn Ryder is a lot of fun as is Maximus. "
+          },
+          {
+            "id": -2683679589749369227,
+            "title": "Encanto",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+            "release_year": 2021,
+            "plot_summary": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 568124,
+            "imdb_id": "tt2953050",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.321941",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf7de6/",
+            "original_comment_text": "Great suggestions here. I’ll add Encanto. It’s. Disney not Pixar but surprisingly fun. Also Tangled is worth a go, Flynn Ryder is a lot of fun as is Maximus. "
+          },
+          {
+            "id": 2514344232354433357,
+            "title": "Fantastic Mr. Fox",
+            "poster_url": "https://image.tmdb.org/t/p/w500/euZyZb6iGreujYKrGyZHRddhUYh.jpg",
+            "release_year": 2009,
+            "plot_summary": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 10315,
+            "imdb_id": "tt0432283",
+            "category_title": "Best Adult-Friendly Animated Or Pixar Movies For Couples In Their 60s",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:36.394871",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t1anre/what_is_the_best_adultfriendly_animated_or_pixar/ojf7j48/",
+            "original_comment_text": "Fantastic Mr. Fox"
+          }
+        ]
+      },
+      {
+        "name": "Time Travel Movie Recommendations",
+        "movies": [
+          {
+            "id": -7745678917671870805,
+            "title": "Edge of Tomorrow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+            "release_year": 2014,
+            "plot_summary": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 137113,
+            "imdb_id": "tt1631867",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.813827",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": -7996385547729934729,
+            "title": "Triangle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+            "release_year": 2009,
+            "plot_summary": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 26466,
+            "imdb_id": "tt1187064",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.822214",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": -3329879383244985309,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.824328",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx55d8/",
+            "original_comment_text": "Primer (2004) is a solid pick! "
+          },
+          {
+            "id": 7710599758818320938,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.824609",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": 3954048234003813213,
+            "title": "Donnie Darko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg",
+            "release_year": 2001,
+            "plot_summary": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 141,
+            "imdb_id": "tt0246578",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.824801",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": -3125019224356756290,
+            "title": "Back to the Future",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "release_year": 1985,
+            "plot_summary": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 105,
+            "imdb_id": "tt0088763",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.825178",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx4zmd/",
+            "original_comment_text": "Back to the future trilogy. Watching these now in 4k Dolby "
+          },
+          {
+            "id": 4936872572049069707,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in thejr family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.828027",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": -8869372217026619485,
+            "title": "Caddo Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/86dAl9HAGDOhvOIM8uPVjfk9P1v.jpg",
+            "release_year": 2024,
+            "plot_summary": "When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family’s history.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Mystery",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 863873,
+            "imdb_id": "tt15552142",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.830656",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": -3669213395040578243,
+            "title": "Time After Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A4SXZxQempzTUReRlQiFaYc6KaC.jpg",
+            "release_year": 1979,
+            "plot_summary": "Writer H. G. Wells pursues Jack the Ripper to modern day San Francisco after the infamous serial killer steals his time machine to escape the 19th century.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Comedy",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 24750,
+            "imdb_id": "tt0080025",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.865013",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx58iz/",
+            "original_comment_text": "Time After Time (1979)"
+          },
+          {
+            "id": -4988398246629038203,
+            "title": "Back to the Future Part II",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
+            "release_year": 1989,
+            "plot_summary": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 165,
+            "imdb_id": "tt0096874",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.865312",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx4zmd/",
+            "original_comment_text": "Back to the future trilogy. Watching these now in 4k Dolby "
+          },
+          {
+            "id": -2802723761460018209,
+            "title": "The Time Machine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iYayQahkghlbAsfOQX8b5eBzGVy.jpg",
+            "release_year": 2002,
+            "plot_summary": "Hoping to alter the events of the past, a 19th-century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Science Fiction",
+              "Adventure",
+              "Action"
+            ],
+            "tmdb_id": 2135,
+            "imdb_id": "tt0268695",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.876052",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5m7m/",
+            "original_comment_text": "The Time Machine (1960), absolutely worth a watch even though you have to be a little forgiving due to its age. Pretty sure it’s free on yt "
+          },
+          {
+            "id": 815253260043810712,
+            "title": "Time Bandits",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+            "release_year": 1981,
+            "plot_summary": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Family",
+              "Fantasy",
+              "Science Fiction",
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 36819,
+            "imdb_id": "tt0081633",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.876575",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5kx3/",
+            "original_comment_text": "Time Bandits! An absolute classic, with David Warner playing the greatest movie villain ever. "
+          },
+          {
+            "id": -8306277217970806925,
+            "title": "Back to the Future Part III",
+            "poster_url": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+            "release_year": 1990,
+            "plot_summary": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 196,
+            "imdb_id": "tt0099088",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:15:59.937546",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx4zmd/",
+            "original_comment_text": "Back to the future trilogy. Watching these now in 4k Dolby "
+          },
+          {
+            "id": -4634245051387271500,
+            "title": "Bill & Ted's Excellent Adventure",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qcLGk8CkZW4rHK1kqD9Jdst5vd8.jpg",
+            "release_year": 1989,
+            "plot_summary": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1648,
+            "imdb_id": "tt0096928",
+            "category_title": "Time Travel Movie Recommendations",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:00.026812",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5d1h/",
+            "original_comment_text": "Bill and Ted's Excellent Adventure!"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Invented A Holiday",
+        "movies": [
+          {
+            "id": -2003071345570907333,
+            "title": "Con Air",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kOKjgrEzGOP92rVQ6srA9jtp60l.jpg",
+            "release_year": 1997,
+            "plot_summary": "Newly-paroled former US Army ranger Cameron Poe is headed back to his wife, but must fly home aboard a prison transport flight dubbed \"Jailbird\" taking the “worst of the worst” prisoners, a group described as “pure predators”, to a new super-prison. Poe faces impossible odds when the transport plane is skyjacked mid-flight by the most vicious criminals in the country led by the mastermind — genius serial killer Cyrus \"The Virus\" Grissom, and backed by black militant Diamond Dog and psychopath Billy Bedlam.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 1701,
+            "imdb_id": "tt0118880",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.642984",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiysgim/",
+            "original_comment_text": "I’m probably one of the few people but I celebrate the coming home of Cameron Poe (JULY 14th) The hero of Con Air. "
+          },
+          {
+            "id": -5483065912846956870,
+            "title": "The Big Lebowski",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg",
+            "release_year": 1998,
+            "plot_summary": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 115,
+            "imdb_id": "tt0118715",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.672097",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyfjnx/",
+            "original_comment_text": "The movie didn't invent the \"religious\" holidays, but the fans did: The Big Lebowski. It spawned a whole religion called Dudeism.\n\nNot a movie, but Seinfeld made Festivus."
+          },
+          {
+            "id": -231934129849027778,
+            "title": "Mean Girls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fXm3YKXAEjx7d2tIWDg9TfRZtsU.jpg",
+            "release_year": 2004,
+            "plot_summary": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 10625,
+            "imdb_id": "tt0377092",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.719799",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyekyz/",
+            "original_comment_text": "Oct. 3rd is Mean Girls Day from a quote in the movie. "
+          },
+          {
+            "id": -7601331234583795715,
+            "title": "Star Wars",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+            "release_year": 1977,
+            "plot_summary": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 11,
+            "imdb_id": "tt0076759",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.740387",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyextw/",
+            "original_comment_text": "May the 4th be with you"
+          },
+          {
+            "id": -6859683873855729474,
+            "title": "Star Trek: First Contact",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iqhHe893Vcf07jNkNQ31tu85dKG.jpg",
+            "release_year": 1996,
+            "plot_summary": "The Borg, a relentless race of cyborgs, are on a direct course for Earth. Violating orders to stay away from the battle, Captain Picard and the crew of the newly-commissioned USS Enterprise E pursue the Borg back in time to prevent the invaders from changing Federation history and assimilating the galaxy.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure",
+              "Thriller"
+            ],
+            "tmdb_id": 199,
+            "imdb_id": "tt0117731",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.742323",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyigrj/",
+            "original_comment_text": "April 5th is First Contact Day in Bozeman, MT. It celebrates the first time that humans made contact with the Vulcans from the 1996 movie Star Trek: First Contact"
+          },
+          {
+            "id": -224997310457195544,
+            "title": "Palm Springs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+            "release_year": 2020,
+            "plot_summary": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Science Fiction"
+            ],
+            "tmdb_id": 587792,
+            "imdb_id": "tt9484998",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.814322",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyfep1/",
+            "original_comment_text": "Similar to Groundhog Day, Palm Springs Day is November 9."
+          },
+          {
+            "id": -4374502493391275986,
+            "title": "Captain Fantastic",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2sFME73GaD8UsUxPUKe60cPdLif.jpg",
+            "release_year": 2016,
+            "plot_summary": "Deep in the forests of the Pacific Northwest, a father devoted to raising his six kids with a rigorous physical and intellectual education is forced to leave his paradise and enter the world, beginning a journey that challenges his idea of what it means to be a parent.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 334533,
+            "imdb_id": "tt3553976",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.884492",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyepnu/",
+            "original_comment_text": "Noam Chomsky Day from Captain Fantastic (2016)"
+          },
+          {
+            "id": 2770706846420173859,
+            "title": "Groundhog Day",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+            "release_year": 1993,
+            "plot_summary": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Romance",
+              "Fantasy",
+              "Comedy"
+            ],
+            "tmdb_id": 137,
+            "imdb_id": "tt0107048",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:33.957271",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyfep1/",
+            "original_comment_text": "Similar to Groundhog Day, Palm Springs Day is November 9."
+          },
+          {
+            "id": -6489225727345018551,
+            "title": "Miss Congeniality",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pat3vKaRlB70he4ghwTMydR4TvP.jpg",
+            "release_year": 2000,
+            "plot_summary": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Action"
+            ],
+            "tmdb_id": 1493,
+            "imdb_id": "tt0212346",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:34.026691",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiye52z/",
+            "original_comment_text": "April 25th being the perfect date from [Miss Congeniality](https://www.themoviedb.org/movie/1493-miss-congeniality) (2000)"
+          },
+          {
+            "id": 9102050599289316852,
+            "title": "The Hunger Games",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+            "release_year": 2012,
+            "plot_summary": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Science Fiction",
+              "Adventure",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 70160,
+            "imdb_id": "tt1392170",
+            "category_title": "Movies That Invented A Holiday",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:34.136222",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sz1w5p/movies_that_invented_a_holiday/oiyf9k1/",
+            "original_comment_text": "Reaping Day from the Hunger Games"
+          }
+        ]
+      },
+      {
+        "name": "Romantic Movies Without Sex And Lust",
+        "movies": [
+          {
+            "id": 6170694598658030698,
+            "title": "Pride & Prejudice",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+            "release_year": 2005,
+            "plot_summary": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 4348,
+            "imdb_id": "tt0414387",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:55.888017",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr05jg/",
+            "original_comment_text": "If you haven’t seen Pride & Prejudice (2005), I’d start there."
+          },
+          {
+            "id": -8405770084791598012,
+            "title": "Before Sunrise",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+            "release_year": 1995,
+            "plot_summary": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 76,
+            "imdb_id": "tt0112471",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:55.920536",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr3z16/",
+            "original_comment_text": "The before triology"
+          },
+          {
+            "id": -5692692731637183770,
+            "title": "Before Sunset",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+            "release_year": 2004,
+            "plot_summary": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 80,
+            "imdb_id": "tt0381681",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:55.955962",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr3z16/",
+            "original_comment_text": "The before triology"
+          },
+          {
+            "id": 7575219385844783070,
+            "title": "Before Midnight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+            "release_year": 2013,
+            "plot_summary": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 132344,
+            "imdb_id": "tt2209418",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:55.991065",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr3z16/",
+            "original_comment_text": "The before triology"
+          },
+          {
+            "id": 6385543044049843930,
+            "title": "Brief Encounter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+            "release_year": 1945,
+            "plot_summary": "Returning home from a shopping trip to a nearby town, bored suburban housewife Laura Jesson is thrown by happenstance into an acquaintance with virtuous doctor Alec Harvey. Their casual friendship soon develops during their weekly visits into something more emotionally fulfilling than either expected, and they must wrestle with the potential havoc their deepening relationship would have on their lives and the lives of those they love.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 851,
+            "imdb_id": "tt0037558",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.073940",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr5xwr/",
+            "original_comment_text": "Loads of classics:\n\nCasablanca\n\nBrief Encounter\n\nSabrina\n\nThe African Queen"
+          },
+          {
+            "id": 1635453878335642538,
+            "title": "The Wedding Singer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zVvyTrcZQb7kC2DPDzyo25WcxXp.jpg",
+            "release_year": 1998,
+            "plot_summary": "Robbie, a local rock star turned wedding singer, is dumped on the day of his wedding. Meanwhile, waitress Julia finally sets a wedding date with her fiancée Glenn. When Julia and Robbie meet and hit it off, they find that things are more complicated than anybody thought.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 11003,
+            "imdb_id": "tt0120888",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.108751",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr3upt/",
+            "original_comment_text": "The Wedding Singer\n\n50 First Dates"
+          },
+          {
+            "id": -3662691838407897482,
+            "title": "In the Mood for Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+            "release_year": 2000,
+            "plot_summary": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 843,
+            "imdb_id": "tt0118694",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.148822",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr45cd/",
+            "original_comment_text": "I kind of want to say \"In The Mood For Love\" because it - to me - feels genuinely about the real chemistry and tension, rather than some base lusty hornyness.\n\nBut I'm just not sure if it's bordering on too horny for you. Open to thoughts from others here?"
+          },
+          {
+            "id": 6548369458429115115,
+            "title": "Casablanca",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lGCEKlJo2CnWydQj7aamY7s1S7Q.jpg",
+            "release_year": 1943,
+            "plot_summary": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 289,
+            "imdb_id": "tt0034583",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.175042",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr5xwr/",
+            "original_comment_text": "Loads of classics:\n\nCasablanca\n\nBrief Encounter\n\nSabrina\n\nThe African Queen"
+          },
+          {
+            "id": -1878506393729232326,
+            "title": "While You Were Sleeping",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+            "release_year": 1995,
+            "plot_summary": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 2064,
+            "imdb_id": "tt0114924",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.221077",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr2p6e/",
+            "original_comment_text": "While You Were Sleeping"
+          },
+          {
+            "id": 1146768253172517274,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Family",
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.269925",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr5bab/",
+            "original_comment_text": "Princess Bride"
+          },
+          {
+            "id": 2919158539832700797,
+            "title": "The African Queen",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2Ypg0KhQfFYWILelvHGtSHHR0dk.jpg",
+            "release_year": 1951,
+            "plot_summary": "At the start of the First World War, in the middle of Africa’s nowhere, a gin soaked riverboat captain is persuaded by a strong-willed missionary to go down river and face-off a German warship.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Romance",
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 488,
+            "imdb_id": "tt0043265",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.291352",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr5xwr/",
+            "original_comment_text": "Loads of classics:\n\nCasablanca\n\nBrief Encounter\n\nSabrina\n\nThe African Queen"
+          },
+          {
+            "id": -4687540041913645471,
+            "title": "You've Got Mail",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e2uVtH6TpMfUl7WeOM70ezkcjsU.jpg",
+            "release_year": 1998,
+            "plot_summary": "Book superstore magnate Joe Fox and independent book shop owner Kathleen Kelly fall in love in the anonymity of the Internet—both blissfully unaware that he's trying to put her out of business.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 9489,
+            "imdb_id": "tt0128853",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.323276",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr7lyf/",
+            "original_comment_text": "You've Got Mail, Sleepless in Seattle, While You Were Sleeping, The Vow, The Family Man, The Wedding Planner, As Good as it Gets."
+          },
+          {
+            "id": -8973537090681445996,
+            "title": "50 First Dates",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lzUI2Cg7OMfcUNv3f7MywYNBjs6.jpg",
+            "release_year": 2004,
+            "plot_summary": "Henry is a player skilled at seducing women. But when this veterinarian meets Lucy, a girl with a quirky problem when it comes to total recall, he realizes it's possible to fall in love all over again…and again, and again. That's because the delightful Lucy has no short-term memory, so Henry must woo her day after day until he finally sweeps her off her feet.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 1824,
+            "imdb_id": "tt0343660",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.361878",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr3upt/",
+            "original_comment_text": "The Wedding Singer\n\n50 First Dates"
+          },
+          {
+            "id": 5350229660257763259,
+            "title": "Sabrina",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e1Po9NDrH7IJZhv89467gJH5FS0.jpg",
+            "release_year": 1954,
+            "plot_summary": "After her return from school in Paris, a playboy finally takes notice of his family's chauffeur's daughter Sabrina, who's long had a crush on him, but he questions his more serious brother's motives when he warns against getting involved with her.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 6620,
+            "imdb_id": "tt0047437",
+            "category_title": "Romantic Movies Without Sex And Lust",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:16:56.432133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t2x4gc/a_romantic_movie_without_sex_and_lust/ojr5xwr/",
+            "original_comment_text": "Loads of classics:\n\nCasablanca\n\nBrief Encounter\n\nSabrina\n\nThe African Queen"
+          }
+        ]
+      },
+      {
+        "name": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+        "movies": [
+          {
+            "id": 8031120899798554343,
+            "title": "The Sandlot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7PYqz0viEuW8qTvuGinUMjDWMnj.jpg",
+            "release_year": 1993,
+            "plot_summary": "During a summer of friendship and adventure, one boy becomes a part of the gang, nine boys become a team and their leader becomes a legend by confronting the terrifying mystery beyond the right field wall.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 11528,
+            "imdb_id": "tt0108037",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.819732",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rsyx/",
+            "original_comment_text": "Sandlot and Home Alone!"
+          },
+          {
+            "id": 4973079781858718682,
+            "title": "Never Ending Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99s38PF3dqqUpof22jm777H9zqk.jpg",
+            "release_year": 2012,
+            "plot_summary": "A man and a woman who is only given so much time to live fall in love and resolves heart aching love into a bright and cheerful one.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 92507,
+            "imdb_id": "tt2361272",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.821612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rn8j/",
+            "original_comment_text": "If he is good with slightly older movies there is a slew of great options from the 80's & 90's\n\n* Goonies\n* Mighty Ducks\n* Sandlot\n* Never Ending Story\n* and so on...\n\n7 might be too young but he might vibe with some safer PG-13 type movies, I'm think something like Rocky or Back to the Future. My kids love the movie The Greatest Showman, but it is a musical & they are girls, so your milage might vary 😄"
+          },
+          {
+            "id": -9148495209963651839,
+            "title": "Rocky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hEjK9A9BkNXejFW4tfacVAEHtkn.jpg",
+            "release_year": 1976,
+            "plot_summary": "Rocky Balboa is a Philadelphia club fighter who seems to be going nowhere. But when a stroke of fate puts him in the ring with a world heavyweight champion, Rocky knows that it's his one shot at the big time — a once-in-a-lifetime opportunity to go the distance and come out a winner!",
+            "runtime": "2h",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1366,
+            "imdb_id": "tt0075148",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.886118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rn8j/",
+            "original_comment_text": "If he is good with slightly older movies there is a slew of great options from the 80's & 90's\n\n* Goonies\n* Mighty Ducks\n* Sandlot\n* Never Ending Story\n* and so on...\n\n7 might be too young but he might vibe with some safer PG-13 type movies, I'm think something like Rocky or Back to the Future. My kids love the movie The Greatest Showman, but it is a musical & they are girls, so your milage might vary 😄"
+          },
+          {
+            "id": 4300423861736008347,
+            "title": "The Goonies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+            "release_year": 1985,
+            "plot_summary": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 9340,
+            "imdb_id": "tt0089218",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.895209",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rn8j/",
+            "original_comment_text": "If he is good with slightly older movies there is a slew of great options from the 80's & 90's\n\n* Goonies\n* Mighty Ducks\n* Sandlot\n* Never Ending Story\n* and so on...\n\n7 might be too young but he might vibe with some safer PG-13 type movies, I'm think something like Rocky or Back to the Future. My kids love the movie The Greatest Showman, but it is a musical & they are girls, so your milage might vary 😄"
+          },
+          {
+            "id": -54031378214952309,
+            "title": "Secondhand Lions",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mYIMMAma7DCACRfiGhHAybPAdKa.jpg",
+            "release_year": 2003,
+            "plot_summary": "The comedic adventures of an introverted boy left on the doorstep of a pair of reluctant, eccentric great-uncles, whose exotic remembrances stir the boy's spirit and re-ignite the men's lives.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Family",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 13156,
+            "imdb_id": "tt0327137",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.895681",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rdit/",
+            "original_comment_text": "Second hand lions\n\nGreat movie that I think both of you will enjoy"
+          },
+          {
+            "id": 2765891207872346619,
+            "title": "Home Alone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
+            "release_year": 1990,
+            "plot_summary": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 771,
+            "imdb_id": "tt0099785",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.962109",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rsyx/",
+            "original_comment_text": "Sandlot and Home Alone!"
+          },
+          {
+            "id": 8678527513068619287,
+            "title": "The Greatest Showman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg",
+            "release_year": 2017,
+            "plot_summary": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 316029,
+            "imdb_id": "tt1485796",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:27.965420",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rn8j/",
+            "original_comment_text": "If he is good with slightly older movies there is a slew of great options from the 80's & 90's\n\n* Goonies\n* Mighty Ducks\n* Sandlot\n* Never Ending Story\n* and so on...\n\n7 might be too young but he might vibe with some safer PG-13 type movies, I'm think something like Rocky or Back to the Future. My kids love the movie The Greatest Showman, but it is a musical & they are girls, so your milage might vary 😄"
+          },
+          {
+            "id": -1032908069393452606,
+            "title": "Babe",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zKuQMtnbVTz9DsOnOJmlW71v4qH.jpg",
+            "release_year": 1995,
+            "plot_summary": "Babe is a little pig who doesn't quite know his place in the world. With a bunch of odd friends, like Ferdinand the duck who thinks he is a rooster and Fly the dog he calls mum, Babe realises that he has the makings to become the greatest sheep pig of all time, and Farmer Hoggett knows it. With the help of the sheep dogs, Babe learns that a pig can be anything that he wants to be.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 9598,
+            "imdb_id": "tt0112431",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:28.030657",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6s92n/",
+            "original_comment_text": "Babe "
+          },
+          {
+            "id": 6268435899873589239,
+            "title": "Jumanji",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg",
+            "release_year": 1995,
+            "plot_summary": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Family"
+            ],
+            "tmdb_id": 8844,
+            "imdb_id": "tt0113497",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:28.031797",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6tfen/",
+            "original_comment_text": "Jumanji "
+          },
+          {
+            "id": 7602213945319632281,
+            "title": "The Mighty Ducks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zxaCHxKDFNi6frh1Q0dj19L216o.jpg",
+            "release_year": 1992,
+            "plot_summary": "After reckless young lawyer Gordon Bombay gets arrested for drunk driving, he must coach a kids hockey team for his community service. Gordon has experience on the ice, but isn't eager to return to hockey, a point hit home by his tense dealings with his own former coach, Jack Reilly. The reluctant Gordon eventually grows to appreciate his team, which includes promising young Charlie Conway, and leads them to take on Reilly's tough players.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 10414,
+            "imdb_id": "tt0104868",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:28.103804",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6rn8j/",
+            "original_comment_text": "If he is good with slightly older movies there is a slew of great options from the 80's & 90's\n\n* Goonies\n* Mighty Ducks\n* Sandlot\n* Never Ending Story\n* and so on...\n\n7 might be too young but he might vibe with some safer PG-13 type movies, I'm think something like Rocky or Back to the Future. My kids love the movie The Greatest Showman, but it is a musical & they are girls, so your milage might vary 😄"
+          },
+          {
+            "id": -4802542087418396779,
+            "title": "Dennis the Menace",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t642WwGifbQ2fEuKTJRgpPzsgtX.jpg",
+            "release_year": 1993,
+            "plot_summary": "Mr. Wilson's ever-present annoyance comes in the form of one mischievous kid named Dennis. But he'll need Dennis's tricks to uncover a collection of gold coins that go missing when a shady drifter named Switchblade Sam comes to town.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 12139,
+            "imdb_id": "tt0106701",
+            "category_title": "Age-Appropriate Non-Animated Movies To Watch With A 7-Year-Old Nephew",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-05T06:17:28.174528",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t063wg/looking_for_ageappropriate_nonanimated_movies_to/oj6svey/",
+            "original_comment_text": "Dennis the Menace\n\nTeenage Mutant Ninja Turtles\n\nTeenage Mutant Ninja Turtles 2: Secret of the Ooze\n\nThe Explorers \n\nFlight of the Navigator\n\nMilo and Otis\n\nBabe\n\nHomeward Bound"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 63,
+    "totalCategories": 5,
+    "lastUpdated": "2026-05-05T06:15:35.851323"
+  }
+}

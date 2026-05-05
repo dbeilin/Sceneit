@@ -1,0 +1,1246 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "More Time Travel Movie Recommendations",
+        "movies": [
+          {
+            "id": -6233374284814762528,
+            "title": "Triangle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+            "release_year": 2009,
+            "plot_summary": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 26466,
+            "imdb_id": "tt1187064",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.315948",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": 7683477654396454049,
+            "title": "Time Bandits",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+            "release_year": 1981,
+            "plot_summary": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Family",
+              "Fantasy",
+              "Science Fiction",
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 36819,
+            "imdb_id": "tt0081633",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.317987",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5kx3/",
+            "original_comment_text": "Time Bandits! An absolute classic, with David Warner playing the greatest movie villain ever. "
+          },
+          {
+            "id": -5434995978571853130,
+            "title": "Time After Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A4SXZxQempzTUReRlQiFaYc6KaC.jpg",
+            "release_year": 1979,
+            "plot_summary": "Writer H. G. Wells pursues Jack the Ripper to modern day San Francisco after the infamous serial killer steals his time machine to escape the 19th century.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Comedy",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 24750,
+            "imdb_id": "tt0080025",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.385122",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx58iz/",
+            "original_comment_text": "Time After Time (1979)"
+          },
+          {
+            "id": 3049448103316843378,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.389384",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx55d8/",
+            "original_comment_text": "Primer (2004) is a solid pick! "
+          },
+          {
+            "id": -1073214506928470044,
+            "title": "Donnie Darko",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sv7D4vlfIH25lNjQYoXzoOFCYaz.jpg",
+            "release_year": 2001,
+            "plot_summary": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 141,
+            "imdb_id": "tt0246578",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.390622",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": 7237677015088723074,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.469732",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": 200521276074223066,
+            "title": "Edge of Tomorrow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+            "release_year": 2014,
+            "plot_summary": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 137113,
+            "imdb_id": "tt1631867",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.470871",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6ym1/",
+            "original_comment_text": "Since you’ve already covered most of the popular ones, try:\n\n**Primer** – probably the most realistic and confusing take on time travel  \n**Triangle** – more of a psychological loop, really underrated  \n**About Time** – lighter, emotional, but still uses time travel really well  \n**Donnie Darko** – weird, but it sticks with you  \n**Edge of Tomorrow** (if you’re okay with a loop style again)\n\nAlso if you’re open to shows, **Dark** is basically peak time travel storytelling."
+          },
+          {
+            "id": 8727887375125943201,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in thejr family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.529490",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": -3815969257270737632,
+            "title": "Caddo Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/86dAl9HAGDOhvOIM8uPVjfk9P1v.jpg",
+            "release_year": 2024,
+            "plot_summary": "When an 8-year-old girl mysteriously vanishes on Caddo Lake, a series of past deaths and disappearances begin to link together, forever altering a broken family’s history.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Mystery",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 863873,
+            "imdb_id": "tt15552142",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.600155",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx6zta/",
+            "original_comment_text": "* DARK (It's a TV Show and the best one for time travel)\n* About Time\n* Predestination\n* Caddo Lake (Watch this after you've watched Dark)"
+          },
+          {
+            "id": -2831506929032505545,
+            "title": "The Time Machine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iYayQahkghlbAsfOQX8b5eBzGVy.jpg",
+            "release_year": 2002,
+            "plot_summary": "Hoping to alter the events of the past, a 19th-century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Science Fiction",
+              "Adventure",
+              "Action"
+            ],
+            "tmdb_id": 2135,
+            "imdb_id": "tt0268695",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.602506",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5m7m/",
+            "original_comment_text": "The Time Machine (1960), absolutely worth a watch even though you have to be a little forgiving due to its age. Pretty sure it’s free on yt "
+          },
+          {
+            "id": 1607726203903620563,
+            "title": "Back to the Future",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "release_year": 1985,
+            "plot_summary": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 105,
+            "imdb_id": "tt0088763",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.671297",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx4zmd/",
+            "original_comment_text": "Back to the future trilogy. Watching these now in 4k Dolby "
+          },
+          {
+            "id": -2037502462451990150,
+            "title": "Bill & Ted's Excellent Adventure",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qcLGk8CkZW4rHK1kqD9Jdst5vd8.jpg",
+            "release_year": 1989,
+            "plot_summary": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1648,
+            "imdb_id": "tt0096928",
+            "category_title": "More Time Travel Movie Recommendations",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:17.743220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ra3l/obsessed_with_time_travel_movies_what_else_would/ojx5d1h/",
+            "original_comment_text": "Bill and Ted's Excellent Adventure!"
+          }
+        ]
+      },
+      {
+        "name": "Recommendations For Dumb Comedy Movies",
+        "movies": [
+          {
+            "id": -7828434888133351801,
+            "title": "Grandma's Boy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fSRdHBtisU0zhks4OjKezI3jnt7.jpg",
+            "release_year": 2006,
+            "plot_summary": "Even though he's 35, Alex acts more like he's 13, spending his days as the world's oldest video game tester and his evenings developing the next big Xbox game. But when he gets kicked out of his apartment, he's forced to move in with his grandmother.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9900,
+            "imdb_id": "tt0456554",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.058139",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy2z3t/",
+            "original_comment_text": "Grandma's Boy"
+          },
+          {
+            "id": 4899588737110028610,
+            "title": "Spaceballs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kNbaxEsnCyWBTfANVPHayujBsxp.jpg",
+            "release_year": 1987,
+            "plot_summary": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 957,
+            "imdb_id": "tt0094012",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.128873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy47ix/",
+            "original_comment_text": "Spaceballs and Blazing Saddles"
+          },
+          {
+            "id": 1899919293775075898,
+            "title": "Top Secret!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+            "release_year": 1984,
+            "plot_summary": "Popular and dashing American singer Nick Rivers travels to East Germany to perform in a music festival. When he loses his heart to the gorgeous Hillary Flammond, he finds himself caught up in an underground resistance movement. Rivers joins forces with Agent Cedric and Flammond to attempt the rescue of her father, Dr. Paul, from the Germans, who have captured the scientist in hopes of coercing him into building a new naval mine.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8764,
+            "imdb_id": "tt0088286",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.211226",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy3l47/",
+            "original_comment_text": "Naked Gun series, Air Plane, Top Secret!"
+          },
+          {
+            "id": -785003760188241159,
+            "title": "The Naked Gun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rwla9vqzrKVVKVKiOuROTIXGsxj.jpg",
+            "release_year": 2025,
+            "plot_summary": "Only one man has the particular set of skills... to lead Police Squad and save the world: Lt. Frank Drebin Jr. Following in his father's footsteps, he must solve a murder case to prevent Police Squad from closure.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 1035259,
+            "imdb_id": "tt3402138",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.297565",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy3l47/",
+            "original_comment_text": "Naked Gun series, Air Plane, Top Secret!"
+          },
+          {
+            "id": -3734405228111001145,
+            "title": "MacGruber",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1eZEk793evkaIOjBwNO2cFS6h5x.jpg",
+            "release_year": 2010,
+            "plot_summary": "Ex-special operative MacGruber is called back into action to take down his archenemy, Dieter Von Cunth, who's in possession of a nuclear warhead and bent on destroying Washington, DC.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Action",
+              "Comedy"
+            ],
+            "tmdb_id": 37931,
+            "imdb_id": "tt1470023",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.346890",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy4ljs/",
+            "original_comment_text": "MacGruber is a huge omission"
+          },
+          {
+            "id": -2015286055795854822,
+            "title": "Airplane!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Q3efxd3AF1vQjlSxnlerSA7RzN.jpg",
+            "release_year": 1980,
+            "plot_summary": "An ex-fighter pilot forced to take over the controls of an airliner when the flight crew succumbs to food poisoning.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 813,
+            "imdb_id": "tt0080339",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.364162",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy3l47/",
+            "original_comment_text": "Naked Gun series, Air Plane, Top Secret!"
+          },
+          {
+            "id": -4707385873514439964,
+            "title": "Blazing Saddles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xDSrLJcHJpMXISPdl6sPkS5Xbu6.jpg",
+            "release_year": 1974,
+            "plot_summary": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Western",
+              "Comedy"
+            ],
+            "tmdb_id": 11072,
+            "imdb_id": "tt0071230",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.430169",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy47ix/",
+            "original_comment_text": "Spaceballs and Blazing Saddles"
+          },
+          {
+            "id": -5099140964600597240,
+            "title": "Freddy Got Fingered",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+            "release_year": 2001,
+            "plot_summary": "Unemployed cartoonist Gord Brody moves back in with his parents Jim and Julie and younger brother Freddy. When his parents demand he leave, he retaliates by spreading rumors that Jim is sexually abusing Freddy.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 4.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 13166,
+            "imdb_id": "tt0240515",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.433356",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy3lwb/",
+            "original_comment_text": "Freddy Got Fingered (2001)"
+          },
+          {
+            "id": 6917984919091812860,
+            "title": "Hamlet 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ljdmxGNwhuWZBsCgANlZrruFkJj.jpg",
+            "release_year": 2008,
+            "plot_summary": "Failed actor-turned-worse-high-school-drama-teacher Dana Marschz rallies his Tucson students as he conceives and stages a politically incorrect musical sequel to Shakespeare's Hamlet.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 12621,
+            "imdb_id": "tt1104733",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.499658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy2zj6/",
+            "original_comment_text": "Hamlet 2?"
+          },
+          {
+            "id": -891088992440548526,
+            "title": "The Other Guys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gEz6vvd9zX1sa4e76qNMxawncX0.jpg",
+            "release_year": 2010,
+            "plot_summary": "Unlike their heroic counterparts on the force, desk-bound NYPD detectives Gamble and Hoitz garner no headlines as they work day to day. When a seemingly minor case turns out to be a big deal, the two cops get the opportunity to finally prove to their comrades that they have the right stuff.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy",
+              "Action"
+            ],
+            "tmdb_id": 27581,
+            "imdb_id": "tt1386588",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.576759",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy460s/",
+            "original_comment_text": "The Other Guys. "
+          },
+          {
+            "id": 1208829051508251544,
+            "title": "Tucker and Dale vs. Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+            "release_year": 2010,
+            "plot_summary": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 46838,
+            "imdb_id": "tt1465522",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.644333",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy5oya/",
+            "original_comment_text": "Tucker and Dale vs evil ? "
+          },
+          {
+            "id": 6320416993705826334,
+            "title": "Kung Pow: Enter the Fist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gVsZ1hsJ9g11oCCav4N8ccp9bRw.jpg",
+            "release_year": 2002,
+            "plot_summary": "A movie within a movie, created to spoof the martial arts genre. Writer/director Steve Oedekerk uses contemporary characters and splices them into a 1970s kung-fu film, weaving the new and old together.  As the main character, The Chosen One, Oedekerk sets off to avenge the deaths of his parents at the hands of kung-fu legend Master Pain. Along the way he encounters some strange characters.",
+            "runtime": "1h 21m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Action"
+            ],
+            "tmdb_id": 11891,
+            "imdb_id": "tt0240468",
+            "category_title": "Recommendations For Dumb Comedy Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:13:47.715783",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3vp8h/i_hope_i_didnt_finish_every_single_dumb_comedy/ojy4kq6/",
+            "original_comment_text": "Kung Pow: Enter the Fist \\\nShaolin Soccer \\\nKung Fu Hustle \\\nTromaville series \\\nSharknado series \\\nThankskilling (with killer turkey) \\\nRubber (about the tire) \\\nJackass series \\\nVelocipastor \\\nBruno \\\nUndercover Brother"
+          }
+        ]
+      },
+      {
+        "name": "Movies Similar To Blue Ruin",
+        "movies": [
+          {
+            "id": -639603873647988007,
+            "title": "Green Room",
+            "poster_url": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+            "release_year": 2016,
+            "plot_summary": "A punk rock band is forced to fight for survival after witnessing an act of violence at a skinhead bar.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 313922,
+            "imdb_id": "tt4062536",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.427403",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvcylt/",
+            "original_comment_text": "I don’t think it has the same vibe but Green Room (by the same director) rocks"
+          },
+          {
+            "id": 8369356986665774118,
+            "title": "Stray Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Lq4NXOp7I2vxVtTNeSsIpRpS4t.jpg",
+            "release_year": 2020,
+            "plot_summary": "After a man's beloved dog passes, he embarks on a backpacking trip with his brother to bury his dog where he found him. Along the way they encounter a stranger on the run who turns their world upside down. The brothers must unite in order to survive and finish the mission.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Thriller"
+            ],
+            "tmdb_id": 844504,
+            "imdb_id": "tt11669056",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.497216",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": 3968857318662660343,
+            "title": "Marathon Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uPNgubSiri2yvBQRPtP77ViYjN.jpg",
+            "release_year": 1976,
+            "plot_summary": "A graduate student and obsessive runner in New York is drawn into a mysterious plot involving his brother, a member of the secretive Division.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 10518,
+            "imdb_id": "tt0074860",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.568618",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": -5757652874107863415,
+            "title": "Blue Ruin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q0itEsso2drJXqH9kfdidxIT5dF.jpg",
+            "release_year": 2014,
+            "plot_summary": "When the quiet life of a beach bum is upended by dreadful news, he sets off for his childhood home to carry out an act of vengeance. However, he proves an inept assassin and finds himself in a brutal fight to protect his estranged family.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 188166,
+            "imdb_id": "tt2359024",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.606144",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvbh01/",
+            "original_comment_text": "I don't remember Blue Ruin all that well, but I think Dead Man's Shoes has some similar vibes"
+          },
+          {
+            "id": 4895990104215106806,
+            "title": "Mud",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o2jT5jQdKh1HAF0fMKuGwBOwOYB.jpg",
+            "release_year": 2013,
+            "plot_summary": "Two teenage boys find a fugitive hiding out on an island in the Mississippi River and help him reunite with his lover and escape an avenging family and their armed posse.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 103731,
+            "imdb_id": "tt1935179",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.678868",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": -7554837552008895168,
+            "title": "Dead Man's Shoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sCbXlGHmonE3QEOeM7I2PRkG8y6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A soldier returns to his small town and exacts a deadly revenge on the thugs who tormented his disabled brother while he was away.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12877,
+            "imdb_id": "tt0419677",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.709410",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvbh01/",
+            "original_comment_text": "I don't remember Blue Ruin all that well, but I think Dead Man's Shoes has some similar vibes"
+          },
+          {
+            "id": 7108529120372503679,
+            "title": "Cold in July",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1rXkxhubAtKVTZl29Xbnwpfen3H.jpg",
+            "release_year": 2014,
+            "plot_summary": "While investigating noises in his house one balmy Texas night in 1989, Richard Dane puts a bullet in the brain of a low-life burglar. Although he’s hailed as a small-town hero, Dane soon finds himself fearing for his family’s safety when Freddy’s ex-con father rolls into town, hell-bent on revenge.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 244509,
+            "imdb_id": "tt1179031",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.750795",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvap9s/",
+            "original_comment_text": "Bit of a dartboard throw but:\n\n* Cold in July\n* True Romance\n* Dinner in America\n\nEdit:\n\n* Love Lies Bleeding"
+          },
+          {
+            "id": -4283031627106954091,
+            "title": "Rebel Ridge",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEt2GSz9z5rSVpIHMiGdtf0czyf.jpg",
+            "release_year": 2024,
+            "plot_summary": "A former Marine confronts corruption in a small town when local law enforcement unjustly seizes the bag of cash he needs to post his cousin's bail.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Crime",
+              "Action",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 646097,
+            "imdb_id": "tt11301886",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.825210",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": -6404047325125377277,
+            "title": "I Don't Feel at Home in This World Anymore",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1stdUlXBc3nxqhdWvZ6wWWEbCQW.jpg",
+            "release_year": 2017,
+            "plot_summary": "When a depressed woman is burglarized, she finds a new sense of purpose by tracking down the thieves alongside her obnoxious neighbor. But they soon find themselves dangerously out of their depth against a pack of degenerate criminals.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Crime",
+              "Comedy"
+            ],
+            "tmdb_id": 425591,
+            "imdb_id": "tt5710514",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.849705",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": 2438321027529711061,
+            "title": "Deliverance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2TrAzNJlHyNYYSkQf6asg3rs2Xr.jpg",
+            "release_year": 1972,
+            "plot_summary": "Intent on seeing the Cahulawassee River before it's turned into one huge lake, outdoor fanatic Lewis Medlock takes his friends on a river-rafting trip they'll never forget into the dangerous American back-country.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Adventure",
+              "Thriller"
+            ],
+            "tmdb_id": 10669,
+            "imdb_id": "tt0068473",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.923115",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvd2rt/",
+            "original_comment_text": "Blue Ruin is a 10/10 for me. Check out more Saulnier’s:\n- green room\n- rebel ridge (this one especially)\n\n- I don’t feel at home in this world anymore (dir by Macon Blair, star of Blue Ruin) has a lot to offer in feel and sensibility.\n\n- Mud (by Jeff Nichols)\n- Deliverance\n- Marathon Man\n- Stray Dogs\n\n"
+          },
+          {
+            "id": -5506295853906612411,
+            "title": "Dinner in America",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t63UhnHaWQGcuE3pViuW3LSjBJj.jpg",
+            "release_year": 2020,
+            "plot_summary": "An on-the-lam punk rocker and a young woman obsessed with a local band go on an unexpected and epic journey together through the decaying suburbs of the American Midwest.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Romance",
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 653664,
+            "imdb_id": "tt9058654",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:16.995631",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvap9s/",
+            "original_comment_text": "Bit of a dartboard throw but:\n\n* Cold in July\n* True Romance\n* Dinner in America\n\nEdit:\n\n* Love Lies Bleeding"
+          },
+          {
+            "id": -3648451885651128928,
+            "title": "True Romance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg",
+            "release_year": 1993,
+            "plot_summary": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Crime",
+              "Romance"
+            ],
+            "tmdb_id": 319,
+            "imdb_id": "tt0108399",
+            "category_title": "Movies Similar To Blue Ruin",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:17.064011",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ioh5/anything_remotely_similar_to_blue_ruin/ojvap9s/",
+            "original_comment_text": "Bit of a dartboard throw but:\n\n* Cold in July\n* True Romance\n* Dinner in America\n\nEdit:\n\n* Love Lies Bleeding"
+          }
+        ]
+      },
+      {
+        "name": "Romance Movies With A Strong Female Lead",
+        "movies": [
+          {
+            "id": 4049274824980922674,
+            "title": "Lost in Translation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3jCLmYDIIiSMPujbwygNpqdpM8N.jpg",
+            "release_year": 2003,
+            "plot_summary": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 153,
+            "imdb_id": "tt0335266",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:40.833402",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": -4285666378793851188,
+            "title": "Before Midnight",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qbGKJmNUroDz75kh5Oafoall89e.jpg",
+            "release_year": 2013,
+            "plot_summary": "It has been nine years since we last met Jesse and Celine, the French-American couple who once met on a train in Vienna. They now live in Paris with twin daughters but have spent a summer in Greece at the invitation of an author colleague of Jesse's. When the vacation is over and Jesse must send his teenage son off to the States, he begins to question his life decisions, and his relationship with Celine is at risk.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 132344,
+            "imdb_id": "tt2209418",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:40.837984",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwjuhw/",
+            "original_comment_text": "Julie Delpy in the Linklater “Before” movies."
+          },
+          {
+            "id": -977451791899901887,
+            "title": "Witness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kOymD1rChAMykmDVEzJpIh4OYS7.jpg",
+            "release_year": 1985,
+            "plot_summary": "While protecting an Amish boy—the sole witness to a brutal murder—and his mother, a detective is forced to seek refuge within their community when his own life comes under threat.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 9281,
+            "imdb_id": "tt0090329",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:40.903595",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": 5722121460237485332,
+            "title": "Pride & Prejudice",
+            "poster_url": "https://image.tmdb.org/t/p/w500/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+            "release_year": 2005,
+            "plot_summary": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 4348,
+            "imdb_id": "tt0414387",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:40.903797",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": 6237968955609927857,
+            "title": "Out of Africa",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6oMKqh08TfxmvnoFR4mm1wZB67P.jpg",
+            "release_year": 1985,
+            "plot_summary": "Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.",
+            "runtime": "2h 41m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "History",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 606,
+            "imdb_id": "tt0089755",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:40.973430",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": 6817249441048186086,
+            "title": "The Age of Innocence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg",
+            "release_year": 1993,
+            "plot_summary": "In 19th century New York high society, a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 10436,
+            "imdb_id": "tt0106226",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.046276",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": -1571278925854574179,
+            "title": "Eat Drink Man Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/olhIWtIBFg6VWK59DEd4lAvgVgz.jpg",
+            "release_year": 1994,
+            "plot_summary": "Retired and widowed Chinese master chef Chu lives in modern day Taipei, with his three attractive daughters, all of whom are unattached. Soon, each daughter encounters a new man in their lives. When these new relationships blossom, stereotypes are broken and the living situation within the family changes.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 10451,
+            "imdb_id": "tt0111797",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.046491",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": 2874830057889155242,
+            "title": "Before Sunrise",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+            "release_year": 1995,
+            "plot_summary": "An unexpected meeting on a train leads two travelers to spend an evening wandering through Vienna. As the night unfolds, they share stories and conversations about life and love, exploring new ideas while a quiet intimacy grows between them, knowing it may be their only night together.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 76,
+            "imdb_id": "tt0112471",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.116199",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwjuhw/",
+            "original_comment_text": "Julie Delpy in the Linklater “Before” movies."
+          },
+          {
+            "id": -380964912447456395,
+            "title": "Ms. Koizumi Loves Ramen Noodles SP",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fGNag8gLTtDepLik9GsR7tpWnHD.jpg",
+            "release_year": 2016,
+            "plot_summary": "Mysterious transfer student Mitsukuni Naruto (Ryo Narita) appears in front of Koizumi (Akari Hayami). Koizumi and Mitsukuni have different opinions about ramen which leads them into arguments. They decide to have a battle over who has a deeper love of ramen. --asianwiki",
+            "runtime": "48m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 521261,
+            "imdb_id": "tt6377696",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.121527",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": -5163111962263618881,
+            "title": "Before Sunset",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg",
+            "release_year": 2004,
+            "plot_summary": "Nine years later, Jesse travels across Europe giving readings from a book he wrote about the night he spent in Vienna with Celine. After his reading in Paris, Celine finds him, and they spend part of the day together before Jesse has to again leave for a flight. They are both in relationships now, and Jesse has a son, but as their strong feelings for each other start to return, both confess a longing for more.",
+            "runtime": "1h 20m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 80,
+            "imdb_id": "tt0381681",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.188741",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwjuhw/",
+            "original_comment_text": "Julie Delpy in the Linklater “Before” movies."
+          },
+          {
+            "id": -640657003191372127,
+            "title": "The Guernsey Literary & Potato Peel Pie Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/55oz5d6NdH7ohbM1I1Euh1Tt6PN.jpg",
+            "release_year": 2018,
+            "plot_summary": "Free-spirited writer Juliet Ashton forms a life-changing bond with the delightful and eccentric Guernsey Literary and Potato Peel Pie Society, when she decides to write about the book club they formed during the occupation of Guernsey in WWII.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Romance",
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 451480,
+            "imdb_id": "tt1289403",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.189731",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          },
+          {
+            "id": 5313086503016734291,
+            "title": "Miss Potter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fecGKwGABfZdMbiH1WQN9zMcOkS.jpg",
+            "release_year": 2006,
+            "plot_summary": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Family",
+              "Romance"
+            ],
+            "tmdb_id": 13967,
+            "imdb_id": "tt0482546",
+            "category_title": "Romance Movies With A Strong Female Lead",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:14:41.336448",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3ohbh/strong_female_lead_in_romance/ojwmgos/",
+            "original_comment_text": "Out of Africa \n\nThe Guernsey Literary and Potato Peel Society\n\nWitness \n\nEat Drink Man Woman\n\nLost in Translation\n\nPride & Prejudice (2005)\n\nLoving (2016)\n \nMiss Potter\n\nThe Age of Innocence\n\nHidden Figures\n\nEnchanted April\n\nA Good Year\n\nSliding Doors\n\nThe Bridges of Madison County\n\nCasablanca"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+        "movies": [
+          {
+            "id": -282875828528934743,
+            "title": "Vulcanizadora",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gAI07IyqYkyY1WEET1fZFNWcfhb.jpg",
+            "release_year": 2025,
+            "plot_summary": "Two friends trudge through a Michigan forest with the intention of following through on a disturbing pact. Once their plan goes shockingly awry, the haunting consequences of their failure can't stay hidden for long.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 1130188,
+            "imdb_id": "tt28226888",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.027241",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxogo0/",
+            "original_comment_text": "Vulcanizadora \n\nBuzzard is the prequel, it also qualifies \n\nThey're kind of extreme examples, but excellent movies if you like weird artsy stuff"
+          },
+          {
+            "id": -2620143275989072309,
+            "title": "Only Lovers Left Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_year": 2013,
+            "plot_summary": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 152603,
+            "imdb_id": "tt1714915",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.142583",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojy9caf/",
+            "original_comment_text": "Only lovers left alive - one of my favorite movies. And the music, the places, its atmosphere, incredible "
+          },
+          {
+            "id": -3131326237241569284,
+            "title": "Mad Max",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LrI4GiCSrChgkdskVZiwv643Kg.jpg",
+            "release_year": 1979,
+            "plot_summary": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9659,
+            "imdb_id": "tt0079501",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.166200",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxn7t1/",
+            "original_comment_text": "The Mad Max movies have a little bit of explanation but for the most part you just pick everything up via context clues. It's pretty much 'there was a nuclear war, now you're caught up '\n\nI was just thinking about that the last time I watched Fury Road. \n\nFor instance, there's a guy named The People Eater. The first time he's on screen he's talked about like he's a terrifying boogeyman. He rides around in a Rolls Royce on top of a semi chassis and wears a suit with holes cut out so he can pinch his nipples all day. He has a metal nose. None of this is explained in the movies."
+          },
+          {
+            "id": 4617297815129803685,
+            "title": "Reservoir Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "release_year": 1992,
+            "plot_summary": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 500,
+            "imdb_id": "tt0105236",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.227272",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxy1ax/",
+            "original_comment_text": "The first time I watched Reservoir Dogs about five seconds in I rewound it thinking I'd missed something.  Nope, that first scene is like being thrown into the deep end. "
+          },
+          {
+            "id": -674133342952242732,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.235572",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojy1dj0/",
+            "original_comment_text": "Try memento"
+          },
+          {
+            "id": 4305772399458135388,
+            "title": "Buzzard",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ziImW5nB2AENKBjSo5oEZBUGYOw.jpg",
+            "release_year": 2015,
+            "plot_summary": "Paranoia forces small-time scam artist Marty to flee his hometown and hide out in a dangerous Detroit. With nothing but a pocket full of bogus checks, his Power Glove, and a bad temper, the horror metal slacker lashes out.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 253303,
+            "imdb_id": "tt2656588",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.280901",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxogo0/",
+            "original_comment_text": "Vulcanizadora \n\nBuzzard is the prequel, it also qualifies \n\nThey're kind of extreme examples, but excellent movies if you like weird artsy stuff"
+          },
+          {
+            "id": 8210445283944576980,
+            "title": "Miami Vice",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+            "release_year": 2006,
+            "plot_summary": "A case involving drug lords and murder in South Florida takes a personal turn for undercover detectives Sonny Crockett and Ricardo Tubbs. Unorthodox Crockett gets involved romantically with the Chinese-Cuban wife of a trafficker of arms and drugs, while Tubbs deals with an assault on those he loves.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Action",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 82,
+            "imdb_id": "tt0430357",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.310234",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxvuob/",
+            "original_comment_text": "Miami Vice (2006). It just starts mid-operation with no real setup. You have to keep up with the info as it happens. And it ends just as abruptly. "
+          },
+          {
+            "id": 7629492570381178674,
+            "title": "The Assistant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg",
+            "release_year": 2020,
+            "plot_summary": "A searing look at a day in the life of an assistant to a powerful executive. As Jane follows her daily routine, she grows increasingly aware of the insidious abuse that threatens every aspect of her position.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 627463,
+            "imdb_id": "tt9000224",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.352924",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojy0b87/",
+            "original_comment_text": "*The Assistant* (2019 is a fly-on-the-wall portrayal of a day in the life of the protagonist and provides no exposition."
+          },
+          {
+            "id": -2923211426314507430,
+            "title": "Mad Max: Fury Road",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+            "release_year": 2015,
+            "plot_summary": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 76341,
+            "imdb_id": "tt1392190",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.383593",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojxn7t1/",
+            "original_comment_text": "The Mad Max movies have a little bit of explanation but for the most part you just pick everything up via context clues. It's pretty much 'there was a nuclear war, now you're caught up '\n\nI was just thinking about that the last time I watched Fury Road. \n\nFor instance, there's a guy named The People Eater. The first time he's on screen he's talked about like he's a terrifying boogeyman. He rides around in a Rolls Royce on top of a semi chassis and wears a suit with holes cut out so he can pinch his nipples all day. He has a metal nose. None of this is explained in the movies."
+          },
+          {
+            "id": -9216693561502542414,
+            "title": "Cube",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x4BTjxdrOKC27FcSkBh8KPEgnum.jpg",
+            "release_year": 1998,
+            "plot_summary": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 431,
+            "imdb_id": "tt0123755",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.424022",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojynj2u/",
+            "original_comment_text": "Cube (1997)"
+          },
+          {
+            "id": -8205482011783889490,
+            "title": "Warfare",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l39TlELomwysfsr37vrvCV6rmaQ.jpg",
+            "release_year": 2025,
+            "plot_summary": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "War",
+              "Action"
+            ],
+            "tmdb_id": 1241436,
+            "imdb_id": "tt31434639",
+            "category_title": "Movies That Do Not Explain, Justify, Or Introduce Themselves",
+            "time_period": "daily",
+            "date_scraped": "2026-05-05T06:15:02.453120",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1t3tigp/movies_that_dont_explain_justify_or_introduce/ojy0280/",
+            "original_comment_text": "Warfare (2025) doesn't get much more straightforward than this"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 59,
+    "totalCategories": 5,
+    "lastUpdated": "2026-05-05T06:13:17.315948"
+  }
+}

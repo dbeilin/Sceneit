@@ -1,0 +1,1538 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Erotic And Ethical Date-Night Movies",
+        "movies": [
+          {
+            "id": 2420214189394435112,
+            "title": "Only Lovers Left Alive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6xY2MhYjFPb4xU3KlBJcFAJmMsF.jpg",
+            "release_year": 2013,
+            "plot_summary": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 152603,
+            "imdb_id": "tt1714915",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.166929",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaaieb/",
+            "original_comment_text": "Only lovers left alive"
+          },
+          {
+            "id": 2392003202586703057,
+            "title": "Y Tu Mamá También",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+            "release_year": 2001,
+            "plot_summary": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1391,
+            "imdb_id": "tt0245574",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.365769",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofag324/",
+            "original_comment_text": "Y tu mamá también "
+          },
+          {
+            "id": 7059747036749978252,
+            "title": "Secretary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+            "release_year": 2002,
+            "plot_summary": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 11013,
+            "imdb_id": "tt0274812",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.437760",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofadgf6/",
+            "original_comment_text": "Secretary"
+          },
+          {
+            "id": 7200280120607537438,
+            "title": "Body Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_year": 1981,
+            "plot_summary": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 14412,
+            "imdb_id": "tt0082089",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.439240",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          },
+          {
+            "id": 7517226043934755230,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+            "release_year": 1996,
+            "plot_summary": "A car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 884,
+            "imdb_id": "tt0115964",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.512416",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofafnp8/",
+            "original_comment_text": "i mean Crash by Cronenberg kinda"
+          },
+          {
+            "id": 2462838298739536479,
+            "title": "Whispers in the Wind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sp3k5hNOH29QnBkZaCKbtLVT3ft.jpg",
+            "release_year": 2024,
+            "plot_summary": "In a Japanese town devastated by a tsunami, two newfound friends make sense of their grief and a curious phone booth that sends messages to the dead.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1328705,
+            "imdb_id": "tt33093444",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.527808",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofazaka/",
+            "original_comment_text": "\"Whispers in the Wind\"\n\n\"To Each His Own\"\n\n\"Put It Where It Doesn't Belong\"\n\n\"My Pipes Need Cleaning\"\n\n\"All Tit-Fucking, Volume 8\"\n\n\"I Need Your Cock\"\n\n\"Ass-Worshipping Rimjobbers\"\n\n\"My Cunt and Eight Shafts\"\n\n\"Cum Clean\"\n\n\"Cum-Gargling Naked Sluts\"\n\n\"Cum Buns 3\"\n\n\"Cumming in Socks\"\n\n\"Cum on Eileen\"\n\n\"Huge Black Cocks with Pearly White Cum\"\n\n\"Girls Who Crave Cock\"\n\n\"Girls Who Crave Cunt\"\n\n\"Men Alone 2: The K-Y Connection\"\n\n\"Pink Pussy Lips\"\n\n\"All Holes Filled with Hard Cock\"\n\n\"Happy Scrappy Hero Pup\""
+          },
+          {
+            "id": -5245421842097408258,
+            "title": "Bound",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
+            "release_year": 1996,
+            "plot_summary": "Corky, a tough female ex-convict working on an apartment renovation in a Chicago building, meets a couple living next door, Caesar, a paranoid mobster, and Violet, his seductive girlfriend, who is immediately attracted to her.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 9303,
+            "imdb_id": "tt0115736",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.580061",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          },
+          {
+            "id": -1459899673764428704,
+            "title": "Space Jam",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+            "release_year": 1996,
+            "plot_summary": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Family",
+              "Animation",
+              "Science Fiction",
+              "Fantasy",
+              "Comedy"
+            ],
+            "tmdb_id": 2300,
+            "imdb_id": "tt0117705",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.653459",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofacdz7/",
+            "original_comment_text": "Space Jam "
+          },
+          {
+            "id": 109654583818139762,
+            "title": "Rochelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h3HsErSVz8ifb9EQRO5Pqku2adM.jpg",
+            "release_year": 2024,
+            "plot_summary": "A brazen young man takes it upon himself to send his friend’s busted up car, Rochelle, out in style by entering it in a local demolition derby, but to get there he needs help from an unexpected source.",
+            "runtime": "21m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1326354,
+            "imdb_id": null,
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.735470",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaejy6/",
+            "original_comment_text": "Rochelle, Rochelle. It's about a young girls strange, erotic journey from Milan to Minsk."
+          },
+          {
+            "id": -6520934102299027047,
+            "title": "The Hunger",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lFTDtRtK8J55A1LTpwigV7QGQg7.jpg",
+            "release_year": 1983,
+            "plot_summary": "Five-thousand-year-old vampire Miriam promises her lovers the gift of eternal life. When John, her cellist companion for centuries, discovers that he has suddenly begun growing old, he attempts to seek out the help of Dr. Sarah Roberts, a researcher on the mechanisms of aging.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 11654,
+            "imdb_id": "tt0085701",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.822154",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofa9ge2/",
+            "original_comment_text": "The Hunger"
+          },
+          {
+            "id": -4664617380429669183,
+            "title": "Brokeback Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+            "release_year": 2005,
+            "plot_summary": "In 1960s Wyoming, two men develop a strong emotional and sexual relationship that endures as a lifelong connection complicating their lives as they get married and start families of their own.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 142,
+            "imdb_id": "tt0388795",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.892370",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofacwox/",
+            "original_comment_text": "Broke Back Mountain "
+          },
+          {
+            "id": 6605226945801673219,
+            "title": "The Piano",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dUxjG6baSzGIgP7R8BQI5rpMuET.jpg",
+            "release_year": 1993,
+            "plot_summary": "When an arranged marriage brings Ada and her spirited daughter to the wilderness of nineteenth-century New Zealand, she finds herself locked in a battle of wills with both her controlling husband and a rugged frontiersman to whom she develops a forbidden attraction.",
+            "runtime": "2h",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 713,
+            "imdb_id": "tt0107822",
+            "category_title": "Erotic And Ethical Date-Night Movies",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:18:32.937093",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sh5oc4/erotic_but_ethical_movie_for_date_night/ofaai56/",
+            "original_comment_text": "Body Heat\n\nBound\n\nThe Piano"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+        "movies": [
+          {
+            "id": 5347610078064547660,
+            "title": "The Fly",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+            "release_year": 1986,
+            "plot_summary": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9426,
+            "imdb_id": "tt0091064",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.305958",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes8buj/",
+            "original_comment_text": "The Fly with Jeff Goldblum lol"
+          },
+          {
+            "id": 7913964561097942666,
+            "title": "The Lobster",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Y9ILV1unpW9mLpGcqyGQU72LUy.jpg",
+            "release_year": 2015,
+            "plot_summary": "In a dystopian near future, single people, according to the laws of The City, are taken to The Hotel, where they are obliged to find a romantic partner in forty-five days or are transformed into animals and sent off into The Woods.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 254320,
+            "imdb_id": "tt3464902",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.308799",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes7e8l/",
+            "original_comment_text": "The Lobster and The Killing of the Sacred Deer. But also basically any movie made by Yorgos Lanthimos is gonna have “WTF” moments."
+          },
+          {
+            "id": -5479095516035685798,
+            "title": "Infinity Pool",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cQKyNm0Nz6KWiDBQF9w4aZAmOfC.jpg",
+            "release_year": 2023,
+            "plot_summary": "While staying at an isolated island resort, James and Em are enjoying a perfect vacation of pristine beaches, exceptional staff, and soaking up the sun. But guided by the seductive and mysterious Gabi, they venture outside the resort grounds and find themselves in a culture filled with violence, hedonism, and untold horror. A tragic accident leaves them facing a zero tolerance policy for crime: either you'll be executed, or, if you’re rich enough to afford it, you can watch yourself die instead.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 667216,
+            "imdb_id": "tt10365998",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.344599",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes68b7/",
+            "original_comment_text": "Infinity Pool. Fucking weird, visceral experience."
+          },
+          {
+            "id": -7132583832441577988,
+            "title": "The Substance",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+            "release_year": 2024,
+            "plot_summary": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 933260,
+            "imdb_id": "tt17526714",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.378107",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes6sw4/",
+            "original_comment_text": "The Substance"
+          },
+          {
+            "id": 99357281236275013,
+            "title": "Mother",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg",
+            "release_year": 2009,
+            "plot_summary": "A mother lives quietly with her son. One day, a girl is brutally killed, and the boy is charged with the murder. Now, it's his mother's mission to prove him innocent.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 30018,
+            "imdb_id": "tt1216496",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.380942",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes893u/",
+            "original_comment_text": "Mother"
+          },
+          {
+            "id": 9005975214619672746,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.420198",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes7p6d/",
+            "original_comment_text": "Sorry to Bother You, I can't imagine anyone could predict the direction it goes in"
+          },
+          {
+            "id": 6732899726472278995,
+            "title": "Tusk",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pA2SgITmH0lzet9Nn5cxeinRKMv.jpg",
+            "release_year": 2014,
+            "plot_summary": "When his best friend and podcast co-host goes missing in the backwoods of Canada, a young guy joins forces with his friend's girlfriend to search for him.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 5.5,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 246403,
+            "imdb_id": "tt3099498",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.451866",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes720p/",
+            "original_comment_text": "Tusk !"
+          },
+          {
+            "id": 4303569725014440374,
+            "title": "Speak No Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg",
+            "release_year": 2024,
+            "plot_summary": "When an American family is invited to spend the weekend at the idyllic country estate of a charming British family they befriended on vacation, what begins as a dream holiday soon warps into a snarled psychological nightmare.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1114513,
+            "imdb_id": "tt27534307",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.452049",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes6kpb/",
+            "original_comment_text": "Speak no evil ( Danish original, spoken English)  not the American remake"
+          },
+          {
+            "id": 9009640465880273520,
+            "title": "The Killing of a Sacred Deer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+            "release_year": 2017,
+            "plot_summary": "Dr. Steven Murphy is a renowned cardiovascular surgeon who presides over a spotless household with his wife and two children. Lurking at the margins of his idyllic suburban existence is Martin, a fatherless teen who insinuates himself into the doctor's life in gradually unsettling ways.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 399057,
+            "imdb_id": "tt5715874",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.523323",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes7e8l/",
+            "original_comment_text": "The Lobster and The Killing of the Sacred Deer. But also basically any movie made by Yorgos Lanthimos is gonna have “WTF” moments."
+          },
+          {
+            "id": 2059479384404608911,
+            "title": "The Lighthouse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f1tIYarTbkBdIT1aW0gzelDwknv.jpg",
+            "release_year": 2019,
+            "plot_summary": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Thriller"
+            ],
+            "tmdb_id": 503919,
+            "imdb_id": "tt7984734",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.602751",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes796p/",
+            "original_comment_text": "The Lighthouse"
+          },
+          {
+            "id": -3850041993922961755,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery",
+              "Action"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.703071",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes6bdd/",
+            "original_comment_text": "Shutter island,\nOld boy,\nSend help,\nSaw (all parts),\nSpeak no evil,\nGreen inferno.  The list goes on..brain can't function any further"
+          },
+          {
+            "id": 616897634976379207,
+            "title": "Shutter Island",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+            "release_year": 2010,
+            "plot_summary": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 11324,
+            "imdb_id": "tt1130884",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.759298",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes6bdd/",
+            "original_comment_text": "Shutter island,\nOld boy,\nSend help,\nSaw (all parts),\nSpeak no evil,\nGreen inferno.  The list goes on..brain can't function any further"
+          },
+          {
+            "id": 950863271017934092,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.775480",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes80i3/",
+            "original_comment_text": "mulholland drive , I even made a post about it like wth"
+          },
+          {
+            "id": -2393414286884020392,
+            "title": "Bugonia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+            "release_year": 2025,
+            "plot_summary": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Comedy"
+            ],
+            "tmdb_id": 701387,
+            "imdb_id": "tt12300742",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.810883",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes7sl5/",
+            "original_comment_text": "Bugonia"
+          },
+          {
+            "id": 2042342581281090951,
+            "title": "Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg",
+            "release_year": 2022,
+            "plot_summary": "In the aftermath of a personal tragedy, Harper retreats alone to the beautiful English countryside, hoping to find a place to heal. But someone — or something — from the surrounding woods appears to be stalking her, and what begins as simmering dread becomes a fully-formed nightmare, inhabited by her darkest memories and fears.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Fantasy"
+            ],
+            "tmdb_id": 780609,
+            "imdb_id": "tt13841850",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.846328",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oescu1j/",
+            "original_comment_text": "“Men” 2026.  it’s an A24 movie"
+          },
+          {
+            "id": -7312068380412948054,
+            "title": "Under the Skin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/55wmcXJIDYITr7JDijJTdvwSaAv.jpg",
+            "release_year": 2014,
+            "plot_summary": "A seductive stranger prowls the streets of Glasgow in search of prey: unsuspecting men who fall under her spell.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 97370,
+            "imdb_id": "tt1441395",
+            "category_title": "Movies That Made You Say 'WTF, Did I Just Watch?'",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:07.885788",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1set105/whats_a_movie_that_made_you_go_wtf_did_i_just/oes9qxs/",
+            "original_comment_text": "Under the Skin"
+          }
+        ]
+      },
+      {
+        "name": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+        "movies": [
+          {
+            "id": 2883126274158865591,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.039580",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeinomx/",
+            "original_comment_text": "Memento"
+          },
+          {
+            "id": -30021987410621864,
+            "title": "Training Day",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bUeiwBQdupBLQthMCHKV7zv56uv.jpg",
+            "release_year": 2001,
+            "plot_summary": "On his first day on the job as a narcotics officer, a rookie cop works with a rogue detective who isn't what he appears.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 2034,
+            "imdb_id": "tt0139654",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.196542",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeinkga/",
+            "original_comment_text": "training day"
+          },
+          {
+            "id": 6252911067616574790,
+            "title": "The Usual Suspects",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 629,
+            "imdb_id": "tt0114814",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.246480",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeil6ny/",
+            "original_comment_text": "The Usual Suspects "
+          },
+          {
+            "id": -1235677652577290317,
+            "title": "Identity",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sYgimsiBywqVwJI8H4sETke8m7v.jpg",
+            "release_year": 2003,
+            "plot_summary": "Complete strangers stranded at a remote desert motel during a raging storm soon find themselves the target of a deranged murderer. As their numbers thin out, the travelers begin to turn on each other, as each tries to figure out who the killer is.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 2832,
+            "imdb_id": "tt0309698",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.249336",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeimvep/",
+            "original_comment_text": "Identity (2003)"
+          },
+          {
+            "id": -1625764421440114420,
+            "title": "No Way Out",
+            "poster_url": "https://image.tmdb.org/t/p/w500/93CzsBvRhg035yvQosRtSsTL19v.jpg",
+            "release_year": 1987,
+            "plot_summary": "Navy Lt. Tom Farrell meets a young woman, Susan Atwell , and they share a passionate fling. Farrell then finds out that his superior, Defense Secretary David Brice, is also romantically involved with Atwell. When the young woman turns up dead, Farrell is put in charge of the murder investigation. He begins to uncover shocking clues about the case, but when details of his encounter with Susan surface, he becomes a suspect as well.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 10083,
+            "imdb_id": "tt0093640",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.316148",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeilo80/",
+            "original_comment_text": "No Way Out"
+          },
+          {
+            "id": -8859056202753618843,
+            "title": "Falling Down",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+            "release_year": 1993,
+            "plot_summary": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 37094,
+            "imdb_id": "tt0106856",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.393366",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeiht6k/",
+            "original_comment_text": "Falling Down"
+          },
+          {
+            "id": 557278872859642688,
+            "title": "Starship Troopers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+            "release_year": 1997,
+            "plot_summary": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 563,
+            "imdb_id": "tt0120201",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.396266",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeiiux4/",
+            "original_comment_text": "Starship Troopers "
+          },
+          {
+            "id": 4624853999619683726,
+            "title": "Fight Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_year": 1999,
+            "plot_summary": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 550,
+            "imdb_id": "tt0137523",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.462985",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oein4f5/",
+            "original_comment_text": "Fight Club "
+          },
+          {
+            "id": -4962736796678298851,
+            "title": "Primal Fear",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+            "release_year": 1996,
+            "plot_summary": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1592,
+            "imdb_id": "tt0117381",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.533576",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeilz2a/",
+            "original_comment_text": "Primal Fear (1996) is pretty good"
+          },
+          {
+            "id": 6231605070639674952,
+            "title": "The Prestige",
+            "poster_url": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+            "release_year": 2006,
+            "plot_summary": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1124,
+            "imdb_id": "tt0482571",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.533794",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeiiid8/",
+            "original_comment_text": "The Prestige \n\nThe funny thing is this can work on either main character "
+          },
+          {
+            "id": -614884245487818818,
+            "title": "The Talented Mr. Ripley",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+            "release_year": 1999,
+            "plot_summary": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 1213,
+            "imdb_id": "tt0134119",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.603535",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeilvbf/",
+            "original_comment_text": "I think it's clear from the get-go that the eponymous Mr. Ripley isn't good people, but he is one of the few villainous protagonists."
+          },
+          {
+            "id": -6128928842090114917,
+            "title": "Young Adult",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4tGMz5xUs9sk8X9B28G6UalHK1d.jpg",
+            "release_year": 2011,
+            "plot_summary": "A divorced writer from the Midwest returns to her hometown to reconnect with an old flame, who's now married with a family.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 57157,
+            "imdb_id": "tt1625346",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.695207",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeik75p/",
+            "original_comment_text": "Young Adult"
+          },
+          {
+            "id": 231284258345430773,
+            "title": "Chronicle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kdyrdFIt29FUmLIKvedAc2j4rpo.jpg",
+            "release_year": 2012,
+            "plot_summary": "Three high school students make an incredible discovery, leading to their developing uncanny powers beyond their understanding. As they learn to control their abilities and use them to their advantage, their lives start to spin out of control, and their darker sides begin to take over.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 76726,
+            "imdb_id": "tt1706593",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.747645",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeilw48/",
+            "original_comment_text": "Chronicle "
+          },
+          {
+            "id": -6937653090743141492,
+            "title": "My Best Friend's Wedding",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b5g4bp8gS5ovMyR5439AII6zQ3n.jpg",
+            "release_year": 1997,
+            "plot_summary": "When she receives word that her longtime platonic pal Michael O'Neal is getting married to debutante Kimberly Wallace, food critic Julianne Potter realizes her true feelings for Michael -- and sets out to sabotage the wedding.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 8874,
+            "imdb_id": "tt0119738",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.817757",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oejepo7/",
+            "original_comment_text": "My Best Friend's Wedding "
+          },
+          {
+            "id": 6013905006730127874,
+            "title": "Strange Darling",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+            "release_year": 2024,
+            "plot_summary": "Nothing is what it seems when a twisted one-night stand spirals into a serial killer’s vicious murder spree.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 1029281,
+            "imdb_id": "tt22375054",
+            "category_title": "Movies Where You Slowly Realize The Protagonist Is The Villain",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:19:40.888520",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sdh09e/movie_where_you_slowly_realize_the_main_character/oeiinyp/",
+            "original_comment_text": "Strange Darling "
+          }
+        ]
+      },
+      {
+        "name": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+        "movies": [
+          {
+            "id": 7064156179194297853,
+            "title": "The Incredibles",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "release_year": 2004,
+            "plot_summary": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Animation",
+              "Family"
+            ],
+            "tmdb_id": 9806,
+            "imdb_id": "tt0317705",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:10.730261",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjg4nz/",
+            "original_comment_text": "The Incredibles\n\nSorry to Bother You\n\nWorking Girl"
+          },
+          {
+            "id": 8087416537626811451,
+            "title": "Office Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+            "release_year": 1999,
+            "plot_summary": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 1542,
+            "imdb_id": "tt0151804",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:10.793191",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjdyz6/",
+            "original_comment_text": "Office Space"
+          },
+          {
+            "id": 4053283594630293623,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:10.865230",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjfsro/",
+            "original_comment_text": "Not precisely it, but might still be the vibe you’re looking for: The Secret Life of Walter Mitty"
+          },
+          {
+            "id": -8863094305684770553,
+            "title": "Nobody",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg",
+            "release_year": 2021,
+            "plot_summary": "Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor — a \"nobody.\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 615457,
+            "imdb_id": "tt7888964",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:10.981538",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjezxg/",
+            "original_comment_text": "Nobody "
+          },
+          {
+            "id": 2927103251779066534,
+            "title": "Brazil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+            "release_year": 1985,
+            "plot_summary": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 68,
+            "imdb_id": "tt0088846",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.049124",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjgg8t/",
+            "original_comment_text": "Brazil\n\n\nJoe vs the volcano "
+          },
+          {
+            "id": -4263674064149540672,
+            "title": "After Hours",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg",
+            "release_year": 1985,
+            "plot_summary": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 10843,
+            "imdb_id": "tt0088680",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.076174",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjed44/",
+            "original_comment_text": "After Hours (1985) by Martin Scorsese!  "
+          },
+          {
+            "id": -3516430595965956023,
+            "title": "Stranger Than Fiction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nCzcepubwShvZ4vbCsygQNgF2Z1.jpg",
+            "release_year": 2006,
+            "plot_summary": "Harold Crick is a lonely IRS agent whose mundane existence is transformed when he hears a mysterious voice narrating his life.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 1262,
+            "imdb_id": "tt0420223",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.123802",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjgq33/",
+            "original_comment_text": "Stranger Than Fiction"
+          },
+          {
+            "id": 3909633957336208097,
+            "title": "Joe Versus the Volcano",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+            "release_year": 1990,
+            "plot_summary": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2565,
+            "imdb_id": "tt0099892",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.147400",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjecv1/",
+            "original_comment_text": "Joe Versus the Volcano (1990)"
+          },
+          {
+            "id": -8850871728360288019,
+            "title": "Working Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+            "release_year": 1988,
+            "plot_summary": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 3525,
+            "imdb_id": "tt0096463",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.220631",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjg4nz/",
+            "original_comment_text": "The Incredibles\n\nSorry to Bother You\n\nWorking Girl"
+          },
+          {
+            "id": -6745466607349923482,
+            "title": "American Beauty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wby9315QzVKdW9BonAefg8jGTTb.jpg",
+            "release_year": 1999,
+            "plot_summary": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 14,
+            "imdb_id": "tt0169547",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.291573",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjf99e/",
+            "original_comment_text": "American Beauty, I think."
+          },
+          {
+            "id": 8004928878526024680,
+            "title": "Being John Malkovich",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xVSvIwRNzwXSs0CLefiiG6A96m4.jpg",
+            "release_year": 1999,
+            "plot_summary": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 492,
+            "imdb_id": "tt0120601",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.389862",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjj6s1/",
+            "original_comment_text": "Being John Malkovich if you're in a mood for a witty and well written somewhat absurd comedy!"
+          },
+          {
+            "id": -6936780850183310123,
+            "title": "The Apartment",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hhSRt1KKfRT0yEhEtRW3qp31JFU.jpg",
+            "release_year": 1960,
+            "plot_summary": "Bud Baxter is a minor clerk in a huge New York insurance company, until he discovers a quick way to climb the corporate ladder. He lends out his apartment to the executives as a place to take their mistresses. Although he often has to deal with the aftermath of their visits, one night he's left with a major problem to solve.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 284,
+            "imdb_id": "tt0053604",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.435144",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjhvmm/",
+            "original_comment_text": "The Apartment"
+          },
+          {
+            "id": 304582893009773501,
+            "title": "The Matrix",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg",
+            "release_year": 1999,
+            "plot_summary": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+            "runtime": "2h 16m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 603,
+            "imdb_id": "tt0133093",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.507019",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohje86j/",
+            "original_comment_text": "The Matrix "
+          },
+          {
+            "id": 6989871214651477495,
+            "title": "Harold & Kumar Go to White Castle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5vO7R4xYlDipTp8gzfRbWegO8eb.jpg",
+            "release_year": 2004,
+            "plot_summary": "Nerdy accountant Harold and his irrepressible friend, Kumar, get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced there must be one nearby, the two set out on a late-night odyssey that takes them deep into New Jersey. Somehow, the boys manage to run afoul of rednecks, cops and even a car-stealing Neil Patrick Harris before getting anywhere near their beloved sliders.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 11282,
+            "imdb_id": "tt0366551",
+            "category_title": "Movies That Start With A Man Working A Boring, Depressing Office Job",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:11.596358",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ss4v6j/weird_request_looking_for_movies_where_you_start/ohjj0vh/",
+            "original_comment_text": "Harold and Kumar go to White Castle"
+          }
+        ]
+      },
+      {
+        "name": "Movies Portraying Positive Masculinity",
+        "movies": [
+          {
+            "id": 9011781667799529355,
+            "title": "Project Hail Mary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+            "release_year": 2026,
+            "plot_summary": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 687163,
+            "imdb_id": "tt12042730",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.448025",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftobeq/",
+            "original_comment_text": "Project Hail Mary (in theaters, but highly recommend it for a future watch) \n\nThe Book of Eli\n\nThe Lord of the Rings series\n\nEverything Everywhere All at Once\n\nTo Kill a Mockingbird"
+          },
+          {
+            "id": -7650179729572777989,
+            "title": "The Lord of the Rings",
+            "poster_url": "https://image.tmdb.org/t/p/w500/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+            "release_year": 1978,
+            "plot_summary": "Young Hobbit Frodo Baggins is thrown into an amazing adventure when he's tasked with destroying the One Ring, created by the dark lord Sauron. Frodo must travel in a small fellowship of nine warriors and accomplices. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "tmdb_id": 123,
+            "imdb_id": "tt0077869",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.512604",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftn1n1/",
+            "original_comment_text": "Lord of the Rings trilogy.\n\nPrincess Mononoke"
+          },
+          {
+            "id": 6438710215552367472,
+            "title": "To Kill a Mockingbird",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gZycFUMLx2110dzK3nBNai7gfpM.jpg",
+            "release_year": 1962,
+            "plot_summary": "Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 595,
+            "imdb_id": "tt0056592",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.524166",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftmtr6/",
+            "original_comment_text": "To Kill A Mockingbird (1962)"
+          },
+          {
+            "id": 6329448809757928659,
+            "title": "The Peanut Butter Falcon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qyQcRGvdW3VtxHR4fSDgPOePEip.jpg",
+            "release_year": 2019,
+            "plot_summary": "A down-on-his-luck crab fisherman embarks on a journey to get a young man with Down syndrome to a professional wrestling school in rural North Carolina and away from the retirement home where he’s lived for the past two and a half years.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 463257,
+            "imdb_id": "tt4364194",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.628033",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftnu5s/",
+            "original_comment_text": "Not a movie, but Ted Lasso has the healthiest approach to masculinity I have seen. \n\nFor movies, try Hunt for the Wilderpeople or Peanut butter Falcon. "
+          },
+          {
+            "id": 4999120219223362190,
+            "title": "School of Rock",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_year": 2003,
+            "plot_summary": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey risks everything to prove that rock 'n' roll can change lives.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Family"
+            ],
+            "tmdb_id": 1584,
+            "imdb_id": "tt0332379",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.659063",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftpn5m/",
+            "original_comment_text": "Okay taking into account that they are 15;\n\n* Dungeons & Dragons: Honour Among Thieves (2023). It's a truly heartwarming comedy with two male (and two female) characters in leading roles who both display a lot of positive traits - kindness, cleverness, confidence, and one male supporting character who just radiates empathy and wisdom. The movie is also *extremely* funny, had my brother in tears. Genuinely one of the best comedies I've seen recently, and it looks amazing too.\n* Maggie (2015). A zombie apocalypse drama about a father and a daughter. Mind you it's a drama, more than it is an action or a horror, its core component is the dread of it all, and it's one of the best zombie movies I've ever seen. Arnold Schwarzenegger plays the father character very well, with all the love and burden the plot requires.\n* School of Rock (2003). Another comedy with a main character that's a bit of a wannabe rockstar jackass (played by Jack Black), who takes a job as a teacher and really grows to love and respect his class. Great comedy all-around, but if the boys like rock or metal music, even better."
+          },
+          {
+            "id": 5676332946288045334,
+            "title": "Princess Mononoke",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cMYCDADoLKLbB83g4WnJegaZimC.jpg",
+            "release_year": 1997,
+            "plot_summary": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Animation"
+            ],
+            "tmdb_id": 128,
+            "imdb_id": "tt0119698",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.730159",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftn1n1/",
+            "original_comment_text": "Lord of the Rings trilogy.\n\nPrincess Mononoke"
+          },
+          {
+            "id": 1193076113630771256,
+            "title": "Everything Everywhere All at Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_year": 2022,
+            "plot_summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 545611,
+            "imdb_id": "tt6710474",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.731920",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftobeq/",
+            "original_comment_text": "Project Hail Mary (in theaters, but highly recommend it for a future watch) \n\nThe Book of Eli\n\nThe Lord of the Rings series\n\nEverything Everywhere All at Once\n\nTo Kill a Mockingbird"
+          },
+          {
+            "id": -3617096803762637774,
+            "title": "Hunt for the Wilderpeople",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+            "release_year": 2016,
+            "plot_summary": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 371645,
+            "imdb_id": "tt4698684",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.799245",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftnu5s/",
+            "original_comment_text": "Not a movie, but Ted Lasso has the healthiest approach to masculinity I have seen. \n\nFor movies, try Hunt for the Wilderpeople or Peanut butter Falcon. "
+          },
+          {
+            "id": 3497076714123934866,
+            "title": "Maggie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/twa9gXjocLM629sJrQYVtmF306R.jpg",
+            "release_year": 2015,
+            "plot_summary": "There's a deadly zombie epidemic threatening humanity, but Wade, a small-town farmer and family man, refuses to accept defeat even when his daughter Maggie becomes infected. As Maggie's condition worsens and the authorities seek to eradicate those with the virus, Wade is pushed to the limits in an effort to protect her. Joely Richardson co-stars in this post-apocalyptic thriller.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 287424,
+            "imdb_id": "tt1881002",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.868817",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftpn5m/",
+            "original_comment_text": "Okay taking into account that they are 15;\n\n* Dungeons & Dragons: Honour Among Thieves (2023). It's a truly heartwarming comedy with two male (and two female) characters in leading roles who both display a lot of positive traits - kindness, cleverness, confidence, and one male supporting character who just radiates empathy and wisdom. The movie is also *extremely* funny, had my brother in tears. Genuinely one of the best comedies I've seen recently, and it looks amazing too.\n* Maggie (2015). A zombie apocalypse drama about a father and a daughter. Mind you it's a drama, more than it is an action or a horror, its core component is the dread of it all, and it's one of the best zombie movies I've ever seen. Arnold Schwarzenegger plays the father character very well, with all the love and burden the plot requires.\n* School of Rock (2003). Another comedy with a main character that's a bit of a wannabe rockstar jackass (played by Jack Black), who takes a job as a teacher and really grows to love and respect his class. Great comedy all-around, but if the boys like rock or metal music, even better."
+          },
+          {
+            "id": 2119129302236598079,
+            "title": "Stand by Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+            "release_year": 1986,
+            "plot_summary": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 235,
+            "imdb_id": "tt0092005",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.870575",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftuf7a/",
+            "original_comment_text": "Stand by Me\n\nDead Poet’s Society \n\nGood Will Hunting\n\nMy Girl\n\nPlanes, Trains & Automobiles \n\n"
+          },
+          {
+            "id": 6094204686449163339,
+            "title": "Good Will Hunting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_year": 1997,
+            "plot_summary": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 489,
+            "imdb_id": "tt0119217",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:56.945047",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftrt4a/",
+            "original_comment_text": "Robin Williams in Good Will Hunting"
+          },
+          {
+            "id": -3315113951837100485,
+            "title": "The Book of Eli",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+            "release_year": 2010,
+            "plot_summary": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 20504,
+            "imdb_id": "tt1037705",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:57.013293",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftobeq/",
+            "original_comment_text": "Project Hail Mary (in theaters, but highly recommend it for a future watch) \n\nThe Book of Eli\n\nThe Lord of the Rings series\n\nEverything Everywhere All at Once\n\nTo Kill a Mockingbird"
+          },
+          {
+            "id": 3205007706825546188,
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg",
+            "release_year": 2023,
+            "plot_summary": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Comedy"
+            ],
+            "tmdb_id": 493529,
+            "imdb_id": "tt2906216",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:57.084534",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftpn5m/",
+            "original_comment_text": "Okay taking into account that they are 15;\n\n* Dungeons & Dragons: Honour Among Thieves (2023). It's a truly heartwarming comedy with two male (and two female) characters in leading roles who both display a lot of positive traits - kindness, cleverness, confidence, and one male supporting character who just radiates empathy and wisdom. The movie is also *extremely* funny, had my brother in tears. Genuinely one of the best comedies I've seen recently, and it looks amazing too.\n* Maggie (2015). A zombie apocalypse drama about a father and a daughter. Mind you it's a drama, more than it is an action or a horror, its core component is the dread of it all, and it's one of the best zombie movies I've ever seen. Arnold Schwarzenegger plays the father character very well, with all the love and burden the plot requires.\n* School of Rock (2003). Another comedy with a main character that's a bit of a wannabe rockstar jackass (played by Jack Black), who takes a job as a teacher and really grows to love and respect his class. Great comedy all-around, but if the boys like rock or metal music, even better."
+          },
+          {
+            "id": 7630242912002618046,
+            "title": "Magic Mike",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cfRv1INLSSumjvxAqEGOP6b0Aw1.jpg",
+            "release_year": 2012,
+            "plot_summary": "Mike, an experienced stripper, takes a younger performer called The Kid under his wing and schools him in the arts of partying, picking up women, and making easy money.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 77930,
+            "imdb_id": "tt1915581",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:57.158253",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftmvrb/",
+            "original_comment_text": "Not even joking -- Magic Mike and Magic Mike XXL"
+          },
+          {
+            "id": -4323204323784815204,
+            "title": "Magic Mike XXL",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jkuCNd3wOmf4sDlZ89HEt8jmsqr.jpg",
+            "release_year": 2015,
+            "plot_summary": "Three years after Mike bowed out of the stripper life at the top of his game, he and the remaining Kings of Tampa hit the road to Myrtle Beach to put on one last blow-out performance.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 264999,
+            "imdb_id": "tt2268016",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:57.227674",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftmvrb/",
+            "original_comment_text": "Not even joking -- Magic Mike and Magic Mike XXL"
+          },
+          {
+            "id": -5897388022604479772,
+            "title": "Dead Poets Society",
+            "poster_url": "https://image.tmdb.org/t/p/w500/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+            "release_year": 1989,
+            "plot_summary": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 207,
+            "imdb_id": "tt0097165",
+            "category_title": "Movies Portraying Positive Masculinity",
+            "time_period": "monthly",
+            "date_scraped": "2026-05-05T06:20:57.297498",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1sjqjpl/suggestions_for_movies_that_portray_positive/oftuf7a/",
+            "original_comment_text": "Stand by Me\n\nDead Poet’s Society \n\nGood Will Hunting\n\nMy Girl\n\nPlanes, Trains & Automobiles \n\n"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 73,
+    "totalCategories": 5,
+    "lastUpdated": "2026-05-05T06:18:32.166929"
+  }
+}

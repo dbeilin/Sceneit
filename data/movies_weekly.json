@@ -1,0 +1,1438 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies Where The Tone Completely Changes",
+        "movies": [
+          {
+            "id": 6254605992270232736,
+            "title": "Psycho",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_year": 1960,
+            "plot_summary": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 539,
+            "imdb_id": "tt0054215",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.190303",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1x4yx/",
+            "original_comment_text": "Psycho (1960)"
+          },
+          {
+            "id": 6445085937246371872,
+            "title": "Sunshine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg",
+            "release_year": 2007,
+            "plot_summary": "Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun — but the mission fails. Seven years later, a new team is sent to finish the mission as mankind’s last hope.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 1272,
+            "imdb_id": "tt0448134",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.193437",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1xqvj/",
+            "original_comment_text": "Sunshine (2007)"
+          },
+          {
+            "id": -8848177202167687657,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.287029",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1wtx1/",
+            "original_comment_text": "Sorry To Bother You"
+          },
+          {
+            "id": 8301778544060867404,
+            "title": "From Dusk Till Dawn",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sV3kIAmvJ9tPz4Lq5fuf9LLMxte.jpg",
+            "release_year": 1996,
+            "plot_summary": "After kidnapping a father and his two kids, the Gecko brothers head south to a seedy Mexican bar to hide out in safety, unaware of its notorious clientele.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 755,
+            "imdb_id": "tt0116367",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.307006",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1x42z/",
+            "original_comment_text": "From Dusk Till Dawn "
+          },
+          {
+            "id": -3720019865381352543,
+            "title": "Parasite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+            "release_year": 2019,
+            "plot_summary": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 496243,
+            "imdb_id": "tt6751668",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.327336",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1z6sk/",
+            "original_comment_text": "Parasite (2019)"
+          },
+          {
+            "id": -8764942672874046282,
+            "title": "Gone Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ts996lKsxvjkO2yiYG0ht4qAicO.jpg",
+            "release_year": 2014,
+            "plot_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+            "runtime": "2h 29m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 210577,
+            "imdb_id": "tt2267998",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.339561",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om27ao3/",
+            "original_comment_text": "Can’t believe no one has said Gone Girl yet! \n\nSinners kind of does this. \n\n"
+          },
+          {
+            "id": 8769782281244725202,
+            "title": "Barbarian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+            "release_year": 2022,
+            "plot_summary": "In town for a job interview, a young woman arrives at her Airbnb late at night only to find that it has been mistakenly double-booked and a strange man is already staying there. Against her better judgement, she decides to stay the night anyway.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 913290,
+            "imdb_id": "tt15791034",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.342251",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1yh91/",
+            "original_comment_text": "Barbarian "
+          },
+          {
+            "id": -3913395610807799358,
+            "title": "Sinners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+            "release_year": 2025,
+            "plot_summary": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 1233413,
+            "imdb_id": "tt31193180",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.396083",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om27ao3/",
+            "original_comment_text": "Can’t believe no one has said Gone Girl yet! \n\nSinners kind of does this. \n\n"
+          },
+          {
+            "id": -6075311749413421297,
+            "title": "District 9",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",
+            "release_year": 2009,
+            "plot_summary": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Science Fiction"
+            ],
+            "tmdb_id": 17654,
+            "imdb_id": "tt1136608",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.400220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om212zo/",
+            "original_comment_text": "I'll say it again. District 9. It starts out as this weird apartheid documentary and then shifts into this insane sci-fi action movie. It's awesome!"
+          },
+          {
+            "id": -2137777481363889643,
+            "title": "Ravenous",
+            "poster_url": "https://image.tmdb.org/t/p/w500/y6iSHI9PfkPwL6oEtmHRvqmIFBJ.jpg",
+            "release_year": 2017,
+            "plot_summary": "In an isolated rural community of Quebec, Canada, some inhabitants attack other people, hungry for human flesh. A few survivors gather and go deep into the forest to escape them.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Science Fiction"
+            ],
+            "tmdb_id": 415010,
+            "imdb_id": "tt6243140",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.416158",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1x3ym/",
+            "original_comment_text": "Ravenous.  When the actual plot finally hits, it goes in a direction completely unexpected if you go into it blind.  Brilliant fuckin film."
+          },
+          {
+            "id": 8672581579554158532,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.457745",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om2168u/",
+            "original_comment_text": "Cabin in the Woods"
+          },
+          {
+            "id": 6077688294803233958,
+            "title": "Downsizing",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg",
+            "release_year": 2017,
+            "plot_summary": "A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 5.4,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 301337,
+            "imdb_id": "tt1389072",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.502865",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1wsrp/",
+            "original_comment_text": "Prob not exactly what you're looking for, but for some reason the first movie that came to mind was Downsizing. Started off as a fun comedy, and dont know what the hell it changed into mid way through! "
+          },
+          {
+            "id": -4252798404871521196,
+            "title": "Full Metal Jacket",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg",
+            "release_year": 1987,
+            "plot_summary": "A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 600,
+            "imdb_id": "tt0093058",
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.508220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1x92a/",
+            "original_comment_text": "Full Metal Jacket is a pretty good example of changing genres. Both parts are serious though."
+          },
+          {
+            "id": -6602910748548265270,
+            "title": "Adaptation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rkk1jgoB9AmKpTcUHKlKZstzIma.jpg",
+            "release_year": 2022,
+            "plot_summary": "The setting for Josh Kline’s Adaptation is the contaminated canyons of a flooded New York City in the near future—here rendered with resolutely analog special effects, including matte shots and scale models. Amid the ruins, life and work continue, as the city’s remaining relief workers adapt to the strange beauty of their newly transformed home and the consequences of a slow, preventable apocalypse.",
+            "runtime": "11m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1023806,
+            "imdb_id": null,
+            "category_title": "Movies Where The Tone Completely Changes",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:27.510034",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1teev58/a_movie_when_the_tone_completely_changes/om1zzk8/",
+            "original_comment_text": "Adaptation  (2002)"
+          }
+        ]
+      },
+      {
+        "name": "Nonviolent Erotic Films With Strong Cinematography",
+        "movies": [
+          {
+            "id": 1006058571631345421,
+            "title": "Daughters of Eve",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jmB3Pk8xK3R439xHa7ko7vdx0FH.jpg",
+            "release_year": 1985,
+            "plot_summary": "In the remote countryside of Ilongo, various women are sexually abused by local men. Two sisters meet Simon, the most attractive man in the village, and fight over him - one constantly haunted by Catholic dogma because of the abuse she suffered previously.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 77321,
+            "imdb_id": "tt0292236",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.909571",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": -2847616251682060651,
+            "title": "Divine Emanuelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/66CBh1cPP7vjkGfiCnxr5cLRVKD.jpg",
+            "release_year": 1981,
+            "plot_summary": "The young daughter of a US Senator is drawn into a hippie “free love” cult called “The Children of Light” by the blond boyfriend of the cult’s leader, a mysterious and beautiful Asian woman. The cult turns out to be not quite the “free” love community it presents itself to be.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 4.2,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 39919,
+            "imdb_id": "tt0083215",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.919875",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 4811445144815689588,
+            "title": "Emmanuelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kFq1ffM4ruQmWH6C3SjVWJoqMi6.jpg",
+            "release_year": 1974,
+            "plot_summary": "An employee at the French Embassy in Bangkok invites his wife to join him – and enjoy the benefits of their open marriage.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 24402,
+            "imdb_id": "tt0071464",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.920894",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 1025657136899083466,
+            "title": "Gabriela",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ho99cPnYeKj1RepZxB4XWYzTyfY.jpg",
+            "release_year": 1983,
+            "plot_summary": "In 1925, Gabriela, a poor, uneducated, yet charming woman becomes cook, mistress, and then wife of Nacib, a bar owner in Ilhéus, a small Brazilian coastal town run by the local colonels.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 42109,
+            "imdb_id": "tt0085575",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.922084",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": -315790087715465882,
+            "title": "Sister Emanuelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eRmBJGmljHY9o7OHpcmPfdMKqQg.jpg",
+            "release_year": 1977,
+            "plot_summary": "Sister Emanuelle and Sister Nanà go to meet Mr. Cazzabriga, who has a problem: his wild-child daughter, Monica, who he wants to send to a Catholic school to remove her from temptations around the house.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Horror"
+            ],
+            "tmdb_id": 59068,
+            "imdb_id": "tt0078344",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.922482",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 765122375235288475,
+            "title": "Girl with the Golden Panties",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AbBZvKygEMRdglHDqeHbc51uzb7.jpg",
+            "release_year": 1980,
+            "plot_summary": "Luys Forest is a writer with a Falangist political past.  He lives isolated in a coastal town, writing his memoirs (actually rewriting and adapting his autobiography with the times), and brooding over his failed marriage. His sister is worried about him and decides to send her daughter Mariana to stay with him. Mariana and a seemingly mute and artistic lesbian companion come to town to shake the stable world of Luys  with their free and uninhibited ways. Soon begins a game of seduction that ends up exposing the intellectual game of Luys.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 4.6,
+            "genres": [
+              "Thriller"
+            ],
+            "tmdb_id": 115682,
+            "imdb_id": "tt0079586",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.924811",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": -7435887213866623501,
+            "title": "Emmanuelle: The Joys of a Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cuG4YTomxIOw2yxIcTJMvRiQNYK.jpg",
+            "release_year": 1975,
+            "plot_summary": "Emmanuelle returns to her husband in Hong Kong and proceeds to have several extramarital affairs -- with his knowledge, of course. Her husband's lover and American guest are both very puzzled by their openness.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 28209,
+            "imdb_id": "tt0072933",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.926413",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 6458429307591722413,
+            "title": "Rochelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h3HsErSVz8ifb9EQRO5Pqku2adM.jpg",
+            "release_year": 2024,
+            "plot_summary": "A brazen young man takes it upon himself to send his friend’s busted up car, Rochelle, out in style by entering it in a local demolition derby, but to get there he needs help from an unexpected source.",
+            "runtime": "21m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1326354,
+            "imdb_id": null,
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.927290",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omh55ar/",
+            "original_comment_text": "Rochelle Rochelle - a young girl’s strange, erotic journey from Milan to Minsk. "
+          },
+          {
+            "id": 6266688456191189548,
+            "title": "Bilitis",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uhebKo7EuNJpSTfOorWxDCQQJAn.jpg",
+            "release_year": 1977,
+            "plot_summary": "A coming of age story centering on the exploits of a young girl during summer vacation.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 50435,
+            "imdb_id": "tt0075753",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.927536",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": -1264299165634603739,
+            "title": "Black Cobra",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wZ2QgscQS7DbrcgRcroryCUskuG.jpg",
+            "release_year": 1976,
+            "plot_summary": "After a swift courtship, wealthy bachelor Judas Carmichael invites a topless dancer to live with him and his abundant collection of exotic snakes.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 4.3,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 29955,
+            "imdb_id": "tt0074501",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.927737",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 8709132209503474691,
+            "title": "La Belle Noiseuse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/n6f7I9RUdoDa9AgM9X2oAc3pk4l.jpg",
+            "release_year": 1991,
+            "plot_summary": "The former famous painter Frenhofer lives quietly with his wife on a countryside residence in the French Provence. When the young artist Nicolas visits him with his girlfriend Marianne, Frenhofer decides to start again the work on a painting he long ago stopped: La Belle Noiseuse. And he wants Marianne as model.",
+            "runtime": "3h 58m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 12627,
+            "imdb_id": "tt0101428",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.973152",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 5501780809368120692,
+            "title": "Paprika",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bLUUr474Go1DfeN1HLjE3rnZXBq.jpg",
+            "release_year": 2006,
+            "plot_summary": "When a machine that allows therapists to enter their patient's dreams is stolen, all hell breaks loose. Only a young female therapist can stop it and recover it before damage is done: Paprika.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Animation"
+            ],
+            "tmdb_id": 4977,
+            "imdb_id": "tt0851578",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:52.994533",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 976725968381809854,
+            "title": "Kama Sutra: A Tale of Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kUaWgLrI7HqpPqPxgR54wSGokCV.jpg",
+            "release_year": 1997,
+            "plot_summary": "Tara and Maya are inseparable, with the same tastes, habits, and hobbies. Years later, the two have matured but have maintained their friendship. Tara marries local prince Raj Singh, who succeeds the throne as the sole heir. After the marriage, Raj seeks another female to satisfy his sexual desires, with his sights settling on Maya, putting a perhaps unforgivable strain on a longtime friendship.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 5.7,
+            "genres": [
+              "Drama",
+              "History",
+              "Romance"
+            ],
+            "tmdb_id": 28005,
+            "imdb_id": "tt0116743",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:53.134107",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          },
+          {
+            "id": 6200481489692635986,
+            "title": "Pantaleón y las visitadoras",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pXvU5XDwmfWyfkO92t06MKzDnw5.jpg",
+            "release_year": 1975,
+            "plot_summary": "Pantaleón and the visitors is a peruvian film made in 1975 and based on the book of the same name by Mario Vargas Llosa. Directed by the novelist himself along with José María Gutiérrez Santos, it was released in Puerto Rico. Among its protagonists, José Sacristán, the Mexican Katy Jurado and Rosa Carmina and the Peruvian Camucha Negrete.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 3.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 612549,
+            "imdb_id": "tt0073510",
+            "category_title": "Nonviolent Erotic Films With Strong Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:44:53.158030",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tggfzp/erotic_films_non_violent_hot_good_cinematography/omhgb26/",
+            "original_comment_text": "1977\tBilitis\n\n1974\tEmmanuelle\n\n1975\tEmmanuelle: L'antivierge (Emmanuelle 2)\n\n1977\tSuor Emanuelle\n\n1976\tBlack Cobra Woman\n\n1980\t La muchacha de las bragas de oro-Girl with the Golden Panties\n\n1981\tDivine Emanuelle\n\n1983\tGabriela, Cravo e Canela\n\n1985\tSilip\n\n1991\tLa belle noiseuse\n\n1991\tPaprika\n\n1996\tKama Sutra: A Tale of Love\n\n1999\tPantaleón y las Visitadoras\n\n2000\tTra(sgre)dire/Cheeky\n\n2003\tA Good Lawyer's Wife\n\n2005\tThe Civilization of Maxwell Bright\n\n2007\tCalifornia Dreamin'\n\n2007\tLust, Caution\n\n2008\tA Tale of Legendary Libido (Garoojigi)\n\n2010\tNatalie\n\n2011\tMadrid, 1987\n\n2011\tNow and Later\n\n2011\tWhore’s Glory\n\n2012\tA Muse (Eungyo)\n\n2012\tB.A. Pass\n\n2012\tDue West: Our Sex Journey\n\n2013\tNymphomaniac\n\n2016\tThe Handmaiden\n\n2011\tLove Actually... Sucks!\n\n2005\tBatalla en el cielo\n\n2001\tSamsara\n\n1981\tLady Chatterly’s Lover\n\n1972\tLe Grand Blond Avec Une Chaussure Noire"
+          }
+        ]
+      },
+      {
+        "name": "Best Documentary Movies",
+        "movies": [
+          {
+            "id": -3193304772129031356,
+            "title": "Searching for Sugar Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ucM98HuBHSWmn44oiE83hIDc6VB.jpg",
+            "release_year": 2012,
+            "plot_summary": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock 'n' roller, Rodriguez.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Music",
+              "Documentary"
+            ],
+            "tmdb_id": 84334,
+            "imdb_id": "tt2125608",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.942441",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": 324385784443620680,
+            "title": "Man on Wire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1mS4rhIgHZcHIvf1beP9Av0Ui33.jpg",
+            "release_year": 2008,
+            "plot_summary": "On August 7th 1974, French tightrope walker Philippe Petit stepped out on a high wire, illegally rigged between New York's World Trade Center twin towers, then the world's tallest buildings. After nearly an hour of performing on the wire, 1,350 feet above the sidewalks of Manhattan, he was arrested. This fun and spellbinding documentary chronicles Philippe Petit's \"highest\" achievement.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 14048,
+            "imdb_id": "tt1155592",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.944098",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": -8922975687958799373,
+            "title": "The Central Park Five",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aKlQ8Sjr07OkCLuYkRYtpVSMm3e.jpg",
+            "release_year": 2012,
+            "plot_summary": "In 1989, five black and Latino teenagers from Harlem were arrested and later convicted of raping a white woman in New York City's Central Park. They spent between 6 and 13 years in prison before a serial rapist confessed that he alone had committed the crime, leading to their convictions being overturned. Set against a backdrop of a decaying city beset by violence and racial tension, this is the story of that horrific crime, the rush to judgment by the police, a media clamoring for sensational stories and an outraged public, and the five lives upended by this miscarriage of justice.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 124067,
+            "imdb_id": "tt2380247",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.947479",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": -6956966086649019043,
+            "title": "20 Feet from Stardom",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6iRxKxfE6SB586cQV3BH8NSMzoZ.jpg",
+            "release_year": 2013,
+            "plot_summary": "Backup singers live in a world that lies just beyond the spotlight. Their voices bring harmony to the biggest bands in popular music, but we've had no idea who these singers are or what lives they lead, until now.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Documentary",
+              "Music"
+            ],
+            "tmdb_id": 159014,
+            "imdb_id": "tt2396566",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.950396",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvetr9/",
+            "original_comment_text": "20 Feet From Stardom:  Winner of the 2014 Academy Award for Best Documentary Feature, this film looks at the world of backup vocalists and the legends they support."
+          },
+          {
+            "id": -8719300610068356615,
+            "title": "Blackfish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kCk4mDFE96Mn1AYfEcbxkIiw7ND.jpg",
+            "release_year": 2013,
+            "plot_summary": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 158999,
+            "imdb_id": "tt2545118",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.954948",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": 8147340554987900178,
+            "title": "Grizzly Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+            "release_year": 2005,
+            "plot_summary": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 501,
+            "imdb_id": "tt0427312",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.956082",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvfadq/",
+            "original_comment_text": "Grizzly man, and anything by the director, Herzog. \n\nThe thin blue line. \n\nIf you’re in the sports, watch 30 for 30. "
+          },
+          {
+            "id": 3117777576328218925,
+            "title": "13th",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tcKNWD6IFPPsvkpvyZ548naz0is.jpg",
+            "release_year": 2016,
+            "plot_summary": "An in-depth look at the prison system in the United States and how it reveals the nation's history of racial inequality.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 407806,
+            "imdb_id": "tt5895028",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.959166",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": -3934721013888816463,
+            "title": "Three Identical Strangers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/esPoJNMBsgWXahv8gILIl5K6sFk.jpg",
+            "release_year": 2018,
+            "plot_summary": "New York, 1980. Three complete strangers accidentally discover that they're identical triplets, separated at birth. The 19-year-olds' joyous reunion catapults them to international fame, but also unlocks an extraordinary and disturbing secret that goes beyond their own lives – and could transform our understanding of human nature forever.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 489988,
+            "imdb_id": "tt7664504",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.959358",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": -1405977232207083842,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:41.960757",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": -2256136820266904510,
+            "title": "The Imposter",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fq1MMkiKjCLUO0rZf8FL1JdjHAw.jpg",
+            "release_year": 2012,
+            "plot_summary": "In 1994, a 13-year-old boy disappeared without a trace from his home in San Antonio, Texas. Three-and-a-half years later, he is found alive in a village in southern Spain with a horrifying story of kidnap and torture. His family is overjoyed to bring him home. But all is not quite as it seems.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary",
+              "Mystery",
+              "Crime"
+            ],
+            "tmdb_id": 84287,
+            "imdb_id": "tt1966604",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:42.106255",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvf9jv/",
+            "original_comment_text": "13th (2016)\n\nDear Zachary (2008)\n\nSearching for Sugarman (2012)\n\nThe Imposter (2012)\n\nThree Identical Strangers (2018)\n\nBlackfish (2013)\n\nThe Central Park Five (2012)\n\nMan on a Wire (2008)\n\n20 Feet From Stardom (2013)\n"
+          },
+          {
+            "id": 4970096638174707213,
+            "title": "The Thin Blue Line",
+            "poster_url": "https://image.tmdb.org/t/p/w500/toJRzlXOSZYWW5IUk7DrZJv7kHF.jpg",
+            "release_year": 1966,
+            "plot_summary": "The work of the US police force and the problem of fighting rising crime across the country.",
+            "runtime": "52m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Documentary",
+              "TV Movie"
+            ],
+            "tmdb_id": 545938,
+            "imdb_id": "tt0860931",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:42.167738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvfadq/",
+            "original_comment_text": "Grizzly man, and anything by the director, Herzog. \n\nThe thin blue line. \n\nIf you’re in the sports, watch 30 for 30. "
+          },
+          {
+            "id": 4886938316958304553,
+            "title": "Paris Is Burning",
+            "poster_url": "https://image.tmdb.org/t/p/w500/90rCWH41mj9hjHUEy2SOHfuAOl3.jpg",
+            "release_year": 1991,
+            "plot_summary": "Where does voguing come from, and what, exactly, is throwing shade? This landmark documentary provides a vibrant snapshot of the 1980s through the eyes of New York City's African American and Latinx Harlem drag-ball scene. Made over seven years, PARIS IS BURNING offers an intimate portrait of rival fashion \"houses,\" from fierce contests for trophies to house mothers offering sustenance in a world rampant with homophobia, transphobia, racism, AIDS, and poverty. Featuring legendary voguers, drag queens, and trans women — including Willi Ninja, Pepper LaBeija, Dorian Corey, and Venus Xtravaganza.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 31225,
+            "imdb_id": "tt0100332",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:42.182727",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvfmkg/",
+            "original_comment_text": "Paris Is Burning\n\nHoop Dreams\n\nThe Last Waltz\n\n20 Feet From Stardom\n\nSearching for Sugar Man\n\nExit Through the Gift Shop\n\nBlackfish\n\nCitizenfour\n\n13th\n\nWild Wild Country\n\nThree Identical Strangers\n\nLong Strange Trip\n\nDon’t Fuck with Cats\n\nJesus Camp\n\nThis is a variety of documentary genres and should be easy to find streaming or on YouTube."
+          },
+          {
+            "id": -2462761170390399842,
+            "title": "My Octopus Teacher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hvTVZb7hBC8tZAGoEhH5eiMJu2B.jpg",
+            "release_year": 2020,
+            "plot_summary": "After years of swimming every day in the freezing ocean at the tip of Africa, Craig Foster meets an unlikely teacher: a young octopus who displays remarkable curiosity. Visiting her den and tracking her movements for months on end he eventually wins the animal’s trust and they develop a never-before-seen bond between human and wild animal.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 682110,
+            "imdb_id": "tt12888462",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:42.184529",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvnvze/",
+            "original_comment_text": "My Octopus Teacher. "
+          },
+          {
+            "id": -247456865186336352,
+            "title": "30 for 30: The Bunny & the GOAT",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iq5agrF9Kj4PSGHgEQO5ioVjDoV.jpg",
+            "release_year": 2021,
+            "plot_summary": "LeBron James faces the biggest challenge of his career as he teams up with the Tune Squad to save his son, the Looney Tunes, and their universe. Can LeBron and the Tune Squad defeat The Goon Squad to save his son? Only time will tell... welcome to the Space Jam!",
+            "runtime": "6m",
+            "tmdb_rating": 4.3,
+            "genres": [
+              "Comedy",
+              "Animation"
+            ],
+            "tmdb_id": 837521,
+            "imdb_id": "tt14796906",
+            "category_title": "Best Documentary Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:45:42.189225",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tdhusc/best_documentaries/olvfadq/",
+            "original_comment_text": "Grizzly man, and anything by the director, Herzog. \n\nThe thin blue line. \n\nIf you’re in the sports, watch 30 for 30. "
+          }
+        ]
+      },
+      {
+        "name": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+        "movies": [
+          {
+            "id": 2950182143102678379,
+            "title": "The Last Holidays",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5erL6PyJIWetBdh1vE2rXd8tQnk.jpg",
+            "release_year": 1975,
+            "plot_summary": "A young woman is going on holiday with her parents. She narrowly escapes when her holiday fling tries to kill her, only to find out that this nasty encounter was not quite as accidental as it first seemed.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 3.7,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 266177,
+            "imdb_id": "tt0073285",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.883246",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/olkyx8v/",
+            "original_comment_text": "The Last Holiday starring Queen Latifa is excellent. She’s diagnosed with a terminal illness and only has a few weeks to live. She goes on a trip that she’s been dreaming of her entire life and suddenly it feels like the universe is conspiring in her favor. It’s inspiring and uplifting. Highly suggest it. "
+          },
+          {
+            "id": -1485684995121673833,
+            "title": "Good Will Hunting",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+            "release_year": 1997,
+            "plot_summary": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 489,
+            "imdb_id": "tt0119217",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.887006",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll0cfu/",
+            "original_comment_text": "Good Will Hunting – get on with life and don’t stay in the comfortable just because it is comfortable. \n\nKarate Kid – the original\n\n"
+          },
+          {
+            "id": 7651889578645767234,
+            "title": "12 Angry Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+            "release_year": 1957,
+            "plot_summary": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 389,
+            "imdb_id": "tt0050083",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.895711",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll0xes/",
+            "original_comment_text": "I would recommend older movies as they are slower paced and void of CGI/big budget tricks. Cool Hand Luke and 12 Angry Men are a couple good ones."
+          },
+          {
+            "id": -1706556024046403719,
+            "title": "Cool Hand Luke",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4ykzTiHKLamh3eZJ8orVICtU2Jp.jpg",
+            "release_year": 1967,
+            "plot_summary": "When petty criminal Luke Jackson is sentenced to two years in a Florida prison farm, he doesn't play by the rules of either the sadistic warden or the yard's resident heavy, Dragline, who ends up admiring the new guy's unbreakable will. Luke's bravado, even in the face of repeated stints in the prison's dreaded solitary confinement cell, \"the box,\" make him a rebel hero to his fellow convicts and a thorn in the side of the prison officers.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 903,
+            "imdb_id": "tt0061512",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.897182",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll0xes/",
+            "original_comment_text": "I would recommend older movies as they are slower paced and void of CGI/big budget tricks. Cool Hand Luke and 12 Angry Men are a couple good ones."
+          },
+          {
+            "id": -4642858169752474632,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.907159",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/olkxwut/",
+            "original_comment_text": "The Secret Life of Walter Mitty "
+          },
+          {
+            "id": -1881364562912192706,
+            "title": "Joe Versus the Volcano",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fwjMUuDZUxedfsUpVQKQN8cYfzB.jpg",
+            "release_year": 1990,
+            "plot_summary": "Hypochondriac Joe Banks finds out he has six months to live, quits his dead end job, musters the courage to ask his co-worker out on a date, and is then hired to jump into a volcano by a mysterious visitor.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 2565,
+            "imdb_id": "tt0099892",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.911247",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/olkympn/",
+            "original_comment_text": "Joe vs. the Volcano"
+          },
+          {
+            "id": -4372901019868601708,
+            "title": "Yes Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Vk2nQF1kY34x53YnWd5zDaTht.jpg",
+            "release_year": 2008,
+            "plot_summary": "Carl Allen, a guy whose life is going nowhere, signs up for a self-help program based on one simple covenant: say yes to everything…and anything.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 10201,
+            "imdb_id": "tt1068680",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.913855",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/olkz757/",
+            "original_comment_text": "Yes man (2008)"
+          },
+          {
+            "id": 7027239282485647870,
+            "title": "The Karate Kid",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+            "release_year": 2010,
+            "plot_summary": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 38575,
+            "imdb_id": "tt1155076",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.914023",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll0cfu/",
+            "original_comment_text": "Good Will Hunting – get on with life and don’t stay in the comfortable just because it is comfortable. \n\nKarate Kid – the original\n\n"
+          },
+          {
+            "id": 1947140045260720458,
+            "title": "Everything Everywhere All at Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_year": 2022,
+            "plot_summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 545611,
+            "imdb_id": "tt6710474",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:02.928399",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/olkxbzv/",
+            "original_comment_text": "Everything Everywhere All at Once"
+          },
+          {
+            "id": 4681833691757554097,
+            "title": "Into the Wild",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jnLnLYP5pGDfri04gxtAqAvkHMw.jpg",
+            "release_year": 2007,
+            "plot_summary": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity, and hitchhikes to Alaska to live in the wilderness.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Drama"
+            ],
+            "tmdb_id": 5915,
+            "imdb_id": "tt0758758",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:03.096171",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/ollw7rh/",
+            "original_comment_text": "Secret Life of Walter Mitty \n\nInto The Wild\n\nPursuit of Happyness \n\nYes Man \n\n"
+          },
+          {
+            "id": -360956529048499123,
+            "title": "I Saw the TV Glow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+            "release_year": 2024,
+            "plot_summary": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show — a vision of a supernatural world pulsing beneath their own. As time goes on, however, questions begin to arise about why the show sometimes seems more real than their own lives. In the pale glow of the television, their view of reality begins to crack.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 858017,
+            "imdb_id": "tt15574270",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:03.120784",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll4yt9/",
+            "original_comment_text": "- I Saw the TV glow (2024) is what helped me but if you have a shortened attention span then I suggest:\n- Kajillionaire (2020) - its meaningful media and definitely about shaking up a toxic but comfortable routine. It definitely shakes up the mind"
+          },
+          {
+            "id": 2272116157229519854,
+            "title": "Kajillionaire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fkqJJDb4u9rEyJu8Jm8H1P2mux4.jpg",
+            "release_year": 2020,
+            "plot_summary": "Two con artists have spent 26 years training their only daughter to swindle, scam and steal at every turn. During a desperate and hastily conceived heist, they charm a stranger into joining them, only to have their entire world turned upside down.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 541305,
+            "imdb_id": "tt8143990",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:03.126527",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/oll4yt9/",
+            "original_comment_text": "- I Saw the TV glow (2024) is what helped me but if you have a shortened attention span then I suggest:\n- Kajillionaire (2020) - its meaningful media and definitely about shaking up a toxic but comfortable routine. It definitely shakes up the mind"
+          },
+          {
+            "id": -1816893804989976959,
+            "title": "Pursuit of Happyness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4c0G3dL6FHK0GmArhHPwKHSirpm.jpg",
+            "release_year": 2005,
+            "plot_summary": "The Aluminum Group, composed of gay brothers Frank and John Navin, win over audiences worldwide with their Prada tuxedoes and their intellectual spin on 1970s smooth pop. Filmmaker Patrick McGuinn follows the duo on their 2003 tour of Italy. In between interviews with the brothers, McGuinn mixes black-and-white and color footage of the Chicago-based act, which makes inventive use of the iPod during live shows.",
+            "runtime": "1h",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 256563,
+            "imdb_id": "tt0375174",
+            "category_title": "Movies That Inspire Viewers To Stop Brainrot And Bedrot And Start Living",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:03.159692",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tc2e4k/movies_that_will_inspire_one_to_stop/ollw7rh/",
+            "original_comment_text": "Secret Life of Walter Mitty \n\nInto The Wild\n\nPursuit of Happyness \n\nYes Man \n\n"
+          }
+        ]
+      },
+      {
+        "name": "Older Movies Best Understood As Adults",
+        "movies": [
+          {
+            "id": 6057731695872212283,
+            "title": "Ferris Bueller's Day Off",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+            "release_year": 1986,
+            "plot_summary": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9377,
+            "imdb_id": "tt0091042",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:23.973076",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7ntig/",
+            "original_comment_text": "Ferris bueller day off\n\nI used to think Cameron was lame. Now I feel like Ferris is kind of a jerk. "
+          },
+          {
+            "id": 2217774856972725012,
+            "title": "Rosemary's Baby",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uYgvlHceRFjAFbsNeMInYcLZLUb.jpg",
+            "release_year": 1968,
+            "plot_summary": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 805,
+            "imdb_id": "tt0063522",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.008848",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7l1ok/",
+            "original_comment_text": "So, hear me out … Rosemary’s Baby. I’m Gen X and first saw it in my early twenties. Rosemary was a weak character to me, I was screaming GET AWAY FROM HIM WHAT like the whole time. In the interim, I’ve watched several more times, and I now see her strength and resolve. And understand why she’d still cuddle her child at the end. Why she stayed, why she did all that. Trapped (in the early sixties) as a housewife, with “well meaning” neighbors, being isolated from her college friends, recommended a satanic dr - it was gradual, how would she know? \n\n"
+          },
+          {
+            "id": 8603917717540333959,
+            "title": "Grosse Pointe Blank",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7lQ0MSNQqBTYpXTTZL82u1n95Z3.jpg",
+            "release_year": 1997,
+            "plot_summary": "Hitman Martin Blank becomes a moving target after he rebuffs a fellow assassin's invitation to form a union. On the advice of his quirky assistant and neurotic psychiatrist, Martin begrudgingly heads out to Grosse Pointe, Michigan for his ten-year high school reunion, where he soon comes across the woman he jilted on prom night.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Thriller",
+              "Romance"
+            ],
+            "tmdb_id": 9434,
+            "imdb_id": "tt0119229",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.018175",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7lhxo/",
+            "original_comment_text": "Grosse Pointe Blank. Just better as an adult."
+          },
+          {
+            "id": -2221452224918072962,
+            "title": "Hook",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a6rB1lGXoGms7gWxRfJneQmAjNV.jpg",
+            "release_year": 1991,
+            "plot_summary": "The boy who wasn't supposed to grow up—Peter Pan—does just that, becoming a soulless corporate lawyer whose workaholism could cost him his wife and kids. During his trip to see Granny Wendy in London, the vengeful Capt. Hook kidnaps Peter's kids and forces Peter to return to Neverland.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 879,
+            "imdb_id": "tt0102057",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.018903",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7jyx7/",
+            "original_comment_text": "Hook. It was wrongly marketed as a kids movie. The real message is for adults."
+          },
+          {
+            "id": 8925516495240335852,
+            "title": "Who Framed Roger Rabbit",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+            "release_year": 1988,
+            "plot_summary": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Fantasy",
+              "Animation",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 856,
+            "imdb_id": "tt0096438",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.024906",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om8agii/",
+            "original_comment_text": "Who Framed Roger Rabbit?\n\nGod-tier filmmaking."
+          },
+          {
+            "id": -8475214954124256558,
+            "title": "It's a Wonderful Life",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+            "release_year": 1946,
+            "plot_summary": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Drama",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 1585,
+            "imdb_id": "tt0038650",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.027648",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7j0sq/",
+            "original_comment_text": "So for really old, It’s a Wonderful Life, for old but more modern, Office Space. "
+          },
+          {
+            "id": 1044417451454784261,
+            "title": "What Dreams May Come",
+            "poster_url": "https://image.tmdb.org/t/p/w500/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+            "release_year": 1998,
+            "plot_summary": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he died, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 12159,
+            "imdb_id": "tt0120889",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.036265",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7jstd/",
+            "original_comment_text": "What dreams may come is a really visually beautiful film but it hits really differently after you're married and have kids."
+          },
+          {
+            "id": 8440800443059641061,
+            "title": "Clue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+            "release_year": 1985,
+            "plot_summary": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 15196,
+            "imdb_id": "tt0088930",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.037752",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7skk0/",
+            "original_comment_text": "As a kid I loved Clue for the slapstick and the light-hearted spookiness, but as an adult I laugh my ass off at all the double entendres. \n\n“How many husbands have you had, anyway?”\n\n“Mine or other women’s?”"
+          },
+          {
+            "id": 4900178613916226789,
+            "title": "Office Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iEmTwOkUaLziMQCUZii5wPQBIAO.jpg",
+            "release_year": 1999,
+            "plot_summary": "A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 1542,
+            "imdb_id": "tt0151804",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.040329",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7j0sq/",
+            "original_comment_text": "So for really old, It’s a Wonderful Life, for old but more modern, Office Space. "
+          },
+          {
+            "id": 6388108656990107866,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Family",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.108575",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7ixx9/",
+            "original_comment_text": "The Princess Bride, 1987"
+          },
+          {
+            "id": -8991023026562067748,
+            "title": "The NeverEnding Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lWJC8om086h01f0CMGR9ombdpnI.jpg",
+            "release_year": 1984,
+            "plot_summary": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Family",
+              "Drama"
+            ],
+            "tmdb_id": 34584,
+            "imdb_id": "tt0088323",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.182492",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7j7rb/",
+            "original_comment_text": "The Neverending Story. A sad, beautiful film that I found dull and disappointing as a teenager. "
+          },
+          {
+            "id": 2927186121853689654,
+            "title": "The Breakfast Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg",
+            "release_year": 1985,
+            "plot_summary": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 2108,
+            "imdb_id": "tt0088847",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.230520",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7macp/",
+            "original_comment_text": "The Breakfast Club & Risky Business are both serious and poignant, coming of age, dramas. \n\nWatched both recently (in my 40s) and was shocked they weren't fun comedies about kids in detention/kids opening a bordello in their house while their parents were away."
+          },
+          {
+            "id": 4462390646565749541,
+            "title": "Risky Business",
+            "poster_url": "https://image.tmdb.org/t/p/w500/82KOHShH9raGhkcAN3TztVjqjj3.jpg",
+            "release_year": 1983,
+            "plot_summary": "Meet Joel Goodson, an industrious, college-bound 17-year-old and a responsible, trustworthy son. However, when his parents go away and leave him home alone in the wealthy Chicago suburbs with the Porsche at his disposal he quickly decides he has been good for too long and it is time to enjoy himself. After an unfortunate incident with the Porsche Joel must raise some cash, in a risky way.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Romance",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 9346,
+            "imdb_id": "tt0086200",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.303768",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7macp/",
+            "original_comment_text": "The Breakfast Club & Risky Business are both serious and poignant, coming of age, dramas. \n\nWatched both recently (in my 40s) and was shocked they weren't fun comedies about kids in detention/kids opening a bordello in their house while their parents were away."
+          },
+          {
+            "id": -4719309624860642622,
+            "title": "Footloose",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cDUW5RWmyHcTxu7eg9eMqhBQy2J.jpg",
+            "release_year": 2011,
+            "plot_summary": "Ren MacCormack is transplanted from Boston to the small southern town of Bomont where loud music and dancing are prohibited. Not one to bow to the status quo, Ren challenges the ban, revitalizing the town and falling in love with the minister’s troubled daughter Ariel in the process.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 68817,
+            "imdb_id": "tt1068242",
+            "category_title": "Older Movies Best Understood As Adults",
+            "time_period": "weekly",
+            "date_scraped": "2026-05-19T07:47:24.309115",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tf7fxo/what_older_movies_are_better_understood_as_an/om7o43c/",
+            "original_comment_text": "Footloose was the first movie I saw in the theater without my parents; I was 7 and I saw it with two friends from my class. I thought it was a lot of fun, there was a good guy (Bacon) and a bad guy (Lithgow), and the good guy won and everyone had fun and Ren was right all along… right? When I rewatched it as an adult, I won’t say that Lithgow’s Reverend Moore was “right”, but I was really blown away at how well Lithgow portrayed him. He made me understand why he was so protective in an emotional way, and I could really empathize and see where he was coming from. As a kid all I wanted to see was older kids dancing and having fun, but as an adult who understands responsibility and fear of reckless behavior, I started to see Lithgow as the high point of the movie and it was his scenes I found myself waiting for. I’m not gonna say that Footloose is this secretly deep masterpiece of a movie, but it sure made me appreciate John Lithgow as an actor so much more than I already did! "
+          }
+        ]
+      }
+    ],
+    "totalMovies": 69,
+    "totalCategories": 5,
+    "lastUpdated": "2026-05-19T07:44:27.190303"
+  }
+}

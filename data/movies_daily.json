@@ -1,0 +1,1274 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Most Disturbing Psychological Thriller Movies",
+        "movies": [
+          {
+            "id": -1322832025962516688,
+            "title": "Lost Highway",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg",
+            "release_year": 1997,
+            "plot_summary": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 638,
+            "imdb_id": "tt0116922",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.808508",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgzuz7/",
+            "original_comment_text": "Lost Highway "
+          },
+          {
+            "id": -6278145515776514731,
+            "title": "Nocturnal Animals",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdLDgQBD0va09npSQX5Zgo2evXM.jpg",
+            "release_year": 2016,
+            "plot_summary": "Susan Morrow receives a book manuscript from her ex-husband – a man she left 20 years earlier – asking for her opinion of his writing. As she reads, she is drawn into the fictional life of Tony Hastings, a mathematics professor whose family vacation turns violent.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 340666,
+            "imdb_id": "tt4550098",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.812520",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgytwe/",
+            "original_comment_text": "disturbing = nocturnal animals"
+          },
+          {
+            "id": -1352371939399394543,
+            "title": "Se7en",
+            "poster_url": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+            "release_year": 1995,
+            "plot_summary": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Crime",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 807,
+            "imdb_id": "tt0114369",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.812862",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgswvg/",
+            "original_comment_text": "SE7EN"
+          },
+          {
+            "id": -6343465198421858710,
+            "title": "Audition",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+            "release_year": 2000,
+            "plot_summary": "Seven years after the death of his wife, widower Shigeharu seeks advice on how to find a new wife from a colleague. Taking advantage of their position as a film company, they stage an audition. Interviewing a series of women, Shigeharu is enchanted by the quiet Asami. But soon things take a twisted turn as Asami isn’t what she seems to be.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 11075,
+            "imdb_id": "tt0235198",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.821760",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgz3bo/",
+            "original_comment_text": "Funny Games\n\nSe7en\n\nAudition\n\nHush\n\nFrailty\n\nPrimal Fear"
+          },
+          {
+            "id": 6122549978404601219,
+            "title": "Frailty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jid7dyfHa6ApZSTweC3T3nllWjh.jpg",
+            "release_year": 2002,
+            "plot_summary": "A mysterious man arrives at the offices of an FBI agent and recounts his childhood: how his religious fanatic father received visions telling him to kill people who were in fact \"demons.\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 12149,
+            "imdb_id": "tt0264616",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.822425",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgvebi/",
+            "original_comment_text": "Frailty"
+          },
+          {
+            "id": 2873474882411025901,
+            "title": "Hush",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tyqD4C2vVKrvP3FkFK0GS9IWbTo.jpg",
+            "release_year": 2016,
+            "plot_summary": "A deaf woman is stalked by a psychotic killer in her secluded home.",
+            "runtime": "1h 22m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 376570,
+            "imdb_id": "tt5022702",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.826462",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgz3bo/",
+            "original_comment_text": "Funny Games\n\nSe7en\n\nAudition\n\nHush\n\nFrailty\n\nPrimal Fear"
+          },
+          {
+            "id": -8684659349330616376,
+            "title": "Cape Fear",
+            "poster_url": "https://image.tmdb.org/t/p/w500/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+            "release_year": 1991,
+            "plot_summary": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.",
+            "runtime": "2h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 1598,
+            "imdb_id": "tt0101540",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.838364",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgtfma/",
+            "original_comment_text": "Cape Fear with De Niro is excellent"
+          },
+          {
+            "id": 4756672783843241255,
+            "title": "Funny Games",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zs92sAOh3Q0kDIJkgaJFTBzSFka.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Ann, husband George, and son Georgie arrive at their holiday home they are visited by a pair of polite and seemingly pleasant young men. Armed with deceptively sweet smiles and some golf clubs, they proceed to terrorize and torture the tight-knit clan, giving them until the next day to survive.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 8461,
+            "imdb_id": "tt0808279",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.845884",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgz3bo/",
+            "original_comment_text": "Funny Games\n\nSe7en\n\nAudition\n\nHush\n\nFrailty\n\nPrimal Fear"
+          },
+          {
+            "id": 4445588867692878810,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:13:59.849746",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgtmib/",
+            "original_comment_text": "Requiem of a dream"
+          },
+          {
+            "id": -1178656457694731587,
+            "title": "Primal Fear",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+            "release_year": 1996,
+            "plot_summary": "Defense attorney Martin Vail takes on jobs for money and prestige rather than any sense of the greater good. His latest case involves an altar boy, accused of brutally murdering the archbishop of Chicago. Vail finds himself up against his ex-pupil and ex-lover, but as the case progresses and the Church's dark secrets are revealed, Vail finds that what appeared a simple case takes on a darker, more dangerous aspect.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 1592,
+            "imdb_id": "tt0117381",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:00.030300",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgz3bo/",
+            "original_comment_text": "Funny Games\n\nSe7en\n\nAudition\n\nHush\n\nFrailty\n\nPrimal Fear"
+          },
+          {
+            "id": -6348859428401614432,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery",
+              "Action"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Most Disturbing Psychological Thriller Movies",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:00.037898",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4ziw3/whats_the_most_disturbing_psychological_thriller/orgvmd0/",
+            "original_comment_text": "There's a lot of Asian cinema like this that rarely uses jumpscares\n\nOldboy (the Korean version) \n\nAudition\n\nIchi the killer (tho it's also kinda fun)\n\n"
+          }
+        ]
+      },
+      {
+        "name": "Movies Based On True Events",
+        "movies": [
+          {
+            "id": 8443847871905433276,
+            "title": "Dog Day Afternoon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg",
+            "release_year": 1975,
+            "plot_summary": "Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 968,
+            "imdb_id": "tt0072890",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.816320",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhpdmj/",
+            "original_comment_text": "Dog Day Afternoon "
+          },
+          {
+            "id": 7513239890068062713,
+            "title": "Boys Don't Cry",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+            "release_year": 1999,
+            "plot_summary": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 226,
+            "imdb_id": "tt0171804",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.833662",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -4076746407764428242,
+            "title": "The Wolf of Wall Street",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+            "release_year": 2013,
+            "plot_summary": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+            "runtime": "3h",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 106646,
+            "imdb_id": "tt0993846",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.841456",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -9219072223890528887,
+            "title": "Alpha Dog",
+            "poster_url": "https://image.tmdb.org/t/p/w500/t9pirEsDxe102mSQGoDZWBbdcCD.jpg",
+            "release_year": 2006,
+            "plot_summary": "Johnny Truelove likes to see himself as tough. He's the son of an underworld figure and a drug dealer. Johnny also likes to get tough when things don't go his way. When Jake Mazursky fails to pay up for Johnny, things get worse for the Mazursky family, as Johnny and his 'gang' kidnap Jake's 15 year old brother and hold him hostage.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 7457,
+            "imdb_id": "tt0426883",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.841623",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -7729618003645902553,
+            "title": "Lords of Dogtown",
+            "poster_url": "https://image.tmdb.org/t/p/w500/k2NiPfydLSwmk28C6qpvpJPuqtq.jpg",
+            "release_year": 2005,
+            "plot_summary": "The radical true story behind three teenage surfers from Venice Beach, California, who took skateboarding to the extreme and changed the world of sports forever. Stacy Peralta, Tony Alva and Jay Adams are the Z-Boys, a bunch of nobodies until they create a new style of skateboarding that becomes a worldwide phenomenon. But when their hobby becomes a business, the success shreds their friendship.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 9787,
+            "imdb_id": "tt0355702",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.842983",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": 2495973209862623639,
+            "title": "Argo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg",
+            "release_year": 2012,
+            "plot_summary": "As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.",
+            "runtime": "2h",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 68734,
+            "imdb_id": "tt1024648",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.846205",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhpflc/",
+            "original_comment_text": "Argo"
+          },
+          {
+            "id": -5079000790067975511,
+            "title": "Schindler's List",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "release_year": 1993,
+            "plot_summary": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+            "runtime": "3h 15m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 424,
+            "imdb_id": "tt0108052",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.853448",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhoxoh/",
+            "original_comment_text": "Schindler's List might be the best of them all"
+          },
+          {
+            "id": 5915364208025972632,
+            "title": "Catch Me If You Can",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+            "release_year": 2002,
+            "plot_summary": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 640,
+            "imdb_id": "tt0264464",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.888962",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -3685681830916850287,
+            "title": "The Normal Heart",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rQwdv1bNdc0OSG8svAEfWACcAAU.jpg",
+            "release_year": 2014,
+            "plot_summary": "The story of the onset of the HIV-AIDS crisis in New York City in the early 1980s, taking an unflinching look at the nation's sexual politics as gay activists and their allies in the medical community fight to expose the truth about the burgeoning epidemic to a city and nation in denial.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 113833,
+            "imdb_id": "tt1684226",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.891293",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -6562632955406814050,
+            "title": "Gia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8KxvKGl8lQembejIadDP03qjEYT.jpg",
+            "release_year": 1998,
+            "plot_summary": "Gia Carangi meteorically rises to modeling fame in the late 1970s but becomes overconsumed by persistent loneliness and drug addiction.",
+            "runtime": "2h",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 14533,
+            "imdb_id": "tt0123865",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:17.906738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": -1953343220980829465,
+            "title": "I, Tonya",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6gNXwSHxaksR1PjVZRqNapmkgj3.jpg",
+            "release_year": 2017,
+            "plot_summary": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the sport is thrown into doubt when her ex-husband intervenes.",
+            "runtime": "2h",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 389015,
+            "imdb_id": "tt5580036",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:18.021286",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          },
+          {
+            "id": 5679185253586805810,
+            "title": "The Big Short",
+            "poster_url": "https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+            "release_year": 2015,
+            "plot_summary": "The men who made millions from a global economic meltdown.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 318846,
+            "imdb_id": "tt1596363",
+            "category_title": "Movies Based On True Events",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:18.130359",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u53cz6/i_love_watching_movies_that_are_based_on_true/orhqqi2/",
+            "original_comment_text": "The Wolf of Wall Street\n\nCatch Me if You Can \n\nBoys Don’t Cry \n\nLords of Dogtown \n\nAlpha Dog \n\nGia \n\nThe Normal Heart\n\nI, Tonya \n\nThe Big Short "
+          }
+        ]
+      },
+      {
+        "name": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+        "movies": [
+          {
+            "id": 2378159405852824437,
+            "title": "Galaxy Quest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+            "release_year": 1999,
+            "plot_summary": "For four years, the courageous crew of the NSEA Protector —  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus — set off on a thrilling and often dangerous mission in space... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 926,
+            "imdb_id": "tt0177789",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.241442",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjcz0e/",
+            "original_comment_text": "Galaxy Quest"
+          },
+          {
+            "id": -2514984266110093628,
+            "title": "Darkman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9fxGRzlINIvfPFhizMgbQaDDrK.jpg",
+            "release_year": 1990,
+            "plot_summary": "Dr. Peyton Westlake is on the verge of realizing a major breakthrough in synthetic skin when his laboratory is destroyed by gangsters. Having been burned beyond recognition and forever altered by an experimental medical procedure, Westlake becomes known as Darkman, assuming alternate identities in his quest for revenge and a new life with a former love.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 9556,
+            "imdb_id": "tt0099365",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.256650",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjb00f/",
+            "original_comment_text": "Darkman - still my favorite Sam Raimi movie."
+          },
+          {
+            "id": 2993803357930388556,
+            "title": "Hot Fuzz",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
+            "release_year": 2007,
+            "plot_summary": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Crime",
+              "Action",
+              "Comedy"
+            ],
+            "tmdb_id": 4638,
+            "imdb_id": "tt0425112",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.258944",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjbawh/",
+            "original_comment_text": "Total Recall (1990)\n\nThe Cornetto Trilogy: Shaun of the Dead (2004), Hot Fuzz (2007), The World's End (2013)"
+          },
+          {
+            "id": -5297982777172946189,
+            "title": "Tremors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+            "release_year": 1990,
+            "plot_summary": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 9362,
+            "imdb_id": "tt0100814",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.261553",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjdq5i/",
+            "original_comment_text": "Tremors(1990)"
+          },
+          {
+            "id": -3266534839491567787,
+            "title": "Shaun of the Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg",
+            "release_year": 2004,
+            "plot_summary": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 747,
+            "imdb_id": "tt0365748",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.268999",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjbawh/",
+            "original_comment_text": "Total Recall (1990)\n\nThe Cornetto Trilogy: Shaun of the Dead (2004), Hot Fuzz (2007), The World's End (2013)"
+          },
+          {
+            "id": 8461657959817905971,
+            "title": "Total Recall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "release_year": 1990,
+            "plot_summary": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Rekall, a virtual vacation company that manufactures memories. When something goes wrong during Quaid's memory implant procedure, his life turns upside down, leading him to question what is reality and what isn't.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 861,
+            "imdb_id": "tt0100802",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.290120",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjbawh/",
+            "original_comment_text": "Total Recall (1990)\n\nThe Cornetto Trilogy: Shaun of the Dead (2004), Hot Fuzz (2007), The World's End (2013)"
+          },
+          {
+            "id": 7219678040150828713,
+            "title": "Raising Arizona",
+            "poster_url": "https://image.tmdb.org/t/p/w500/niKyjOqiB4XVl0BqgKTHIlHOCeF.jpg",
+            "release_year": 1987,
+            "plot_summary": "When a childless couple—an ex-con and an ex-cop—take one of a wealthy family’s quintuplets to raise as their own, their lives grow more complicated than anticipated.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 378,
+            "imdb_id": "tt0093822",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.294658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjenp5/",
+            "original_comment_text": "Raising Arizona(1987)"
+          },
+          {
+            "id": 358626967391941801,
+            "title": "The World's End",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kpglnOBYmKn0AkkWDzGxzKHDbds.jpg",
+            "release_year": 2013,
+            "plot_summary": "Five friends who reunite in an attempt to top their epic pub crawl from 20 years earlier unwittingly become humankind's only hope for survival.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 107985,
+            "imdb_id": "tt1213663",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.301255",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjbawh/",
+            "original_comment_text": "Total Recall (1990)\n\nThe Cornetto Trilogy: Shaun of the Dead (2004), Hot Fuzz (2007), The World's End (2013)"
+          },
+          {
+            "id": 2402518281119328647,
+            "title": "True Lies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+            "release_year": 1994,
+            "plot_summary": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 36955,
+            "imdb_id": "tt0111503",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.307793",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjc7pr/",
+            "original_comment_text": "True Lies"
+          },
+          {
+            "id": -2298494957430641183,
+            "title": "Stardust",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
+            "release_year": 2007,
+            "plot_summary": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Family"
+            ],
+            "tmdb_id": 2270,
+            "imdb_id": "tt0486655",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.323020",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjbayw/",
+            "original_comment_text": "Stardust "
+          },
+          {
+            "id": -1843639365224085231,
+            "title": "Demolition Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dq6AmlVFo92PRuoLCcIyFdoRuxf.jpg",
+            "release_year": 1993,
+            "plot_summary": "In 1996, brash L.A. detective John Spartan and maniac killer Simon Phoenix are both sentenced to decades in a cryogenic prison as punishment for a rescue mission gone wrong. When Phoenix escapes 36 years later to wreak havoc on the future, Spartan is awakened to capture his nemesis the old-fashioned way.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9739,
+            "imdb_id": "tt0106697",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.452315",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjdziq/",
+            "original_comment_text": "demolition man, Idiocracy, sky high, the last boyscout, last action hero, bulletproof"
+          },
+          {
+            "id": -3764905787589080355,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average European-Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Comedy-Action And Sci-Fi Movies From The 1990s And Early 2000s",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:35.479256",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u5ahdg/movies_like_fifth_element_dogma_starship_troopers/orjdziq/",
+            "original_comment_text": "demolition man, Idiocracy, sky high, the last boyscout, last action hero, bulletproof"
+          }
+        ]
+      },
+      {
+        "name": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+        "movies": [
+          {
+            "id": -6673262871501602526,
+            "title": "The Mitchells vs. the Machines",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
+            "release_year": 2021,
+            "plot_summary": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 501929,
+            "imdb_id": "tt7979580",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.945438",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhkhru/",
+            "original_comment_text": "The Mitchells vs. the Machines (2021)\n\nRon's Gone Wrong (2021)"
+          },
+          {
+            "id": 2526763286194281938,
+            "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gyh0eECE2IqrW8GWl3KoHBfc45j.jpg",
+            "release_year": 2023,
+            "plot_summary": "After years of being sheltered from the human world, the Turtle brothers set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Their new friend April O'Neil helps them take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 614930,
+            "imdb_id": "tt8589698",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.950082",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm0ck/",
+            "original_comment_text": "Nimona (2023)\n\nSpider-Man: Into the Spider-Verse (2018)\n\nSpider-Man: Across the Spider-Verse (2023)\n\nTeenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
+          },
+          {
+            "id": 8971015087204016631,
+            "title": "Isle of Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg",
+            "release_year": 2018,
+            "plot_summary": "In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Animation"
+            ],
+            "tmdb_id": 399174,
+            "imdb_id": "tt5104604",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.952493",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm2w8/",
+            "original_comment_text": "Isle of Dogs - stop motion Wes Anderson\n\nZootopia"
+          },
+          {
+            "id": -2366948301562098047,
+            "title": "Ron's Gone Wrong",
+            "poster_url": "https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg",
+            "release_year": 2021,
+            "plot_summary": "In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 482321,
+            "imdb_id": "tt7504818",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.953123",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhkhru/",
+            "original_comment_text": "The Mitchells vs. the Machines (2021)\n\nRon's Gone Wrong (2021)"
+          },
+          {
+            "id": -5074703135195661459,
+            "title": "Spider-Man: Into the Spider-Verse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+            "release_year": 2018,
+            "plot_summary": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Animation",
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 324857,
+            "imdb_id": "tt4633694",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.961373",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm0ck/",
+            "original_comment_text": "Nimona (2023)\n\nSpider-Man: Into the Spider-Verse (2018)\n\nSpider-Man: Across the Spider-Verse (2023)\n\nTeenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
+          },
+          {
+            "id": -8293684553096481677,
+            "title": "Soul",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6jmppcaubzLF8wkXM36ganVISCo.jpg",
+            "release_year": 2020,
+            "plot_summary": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Animation",
+              "Family",
+              "Drama",
+              "Music",
+              "Fantasy"
+            ],
+            "tmdb_id": 508442,
+            "imdb_id": "tt2948372",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.962868",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhkfox/",
+            "original_comment_text": "Soul"
+          },
+          {
+            "id": -8563464941799895418,
+            "title": "Nimona",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2NQljeavtfl22207D1kxLpa4LS3.jpg",
+            "release_year": 2023,
+            "plot_summary": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy",
+              "Adventure",
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 961323,
+            "imdb_id": "tt19500164",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.965675",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm0ck/",
+            "original_comment_text": "Nimona (2023)\n\nSpider-Man: Into the Spider-Verse (2018)\n\nSpider-Man: Across the Spider-Verse (2023)\n\nTeenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
+          },
+          {
+            "id": -2124719582771107154,
+            "title": "Flow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z2sG41PxfL1hnL1mHbxzSREUtOf.jpg",
+            "release_year": 2024,
+            "plot_summary": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 823219,
+            "imdb_id": "tt4772188",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.971137",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhjfjn/",
+            "original_comment_text": "Marcel the Shell with Shoes On (2021)\n\nFlow (2024)"
+          },
+          {
+            "id": -2014237940418142536,
+            "title": "Marcel the Shell with Shoes On",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg",
+            "release_year": 2022,
+            "plot_summary": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Animation",
+              "Comedy",
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 869626,
+            "imdb_id": "tt15339456",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.981470",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhjfjn/",
+            "original_comment_text": "Marcel the Shell with Shoes On (2021)\n\nFlow (2024)"
+          },
+          {
+            "id": -5678710295343821446,
+            "title": "Spider-Man: Across the Spider-Verse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+            "release_year": 2023,
+            "plot_summary": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 8.3,
+            "genres": [
+              "Animation",
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 569094,
+            "imdb_id": "tt9362722",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:56.985209",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm0ck/",
+            "original_comment_text": "Nimona (2023)\n\nSpider-Man: Into the Spider-Verse (2018)\n\nSpider-Man: Across the Spider-Verse (2023)\n\nTeenage Mutant Ninja Turtles: Mutant Mayhem (2023)"
+          },
+          {
+            "id": -1884453966111544363,
+            "title": "Zootopia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg",
+            "release_year": 2016,
+            "plot_summary": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 269149,
+            "imdb_id": "tt2948356",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:57.157258",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhm2w8/",
+            "original_comment_text": "Isle of Dogs - stop motion Wes Anderson\n\nZootopia"
+          },
+          {
+            "id": 7704294450272183104,
+            "title": "Wallace & Gromit: Vengeance Most Fowl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jUWFSBxTOiCinPdTOh3IDUXVemZ.jpg",
+            "release_year": 2024,
+            "plot_summary": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
+            "runtime": "1h 19m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Animation",
+              "Adventure",
+              "Comedy",
+              "Science Fiction",
+              "Family"
+            ],
+            "tmdb_id": 929204,
+            "imdb_id": "tt17163970",
+            "category_title": "Animated Movies From The Past 5–7 Years That Adults Enjoyed",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:14:57.171835",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u52rzs/what_animated_movie_from_the_past_57_years_have/orhl4am/",
+            "original_comment_text": "Wallace and Gromit Vengeance Most Fowl "
+          }
+        ]
+      },
+      {
+        "name": "Movies Featuring the Devil",
+        "movies": [
+          {
+            "id": -7763683403706561790,
+            "title": "End of Days",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pY8FbKKl3VD0jRI1iDFrwN6alLa.jpg",
+            "release_year": 1999,
+            "plot_summary": "Cynical bodyguard Jericho is hired by a man possessed by Satan, who is in search of his bride. When Jericho realizes what is happening, he must do everything he can to save the woman and the world.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Action",
+              "Horror",
+              "Fantasy"
+            ],
+            "tmdb_id": 9946,
+            "imdb_id": "tt0146675",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.831336",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf3ebi/",
+            "original_comment_text": "Constantine\n\nEnd of Days"
+          },
+          {
+            "id": -2567599621566074743,
+            "title": "Little Nicky",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AudA8gnTWSBWXBHSBHnr3HHUXXM.jpg",
+            "release_year": 2000,
+            "plot_summary": "After the lord of darkness decides he will not cede his throne to any of his three sons, the two most powerful of them escape to Earth to create a kingdom for themselves. This action closes the portal filtering sinful souls to Hell and causes Satan to wither away. He must send his most weak but beloved son, Little Nicky, to Earth to return his brothers to Hell.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 9678,
+            "imdb_id": "tt0185431",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.834133",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orfjiy8/",
+            "original_comment_text": "Little Nicky 🤦🏼‍♂️😂"
+          },
+          {
+            "id": 6692709607476346735,
+            "title": "The Prophecy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4ZWFhQipzBHJze2llzCzhrSIZsn.jpg",
+            "release_year": 1995,
+            "plot_summary": "The angel Gabriel comes to Earth to collect a soul which will end the stalemated war in Heaven. However, it is hidden inside of a Native American girl and only a former priest and a schoolteacher can stop him.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Fantasy",
+              "Horror",
+              "Thriller",
+              "Action",
+              "Drama"
+            ],
+            "tmdb_id": 11980,
+            "imdb_id": "tt0114194",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.841170",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf52n3/",
+            "original_comment_text": "The prophecy is my go to…"
+          },
+          {
+            "id": 4653958701762070635,
+            "title": "The Imaginarium of Doctor Parnassus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/DtrqQHa0wT9AWrk2WA9beROJJx.jpg",
+            "release_year": 2009,
+            "plot_summary": "After a carnival troupe saves his life, a man agrees to help its immortal leader collect five souls and win a bet with the devil.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Mystery"
+            ],
+            "tmdb_id": 8054,
+            "imdb_id": "tt1054606",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.846189",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf5vii/",
+            "original_comment_text": "The Imaginarium of Doctor Parnassus (2009). Terry Gilliam. \n\nThe devil (Mr. Nick) is played by Tom Waits. I love Tom Waits. "
+          },
+          {
+            "id": -5961560932172018366,
+            "title": "Bedazzled",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg",
+            "release_year": 2000,
+            "plot_summary": "Elliot Richards, a socially awkward IT worker, is given seven wishes to get the girl of his dreams when he meets a very seductive Satan. The catch: his soul. Some of his wishes include being a 7 foot basketball star, a wealthy, powerful man, and a sensitive caring guy. But, as could be expected, the Devil puts her own little twist on each of his fantasies.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 1636,
+            "imdb_id": "tt0230030",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.846356",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf2gay/",
+            "original_comment_text": "Bedazzled "
+          },
+          {
+            "id": 4993612162231167669,
+            "title": "The Devil's Advocate",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ZzBGpxy55OQzHxKVY11IpY6a0o.jpg",
+            "release_year": 1997,
+            "plot_summary": "Aspiring Florida defense lawyer Kevin Lomax accepts a job at a New York law firm. With the stakes getting higher every case, Kevin quickly learns that his boss has something far more evil planned.",
+            "runtime": "2h 24m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1813,
+            "imdb_id": "tt0118971",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.851938",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf2vh8/",
+            "original_comment_text": "Devils advocate"
+          },
+          {
+            "id": 6116908831298753168,
+            "title": "Legend",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4shf5Alq4KWCKqrAAQe0JGJHYp5.jpg",
+            "release_year": 2015,
+            "plot_summary": "Suave, charming and volatile, Reggie Kray and his unstable twin brother Ronnie start to leave their mark on the London underworld in the 1960s. Using violence to get what they want, the siblings orchestrate robberies and murders while running nightclubs and protection rackets. With police Detective Leonard \"Nipper\" Read hot on their heels, the brothers continue their rapid rise to power and achieve tabloid notoriety.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 276907,
+            "imdb_id": "tt3569230",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.856366",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf4q8d/",
+            "original_comment_text": "Legend - Tim Curry as a giant (!) demon."
+          },
+          {
+            "id": -8201214432640690807,
+            "title": "The Witches of Eastwick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p5OivnZuXfy5E3BKKFIeSidmwys.jpg",
+            "release_year": 1987,
+            "plot_summary": "Three single women in a picturesque village have their wishes granted, at a cost, when a mysterious and flamboyant man arrives in their lives.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "Horror"
+            ],
+            "tmdb_id": 6069,
+            "imdb_id": "tt0094332",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.856550",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf437i/",
+            "original_comment_text": "The Witches of Eastwick. "
+          },
+          {
+            "id": 500025847856118119,
+            "title": "Tenacious D in The Pick of Destiny",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7NmDIj5I1OFOZfYFnS3uWtM7WMO.jpg",
+            "release_year": 2006,
+            "plot_summary": "In Venice Beach, naive Midwesterner JB bonds with local slacker KG and they form the rock band Tenacious D. Setting out to become the world's greatest band is no easy feat, so they set out to steal what could be the answer to their prayers... a magical guitar pick housed in a rock-and-roll museum some 300 miles away.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 2179,
+            "imdb_id": "tt0365830",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.856649",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf4vw5/",
+            "original_comment_text": "The pic of destiny "
+          },
+          {
+            "id": -4208832564159651824,
+            "title": "Constantine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+            "release_year": 2005,
+            "plot_summary": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Horror"
+            ],
+            "tmdb_id": 561,
+            "imdb_id": "tt0360486",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:33.881989",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf3cpe/",
+            "original_comment_text": "Peter Stormare's version of Satan in Constantine only gets a few minutes of screen time, but it's one of the most memorable devil portrayals ever."
+          },
+          {
+            "id": 586874017295051252,
+            "title": "The Ninth Gate",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rxw9l9YNL14ODdmAavUwHLBjiDo.jpg",
+            "release_year": 1999,
+            "plot_summary": "A rare book dealer finds himself at the heart of a string of paranormal events when he is hired to find the last two copies of a text, The Nine Gates of the Kingdom of Shadows, capable of summoning the Devil.",
+            "runtime": "2h 13m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 622,
+            "imdb_id": "tt0142688",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:34.066363",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf4l0u/",
+            "original_comment_text": "Ninth Gate, more as a guiding force than a deal maker."
+          },
+          {
+            "id": 7795544712301845592,
+            "title": "The Witch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg",
+            "release_year": 2016,
+            "plot_summary": "In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 310131,
+            "imdb_id": "tt4263482",
+            "category_title": "Movies Featuring the Devil",
+            "time_period": "daily",
+            "date_scraped": "2026-06-14T08:15:34.091826",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u4rs66/looking_for_movie_recommendations_that_feature/orf60mr/",
+            "original_comment_text": "He only shows up for a brief moment, but The Witch has an excellent portrayal"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 59,
+    "totalCategories": 5,
+    "lastUpdated": "2026-06-14T08:13:59.808508"
+  }
+}

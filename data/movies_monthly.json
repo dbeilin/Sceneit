@@ -1,0 +1,1463 @@
+{
+  "success": true,
+  "data": {
+    "period": "monthly",
+    "categories": [
+      {
+        "name": "Movies That Will Make You Cry Like A Newborn",
+        "movies": [
+          {
+            "id": -3709263624456051107,
+            "title": "The Green Mile",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "release_year": 1999,
+            "plot_summary": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+            "runtime": "3h 9m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 497,
+            "imdb_id": "tt0120689",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.167002",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzpfna/",
+            "original_comment_text": "The Green Mile"
+          },
+          {
+            "id": -7162552812511515446,
+            "title": "Sophie's Choice",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rZDPbPTFwuKgr5b9jixGFNYkGYt.jpg",
+            "release_year": 1982,
+            "plot_summary": "Stingo, a young writer, moves to Brooklyn in 1947 to begin work on his first novel. As he becomes friendly with Sophie and her lover Nathan, he learns that she is a Holocaust survivor. Flashbacks reveal her harrowing story, from pre-war prosperity to Auschwitz. In the present, Sophie and Nathan's relationship increasingly unravels as Stingo grows closer to Sophie and Nathan's fragile mental state becomes ever more apparent.",
+            "runtime": "2h 31m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Romance",
+              "War"
+            ],
+            "tmdb_id": 15764,
+            "imdb_id": "tt0084707",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.191178",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzt75w/",
+            "original_comment_text": "Sophie's Choice.  Years ago I recommended this movie to young goofy guy I worked with who said \"Oooh, I really love sad movies! What's a sad movie I should rent?\" (Blockbuster days)  When I asked him how it was the next time I saw him, he looked at me, stricken, and said, \"I didn't mean THAT sad!\""
+          },
+          {
+            "id": 7970117311306698671,
+            "title": "Beaches",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vol5TCGHDbi8r0yo0TrIGFiGxJ7.jpg",
+            "release_year": 1988,
+            "plot_summary": "A privileged rich debutante and a cynical struggling entertainer share a turbulent, but strong childhood friendship over the years.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 15592,
+            "imdb_id": "tt0094715",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.202261",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": 8955114674918357779,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.202479",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": 189245623354807555,
+            "title": "Grave of the Fireflies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76826,
+            "imdb_id": "tt0491652",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.204915",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": -3450072413174609729,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.207773",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os00632/",
+            "original_comment_text": "Big Fish"
+          },
+          {
+            "id": -1348998167967996770,
+            "title": "What Dreams May Come",
+            "poster_url": "https://image.tmdb.org/t/p/w500/78wCdphUzeb528wLZw2W0fn7yGB.jpg",
+            "release_year": 1998,
+            "plot_summary": "Chris Nielsen dies to find himself in a heaven more amazing than he could have ever dreamed of. There is one thing missing: his wife. After he died, his wife Annie killed herself and went to hell. Chris decides to risk eternity in Hades for the small chance that he will be able to bring her back to heaven.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 12159,
+            "imdb_id": "tt0120889",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.211536",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzp4cz/",
+            "original_comment_text": "What Dreams May Come. Husband and I saw it in the theater and we were both ugly crying."
+          },
+          {
+            "id": 1787016339389147677,
+            "title": "Steel Magnolias",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ExUSN9s9gX9bhVM17zDLEizano.jpg",
+            "release_year": 1989,
+            "plot_summary": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 10860,
+            "imdb_id": "tt0098384",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.218083",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": -1854742196723886284,
+            "title": "My Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qyJJNHteA7BUwQSey05t7qP4vRV.jpg",
+            "release_year": 1991,
+            "plot_summary": "Vada Sultenfuss is obsessed with death. Her mother is dead, and her father runs a funeral parlor. She is also in love with her English teacher, and joins a poetry class over the summer just to impress him. Thomas J., her best friend, is \"allergic to everything\", and sticks with Vada despite her hangups. When Vada's father hires Shelly, and begins to fall for her, things take a turn to the worse...",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 4032,
+            "imdb_id": "tt0102492",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.221858",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orztbh8/",
+            "original_comment_text": "I can’t believe no one has said My Girl  "
+          },
+          {
+            "id": -5752531897521957997,
+            "title": "Ghost",
+            "poster_url": "https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+            "release_year": 1990,
+            "plot_summary": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Fantasy",
+              "Romance",
+              "Thriller"
+            ],
+            "tmdb_id": 251,
+            "imdb_id": "tt0099653",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.272430",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": 8058368397313973541,
+            "title": "Life Is Beautiful",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6tEJnof1DKWPnl5lzkjf0FVv7oB.jpg",
+            "release_year": 1997,
+            "plot_summary": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 637,
+            "imdb_id": "tt0118799",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.297099",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/os0ipoo/",
+            "original_comment_text": "Beaches.\n\nSteel Magnolias.\n\nWhat Dreams May Come.\n\nDear Zachary.\n\nCramer Vs. Cramer.\n\nGrave Of Fireflies.\n\nGhost.\n\nLife is Beautiful."
+          },
+          {
+            "id": 4501540400057966674,
+            "title": "Terms of Endearment",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg",
+            "release_year": 1983,
+            "plot_summary": "Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 11050,
+            "imdb_id": "tt0086425",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.339282",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzplso/",
+            "original_comment_text": "Terms of endearment "
+          },
+          {
+            "id": 8534279717145800996,
+            "title": "Dead Poet Society Live at Lowlands",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lxluetLoqW7N8mZbjIhilNCW0Ur.jpg",
+            "release_year": 2024,
+            "plot_summary": "Dead Poet Society performed at Lowlands 2024, delivering a high-energy set that included both their original tracks and a surprise rendition of Muse's \"Hysteria\". The setlist featured songs like \"Running In Circles\", \"HURT\", \"CoDA\", and \".intoodeep\"",
+            "runtime": "53m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Music"
+            ],
+            "tmdb_id": 1507305,
+            "imdb_id": null,
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.341016",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzrozp/",
+            "original_comment_text": "Dead Poet's Society"
+          },
+          {
+            "id": 1810101094577470832,
+            "title": "Hamnet",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+            "release_year": 2025,
+            "plot_summary": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Romance",
+              "History"
+            ],
+            "tmdb_id": 858024,
+            "imdb_id": "tt14905854",
+            "category_title": "Movies That Will Make You Cry Like A Newborn",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:32:35.344715",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u7f0gq/i_want_to_cry_like_a_newborn_baby_which_movie/orzq53x/",
+            "original_comment_text": "Hamnet"
+          }
+        ]
+      },
+      {
+        "name": "Erotic And Spicy Movie Recommendations",
+        "movies": [
+          {
+            "id": -1830197804835278720,
+            "title": "Secretary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mdRXSE7ho185SZlXj0JSwuecEd3.jpg",
+            "release_year": 2002,
+            "plot_summary": "A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 11013,
+            "imdb_id": "tt0274812",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.098467",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf38e/",
+            "original_comment_text": "Secretary"
+          },
+          {
+            "id": -5460235119155275344,
+            "title": "Y Tu Mamá También",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+            "release_year": 2001,
+            "plot_summary": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1391,
+            "imdb_id": "tt0245574",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.103585",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbinz2/",
+            "original_comment_text": "The Handmaiden is great! My favorite on the list. Y tu mama tambien is really good as well. "
+          },
+          {
+            "id": 4252703721387819194,
+            "title": "Angel Heart",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg",
+            "release_year": 1987,
+            "plot_summary": "A down-and-out Brooklyn detective is hired to track down a singer on an odyssey that will take him through the desperate streets of Harlem, the smoke-filled jazz clubs of New Orleans, and the swamps of Louisiana and its seedy underworld of voodoo.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 635,
+            "imdb_id": "tt0092563",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.107019",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf6au/",
+            "original_comment_text": "Total Eclipse\n\nThe Cook, the Thief, His Wife and her Lover\n\nAngel Heart\n\nDon’t Look Now"
+          },
+          {
+            "id": 5588697003945300971,
+            "title": "Crash",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg",
+            "release_year": 1996,
+            "plot_summary": "A car crash victim inexplicably finds himself aroused by car accidents and becomes involved with an underground subculture of like-minded souls.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 884,
+            "imdb_id": "tt0115964",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.109042",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbfdjv/",
+            "original_comment_text": "Crash (1996)"
+          },
+          {
+            "id": -5686713322533348468,
+            "title": "The Handmaiden",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dLlH4aNHdnmf62umnInL8xPlPzw.jpg",
+            "release_year": 2016,
+            "plot_summary": "1930s Korea, in the period of Japanese occupation, a new girl, Sook-hee, is hired as a handmaiden to a Japanese heiress, Hideko, who lives a secluded life on a large countryside estate with her domineering Uncle Kouzuki. But the maid has a secret. She is a pickpocket recruited by a swindler posing as a Japanese Count to help him seduce the Lady to steal her fortune.",
+            "runtime": "2h 25m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 290098,
+            "imdb_id": "tt4016934",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.114681",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbinz2/",
+            "original_comment_text": "The Handmaiden is great! My favorite on the list. Y tu mama tambien is really good as well. "
+          },
+          {
+            "id": 2050337760685715070,
+            "title": "Don't Look Now",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ivWsU3QtcstImCTOjItsH0SAbNn.jpg",
+            "release_year": 1973,
+            "plot_summary": "While grieving a terrible loss, a married couple meet two mysterious sisters, one of whom gives them a message sent from the afterlife.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Horror"
+            ],
+            "tmdb_id": 931,
+            "imdb_id": "tt0069995",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.127552",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf6au/",
+            "original_comment_text": "Total Eclipse\n\nThe Cook, the Thief, His Wife and her Lover\n\nAngel Heart\n\nDon’t Look Now"
+          },
+          {
+            "id": -6243655778751441419,
+            "title": "Total Eclipse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9ihmgsX9aDXZmwjvgrzJgH8FxNa.jpg",
+            "release_year": 1995,
+            "plot_summary": "Young, wild poet Arthur Rimbaud and his mentor Paul Verlaine engage in a fierce, forbidden romance while feeling the effects of a hellish artistic lifestyle.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 36834,
+            "imdb_id": "tt0114702",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.131369",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf6au/",
+            "original_comment_text": "Total Eclipse\n\nThe Cook, the Thief, His Wife and her Lover\n\nAngel Heart\n\nDon’t Look Now"
+          },
+          {
+            "id": -7159727127005655677,
+            "title": "Nymphomaniac: Vol. II",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+            "release_year": 2013,
+            "plot_summary": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 249397,
+            "imdb_id": "tt2382009",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.131607",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbjxa5/",
+            "original_comment_text": "Nymphomaniac has sex but I wouldn’t called it spicy. It’s a pretty dark movie. It will not set the mood. Be warned. "
+          },
+          {
+            "id": -961772404230101621,
+            "title": "The Cook, the Thief, His Wife & Her Lover",
+            "poster_url": "https://image.tmdb.org/t/p/w500/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+            "release_year": 1989,
+            "plot_summary": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 7452,
+            "imdb_id": "tt0097108",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.131821",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf6au/",
+            "original_comment_text": "Total Eclipse\n\nThe Cook, the Thief, His Wife and her Lover\n\nAngel Heart\n\nDon’t Look Now"
+          },
+          {
+            "id": -8240854235512901383,
+            "title": "Rochelle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h3HsErSVz8ifb9EQRO5Pqku2adM.jpg",
+            "release_year": 2024,
+            "plot_summary": "A brazen young man takes it upon himself to send his friend’s busted up car, Rochelle, out in style by entering it in a local demolition derby, but to get there he needs help from an unexpected source.",
+            "runtime": "21m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1326354,
+            "imdb_id": null,
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.133101",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbf1h2/",
+            "original_comment_text": "Rochelle Rochelle"
+          },
+          {
+            "id": 3122422923556999215,
+            "title": "Sanctuary",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yGQAZupyZgT2ESbBSMZ9R0OBToo.jpg",
+            "release_year": 2023,
+            "plot_summary": "Confined to a claustrophobic hotel room, the heir to a hotel empire and the dominatrix who has primed him for success become locked in a battle of wits and wills as he tries to end his relationship with her.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 870518,
+            "imdb_id": "tt15364972",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.212605",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbsv8l/",
+            "original_comment_text": "Watch Secretary with Maggie Gyllenhaal and James Spader as well as Sanctuary with Margaret Qualley and Christopher Abbot."
+          },
+          {
+            "id": -3061004611964877543,
+            "title": "Blue Velvet",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+            "release_year": 1986,
+            "plot_summary": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+            "runtime": "2h",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 793,
+            "imdb_id": "tt0090756",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.238812",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbg5kf/",
+            "original_comment_text": "I’ve heard blue velvet is very erotic "
+          },
+          {
+            "id": 7327738331782396676,
+            "title": "Body Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5LipPcaW1J9IjAP7TOTesw8OcMS.jpg",
+            "release_year": 1981,
+            "plot_summary": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 14412,
+            "imdb_id": "tt0082089",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.247389",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbdkow/",
+            "original_comment_text": "Body Heat for sure "
+          },
+          {
+            "id": -6050937160159761638,
+            "title": "The Thomas Crown Affair",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+            "release_year": 1999,
+            "plot_summary": "Bored billionaire executive Thomas Crown decides to plan a robbery and assigns a professional agent with the right information to the job. However, Crown is soon betrayed yet cannot blow his cover as he’s fallen in love.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Romance"
+            ],
+            "tmdb_id": 913,
+            "imdb_id": "tt0155267",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.247578",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqbj943/",
+            "original_comment_text": "The Thomas Crown Affair (1999)"
+          },
+          {
+            "id": -3466214570691746318,
+            "title": "The Last Seduction",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kK8IiJDkz2Tv6DwaK60vJVHKH85.jpg",
+            "release_year": 1994,
+            "plot_summary": "A devious femme fatale steals her husband’s drug money and hides out in a small town where she meets the perfect dupe for her next scheme.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 25284,
+            "imdb_id": "tt0110308",
+            "category_title": "Erotic And Spicy Movie Recommendations",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:03.257566",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1tzkhoi/looking_for_great_eroticspicy_movies/oqblfxa/",
+            "original_comment_text": "*The Last Seduction* and *Jade*, both with Linda Fiorentino.\n\n*Crimes of Passion*, with Kathleen Turner. \n\n*Judas Kiss*, with Carla Gugino. \n\n*She Creature*, also with Carla Gugino, and Rya Kihlstedt.\n\n*The Hot Spot*, with Virginia Madsen and Jennifer Connelly."
+          }
+        ]
+      },
+      {
+        "name": "Movies That Make You Say 'WTF'",
+        "movies": [
+          {
+            "id": 810517283952574890,
+            "title": "Sorry to Bother You",
+            "poster_url": "https://image.tmdb.org/t/p/w500/peTl1V04E9ppvhgvNmSX0r2ALqO.jpg",
+            "release_year": 2018,
+            "plot_summary": "In an alternate present-day version of Oakland, black telemarketer Cassius Green discovers a magical key to professional success – which propels him into a macabre universe.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Fantasy",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 424781,
+            "imdb_id": "tt5688932",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.475129",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi3sp4/",
+            "original_comment_text": "Sorry to Bother You is always my answer to this type of question. "
+          },
+          {
+            "id": -2035263866692704447,
+            "title": "Swiss Army Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8pxn8CQ6SD6tly75lrKw08wfZKv.jpg",
+            "release_year": 2016,
+            "plot_summary": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 347031,
+            "imdb_id": "tt4034354",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.510545",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi47zq/",
+            "original_comment_text": "Swiss Army Man (2016)"
+          },
+          {
+            "id": 5652976284829161748,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.517122",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi2l6g/",
+            "original_comment_text": "Everyone's going tell you to watch Primer.\n\nBut I like Mulholland Drive if you're game for psychological fever dream noir mashups..."
+          },
+          {
+            "id": 7911327089131549890,
+            "title": "Videodrome",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+            "release_year": 1983,
+            "plot_summary": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 837,
+            "imdb_id": "tt0086541",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.579238",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi26bo/",
+            "original_comment_text": "Videodrome (1983)"
+          },
+          {
+            "id": -7383711722411697859,
+            "title": "Coherence",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ezUtb9m5DeLwL2gxi4gktzNCvQv.jpg",
+            "release_year": 2014,
+            "plot_summary": "Four couples gather for dinner the night a mysterious and powerful comet passes overhead.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 220289,
+            "imdb_id": "tt2866360",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.583548",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi3ij7/",
+            "original_comment_text": "Coherence,   \ntriangle,   \nthe caller(1987)"
+          },
+          {
+            "id": 7751862940030719921,
+            "title": "Being John Malkovich",
+            "poster_url": "https://image.tmdb.org/t/p/w500/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+            "release_year": 1999,
+            "plot_summary": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 492,
+            "imdb_id": "tt0120601",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.586377",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi6hcj/",
+            "original_comment_text": "Being John Malkovich"
+          },
+          {
+            "id": 8106004660057308391,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.593046",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi2l6g/",
+            "original_comment_text": "Everyone's going tell you to watch Primer.\n\nBut I like Mulholland Drive if you're game for psychological fever dream noir mashups..."
+          },
+          {
+            "id": 8508573549660963460,
+            "title": "Triangle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cRlMrbc4Iof7vN0ZqHwJnMBYBLi.jpg",
+            "release_year": 2009,
+            "plot_summary": "When Jess sets sail on a yacht with a group of friends, she cannot shake the feeling that there is something wrong.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 26466,
+            "imdb_id": "tt1187064",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.593232",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi3ij7/",
+            "original_comment_text": "Coherence,   \ntriangle,   \nthe caller(1987)"
+          },
+          {
+            "id": 5898160390457592742,
+            "title": "The Caller",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4xhuufxE28PhQrUUoUe1TYg6oeU.jpg",
+            "release_year": 2011,
+            "plot_summary": "Troubled divorcee Mary Kee is tormented by a series of sinister phone calls from a mysterious woman. When the stranger reveals she's calling from the past, Mary tries to break off contact. But the caller doesn't like being ignored, and looks for revenge in a unique and terrifying way...",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 73588,
+            "imdb_id": "tt1525890",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.604658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi3ij7/",
+            "original_comment_text": "Coherence,   \ntriangle,   \nthe caller(1987)"
+          },
+          {
+            "id": -6596709916568071433,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mP5FGQbNjFkrjcZ6AVHrvokPRe5.jpg",
+            "release_year": 1973,
+            "plot_summary": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 8327,
+            "imdb_id": "tt0071615",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.646095",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi3mkl/",
+            "original_comment_text": "'The Holy Mountain' (1973)"
+          },
+          {
+            "id": 5525400690738521800,
+            "title": "The Lighthouse",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yAKNmpcUweGH6WMCEWenwU9PsbE.jpg",
+            "release_year": 2019,
+            "plot_summary": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Thriller"
+            ],
+            "tmdb_id": 503919,
+            "imdb_id": "tt7984734",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.657815",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi2j63/",
+            "original_comment_text": "The Lighthouse"
+          },
+          {
+            "id": -3867600840605549933,
+            "title": "Everything Everywhere All at Once",
+            "poster_url": "https://image.tmdb.org/t/p/w500/u68AjlvlutfEIcpmbYpKcdi09ut.jpg",
+            "release_year": 2022,
+            "plot_summary": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
+            "runtime": "2h 20m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 545611,
+            "imdb_id": "tt6710474",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:33.716661",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi826s/",
+            "original_comment_text": "Everything Everywhere All At Once"
+          },
+          {
+            "id": 2543023813142536982,
+            "title": "Pan's Labyrinth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/z7xXihu5wHuSMWymq5VAulPVuvg.jpg",
+            "release_year": 2006,
+            "plot_summary": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "War"
+            ],
+            "tmdb_id": 1417,
+            "imdb_id": "tt0457430",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:34.004575",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi36y9/",
+            "original_comment_text": "Pans labyrinth is a great pick. "
+          },
+          {
+            "id": 8532259664228561213,
+            "title": "Predestination",
+            "poster_url": "https://image.tmdb.org/t/p/w500/38Xr1JnV1ZcLQ55zmdSp6n475cZ.jpg",
+            "release_year": 2014,
+            "plot_summary": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 206487,
+            "imdb_id": "tt2397535",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:34.198693",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi59gf/",
+            "original_comment_text": "predestination"
+          },
+          {
+            "id": -1941927466256249258,
+            "title": "Dogtooth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cBrhzHcOxXclTItkPzsJUCTSFyl.jpg",
+            "release_year": 2009,
+            "plot_summary": "Three teenagers are confined to an isolated country estate that could very well be on another planet. The trio spend their days listening to endless homemade tapes that teach them a whole new vocabulary. Any word that comes from beyond their family abode is instantly assigned a new meaning. Hence 'the sea' refers to a large armchair and 'zombies' are little yellow flowers. Having invented a brother whom they claim to have ostracized for his disobedience, the uber-controlling parents terrorize their offspring into submission.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 38810,
+            "imdb_id": "tt1379182",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:34.420521",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi4feo/",
+            "original_comment_text": "Dogtooth. "
+          },
+          {
+            "id": -4322837286258882916,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Movies That Make You Say 'WTF'",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:33:34.972552",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1u9phh5/i_need_a_good_wtf_movie/osi2eby/",
+            "original_comment_text": "Oldboy, the original.  + Look up this question and add reddit on Google and you'll find previous posts with suggestions.\nOldboy certainly was a wtf but had hooked me on the mystery and the action."
+          }
+        ]
+      },
+      {
+        "name": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+        "movies": [
+          {
+            "id": 8053786923136409749,
+            "title": "Booksmart",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+            "release_year": 2019,
+            "plot_summary": "Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 505600,
+            "imdb_id": "tt1489887",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.685384",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8dx63/",
+            "original_comment_text": "Booksmart"
+          },
+          {
+            "id": -3371315974323712391,
+            "title": "Patti Cake$",
+            "poster_url": "https://image.tmdb.org/t/p/w500/11MVxyp77zUPwc4cmqsUumNQYWK.jpg",
+            "release_year": 2017,
+            "plot_summary": "Straight out of Jersey comes Patricia Dombrowski, a.k.a. Killa P, a.k.a. Patti Cake$, an aspiring rapper fighting through a world of strip malls and strip clubs on an unlikely quest for glory.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Music",
+              "Drama"
+            ],
+            "tmdb_id": 426256,
+            "imdb_id": "tt6288250",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.692197",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8ewe6/",
+            "original_comment_text": "Patti Cake$\n\nBooksmart\n\nDreamgirls \n\nThe Last Holiday, or really anything with Queen Latifah. And speaking of Queen Latifah...\n\nJust remember--there are two Hairspray movies!  1988 and 2007.  John Waters was involved with, but didn't direct the 2007 musical version, based on the Broadway show."
+          },
+          {
+            "id": 4051167488118931236,
+            "title": "The Last Holidays",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5erL6PyJIWetBdh1vE2rXd8tQnk.jpg",
+            "release_year": 1975,
+            "plot_summary": "A young woman is going on holiday with her parents. She narrowly escapes when her holiday fling tries to kill her, only to find out that this nasty encounter was not quite as accidental as it first seemed.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 3.7,
+            "genres": [
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 266177,
+            "imdb_id": "tt0073285",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.702671",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8ewe6/",
+            "original_comment_text": "Patti Cake$\n\nBooksmart\n\nDreamgirls \n\nThe Last Holiday, or really anything with Queen Latifah. And speaking of Queen Latifah...\n\nJust remember--there are two Hairspray movies!  1988 and 2007.  John Waters was involved with, but didn't direct the 2007 musical version, based on the Broadway show."
+          },
+          {
+            "id": -7186556237042696941,
+            "title": "Dreamgirls",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg",
+            "release_year": 2006,
+            "plot_summary": "A trio of female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 1125,
+            "imdb_id": "tt0443489",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.704652",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8f1v4/",
+            "original_comment_text": "Jennifer Hudson won an Oscar for Dreamgirls... before she lost a significant amount of weight. "
+          },
+          {
+            "id": 961661662088747176,
+            "title": "Mrs. Winterbourne",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ppHqVo9uAFZYMvRm9x0XUtnyQPR.jpg",
+            "release_year": 1996,
+            "plot_summary": "Connie Doyle is eighteen, pregnant and alone. She accidentally ends up on a train where she meets Hugh Winterbourne and his wife pregnant Patricia. The train wrecks and she wakes up in the hospital to find out that it's been assumed that she's Patricia. Hugh's mother takes her in and she falls in love with Hugh's brother Bill. Just when she thinks everything is going her way, her ex-boyfriend shows up.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 40001,
+            "imdb_id": "tt0117104",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.706221",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8s8vt/",
+            "original_comment_text": "I have to go way back for this but they let Ricki Lake be a chubby lead for a minute in the 90s. I remember a movie called \"Mrs. Winterbourne\" for one. Brendan Fraser was her love interest."
+          },
+          {
+            "id": 9033049250023481565,
+            "title": "Spy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vPBmfMHxQvRRNGYD5S5ko2KnX56.jpg",
+            "release_year": 2015,
+            "plot_summary": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+            "runtime": "2h",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 238713,
+            "imdb_id": "tt3079380",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.708780",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8dgul/",
+            "original_comment_text": "Spy with Melissa McCarthy.\n\nEdit: Thanks for the award!"
+          },
+          {
+            "id": -2889320146498457582,
+            "title": "Sinners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+            "release_year": 2025,
+            "plot_summary": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+            "runtime": "2h 18m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 1233413,
+            "imdb_id": "tt31193180",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.711030",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8cdmf/",
+            "original_comment_text": "Sinners"
+          },
+          {
+            "id": 7388676990386747126,
+            "title": "Last Holiday",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2SkM1AHIgCQgdOboER6euPKTxGF.jpg",
+            "release_year": 2006,
+            "plot_summary": "The discovery that she has a terminal illness prompts introverted department store saleswoman Georgia Byrd to reflect on what she realizes has been an overly cautious life. With weeks to live, she withdraws her life savings, sells all her possessions and jets off to Europe where she lives it up at a posh hotel. Upbeat and passionate, Georgia charms everybody she meets, including renowned Chef Didier. The only one missing from her new life is her longtime crush Sean Williams.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 17379,
+            "imdb_id": "tt0408985",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.720628",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8hxp2/",
+            "original_comment_text": "Last Holiday kinda fits. It is comedic, but I don’t remember her weight really being mentioned and she does have a love interest."
+          },
+          {
+            "id": -2704626968751254185,
+            "title": "Muriel's Wedding",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+            "release_year": 1994,
+            "plot_summary": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 236,
+            "imdb_id": "tt0110598",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.735444",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8faxo/",
+            "original_comment_text": "Muriel’s Wedding "
+          },
+          {
+            "id": -8473548603393038644,
+            "title": "Misery",
+            "poster_url": "https://image.tmdb.org/t/p/w500/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg",
+            "release_year": 1990,
+            "plot_summary": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 1700,
+            "imdb_id": "tt0100157",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.749722",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8moiz/",
+            "original_comment_text": "Misery - Kathy Bates won Best Actress. "
+          },
+          {
+            "id": -5563576784599943807,
+            "title": "Circle of Friends",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2QLTcXxrdSBrEgQZjPjpCf5QS4f.jpg",
+            "release_year": 1995,
+            "plot_summary": "Three girlhood friends now at college share first loves, first kisses and first betrayals. At the center of it all is the best-looking boy on campus. Can a self-conscious dreamer hook the biggest fish in the pond?",
+            "runtime": "1h 43m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 22625,
+            "imdb_id": "tt0112679",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.765847",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8i496/",
+            "original_comment_text": "Circle of Friends. She's self-conscious about her weight (although she's not super fat), but her love interest couldn't care less"
+          },
+          {
+            "id": 7896917232398885333,
+            "title": "Can you forgive me?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7or5Kj24NS84K1yL9kqLxbd57B8.jpg",
+            "release_year": 2019,
+            "plot_summary": "At a reunion after a long interval, Tae-hee’s mother announces the news of her marriage. Tae-hee flees as she spots her mother’s boyfriend when she comes out of the restaurant. But then it turns out something even worse was coming up.",
+            "runtime": "25m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Drama",
+              "Family"
+            ],
+            "tmdb_id": 647160,
+            "imdb_id": null,
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.768323",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8ffr0/",
+            "original_comment_text": "Melissa McCarthy in Can You Forgive Me?    \nGreat film. "
+          },
+          {
+            "id": -7610687059903737187,
+            "title": "The Heat",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yERBa1y5zNUOTRKQPiDCPIc2fuv.jpg",
+            "release_year": 2013,
+            "plot_summary": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s \"finest,\" is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: buddies.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 136795,
+            "imdb_id": "tt2404463",
+            "category_title": "Movies With A Plus-Size Female Lead Who Isn't A DUFF",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:03.837482",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uhjhey/movies_with_a_fat_fmc_thats_not_a_duff/ou8cc0n/",
+            "original_comment_text": "The Heat 👍\n\n(Melissa McCarthy)"
+          }
+        ]
+      },
+      {
+        "name": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+        "movies": [
+          {
+            "id": -4529058359733473928,
+            "title": "Some Like It Hot",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+            "release_year": 1959,
+            "plot_summary": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Crime"
+            ],
+            "tmdb_id": 239,
+            "imdb_id": "tt0053291",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.775249",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvofa8/",
+            "original_comment_text": "Some Like it Hot 1959 "
+          },
+          {
+            "id": -5495270929276504575,
+            "title": "His Girl Friday",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+            "release_year": 1940,
+            "plot_summary": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper’s star reporter, who also happens to be his estranged wife. She’s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can’t resist a juicy scoop.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 3085,
+            "imdb_id": "tt0032599",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.808121",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvoqo8/",
+            "original_comment_text": "His Girl Friday"
+          },
+          {
+            "id": -6774530511043918077,
+            "title": "Harvey",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2OPZ5cKaaahpjzg2kztcciaOcsw.jpg",
+            "release_year": 1972,
+            "plot_summary": "Elwood P. Dowd's constant companion is Harvey, a six-foot tall invisible rabbit. To his sister, his obsession with Harvey has been a thorn in her plans to marry off her daughter. However, when she decides to put Elwood in a mental institution, a mix-up occurs, and she finds herself committed instead. It's now up to Elwood and \"Harvey\" to straighten out the mess.",
+            "runtime": "1h 16m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy",
+              "Fantasy",
+              "TV Movie"
+            ],
+            "tmdb_id": 326115,
+            "imdb_id": "tt0068680",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.816147",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvow4a/",
+            "original_comment_text": "Harvey "
+          },
+          {
+            "id": 455590593278410620,
+            "title": "Bringing Up Baby",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg",
+            "release_year": 1938,
+            "plot_summary": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 900,
+            "imdb_id": "tt0029947",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.816492",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvoum5/",
+            "original_comment_text": "Bringing up Baby & My Man Godfrey"
+          },
+          {
+            "id": -548268891125844354,
+            "title": "My Man Godfrey",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9qXWyhDDoQH2WEc3KecjRmu6QC.jpg",
+            "release_year": 1957,
+            "plot_summary": "The eccentric Bullock household again need a new butler. Daughter Irene encounters bedraggled Godfrey Godfrey at the docks and, fancying him and noticing his obviously good manners, gets him the job. He proves a great success, but keeps his past to himself. When an old flame turns up Irene's sister Cordelia starts making waves.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 52470,
+            "imdb_id": "tt0050738",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.817755",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvoum5/",
+            "original_comment_text": "Bringing up Baby & My Man Godfrey"
+          },
+          {
+            "id": -5540668784679279729,
+            "title": "Kind Hearts and Coronets",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg",
+            "release_year": 1949,
+            "plot_summary": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 11898,
+            "imdb_id": "tt0041546",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.818035",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvoffv/",
+            "original_comment_text": "Kind Hearts and Coronets (1949)"
+          },
+          {
+            "id": -4432440351842768186,
+            "title": "Duck Soup",
+            "poster_url": "https://image.tmdb.org/t/p/w500/31t63plEGKHhYuuCpC9bFWO9SBS.jpg",
+            "release_year": 1933,
+            "plot_summary": "Rufus T. Firefly is named president/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.",
+            "runtime": "1h 8m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "War"
+            ],
+            "tmdb_id": 3063,
+            "imdb_id": "tt0023969",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:29.818889",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvqaqu/",
+            "original_comment_text": "Duck Soup"
+          },
+          {
+            "id": 2165139832761625987,
+            "title": "What's Up Doc?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A89X2FGciNcbOFhZrp69hwhjHOT.jpg",
+            "release_year": 1985,
+            "plot_summary": "Bohouš Burda, a forty-year-old idealist disillusioned with city life and his failing marriage, abandons it all to run a mobile dental clinic in the mountains. He meets Terezka, who shares his yearning for a simpler existence, but even in remote nature they must confront unforeseen challenges.",
+            "runtime": "1h 19m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 255778,
+            "imdb_id": "tt0087066",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:30.163250",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvox5w/",
+            "original_comment_text": "It's a fair bit later, but What's Up Doc? (1972) was intended as a recreation of the style of 40s comedies and does so very successfully. If you are enjoying those films you'll enjoy that."
+          },
+          {
+            "id": -2618481807158857904,
+            "title": "It Happened One Night",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2PNUGWAflH6UUumas0POMmokHlc.jpg",
+            "release_year": 1934,
+            "plot_summary": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 3078,
+            "imdb_id": "tt0025316",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:30.250350",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvotg4/",
+            "original_comment_text": "Get into some screwball!!!! It happened one Night, Philadelphia Story, Bringing Up Baby, His Girl Friday..."
+          },
+          {
+            "id": 3328824065997343602,
+            "title": "What's Up, Doc?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/d5WwZxneeAH2Kj2SeDV6oUY2oW0.jpg",
+            "release_year": 1972,
+            "plot_summary": "The accidental mix-up of four identical plaid overnight bags leads to a series of increasingly wild and wacky situations.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Romance"
+            ],
+            "tmdb_id": 6949,
+            "imdb_id": "tt0069495",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:30.474098",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvp3ni/",
+            "original_comment_text": "What’s Up, Doc? (1972)"
+          },
+          {
+            "id": 3578389555465099456,
+            "title": "A Night at the Opera",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A4YDGfJwaG7aMxDVrVJsOHJ7ufK.jpg",
+            "release_year": 1935,
+            "plot_summary": "The Marx Brothers take on high society and the opera world to bring two lovers together. A sly business manager and two wacky friends of two opera singers help them achieve success while humiliating their stuffy and snobbish enemies.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 37719,
+            "imdb_id": "tt0026778",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:30.603379",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvqan0/",
+            "original_comment_text": "The Marx Brothers aged very well. A Night at the Opera is one of my favorites. "
+          },
+          {
+            "id": 7166272902746840885,
+            "title": "Mr. Blandings Builds His Dream House",
+            "poster_url": "https://image.tmdb.org/t/p/w500/smKM575W3FLvWHna5YaWWeN5po8.jpg",
+            "release_year": 1948,
+            "plot_summary": "An advertising executive dreams of getting out of the city and building a perfect home in the country, only to find the transition fraught with problems.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 32294,
+            "imdb_id": "tt0040613",
+            "category_title": "Classic Comedy Movie Recommendations Inspired By Arsenic And Old Lace",
+            "time_period": "monthly",
+            "date_scraped": "2026-07-02T07:34:31.160658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ubfagi/saw_arsenic_and_old_lace_and_almost_died_laughing/osvpi8k/",
+            "original_comment_text": "Mr. Blandings Builds His Dream House. Trust me. :-)"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 70,
+    "totalCategories": 5,
+    "lastUpdated": "2026-07-02T07:32:35.167002"
+  }
+}

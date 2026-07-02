@@ -1,0 +1,1232 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Movies With Genuinely Unique Concepts",
+        "movies": [
+          {
+            "id": 2112606744270061122,
+            "title": "Brick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+            "release_year": 2006,
+            "plot_summary": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Crime"
+            ],
+            "tmdb_id": 9270,
+            "imdb_id": "tt0393109",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.148867",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1h2tn/",
+            "original_comment_text": "Check out Brick. It's a neo-noir detective story set in an American High School. Cool concept (great acting too) and unique dialogue."
+          },
+          {
+            "id": -565104715882693411,
+            "title": "Videodrome",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+            "release_year": 1983,
+            "plot_summary": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 837,
+            "imdb_id": "tt0086541",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.163612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jhcm/",
+            "original_comment_text": "Annihilation \n\nZardoz\n\nThe Holy Mountain \n\nMad God \n\nVideodrome\n\nEven if you're not on hallucinogens, you'll think you are."
+          },
+          {
+            "id": -5034911740536037733,
+            "title": "Mad God",
+            "poster_url": "https://image.tmdb.org/t/p/w500/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
+            "release_year": 2021,
+            "plot_summary": "A silent figure known as The Assassin travels through a nightmare underworld of tortured souls, ruined cities and wretched monstrosities forged from the primordial horrors of the unconscious mind of Phil Tippett, the world's preeminent stop-motion animator.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Animation",
+              "Fantasy",
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 846867,
+            "imdb_id": "tt15090124",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.168007",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jhcm/",
+            "original_comment_text": "Annihilation \n\nZardoz\n\nThe Holy Mountain \n\nMad God \n\nVideodrome\n\nEven if you're not on hallucinogens, you'll think you are."
+          },
+          {
+            "id": -6651508663349128930,
+            "title": "Being John Malkovich",
+            "poster_url": "https://image.tmdb.org/t/p/w500/31FGQu3OnwdmS4COquENe0vMZc0.jpg",
+            "release_year": 1999,
+            "plot_summary": "One day at work, unsuccessful puppeteer Craig finds a portal into the head of actor John Malkovich. The portal soon becomes a passion for anybody who enters its mad and controlling world of overtaking another human body.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 492,
+            "imdb_id": "tt0120601",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.170425",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jmeo/",
+            "original_comment_text": "Being John Malkovich"
+          },
+          {
+            "id": -5529944640170754112,
+            "title": "A Scanner Darkly",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lUKudOpHICDj6A6SO7DdaZM4W48.jpg",
+            "release_year": 2006,
+            "plot_summary": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Animation",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 3509,
+            "imdb_id": "tt0405296",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.173708",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1j4el/",
+            "original_comment_text": "A Scanner Darkly has really unique animation and a super stacked cast"
+          },
+          {
+            "id": 1153142900482326459,
+            "title": "Swiss Army Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8pxn8CQ6SD6tly75lrKw08wfZKv.jpg",
+            "release_year": 2016,
+            "plot_summary": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 347031,
+            "imdb_id": "tt4034354",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.174003",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1gz4q/",
+            "original_comment_text": "Swiss army man (2016)"
+          },
+          {
+            "id": -6291169607328136244,
+            "title": "The Imaginarium of Doctor Parnassus",
+            "poster_url": "https://image.tmdb.org/t/p/w500/DtrqQHa0wT9AWrk2WA9beROJJx.jpg",
+            "release_year": 2009,
+            "plot_summary": "After a carnival troupe saves his life, a man agrees to help its immortal leader collect five souls and win a bet with the devil.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Mystery"
+            ],
+            "tmdb_id": 8054,
+            "imdb_id": "tt1054606",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.174160",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1infx/",
+            "original_comment_text": "The Imaginarium of Doctor Parnassus is super trippy, it's about a guy who made a bet with the devil that people are inherently good, and he has to trick them into going into this sort of psychedelic morality trial thing to be tested "
+          },
+          {
+            "id": -3811752499751885839,
+            "title": "The Holy Mountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mP5FGQbNjFkrjcZ6AVHrvokPRe5.jpg",
+            "release_year": 1973,
+            "plot_summary": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 8327,
+            "imdb_id": "tt0071615",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.178535",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jhcm/",
+            "original_comment_text": "Annihilation \n\nZardoz\n\nThe Holy Mountain \n\nMad God \n\nVideodrome\n\nEven if you're not on hallucinogens, you'll think you are."
+          },
+          {
+            "id": 7608438685389774104,
+            "title": "Zardoz",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6qvQhJhvM7wWPB2LjVpivSNraIv.jpg",
+            "release_year": 1974,
+            "plot_summary": "In the far future, a savage trained only to kill finds a way into the community of bored immortals that alone preserves humanity's achievements.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 4923,
+            "imdb_id": "tt0070948",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.190658",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jhcm/",
+            "original_comment_text": "Annihilation \n\nZardoz\n\nThe Holy Mountain \n\nMad God \n\nVideodrome\n\nEven if you're not on hallucinogens, you'll think you are."
+          },
+          {
+            "id": -5860388711720112996,
+            "title": "Annihilation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4YRplSk6BhH6PRuE9gfyw9byUJ6.jpg",
+            "release_year": 2018,
+            "plot_summary": "A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 300668,
+            "imdb_id": "tt2798920",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.211293",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1jhcm/",
+            "original_comment_text": "Annihilation \n\nZardoz\n\nThe Holy Mountain \n\nMad God \n\nVideodrome\n\nEven if you're not on hallucinogens, you'll think you are."
+          },
+          {
+            "id": -1553016631738522786,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.274830",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1izww/",
+            "original_comment_text": "Memento "
+          },
+          {
+            "id": 2740188429852158524,
+            "title": "It's What's Inside",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6jzwaLoDurD6Jn2ILb42nFcn3xq.jpg",
+            "release_year": 2024,
+            "plot_summary": "A pre-wedding reunion descends into a psychological nightmare for a group of college friends when a surprise guest arrives with a mysterious suitcase.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1052280,
+            "imdb_id": "tt14577874",
+            "category_title": "Movies With Genuinely Unique Concepts",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:30.314476",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ul5fl4/recommend_me_movies_with_genuinely_unique_concepts/ov1hu5h/",
+            "original_comment_text": "I really loved It’s What’s Inside.\n\nIt’s a dark comedy about someone bringing a piece of sci fi tech to a college friend group reunion and chaos ensues. I don’t want to even spoil what the device does because it’s a movie that consistently surprises and the twists are so much more fun when you go in blind"
+          }
+        ]
+      },
+      {
+        "name": "Movies So Bad They're Enjoyable",
+        "movies": [
+          {
+            "id": -305556798163416364,
+            "title": "Road House",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+            "release_year": 2024,
+            "plot_summary": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 359410,
+            "imdb_id": "tt3359350",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.965334",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouywgu2/",
+            "original_comment_text": "Road House "
+          },
+          {
+            "id": -7699063688100472169,
+            "title": "Plan 9 from Outer Space",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bmicZi7PvlnZ9rZqp6QXN2Db0pT.jpg",
+            "release_year": 1957,
+            "plot_summary": "In California, an old man grieves the loss of his wife, and dies the day after she is buried. However, the space soldier Eros and his mate Tanna use an electric device to resurrect them both, alongside the strong Inspector Clay, who was murdered by the alien-controlled dead couple. When the populations of Hollywood and Washington D.C. see flying saucers on the sky, a colonel, a police lieutenant, a commercial pilot, his wife, and a policeman try to stop the aliens.",
+            "runtime": "1h 18m",
+            "tmdb_rating": 4.2,
+            "genres": [
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 10513,
+            "imdb_id": "tt0052077",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.965515",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyvv9y/",
+            "original_comment_text": "Plan 9 from Outer Space."
+          },
+          {
+            "id": -5127156323519803667,
+            "title": "Troll 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
+            "release_year": 2025,
+            "plot_summary": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Fantasy",
+              "Thriller"
+            ],
+            "tmdb_id": 1180831,
+            "imdb_id": "tt29232158",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.968237",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouywwdf/",
+            "original_comment_text": "Troll 2"
+          },
+          {
+            "id": 6872207516541362939,
+            "title": "Idiocracy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6cTHBq49ApwsJaRr3ojlY1cmiXk.jpg",
+            "release_year": 2006,
+            "plot_summary": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average European-Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 7512,
+            "imdb_id": "tt0387808",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.972130",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouz4d1k/",
+            "original_comment_text": "Idiocracy"
+          },
+          {
+            "id": -5220663291826196112,
+            "title": "Wagons East!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xRYheMiWnjdvUFuXmb1IzjbO9kz.jpg",
+            "release_year": 1994,
+            "plot_summary": "After the 1860s Wild West, a group of misfit settlers - including ex-doctor Phil Taylor, prostitute Belle, and homosexual bookseller Julian - decide they cannot live in their current situation in the west. They hire a grizzled alcoholic wagon master by the name of James Harlow to take them on a journey back to their hometowns in the East.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 4.9,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Western"
+            ],
+            "tmdb_id": 30114,
+            "imdb_id": "tt0111653",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.974251",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyxxo6/",
+            "original_comment_text": "Wagons East!"
+          },
+          {
+            "id": -5043890676635330946,
+            "title": "Sharknado",
+            "poster_url": "https://image.tmdb.org/t/p/w500/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg",
+            "release_year": 2013,
+            "plot_summary": "A freak hurricane hits Los Angeles, causing man-eating sharks to be scooped up in tornadoes and flooding the city with shark-infested seawater. Surfer and bar-owner Fin sets out with his friends Baz and Nova to rescue his estranged wife April and teenage daughter Claudia.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 3.9,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Horror",
+              "Science Fiction",
+              "TV Movie"
+            ],
+            "tmdb_id": 205321,
+            "imdb_id": "tt2724064",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.978301",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyw2ym/",
+            "original_comment_text": "Sharknado"
+          },
+          {
+            "id": -7196321816978896669,
+            "title": "Freddy Got Fingered",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+            "release_year": 2001,
+            "plot_summary": "Unemployed cartoonist Gord Brody moves back in with his parents Jim and Julie and younger brother Freddy. When his parents demand he leave, he retaliates by spreading rumors that Jim is sexually abusing Freddy.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 4.7,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 13166,
+            "imdb_id": "tt0240515",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.980574",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyzpat/",
+            "original_comment_text": "Freddy got fingered "
+          },
+          {
+            "id": 5452625557770549567,
+            "title": "The Toxic Avenger",
+            "poster_url": "https://image.tmdb.org/t/p/w500/so0CGT1fZe2SlVdYXCewghxUgoj.jpg",
+            "release_year": 1984,
+            "plot_summary": "A gang of thugs devise a cruel hoax that goes horribly wrong as Melvin, a nerdy emaciated janitor at the local health club, is cast through a third story window into a vat of hazardous toxic waste.",
+            "runtime": "1h 22m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 15239,
+            "imdb_id": "tt0090190",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:49.983955",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyybkr/",
+            "original_comment_text": "The Toxic Avenger (1984)"
+          },
+          {
+            "id": -2625613885545372415,
+            "title": "Leprechaun",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9i6HjU4CZJytN37LKQUDrNguQg7.jpg",
+            "release_year": 1993,
+            "plot_summary": "A demonic leprechaun terrorizes a group of young people whom he believes stole his gold.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 5.6,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 11811,
+            "imdb_id": "tt0107387",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:50.024449",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyxl28/",
+            "original_comment_text": "Leprechaun"
+          },
+          {
+            "id": -2280716109124254393,
+            "title": "Samurai Cop",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jOlz0kpxlLY5xixyDYpcYUi2SJy.jpg",
+            "release_year": 1991,
+            "plot_summary": "When Japanese organized crime imbeds itself within LA, the police turn to one man to take down the deadly Yakuza — Joe Marshall, aka \"The Samurai.\" With his fearless swagger and rock hard jaw, The Samurai tears a two-fisted hole through the mob and doesn't stop until the job is done.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 4.6,
+            "genres": [
+              "Action",
+              "Crime",
+              "Comedy",
+              "Thriller"
+            ],
+            "tmdb_id": 65374,
+            "imdb_id": "tt0130236",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:50.102941",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouyx1ri/",
+            "original_comment_text": "Samurai Cop"
+          },
+          {
+            "id": -5909330263401695341,
+            "title": "Battlefield Earth",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wXCRuBHdJ5aTFQdsuGJFXNdo79T.jpg",
+            "release_year": 2000,
+            "plot_summary": "In the year 3000, man is no match for the Psychlos, a greedy, manipulative race of aliens on a quest for ultimate profit. Led by the powerful Terl, the Psychlos are stripping Earth clean of its natural resources, using the broken remnants of humanity as slaves. What is left of the human race has descended into a near primitive state. After being captured, it is up to Tyler to save mankind.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 3.3,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 5491,
+            "imdb_id": "tt0185183",
+            "category_title": "Movies So Bad They're Enjoyable",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:28:50.470314",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukuk96/movies_that_are_so_bad_that_you_ended_up_enjoying/ouz2d18/",
+            "original_comment_text": "Battlefield Earth! See John Travolta at his worst!"
+          }
+        ]
+      },
+      {
+        "name": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+        "movies": [
+          {
+            "id": -6195020792538661805,
+            "title": "Looper",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",
+            "release_year": 2012,
+            "plot_summary": "In the year 2044, time travel has not yet been invented but in 30 years it will have been. When the mob wants to get rid of someone, they will send their target into the past where a looper, a hired gun, like Joe is waiting to mop up. Joe is getting rich and life is good until the day the mob decides to close the loop, sending back Joe's future self for assassination.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 59967,
+            "imdb_id": "tt1276104",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.119942",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux5k2z/",
+            "original_comment_text": "Looper"
+          },
+          {
+            "id": 2457776268798380173,
+            "title": "Twelve Monkeys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
+            "release_year": 1995,
+            "plot_summary": "In the year 2035, convict James Cole reluctantly volunteers to be sent back in time to discover the origin of a deadly virus that wiped out nearly all of the earth's population and forced the survivors into underground communities. But when Cole is mistakenly sent to 1990 instead of 1996, he's arrested and locked up in a mental hospital. There he meets psychiatrist Dr. Kathryn Railly and the son of a famous virus expert who may hold the key to the Army of the 12 Monkeys; thought to be responsible for unleashing the killer disease.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 63,
+            "imdb_id": "tt0114746",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.125238",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux5v2e/",
+            "original_comment_text": "Twelve Monkeys\n\nTerminator\n\nBill and Ted’s Excellent Adventure "
+          },
+          {
+            "id": 4553226299806539118,
+            "title": "Timecrimes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zdxQRP7mzczMJBwKnv8MCPRq7rQ.jpg",
+            "release_year": 2007,
+            "plot_summary": "A man accidentally gets into a time machine and travels back in time nearly an hour. Finding himself will be the first of a series of disasters of unforeseeable consequences.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 14139,
+            "imdb_id": "tt0480669",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.125481",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux5ojm/",
+            "original_comment_text": "Time Crimes. It's a Spanish movie and it is fantastic. "
+          },
+          {
+            "id": 383666093089926549,
+            "title": "Primer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+            "release_year": 2004,
+            "plot_summary": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+            "runtime": "1h 17m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 14337,
+            "imdb_id": "tt0390384",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.127882",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux5v6t/",
+            "original_comment_text": "Primer "
+          },
+          {
+            "id": -539015965090432760,
+            "title": "Time After Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/A4SXZxQempzTUReRlQiFaYc6KaC.jpg",
+            "release_year": 1979,
+            "plot_summary": "Writer H. G. Wells pursues Jack the Ripper to modern day San Francisco after the infamous serial killer steals his time machine to escape the 19th century.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Comedy",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 24750,
+            "imdb_id": "tt0080025",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.128438",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux6w31/",
+            "original_comment_text": "Time After Time !!!  Jack the Ripper ends up in modern day San Francisco…."
+          },
+          {
+            "id": -7313080802066230800,
+            "title": "Edge of Tomorrow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+            "release_year": 2014,
+            "plot_summary": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Action",
+              "Science Fiction"
+            ],
+            "tmdb_id": 137113,
+            "imdb_id": "tt1631867",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.134015",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux89em/",
+            "original_comment_text": "Edge of Tomorrow"
+          },
+          {
+            "id": 7748384092702941032,
+            "title": "Hot Tub Time Machine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+            "release_year": 2010,
+            "plot_summary": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Nick is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 23048,
+            "imdb_id": "tt1231587",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.136664",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux65pf/",
+            "original_comment_text": "Hot Tub Time Machine if you want a comedy "
+          },
+          {
+            "id": -8767178645467106440,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.136849",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux76b3/",
+            "original_comment_text": "About time"
+          },
+          {
+            "id": -259385850131674503,
+            "title": "Somewhere in Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hmdegiSwVYUNvEfihaE3HRM3Sos.jpg",
+            "release_year": 1980,
+            "plot_summary": "Young writer Richard Collier is met on the opening night of his first play by an old lady who begs him to \"Come back to me\". Mystified, he tries to find out about her, and learns that she is a famous stage actress from the early twentieth century. Becoming more and more obsessed with her, by self-hypnosis he manages to travel back in time—where he meets her.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Fantasy",
+              "Romance"
+            ],
+            "tmdb_id": 16633,
+            "imdb_id": "tt0081534",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.137113",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux6h3g/",
+            "original_comment_text": "Somewhere In Time (1980)"
+          },
+          {
+            "id": 6037644504948507646,
+            "title": "Bill & Ted's Excellent Adventure",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+            "release_year": 1989,
+            "plot_summary": "Bill and Ted are high school buddies starting a band. They are also about to fail their history class—which means Ted would be sent to military school—but receive help from Rufus, a traveller from a future where their band is the foundation for a perfect society. With the use of Rufus' time machine, Bill and Ted travel to various points in history, returning with important figures to help them complete their final history presentation.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1648,
+            "imdb_id": "tt0096928",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.150554",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux5v2e/",
+            "original_comment_text": "Twelve Monkeys\n\nTerminator\n\nBill and Ted’s Excellent Adventure "
+          },
+          {
+            "id": 5944817859014153448,
+            "title": "Time Bandits",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
+            "release_year": 1981,
+            "plot_summary": "Young history buff Kevin can scarcely believe it when six dwarfs emerge from his closet one night. Former employees of the Supreme Being, they've purloined a map charting all of the holes in the fabric of time and are using it to steal treasures from different historical eras. Taking Kevin with them, they variously drop in on Napoleon, Robin Hood and King Agamemnon before the Supreme Being catches up with them.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Family",
+              "Fantasy",
+              "Science Fiction",
+              "Adventure",
+              "Comedy"
+            ],
+            "tmdb_id": 36819,
+            "imdb_id": "tt0081633",
+            "category_title": "Time Travel Movies Other Than Interstellar, Predestination, And Back To The Future",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:14.257252",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1uknsq8/time_travel_movies_that_are_not_interstellar/oux7xk0/",
+            "original_comment_text": "Time Bandits "
+          }
+        ]
+      },
+      {
+        "name": "Horror Movies For Beginners",
+        "movies": [
+          {
+            "id": 7256813586970121413,
+            "title": "Crimes of the Future",
+            "poster_url": "https://image.tmdb.org/t/p/w500/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg",
+            "release_year": 2022,
+            "plot_summary": "With his partner Caprice, celebrity performance artist Saul Tenser publicly showcases the metamorphosis of his organs in avant-garde performances. An investigator from the National Organ Registry obsessively tracks their movements, which is when a mysterious group is revealed... Their mission — to use Tenser's notoriety to shed light on the next phase of human evolution.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 819876,
+            "imdb_id": "tt14549466",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.253089",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 8500481930945968842,
+            "title": "The Evil Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/54C1qdaiSijIU5NeNb4WsPJdNkG.jpg",
+            "release_year": 1981,
+            "plot_summary": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+            "runtime": "1h 25m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 764,
+            "imdb_id": "tt0083907",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.256254",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 8936882610511462125,
+            "title": "Evil Dead II",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+            "release_year": 1987,
+            "plot_summary": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+            "runtime": "1h 24m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 765,
+            "imdb_id": "tt0092991",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.260660",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 1523058348889904911,
+            "title": "The Cabin in the Woods",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zZZe5wn0udlhMtdlDjN4NB72R6e.jpg",
+            "release_year": 2012,
+            "plot_summary": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Horror",
+              "Mystery",
+              "Comedy"
+            ],
+            "tmdb_id": 22970,
+            "imdb_id": "tt1259521",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.263685",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvfbiy/",
+            "original_comment_text": "Cabin in the Woods. It tells you the rules.\n\nScream does too but it's specific to slashers. "
+          },
+          {
+            "id": -5614145809756782869,
+            "title": "Psycho",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "release_year": 1960,
+            "plot_summary": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Horror",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 539,
+            "imdb_id": "tt0054215",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.264614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvfp54/",
+            "original_comment_text": "psycho is a great one, as well as the birds, a great film is the sixth sense which is not a horror movie, but has horror elements and does definitely help into the genre. another one is the 1987 predator, which if you like action movies or sci-fi thrillers you’ll also love"
+          },
+          {
+            "id": 3772248772684787459,
+            "title": "In the Mouth of Madness",
+            "poster_url": "https://image.tmdb.org/t/p/w500/msh4tEUzbnEqlHcFOUH4O0Zti8r.jpg",
+            "release_year": 1995,
+            "plot_summary": "An insurance investigator visits a small town while looking into the strange disappearance of a popular horror novelist. He soon finds that the impact of the author’s books is far more than inspirational.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 2654,
+            "imdb_id": "tt0113409",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.264862",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": -2187835924280094483,
+            "title": "The Frighteners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zcJbCMwFLJdn5OLjhYwMVaSB32R.jpg",
+            "release_year": 1996,
+            "plot_summary": "Once an architect, Frank Bannister now passes himself off as an exorcist of evil spirits. To bolster his facade, he claims his \"special\" gift is the result of a car accident that killed his wife. But what he does not count on is more people dying in the small town where he lives. As he tries to piece together the supernatural mystery of these killings, he falls in love with the wife of one of the victims and deals with a crazy FBI agent.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 10779,
+            "imdb_id": "tt0116365",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.265114",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 8160128737030324526,
+            "title": "They Live",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+            "release_year": 1988,
+            "plot_summary": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Science Fiction",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 8337,
+            "imdb_id": "tt0096256",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.266629",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 413034910914747823,
+            "title": "Scream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+            "release_year": 1996,
+            "plot_summary": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Crime",
+              "Horror",
+              "Mystery"
+            ],
+            "tmdb_id": 4232,
+            "imdb_id": "tt0117571",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.277037",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvfbiy/",
+            "original_comment_text": "Cabin in the Woods. It tells you the rules.\n\nScream does too but it's specific to slashers. "
+          },
+          {
+            "id": 6281500244524128136,
+            "title": "Midsommar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+            "release_year": 2019,
+            "plot_summary": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 530385,
+            "imdb_id": "tt8772262",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.277326",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvg7jz/",
+            "original_comment_text": "Evil Dead 1 & 2\n\nMidsommar \n\nVideodrome (1983)\n\nThey Live (1988)\n\nCrimes of the Future (2022)\n\nIn the Mouth of Madness (1994)\n\nThe Frighteners (1996)"
+          },
+          {
+            "id": 2749058656268574911,
+            "title": "The Birds",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eClg8QPg8mwB6INIC4pyR5pAbDr.jpg",
+            "release_year": 1963,
+            "plot_summary": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 571,
+            "imdb_id": "tt0056869",
+            "category_title": "Horror Movies For Beginners",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:29:45.374856",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukfyn3/movies_to_get_me_into_the_horror_genre/ouvfp54/",
+            "original_comment_text": "psycho is a great one, as well as the birds, a great film is the sixth sense which is not a horror movie, but has horror elements and does definitely help into the genre. another one is the 1987 predator, which if you like action movies or sci-fi thrillers you’ll also love"
+          }
+        ]
+      },
+      {
+        "name": "Monster Animal Movies For Mom",
+        "movies": [
+          {
+            "id": 6700451184858244734,
+            "title": "Lake Placid",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pEszakCP8j9E9S0UPLfEa3Cad3O.jpg",
+            "release_year": 1999,
+            "plot_summary": "When a man is eaten alive by an unknown creature, the local Game Warden teams up with a paleontologist from New York to find the beast. Add to the mix an eccentric philanthropist with a penchant for \"Crocs\", and here we go! This quiet, remote lake is suddenly the focus of an intense search for a crocodile with a taste for live animals...and people!",
+            "runtime": "1h 22m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Horror",
+              "Comedy",
+              "Action",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 9825,
+            "imdb_id": "tt0139414",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.097335",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov01y7e/",
+            "original_comment_text": "Lake Placid. It has Betty White swearing at a cop. Its amazing! "
+          },
+          {
+            "id": -5302075468201338113,
+            "title": "Cocaine Bear",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+            "release_year": 2023,
+            "plot_summary": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Thriller",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 804150,
+            "imdb_id": "tt14209916",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.135663",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov0285n/",
+            "original_comment_text": "Cocaine Bear"
+          },
+          {
+            "id": 2959420101501824843,
+            "title": "Tremors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+            "release_year": 1990,
+            "plot_summary": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Comedy"
+            ],
+            "tmdb_id": 9362,
+            "imdb_id": "tt0100814",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.140697",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov02tqz/",
+            "original_comment_text": "Tremors (1990)"
+          },
+          {
+            "id": -6412723112456390959,
+            "title": "Rogue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/abFDVe71e7UE5MpAqjZvUYT2U7M.jpg",
+            "release_year": 2007,
+            "plot_summary": "When a group of tourists stumble into the remote Australian river territory of an enormous crocodile, the deadly creature traps them on a tiny mud island with the tide quickly rising and darkness descending. As the hungry predator closes in, they must fight for survival against all odds.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Action",
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 13022,
+            "imdb_id": "tt0479528",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.141245",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov037fa/",
+            "original_comment_text": "Rogue\n\nBoar"
+          },
+          {
+            "id": 560543970546499163,
+            "title": "Shark Side of the Moon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v5CfpzxoJDkZxjZAizClFdlEF0U.jpg",
+            "release_year": 2022,
+            "plot_summary": "Decades ago, the USSR developed unkillable sharks and launched them to the moon. Today, a team of American astronauts will endure the fight of their lives.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 5.0,
+            "genres": [
+              "Action",
+              "Science Fiction",
+              "Thriller",
+              "Horror"
+            ],
+            "tmdb_id": 1011679,
+            "imdb_id": "tt21426434",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.150388",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov02ndd/",
+            "original_comment_text": "shark side of the moon (tubi)"
+          },
+          {
+            "id": 6365076146667431113,
+            "title": "Trollhunters: Rise of the Titans",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zvUNFeTz0Sssb210wSiIiHRjA4W.jpg",
+            "release_year": 2021,
+            "plot_summary": "The Guardians of Arcadia reunite to battle the nefarious Arcane Order, who've reawakened the primordial Titans.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Animation",
+              "Fantasy",
+              "Family",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 730840,
+            "imdb_id": "tt12851396",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.176199",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov056wc/",
+            "original_comment_text": "If she loves megafauna, she'll probably love Trollhunter (2010).  Clever movie. "
+          },
+          {
+            "id": -2646097680652560631,
+            "title": "Alligator",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bWANAIIeNPzwEmrYUvZFECTbBX6.jpg",
+            "release_year": 1980,
+            "plot_summary": "A baby alligator is flushed down a toilet and survives by eating discarded lab animals that have been injected with growth hormones. The now gigantic animal escapes the city sewers and goes on a rampage, pursued by a cop and a big-game hunter.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 33518,
+            "imdb_id": "tt0080354",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.181362",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov02i36/",
+            "original_comment_text": "Alligator (1980)"
+          },
+          {
+            "id": -5919805889316000333,
+            "title": "Deep Blue Sea",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fyn0zyCI4kIlbDoHH0Hzv09hDC5.jpg",
+            "release_year": 1999,
+            "plot_summary": "Researchers on the undersea lab Aquatica have genetically altered the brains of captive sharks to develop a cure for Alzheimer's disease. But there's an unexpected side effect: the sharks got smarter, faster, and more dangerous. After a big storm damages their remote research facility, they must fight for their lives.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Action",
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 8914,
+            "imdb_id": "tt0149261",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.187061",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov02fm2/",
+            "original_comment_text": "Deep Blue Sea (1999)"
+          },
+          {
+            "id": 265493336988081753,
+            "title": "Crawl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4WH6AZd473lRZ3hUp8TYiv2LfZW.jpg",
+            "release_year": 2019,
+            "plot_summary": "When a huge hurricane hits her hometown in Florida, Haley ignores evacuation orders to look for her father. After finding him badly wounded, both are trapped by the flood. With virtually no time to escape the storm, they discover that rising water levels are the least of their problems.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 511987,
+            "imdb_id": "tt8364368",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.189462",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov02m1g/",
+            "original_comment_text": "Crawl isn't a \"mega\" monster but it's a fantastic movie."
+          },
+          {
+            "id": 6821998026005193570,
+            "title": "The Host",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1mfIZw6WgkCX310eoe0Ys14c3Fi.jpg",
+            "release_year": 2013,
+            "plot_summary": "A parasitic alien soul is injected into the body of Melanie Stryder. Instead of carrying out her race's mission of taking over the Earth, \"Wanda\" (as she comes to be called) forms a bond with her host and sets out to aid other free humans.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 72710,
+            "imdb_id": "tt1517260",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.189646",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov047wn/",
+            "original_comment_text": "The Host (2006) directed by Bong Joon Ho, but I’m not sure about its availability on streaming services"
+          },
+          {
+            "id": 6410598409210526222,
+            "title": "Boar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8wxEPJzfgO0jiaZVz2pFQvYoXqm.jpg",
+            "release_year": 2018,
+            "plot_summary": "In the harsh, yet beautiful Australian outback lives a beast, an animal of staggering size, with a ruthless, driving need for blood and destruction. It cares for none, defends its territory with brutal force, and kills with a raw, animalistic savagery unlike any have seen before.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 5.3,
+            "genres": [
+              "Horror"
+            ],
+            "tmdb_id": 416724,
+            "imdb_id": "tt4158594",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.262740",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov037fa/",
+            "original_comment_text": "Rogue\n\nBoar"
+          },
+          {
+            "id": 1940433819807497940,
+            "title": "Primeval",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ou56J8FIxbIFusR9zIA9GW7zwt.jpg",
+            "release_year": 2007,
+            "plot_summary": "A news team is sent to Burundi to capture and bring home a legendary 25-foot crocodile. Their difficult task turns potentially deadly when a warlord targets them for death.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Adventure",
+              "Horror",
+              "Action"
+            ],
+            "tmdb_id": 4283,
+            "imdb_id": "tt0772193",
+            "category_title": "Monster Animal Movies For Mom",
+            "time_period": "daily",
+            "date_scraped": "2026-07-02T07:30:03.322309",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1ukzev3/monster_animal_movies_for_my_mom/ov03xri/",
+            "original_comment_text": "Primeval\n\nTremors 1 & 2\n\nSnakes on A Plane"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 57,
+    "totalCategories": 5,
+    "lastUpdated": "2026-07-02T07:28:30.148867"
+  }
+}

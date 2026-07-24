@@ -1,0 +1,1261 @@
+{
+  "success": true,
+  "data": {
+    "period": "daily",
+    "categories": [
+      {
+        "name": "Movies That Blew Viewers Away Purely By Cinematography",
+        "movies": [
+          {
+            "id": 1154617692859028330,
+            "title": "Train Dreams",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+            "release_year": 2025,
+            "plot_summary": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1241983,
+            "imdb_id": "tt29768334",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.078844",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbpqk1/",
+            "original_comment_text": "Train Dreams"
+          },
+          {
+            "id": 1033940563416931123,
+            "title": "Lawrence of Arabia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_year": 1962,
+            "plot_summary": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+            "runtime": "3h 48m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Adventure",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 947,
+            "imdb_id": "tt0056172",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.080240",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozboiv3/",
+            "original_comment_text": "Lawrence of Arabia"
+          },
+          {
+            "id": 6060400195522870514,
+            "title": "Blade Runner 2049",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "release_year": 2017,
+            "plot_summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 335984,
+            "imdb_id": "tt1856101",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.092754",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbr7g0/",
+            "original_comment_text": "Blade Runner 2049 is a more recent one that blew me away at times. "
+          },
+          {
+            "id": 733179321965993819,
+            "title": "The Fall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ez7xavvDr5yDz4sSvI55xDp0BoU.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 14784,
+            "imdb_id": "tt0460791",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.093973",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbos5e/",
+            "original_comment_text": "The Fall"
+          },
+          {
+            "id": -7893513813842594420,
+            "title": "Samsara",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+            "release_year": 2011,
+            "plot_summary": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 89708,
+            "imdb_id": "tt0770802",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.096614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbowk3/",
+            "original_comment_text": "Samsara "
+          },
+          {
+            "id": -6312946962229926511,
+            "title": "No Country for Old Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+            "release_year": 2007,
+            "plot_summary": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Western"
+            ],
+            "tmdb_id": 6977,
+            "imdb_id": "tt0477348",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.098265",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbphfr/",
+            "original_comment_text": "No country for old men or all the movies where roger deakins is the cinematographer"
+          },
+          {
+            "id": -2808283501893207913,
+            "title": "1917",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+            "release_year": 2019,
+            "plot_summary": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "War",
+              "History",
+              "Drama"
+            ],
+            "tmdb_id": 530915,
+            "imdb_id": "tt8579674",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.100928",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbq4ow/",
+            "original_comment_text": "1917"
+          },
+          {
+            "id": 8029185029315471081,
+            "title": "The Fountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+            "release_year": 2006,
+            "plot_summary": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Adventure",
+              "Science Fiction",
+              "Romance"
+            ],
+            "tmdb_id": 1381,
+            "imdb_id": "tt0414993",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.101548",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbq1fh/",
+            "original_comment_text": "The Fountain"
+          },
+          {
+            "id": -1052233865994213978,
+            "title": "The Revenant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+            "release_year": 2015,
+            "plot_summary": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Western",
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 281957,
+            "imdb_id": "tt1663202",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.103995",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbqxac/",
+            "original_comment_text": "The Revenant"
+          },
+          {
+            "id": 1056150715204459458,
+            "title": "Barry Lyndon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+            "release_year": 1975,
+            "plot_summary": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+            "runtime": "3h 8m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "War",
+              "History"
+            ],
+            "tmdb_id": 3175,
+            "imdb_id": "tt0072684",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.113919",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbp1lk/",
+            "original_comment_text": "Barry Lyndon "
+          },
+          {
+            "id": -2911345651313254359,
+            "title": "The Lord of the Rings",
+            "poster_url": "https://image.tmdb.org/t/p/w500/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+            "release_year": 1978,
+            "plot_summary": "Young Hobbit Frodo Baggins is thrown into an amazing adventure when he's tasked with destroying the One Ring, created by the dark lord Sauron. Frodo must travel in a small fellowship of nine warriors and accomplices. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "tmdb_id": 123,
+            "imdb_id": "tt0077869",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.276443",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbt9hc/",
+            "original_comment_text": "The Lord of the Rings- the cinematography is a major character in the films."
+          },
+          {
+            "id": -4819281148292789384,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Movies That Blew Viewers Away Purely By Cinematography",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:05.285335",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbrxmt/",
+            "original_comment_text": "The Secret Life of Walter Mitty"
+          }
+        ]
+      },
+      {
+        "name": "Movies About Loneliness",
+        "movies": [
+          {
+            "id": -3439130673322712938,
+            "title": "Lars and the Real Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+            "release_year": 2007,
+            "plot_summary": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 6615,
+            "imdb_id": "tt0805564",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.910910",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbkmik/",
+            "original_comment_text": "Lars and the Real Girl"
+          },
+          {
+            "id": -4177259171989342029,
+            "title": "Shame",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cAWLz9kFv4xc6IsEXTj2DrcqD55.jpg",
+            "release_year": 2011,
+            "plot_summary": "Brandon, a thirty-something man living in New York, eludes intimacy with women but feeds his deepest desires with a compulsive addiction to sex. When his younger sister temporarily moves into his apartment, stirring up bitter memories of their shared painful past, Brandon's life, like his fragile mind, gets out of control.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76025,
+            "imdb_id": "tt1723811",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.926092",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbjvh7/",
+            "original_comment_text": "Shame"
+          },
+          {
+            "id": 224310638756215563,
+            "title": "Days of Being Wild",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g0nbZt1eFlL8FqG8r524iXnpoQV.jpg",
+            "release_year": 1990,
+            "plot_summary": "Yuddy, a Hong Kong playboy known for breaking girls' hearts, tries to find solace and truth after discovering the woman who raised him isn't his mother.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 18311,
+            "imdb_id": "tt0101258",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.929267",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbkg6r/",
+            "original_comment_text": "Many Wong Kar Wai movies. Chungking Express, Fallen Angels, Days of Being Wild. While centered around love, there's this underlying theme of distance and isolation present throughout his movies."
+          },
+          {
+            "id": 2671620180120612802,
+            "title": "The Station Agent",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kjJg6eJa9I9flfHaJG67ecEv8YX.jpg",
+            "release_year": 2003,
+            "plot_summary": "When his only friend dies, a man born with dwarfism moves to rural New Jersey to live a life of solitude, only to meet a chatty hot dog vendor and a woman dealing with her own personal loss.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 2056,
+            "imdb_id": "tt0340377",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.936767",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbptjf/",
+            "original_comment_text": "The Station Agent"
+          },
+          {
+            "id": -8685002850203642933,
+            "title": "Synecdoche, New York",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+            "release_year": 2008,
+            "plot_summary": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 4960,
+            "imdb_id": "tt0383028",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.938666",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbl4vn/",
+            "original_comment_text": "Synecdoche, New York"
+          },
+          {
+            "id": 3617481109840060996,
+            "title": "Adaptation",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rkk1jgoB9AmKpTcUHKlKZstzIma.jpg",
+            "release_year": 2022,
+            "plot_summary": "The setting for Josh Kline’s Adaptation is the contaminated canyons of a flooded New York City in the near future—here rendered with resolutely analog special effects, including matte shots and scale models. Amid the ruins, life and work continue, as the city’s remaining relief workers adapt to the strange beauty of their newly transformed home and the consequences of a slow, preventable apocalypse.",
+            "runtime": "11m",
+            "tmdb_rating": 0.0,
+            "genres": [],
+            "tmdb_id": 1023806,
+            "imdb_id": null,
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.941614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbmkw9/",
+            "original_comment_text": "Adaptation "
+          },
+          {
+            "id": -2922857285453957842,
+            "title": "Fallen Angels",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+            "release_year": 1995,
+            "plot_summary": "An indifferent hitman, his infatuated business partner and an ex-convict search for love and meaning as their lives cross paths in Hong Kong.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Action",
+              "Romance",
+              "Crime"
+            ],
+            "tmdb_id": 11220,
+            "imdb_id": "tt0112913",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.943887",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbkg6r/",
+            "original_comment_text": "Many Wong Kar Wai movies. Chungking Express, Fallen Angels, Days of Being Wild. While centered around love, there's this underlying theme of distance and isolation present throughout his movies."
+          },
+          {
+            "id": -2466213126341982343,
+            "title": "Chungking Express",
+            "poster_url": "https://image.tmdb.org/t/p/w500/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg",
+            "release_year": 1994,
+            "plot_summary": "Two melancholic Hong Kong policemen fall in love: one with a mysterious underworld figure, the other with a beautiful and ethereal server at a late-night restaurant.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 11104,
+            "imdb_id": "tt0109424",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:36.947027",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbkg6r/",
+            "original_comment_text": "Many Wong Kar Wai movies. Chungking Express, Fallen Angels, Days of Being Wild. While centered around love, there's this underlying theme of distance and isolation present throughout his movies."
+          },
+          {
+            "id": 6591621169807457887,
+            "title": "A Serious Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5gGxDS8WmrebPlMHexVS8EVehiP.jpg",
+            "release_year": 2009,
+            "plot_summary": "It is 1967, and Larry Gopnik, a physics professor at a quiet Midwestern university, has just been informed by his wife Judith that she is leaving him. She has fallen in love with one of his more pompous acquaintances Sy Ableman.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 12573,
+            "imdb_id": "tt1019452",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:37.111394",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbmveo/",
+            "original_comment_text": "A Serious Man"
+          },
+          {
+            "id": 5894857860438162827,
+            "title": "I Saw the TV Glow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+            "release_year": 2024,
+            "plot_summary": "In late-90s suburbia, a lonely teenager meets a girl at school who introduces him to a mysterious late-night T.V. show — a vision of a supernatural world pulsing beneath their own. As time goes on, however, questions begin to arise about why the show sometimes seems more real than their own lives. In the pale glow of the television, their view of reality begins to crack.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 858017,
+            "imdb_id": "tt15574270",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:37.478576",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbmj9p/",
+            "original_comment_text": "I Saw the TV Glow"
+          },
+          {
+            "id": 1004930165103956143,
+            "title": "Taxi Driver",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+            "release_year": 1976,
+            "plot_summary": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 103,
+            "imdb_id": "tt0075314",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:37.684556",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbmcq3/",
+            "original_comment_text": "Taxi Driver"
+          },
+          {
+            "id": 1610267712152742032,
+            "title": "Fight Club",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "release_year": 1999,
+            "plot_summary": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+            "runtime": "2h 19m",
+            "tmdb_rating": 8.4,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 550,
+            "imdb_id": "tt0137523",
+            "category_title": "Movies About Loneliness",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:23:38.102966",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4kbfy/movies_about_loneliness/ozbo03y/",
+            "original_comment_text": "Fight Club."
+          }
+        ]
+      },
+      {
+        "name": "Movies For Someone Who Is Grieving",
+        "movies": [
+          {
+            "id": -8439729112576672588,
+            "title": "Almost Famous",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg",
+            "release_year": 2000,
+            "plot_summary": "In 1973, a precocious 15-year-old aspiring rock journalist lands a dream assignment from Rolling Stone to tour with a rising rock band, embarking on a coming-of-age journey as he discovers the exhilarating and heartbreaking realities behind rock stardom.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Music"
+            ],
+            "tmdb_id": 786,
+            "imdb_id": "tt0181875",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.949986",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": 7331675689444915355,
+            "title": "Easy A",
+            "poster_url": "https://image.tmdb.org/t/p/w500/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+            "release_year": 2010,
+            "plot_summary": "Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 37735,
+            "imdb_id": "tt1282140",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.958148",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": -4232765133955768569,
+            "title": "Support Your Local Sheriff!",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7s8uz1dGA8JtPRSDg04zSYMUbnn.jpg",
+            "release_year": 1969,
+            "plot_summary": "In the old west, a man becomes a Sheriff just for the pay, figuring he can decamp if things get tough.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Western"
+            ],
+            "tmdb_id": 11574,
+            "imdb_id": "tt0065051",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.963142",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza2zip/",
+            "original_comment_text": "Well definitely do NOT show her Big Fish!\n\nMy go to is Support Your Local Sheriff (1969)it's an oldie but it has James Garner, Jack Elam, Henry Morgan and it's very funny."
+          },
+          {
+            "id": 2126107318180894432,
+            "title": "Superbad",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+            "release_year": 2007,
+            "plot_summary": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8363,
+            "imdb_id": "tt0829482",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.964342",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": -4434034090100351745,
+            "title": "Big Fish",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tjK063yCgaBAluVU72rZ6PKPH2l.jpg",
+            "release_year": 2003,
+            "plot_summary": "Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 587,
+            "imdb_id": "tt0319061",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.964518",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza2zip/",
+            "original_comment_text": "Well definitely do NOT show her Big Fish!\n\nMy go to is Support Your Local Sheriff (1969)it's an oldie but it has James Garner, Jack Elam, Henry Morgan and it's very funny."
+          },
+          {
+            "id": -6652457211065741142,
+            "title": "The School of Rock",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_year": 2003,
+            "plot_summary": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey must risk everything to prove that rock 'n' roll can change lives.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Music"
+            ],
+            "tmdb_id": 1584,
+            "imdb_id": "tt0332379",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.970367",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza3trc/",
+            "original_comment_text": "School of rock"
+          },
+          {
+            "id": 8130217794979992803,
+            "title": "When Harry Met Sally...",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+            "release_year": 1989,
+            "plot_summary": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 639,
+            "imdb_id": "tt0098635",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.971318",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": -5520179958652431909,
+            "title": "Spirited Away",
+            "poster_url": "https://image.tmdb.org/t/p/w500/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+            "release_year": 2001,
+            "plot_summary": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+            "runtime": "2h 5m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Animation",
+              "Family",
+              "Fantasy"
+            ],
+            "tmdb_id": 129,
+            "imdb_id": "tt0245429",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:10.974337",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": 3004054176031623117,
+            "title": "Doubt",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9lypT2ghNuUPYVJf66oe4fKvUqI.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 1964 Bronx, two Catholic school nuns question the new priest's ambiguous relationship with a troubled African-American student.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 14359,
+            "imdb_id": "tt0918927",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:11.143767",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": -5672781085832510341,
+            "title": "La La Land",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+            "release_year": 2016,
+            "plot_summary": "Mia, an aspiring actress, serves lattes to movie stars in between auditions and Sebastian, a jazz musician, scrapes by playing cocktail party gigs in dingy bars, but as success mounts they are faced with decisions that begin to fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 313369,
+            "imdb_id": "tt3783958",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:11.176445",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": -8932421207232771734,
+            "title": "Eternal Sunshine of the Spotless Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "release_year": 2004,
+            "plot_summary": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 38,
+            "imdb_id": "tt0338013",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:11.365077",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          },
+          {
+            "id": 2182172166098872753,
+            "title": "Clueless",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+            "release_year": 1995,
+            "plot_summary": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 9603,
+            "imdb_id": "tt0112697",
+            "category_title": "Movies For Someone Who Is Grieving",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:11.639386",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4dwsg/movies_for_a_grieving_person/oza5oxu/",
+            "original_comment_text": "As a person with a little depresh, here are my top non-sad films & TV  \n\\-Clueless  \n\\-When Harry Met Sally  \n\\-Superbad  \n\\-Easy A  \n\\-Almost Famous  \n\\-Parks & Recreation  \n\\- Spirited Away (the little girl does try to save her parents, so judgement call on this)  \n\\- Sad Drama without Death: Eternal Sunshine of the Spotless Mind, Doubt, La La Land\n\nI lost my dad and had a complicated relationship too. I wish her the best in her grieving journey. hugs."
+          }
+        ]
+      },
+      {
+        "name": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+        "movies": [
+          {
+            "id": -7430028458331399635,
+            "title": "Lucky Number Slevin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x21s3p5wPww534nYj1cWakTcqz4.jpg",
+            "release_year": 2006,
+            "plot_summary": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 186,
+            "imdb_id": "tt0425210",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.168144",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9fvpq/",
+            "original_comment_text": "Lucky Number Slevin"
+          },
+          {
+            "id": 6202098371535182815,
+            "title": "The Equalizer",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9u4yW7yPA0BQ2pv9XwiNzItwvp8.jpg",
+            "release_year": 2014,
+            "plot_summary": "McCall believes he has put his mysterious past behind him and dedicated himself to beginning a new, quiet life. But when he meets Teri, a young girl under the control of ultra-violent Russian gangsters, he can’t stand idly by – he has to help her. Armed with hidden skills that allow him to serve vengeance against anyone who would brutalize the helpless, McCall comes out of his self-imposed retirement and finds his desire for justice reawakened. If someone has a problem, if the odds are stacked against them, if they have nowhere else to turn, McCall will help. He is The Equalizer.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Thriller",
+              "Action",
+              "Crime"
+            ],
+            "tmdb_id": 156022,
+            "imdb_id": "tt0455944",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.193433",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9juxb/",
+            "original_comment_text": "The Equalizer movies"
+          },
+          {
+            "id": -1828710221403805233,
+            "title": "Die Hard",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg",
+            "release_year": 1988,
+            "plot_summary": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. One man has manages to escape... An off-duty cop hiding somewhere inside. He's alone, tired... and the only chance anyone has got.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 562,
+            "imdb_id": "tt0095016",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.193614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9goq3/",
+            "original_comment_text": "Die Hard"
+          },
+          {
+            "id": 7493410747456687426,
+            "title": "Sherlock Holmes: A Game of Shadows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2HsHurlnTOyU6yUS14gY6BQCyRs.jpg",
+            "release_year": 2011,
+            "plot_summary": "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Mystery"
+            ],
+            "tmdb_id": 58574,
+            "imdb_id": "tt1515091",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.198032",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9g7df/",
+            "original_comment_text": "Sherlock Holmes’s and Sherlock Holmes game of shadows "
+          },
+          {
+            "id": -1383794108021741152,
+            "title": "Sherlock Holmes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/momkKuWburNTqKBF6ez7rvhYVhE.jpg",
+            "release_year": 2009,
+            "plot_summary": "Eccentric consulting detective Sherlock Holmes and Doctor John Watson battle to bring down a new nemesis and unravel a deadly plot that could destroy England.",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Action",
+              "Adventure",
+              "Mystery"
+            ],
+            "tmdb_id": 10528,
+            "imdb_id": "tt0988045",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.202764",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9g7df/",
+            "original_comment_text": "Sherlock Holmes’s and Sherlock Holmes game of shadows "
+          },
+          {
+            "id": 2835559739641144961,
+            "title": "Catch Me If You Can",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+            "release_year": 2002,
+            "plot_summary": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 640,
+            "imdb_id": "tt0264464",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.204580",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9j18n/",
+            "original_comment_text": "Catch me if you can "
+          },
+          {
+            "id": -679583431329784049,
+            "title": "The Big Short",
+            "poster_url": "https://image.tmdb.org/t/p/w500/scVEaJEwP8zUix8vgmMoJJ9Nq0w.jpg",
+            "release_year": 2015,
+            "plot_summary": "The men who made millions from a global economic meltdown.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 318846,
+            "imdb_id": "tt1596363",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.207720",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9h4h0/",
+            "original_comment_text": "The Big Short(2015) "
+          },
+          {
+            "id": 4018131182504275082,
+            "title": "Tinker Tailor Soldier Spy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/e0dZ7TapGY9HtJ9xk1TUHPEOccl.jpg",
+            "release_year": 2011,
+            "plot_summary": "George Smiley, the aging master spy of the Cold War and once heir apparent to Control, is brought back out of retirement to flush out a top level mole within the Circus. Smiley must travel back through his life and murky workings of the Circus to unravel the net spun by his nemesis Karla 'The Sandman' of the KGB and reveal the identity of the mole before he disappears.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 49517,
+            "imdb_id": "tt1340800",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.212321",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9gmus/",
+            "original_comment_text": "Tinker Tailor Soldier Spy. George Smiley is always way ahead, despite being way behind on everything else.\n\nBoth the recent-ish feature film and the original BBC miniseries are great. Having to choose between Alec Guinness and Gary Oldman is a problem of success."
+          },
+          {
+            "id": -8408919489380241625,
+            "title": "The Usual Suspects",
+            "poster_url": "https://image.tmdb.org/t/p/w500/99X2SgyFunJFXGAYnDv3sb9pnUD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Thriller"
+            ],
+            "tmdb_id": 629,
+            "imdb_id": "tt0114814",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.213873",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9jdpo/",
+            "original_comment_text": "The usual suspects. Depending on who you think is the good guy."
+          },
+          {
+            "id": 6608543595888193630,
+            "title": "The Thomas Crown Affair",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5yqs1MVlqdIg1DY5adC5jFx3d7j.jpg",
+            "release_year": 1999,
+            "plot_summary": "Bored billionaire executive Thomas Crown decides to plan a robbery and assigns a professional agent with the right information to the job. However, Crown is soon betrayed yet cannot blow his cover as he’s fallen in love.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Crime",
+              "Romance"
+            ],
+            "tmdb_id": 913,
+            "imdb_id": "tt0155267",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.217599",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9m5kd/",
+            "original_comment_text": "The Thomas Crown Affair"
+          },
+          {
+            "id": -3141083130200980655,
+            "title": "Jack Reacher",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uQBbjrLVsUibWxNDGA4Czzo8lwz.jpg",
+            "release_year": 2012,
+            "plot_summary": "One morning in an ordinary town, five people are shot dead in a seemingly random attack. All evidence points to a single suspect: an ex-military sniper who is quickly brought into custody. The interrogation yields one written note: 'Get Jack Reacher!'. Reacher, an enigmatic ex-Army investigator, believes the authorities have the right man but agrees to help the sniper's defense attorney. However, the more Reacher delves into the case, the less clear-cut it appears. So begins an extraordinary chase for the truth, pitting Jack Reacher against an unexpected enemy, with a skill for violence and a secret to keep.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller",
+              "Action"
+            ],
+            "tmdb_id": 75780,
+            "imdb_id": "tt0790724",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.363364",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9khzg/",
+            "original_comment_text": "Jack Reacher"
+          },
+          {
+            "id": 3055173779618424895,
+            "title": "Hopscotch",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ZTasNoTehrypra0X97zh8Amk3.jpg",
+            "release_year": 1980,
+            "plot_summary": "When CIA operative Miles Kendig deliberately lets KGB agent Yaskov get away, his boss threatens to retire him. Kendig beats him to it, however, destroying his own records and traveling to Austria where he begins work on a memoir that will expose all his former agency's covert practices. The CIA catches wind of the book and sends other agents after him, initiating a frenetic game of cat and mouse that spans the globe.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 32030,
+            "imdb_id": "tt0080889",
+            "category_title": "Movies Where The Protagonist Is Far Ahead Of Everyone Else",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:24:47.924080",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4b4vc/movies_where_the_good_guy_is_way_ahead_of/oz9jj1r/",
+            "original_comment_text": "This is reaching back a lot, but Hopscotch (1980) with Walter Matthau. Veteran CIA agent gets demoted because he won't arrest his old friend from the KGB when he's ordered to, quits, and decides to write his memoirs. He evades capture time after time and sends chapters of his memoirs to CIA leaders to taunt them. It's an exciting and funny romp."
+          }
+        ]
+      },
+      {
+        "name": "Movies And TV Series Featuring Female-To-Male Disguises",
+        "movies": [
+          {
+            "id": 4541640688987109142,
+            "title": "Yentl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AcCX4tKqwP5BTfRTQEqZW3qabl3.jpg",
+            "release_year": 1983,
+            "plot_summary": "In a time when girls were forbidden to study religious scriptures, a Jewish girl masquerades as a boy to enter religious training and unexpectedly finds love along the way.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Music",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 10269,
+            "imdb_id": "tt0086619",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.695911",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbjmuy/",
+            "original_comment_text": "Yentl\n\nOur Flag Means Death"
+          },
+          {
+            "id": -802736258807001962,
+            "title": "The Breadwinner",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4apG9Xk6HQvV48JKEjSUeiebju7.jpg",
+            "release_year": 2026,
+            "plot_summary": "After his wife Katie lands a once-in-a-lifetime deal on Shark Tank that takes her on a prolonged business trip - lifelong breadwinner Nate Wilcox now has to fend for his family as a first-time stay-at-home dad.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 1440050,
+            "imdb_id": "tt34459219",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.706588",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbr131/",
+            "original_comment_text": "The Breadwinner "
+          },
+          {
+            "id": -5956036562859039589,
+            "title": "Osama",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pOKz4zpccIjdib2pfDRkg69Ojej.jpg",
+            "release_year": 2004,
+            "plot_summary": "After the rise of the Taliban in Afghanistan and the restriction of women in public life, a preteen girl is forced to masquerade as a boy in order to find work to support her mother and grandmother.",
+            "runtime": "1h 23m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 14757,
+            "imdb_id": "tt0368913",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.713560",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbr3j8/",
+            "original_comment_text": "Osama (Dari: اُسامه, romanized: Osamah) is a 2003 drama film made in Afghanistan by Siddiq Barmak. The film follows a preteen girl living in Afghanistan under the Taliban regime who disguises herself as a boy, Osama, to support her family"
+          },
+          {
+            "id": 210355184060601611,
+            "title": "Charlie's Angels",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iHTmZs0BmkwMCYi8rhvMWC5G4EM.jpg",
+            "release_year": 2000,
+            "plot_summary": "The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 4327,
+            "imdb_id": "tt0160127",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.713882",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbqmn9/",
+            "original_comment_text": "Charlie's Angels (2000). The fun version "
+          },
+          {
+            "id": 3583846871439567136,
+            "title": "Carry On Jack",
+            "poster_url": "https://image.tmdb.org/t/p/w500/bbX36nhu01POs4ZQjJVXrNP53CP.jpg",
+            "release_year": 1964,
+            "plot_summary": "Able seaman Poop-Decker signs up for adventure on the high seas with the wicked Captain Fearless. Those swabbing the decks include Juliet Mills, Charles Hawtrey and Donald Houston.  The film was originally to be titled Up the Armada, but the British Board of Film Censors objected to such a rude title.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.9,
+            "genres": [
+              "Comedy",
+              "History"
+            ],
+            "tmdb_id": 32105,
+            "imdb_id": "tt0057919",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.720062",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozblwd3/",
+            "original_comment_text": "Carry On Jack (1964)"
+          },
+          {
+            "id": -2818512556008500154,
+            "title": "White Chicks",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aHTUpo45qy9QYIOnVITGGqLoVcA.jpg",
+            "release_year": 2004,
+            "plot_summary": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich European-American women.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 12153,
+            "imdb_id": "tt0381707",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.720254",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozblhzv/",
+            "original_comment_text": "White chicks is the other way around"
+          },
+          {
+            "id": 2071500615130900219,
+            "title": "Just One of the Guys",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7ffvsRv8ueYYK0H3zocmNRPd8yN.jpg",
+            "release_year": 1985,
+            "plot_summary": "When Terry Griffith loses her high school's writing competition, she's convinced that it's because she's a girl. So Terry decides to change high schools and pose as a boy to prove her point. Her brother, Buddy, helps her pass as a guy so well that she is soon making friends with the boys at school, including the attractive Rick, who becomes her new best friend. But her gender-swapping makes things difficult when she falls in love with him.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 24548,
+            "imdb_id": "tt0089393",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.721682",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbnjew/",
+            "original_comment_text": "Just One of the Guys "
+          },
+          {
+            "id": 8098290447928773270,
+            "title": "Pitch Black",
+            "poster_url": "https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",
+            "release_year": 2000,
+            "plot_summary": "When their ship crash-lands on a remote planet, the marooned passengers soon learn that escaped convict Riddick isn't the only thing they have to fear. Deadly creatures lurk in the shadows, waiting to attack in the dark, and the planet is rapidly plunging into the utter blackness of a total eclipse. With the body count rising, the doomed survivors are forced to turn to Riddick with his eerie eyes to guide them through the darkness to safety. With time running out, there's only one rule: Stay in the light.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 2787,
+            "imdb_id": "tt0134847",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.738378",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbsgny/",
+            "original_comment_text": "Pitch Black"
+          },
+          {
+            "id": 988679425081451978,
+            "title": "Mulan",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jAbexAtB0aSfP5Ay4TpWHARyVnG.jpg",
+            "release_year": 1998,
+            "plot_summary": "When Imperial China calls one man from every family to defend the empire from invading Huns, a young woman disguises herself as a soldier to take her ailing father’s place. Facing ruthless invaders, brutal training, and the risk of execution if discovered, she must decide who she truly is— and what she’s willing to fight for.",
+            "runtime": "1h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure"
+            ],
+            "tmdb_id": 10674,
+            "imdb_id": "tt0120762",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.768599",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbjb3g/",
+            "original_comment_text": "Mulan "
+          },
+          {
+            "id": -470476463882643968,
+            "title": "Albert Nobbs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/68fdlvmqTWGC2y5nGXQE5RfgNB5.jpg",
+            "release_year": 2011,
+            "plot_summary": "Albert Nobbs struggles to survive in late 19th century Ireland, where women aren't encouraged to be independent. Posing as a man, so she can work as a butler in Dublin's most posh hotel, Albert meets a handsome painter and looks to escape the lie she has been living.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 73873,
+            "imdb_id": "tt1602098",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:08.779919",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozblg5v/",
+            "original_comment_text": "Albert Nobbs"
+          },
+          {
+            "id": -1358172279923721406,
+            "title": "Salt",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+            "release_year": 2010,
+            "plot_summary": "As a CIA officer, Evelyn Salt swore an oath to duty, honor, and country. Her loyalty will be tested when a Russian defector accuses her of being a Russian sleeper spy. She goes on the run, using all her skills and years of experience as a covert operative to elude capture, protect her husband, and stay one step ahead of her colleagues at the CIA. Her efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \"Who is Salt?\"",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Action",
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 27576,
+            "imdb_id": "tt0944835",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:09.278305",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbnkqe/",
+            "original_comment_text": "Salt"
+          },
+          {
+            "id": 4335883576140955873,
+            "title": "The Ballad of Little Jo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cFGLQ3NigGdDmJy2Wjhcp9nmHe4.jpg",
+            "release_year": 1993,
+            "plot_summary": "After being thrown out of her home, a young woman decides to disguise herself as a man to survive the ruthless Wild West.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Romance",
+              "Drama",
+              "Western"
+            ],
+            "tmdb_id": 71940,
+            "imdb_id": "tt0106350",
+            "category_title": "Movies And TV Series Featuring Female-To-Male Disguises",
+            "time_period": "daily",
+            "date_scraped": "2026-07-24T06:25:09.646194",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4k9zx/female_to_male_disguise_moviestv_series/ozbo6co/",
+            "original_comment_text": "The Ballad of Little Jo"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 60,
+    "totalCategories": 5,
+    "lastUpdated": "2026-07-24T06:23:05.078844"
+  }
+}

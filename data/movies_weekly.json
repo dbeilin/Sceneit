@@ -1,0 +1,1449 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Movies That Make Viewers Sit In Silence And Reflect",
+        "movies": [
+          {
+            "id": 4362697203193869922,
+            "title": "Oldboy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pWDtjs568ZfOTMbURQBYuT4Qxka.jpg",
+            "release_year": 2003,
+            "plot_summary": "With no clue how he came to be imprisoned, drugged and tortured for 15 years, a desperate man seeks revenge on his captors.",
+            "runtime": "2h",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Thriller",
+              "Mystery"
+            ],
+            "tmdb_id": 670,
+            "imdb_id": "tt0364569",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.536361",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykiiql/",
+            "original_comment_text": "Oldboy (2003) the twist left my jaw on the floor for the rest of the movie\n\nDear Zachary (2008) if documentaries count"
+          },
+          {
+            "id": -7491609087526181668,
+            "title": "The Zone of Interest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg",
+            "release_year": 2023,
+            "plot_summary": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 467244,
+            "imdb_id": "tt7160372",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.537570",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykibz7/",
+            "original_comment_text": "[The Zone of Interest (2023)](https://www.rottentomatoes.com/m/the_zone_of_interest)"
+          },
+          {
+            "id": -4283381115259682488,
+            "title": "Gone Baby Gone",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5BXDhjKZ4AL9VPxcygdG3oL60GP.jpg",
+            "release_year": 2007,
+            "plot_summary": "When 4 year old Amanda McCready disappears from her home and the police make little headway in solving the case, the girl's aunt, Beatrice McCready hires two private detectives, Patrick Kenzie and Angie Gennaro. The detectives freely admit that they have little experience with this type of case, but the family wants them for two reasons—they're not cops and they know the tough neighborhood in which they all live.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 4771,
+            "imdb_id": "tt0452623",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.539118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykjrhm/",
+            "original_comment_text": "Gone baby gone. \n\nWhen I was 15, titanic affected me so badly emotionally that I spent the rest of my birthday silent and unable to interact with my friends haha. It was a mistake going to see that before having dinner out.\n\nNot a movie but that tv series Behind Her Eyes. The plot twist of all plot twists EVER."
+          },
+          {
+            "id": -6313602464790065506,
+            "title": "I'm Thinking of Ending Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/5ynWWapdl45hJXUh0KIevxSG9JQ.jpg",
+            "release_year": 2020,
+            "plot_summary": "Nothing is as it seems when a woman experiencing misgivings about her new boyfriend joins him on a road trip to meet his parents at their remote farm.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 500840,
+            "imdb_id": "tt7939766",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.542665",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oyki5xi/",
+            "original_comment_text": "I’m Thinking of Ending Things was a weird movie I had to sit back and think about."
+          },
+          {
+            "id": -2725262752171684228,
+            "title": "Requiem for a Dream",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9BTwsLaMVHOGFlmsSlx5QYCaXb.jpg",
+            "release_year": 2000,
+            "plot_summary": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 641,
+            "imdb_id": "tt0180093",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.543140",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykhlzx/",
+            "original_comment_text": "Requiem for a Dream easily tops that list for me"
+          },
+          {
+            "id": -9016743194051303265,
+            "title": "Memento",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nzlv62aC0octS5AklAiWpXLX9Z0.jpg",
+            "release_year": 2000,
+            "plot_summary": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Mystery",
+              "Thriller"
+            ],
+            "tmdb_id": 77,
+            "imdb_id": "tt0209144",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.544488",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykjg9z/",
+            "original_comment_text": "Memento "
+          },
+          {
+            "id": -3212840063418736154,
+            "title": "Seven Snipers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pK6tGCG6UAgUT5FTq3ylGErHxQQ.jpg",
+            "release_year": 2026,
+            "plot_summary": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+            "runtime": "1h 27m",
+            "tmdb_rating": 5.8,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 1288341,
+            "imdb_id": "tt36926359",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.550618",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykk5sv/",
+            "original_comment_text": "Seven, when it first came out. We were in a packed theater, and when the movie ended, no one moved or uttered a sound for quite a few seconds. "
+          },
+          {
+            "id": 1190318816370665822,
+            "title": "Dear Zachary: A Letter to a Son About His Father",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yYVHGe7U55Ojx11y5A82phPpCHv.jpg",
+            "release_year": 2008,
+            "plot_summary": "In 2001, Andrew Bagby, a medical resident, is murdered not long after breaking up with his girlfriend. Soon after, when she announces she's pregnant, one of Andrew's many close friends, Kurt Kuenne, begins this film, a gift to the child.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Documentary",
+              "Crime"
+            ],
+            "tmdb_id": 15584,
+            "imdb_id": "tt1152758",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.557327",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykiiql/",
+            "original_comment_text": "Oldboy (2003) the twist left my jaw on the floor for the rest of the movie\n\nDear Zachary (2008) if documentaries count"
+          },
+          {
+            "id": -5602426553411193657,
+            "title": "Prisoners",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg",
+            "release_year": 2013,
+            "plot_summary": "After his six-year-old daughter is abducted, a desperate father takes justice into his own hands when he loses faith in the detective leading the investigation, setting both men on a collision course as the search descends into obsession and moral compromise.",
+            "runtime": "2h 33m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "Thriller",
+              "Crime"
+            ],
+            "tmdb_id": 146233,
+            "imdb_id": "tt1392214",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:14.854540",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oyki43r/",
+            "original_comment_text": "Incendies and Prisoners "
+          },
+          {
+            "id": 6036118114807368113,
+            "title": "The Mist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 5876,
+            "imdb_id": "tt0884328",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:15.115220",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykjxaf/",
+            "original_comment_text": "Grave of the Fireflies \n\nThe Mist "
+          },
+          {
+            "id": -6368373275735379010,
+            "title": "Incendies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yH6DAQVgbyj72S66gN4WWVoTjuf.jpg",
+            "release_year": 2010,
+            "plot_summary": "A mother's last wishes send twins Jeanne and Simon on a journey to Middle East in search of their tangled roots. Adapted from Wajdi Mouawad's acclaimed play, Incendies tells the powerful and moving tale of two young adults' voyage to the core of deep-rooted hatred, never-ending wars and enduring love.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Drama",
+              "War",
+              "Mystery"
+            ],
+            "tmdb_id": 46738,
+            "imdb_id": "tt1255953",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:15.229398",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oyki43r/",
+            "original_comment_text": "Incendies and Prisoners "
+          },
+          {
+            "id": 7200406833997669962,
+            "title": "Grave of the Fireflies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76826,
+            "imdb_id": "tt0491652",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:15.666951",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykjxaf/",
+            "original_comment_text": "Grave of the Fireflies \n\nThe Mist "
+          },
+          {
+            "id": 8577208822680843275,
+            "title": "Titanic",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "release_year": 1997,
+            "plot_summary": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+            "runtime": "3h 14m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 597,
+            "imdb_id": "tt0120338",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:15.775386",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykjrhm/",
+            "original_comment_text": "Gone baby gone. \n\nWhen I was 15, titanic affected me so badly emotionally that I spent the rest of my birthday silent and unable to interact with my friends haha. It was a mistake going to see that before having dinner out.\n\nNot a movie but that tv series Behind Her Eyes. The plot twist of all plot twists EVER."
+          },
+          {
+            "id": 6240233776490148662,
+            "title": "Mulholland Drive",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x7A59t6ySylr1L7aubOQEA480vM.jpg",
+            "release_year": 2001,
+            "plot_summary": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Thriller",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 1018,
+            "imdb_id": "tt0166924",
+            "category_title": "Movies That Make Viewers Sit In Silence And Reflect",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:16.083501",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v147fd/what_is_the_ultimate_sit_in_silence_and_process/oykiqj7/",
+            "original_comment_text": "Mulholland Drive"
+          }
+        ]
+      },
+      {
+        "name": "Movies For A Sheltered Niece",
+        "movies": [
+          {
+            "id": -1563633412129541467,
+            "title": "The Truman Show",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+            "release_year": 1998,
+            "plot_summary": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 37165,
+            "imdb_id": "tt0120382",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.048338",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6in9k/",
+            "original_comment_text": "The Truman Show"
+          },
+          {
+            "id": -6287027712815719870,
+            "title": "Pleasantville",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sjnRihb0OdmtD5GBe5lfdfBjSxo.jpg",
+            "release_year": 1998,
+            "plot_summary": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 2657,
+            "imdb_id": "tt0120789",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.051183",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6i4xu/",
+            "original_comment_text": "Pleasantville could be a fun meta watch for a sheltered niece."
+          },
+          {
+            "id": -4335896125252046948,
+            "title": "A Beautiful Mind",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+            "release_year": 2001,
+            "plot_summary": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+            "runtime": "2h 15m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 453,
+            "imdb_id": "tt0268978",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.068791",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": 7062571919929038595,
+            "title": "Lights Out",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+            "release_year": 2024,
+            "plot_summary": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 931642,
+            "imdb_id": "tt16368898",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.073162",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -4957305492419914343,
+            "title": "Knives Out",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+            "release_year": 2019,
+            "plot_summary": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 546554,
+            "imdb_id": "tt8946378",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.073398",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -2274960928678876908,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.077408",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": 4949937180603278235,
+            "title": "The Prestige",
+            "poster_url": "https://image.tmdb.org/t/p/w500/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+            "release_year": 2006,
+            "plot_summary": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 8.2,
+            "genres": [
+              "Drama",
+              "Mystery",
+              "Science Fiction"
+            ],
+            "tmdb_id": 1124,
+            "imdb_id": "tt0482571",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.078877",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -2244854708499132984,
+            "title": "Jurassic Park",
+            "poster_url": "https://image.tmdb.org/t/p/w500/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg",
+            "release_year": 1993,
+            "plot_summary": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Adventure",
+              "Science Fiction"
+            ],
+            "tmdb_id": 329,
+            "imdb_id": "tt0107290",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.080354",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -2244508929968944633,
+            "title": "Mission Impossible",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4JYrtCopJEdtYSt6Mf3PLiEFjMa.jpg",
+            "release_year": 1971,
+            "plot_summary": "The daughter of a slain, respected hero embarks on a desperate, heroic odyssey to take the highly coveted Golden Dragon Sword, a weapon of immense spiritual power, back to the Capitol to keep it safe from those who would abuse its might.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 3.0,
+            "genres": [
+              "Drama",
+              "Action"
+            ],
+            "tmdb_id": 187339,
+            "imdb_id": "tt0978621",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.080527",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": 3138506968971889407,
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+            "release_year": 2003,
+            "plot_summary": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+            "runtime": "2h 23m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Action"
+            ],
+            "tmdb_id": 22,
+            "imdb_id": "tt0325980",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.192734",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -8196337052111117283,
+            "title": "Signs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/YtrIdrTxpRhvCnlw43dwOjfLqx.jpg",
+            "release_year": 2002,
+            "plot_summary": "A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.",
+            "runtime": "1h 46m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Thriller",
+              "Science Fiction",
+              "Horror"
+            ],
+            "tmdb_id": 2675,
+            "imdb_id": "tt0286106",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.245445",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": -6436127665586850578,
+            "title": "Legally Blonde",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+            "release_year": 2001,
+            "plot_summary": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8835,
+            "imdb_id": "tt0250494",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.266985",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          },
+          {
+            "id": 6225613373263495002,
+            "title": "12 Angry Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+            "release_year": 1957,
+            "plot_summary": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 8.6,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 389,
+            "imdb_id": "tt0050083",
+            "category_title": "Movies For A Sheltered Niece",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:26:53.280672",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3wxr6/movies_for_a_sheltered_niece/oz6lkkj/",
+            "original_comment_text": "Pg13 w/ Twists:\n\nThe Prestige\n\nArrival\n\nLights Out\n\nKnives Out\n\nMission Impossible\n\nA beautiful mind\n\nGood ones not necessarily with a twist: \n\nQuiet place series\n\nJurassic Park\n\nPirates of the Caribbean \n\nSigns\n\nLegally blonde\n\n12 Angry Men\n\nA knights tale \n\nSteel magnolias \n\nJumanji \n\nRequired viewing - has she seen these? \n\nSandlot\n\nFreaky Friday \n\nWhile you were sleeping\n\nThe mighty ducks \n\nParent trap \n\nNacho libre\n\nNapoleon dynamite \n\nCool runnings\n\nHeavy weights \n\nMrs doubt fire \n\nKindergarten cop\n\nRookie of the year\n\nThe Princess bride \n\nLittle giants\n\n"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Blew You Away Purely With Cinematography",
+        "movies": [
+          {
+            "id": -1493967113570820817,
+            "title": "Train Dreams",
+            "poster_url": "https://image.tmdb.org/t/p/w500/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+            "release_year": 2025,
+            "plot_summary": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 1241983,
+            "imdb_id": "tt29768334",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.360137",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbpqk1/",
+            "original_comment_text": "Train Dreams"
+          },
+          {
+            "id": 8043910507050213504,
+            "title": "The Fall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ez7xavvDr5yDz4sSvI55xDp0BoU.jpg",
+            "release_year": 2006,
+            "plot_summary": "In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story about 5 mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality starts to blur as the tale advances.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama"
+            ],
+            "tmdb_id": 14784,
+            "imdb_id": "tt0460791",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.361155",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbos5e/",
+            "original_comment_text": "The Fall"
+          },
+          {
+            "id": 3150389535879652971,
+            "title": "Barry Lyndon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/znfLskGQnXYB2xcOGM9eInRHPAV.jpg",
+            "release_year": 1975,
+            "plot_summary": "An Irish rogue uses his cunning and wit to work his way up the social classes of 18th century England, transforming himself from the humble Redmond Barry into the noble Barry Lyndon.",
+            "runtime": "3h 8m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Drama",
+              "War",
+              "History"
+            ],
+            "tmdb_id": 3175,
+            "imdb_id": "tt0072684",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.361749",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbp1lk/",
+            "original_comment_text": "Barry Lyndon "
+          },
+          {
+            "id": -9090892275571365206,
+            "title": "Lawrence of Arabia",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg",
+            "release_year": 1962,
+            "plot_summary": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+            "runtime": "3h 48m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "Adventure",
+              "History",
+              "War"
+            ],
+            "tmdb_id": 947,
+            "imdb_id": "tt0056172",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.364642",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozboiv3/",
+            "original_comment_text": "Lawrence of Arabia"
+          },
+          {
+            "id": 3381578798960909456,
+            "title": "The Fountain",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4XTf8GuCVLWolubANaKkpk62YPq.jpg",
+            "release_year": 2006,
+            "plot_summary": "Spanning over one thousand years, and three parallel stories, The Fountain is a story of love, death, spirituality, and the fragility of our existence in this world.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama",
+              "Adventure",
+              "Science Fiction",
+              "Romance"
+            ],
+            "tmdb_id": 1381,
+            "imdb_id": "tt0414993",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.374922",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbq1fh/",
+            "original_comment_text": "The Fountain"
+          },
+          {
+            "id": -189324099900330032,
+            "title": "The Revenant",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+            "release_year": 2015,
+            "plot_summary": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+            "runtime": "2h 37m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Western",
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 281957,
+            "imdb_id": "tt1663202",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.379626",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbqxac/",
+            "original_comment_text": "The Revenant"
+          },
+          {
+            "id": -6323875532457775506,
+            "title": "1917",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+            "release_year": 2019,
+            "plot_summary": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+            "runtime": "1h 59m",
+            "tmdb_rating": 8.0,
+            "genres": [
+              "War",
+              "History",
+              "Drama"
+            ],
+            "tmdb_id": 530915,
+            "imdb_id": "tt8579674",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.379973",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbq4ow/",
+            "original_comment_text": "1917"
+          },
+          {
+            "id": 2282043801814084940,
+            "title": "No Country for Old Men",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uB7RDZby43Wvu8SKGHHTwGyTDBX.jpg",
+            "release_year": 2007,
+            "plot_summary": "Llewelyn Moss stumbles upon dead bodies, $2 million and a hoard of heroin in a Texas desert, but methodical killer Anton Chigurh comes looking for it, with local sheriff Ed Tom Bell hot on his trail. The roles of prey and predator blur as the violent pursuit of money and justice collide.",
+            "runtime": "2h 2m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Crime",
+              "Thriller",
+              "Western"
+            ],
+            "tmdb_id": 6977,
+            "imdb_id": "tt0477348",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.388852",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbphfr/",
+            "original_comment_text": "No country for old men or all the movies where roger deakins is the cinematographer"
+          },
+          {
+            "id": -8164201779947739208,
+            "title": "Blade Runner 2049",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+            "release_year": 2017,
+            "plot_summary": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+            "runtime": "2h 44m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Science Fiction",
+              "Drama"
+            ],
+            "tmdb_id": 335984,
+            "imdb_id": "tt1856101",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.389290",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbr7g0/",
+            "original_comment_text": "Blade Runner 2049 is a more recent one that blew me away at times. "
+          },
+          {
+            "id": 705140536781971599,
+            "title": "Samsara",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qodkea4k0pNUmNTl5TJO2PdTqgW.jpg",
+            "release_year": 2011,
+            "plot_summary": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 8.1,
+            "genres": [
+              "Documentary"
+            ],
+            "tmdb_id": 89708,
+            "imdb_id": "tt0770802",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.434094",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbowk3/",
+            "original_comment_text": "Samsara "
+          },
+          {
+            "id": 3914064927213788753,
+            "title": "The Lord of the Rings",
+            "poster_url": "https://image.tmdb.org/t/p/w500/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg",
+            "release_year": 1978,
+            "plot_summary": "Young Hobbit Frodo Baggins is thrown into an amazing adventure when he's tasked with destroying the One Ring, created by the dark lord Sauron. Frodo must travel in a small fellowship of nine warriors and accomplices. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
+            "runtime": "2h 12m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Adventure",
+              "Animation",
+              "Fantasy"
+            ],
+            "tmdb_id": 123,
+            "imdb_id": "tt0077869",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.442865",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbt9hc/",
+            "original_comment_text": "The Lord of the Rings- the cinematography is a major character in the films."
+          },
+          {
+            "id": 3073130251618076929,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.484839",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbrxmt/",
+            "original_comment_text": "The Secret Life of Walter Mitty"
+          },
+          {
+            "id": -1208532442376207116,
+            "title": "Midsommar",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+            "release_year": 2019,
+            "plot_summary": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
+            "runtime": "2h 27m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Horror",
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 530385,
+            "imdb_id": "tt8772262",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.572887",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbp3tj/",
+            "original_comment_text": "Midsommar"
+          },
+          {
+            "id": 4628860625252194898,
+            "title": "Dune",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gDzOcq0pfeCeqMBwKIJlSmQpjkZ.jpg",
+            "release_year": 2021,
+            "plot_summary": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+            "runtime": "2h 35m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 438631,
+            "imdb_id": "tt1160419",
+            "category_title": "Movies That Blew You Away Purely With Cinematography",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:27:30.587852",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v4ktwu/what_movie_blew_you_away_purely_based_on_its/ozbso68/",
+            "original_comment_text": "Dune. I think Dune is a bad book to make a movie out of, but the newer Dune movies do a really good job with the cinematography."
+          }
+        ]
+      },
+      {
+        "name": "Non-Raunchy Comedy Movies",
+        "movies": [
+          {
+            "id": 9006343619961597591,
+            "title": "The School of Rock",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg",
+            "release_year": 2003,
+            "plot_summary": "Fired from his band and hard up for cash, guitarist and vocalist Dewey Finn finagles his way into a job as a fifth-grade substitute teacher at a private school, where he secretly begins teaching his straight-A students the finer points of rock 'n' roll and the power of sticking it to the man. But as the school’s stern principal closes in and the Battle of the Bands looms, Dewey must risk everything to prove that rock 'n' roll can change lives.",
+            "runtime": "1h 50m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Music"
+            ],
+            "tmdb_id": 1584,
+            "imdb_id": "tt0332379",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.151923",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyplxct/",
+            "original_comment_text": "School of Rock"
+          },
+          {
+            "id": 6202354235370995700,
+            "title": "O Brother, Where Art Thou?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2YztYilviFCYcEtDAnrOstUWGie.jpg",
+            "release_year": 2000,
+            "plot_summary": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 134,
+            "imdb_id": "tt0190590",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.251153",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypkr29/",
+            "original_comment_text": "O Brother Where Art Thou"
+          },
+          {
+            "id": -1004926343029419378,
+            "title": "Best in Show",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qkYBCMN26SxkQww4gLxUXQm5vr4.jpg",
+            "release_year": 2000,
+            "plot_summary": "The tension is palpable, the excitement is mounting and the heady scent of competition is in the air as hundreds of eager contestants from across America prepare to take part in what is undoubtedly one of the greatest events of their lives -- the Mayflower Dog Show. The canine contestants and their owners are as wondrously diverse as the great country that has bred them.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 13785,
+            "imdb_id": "tt0218839",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.276782",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypthe2/",
+            "original_comment_text": "Best in Show\n"
+          },
+          {
+            "id": 5880319116060319777,
+            "title": "Groundhog Day",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+            "release_year": 1993,
+            "plot_summary": "A cynical TV weatherman, along with his idealistic producer and his sardonic cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Romance",
+              "Fantasy",
+              "Comedy"
+            ],
+            "tmdb_id": 137,
+            "imdb_id": "tt0107048",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.279453",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyq6zbh/",
+            "original_comment_text": "Groundhog Day. If you haven't seen it, it's pretty good."
+          },
+          {
+            "id": 1731046670835099399,
+            "title": "What About Bob?",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pFCrGGGhV5xeAdvEysv6aSv8T13.jpg",
+            "release_year": 1991,
+            "plot_summary": "Before going on vacation, self-involved psychiatrist Dr. Leo Marvin has the misfortune of taking on a new patient: Bob Wiley. An exemplar of neediness and a compendium of phobias, Bob follows Marvin to his family's country house. Dr. Marvin tries to get him to leave; the trouble is, everyone loves Bob. As his oblivious patient makes himself at home, Dr. Marvin loses his professional composure and, before long, may be ready for the loony bin himself.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 10276,
+            "imdb_id": "tt0103241",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.285056",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypmath/",
+            "original_comment_text": "What About Bob"
+          },
+          {
+            "id": -4412798830596927095,
+            "title": "Tucker and Dale vs. Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+            "release_year": 2010,
+            "plot_summary": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 46838,
+            "imdb_id": "tt1465522",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.286673",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypmzvp/",
+            "original_comment_text": "Tucker and Dale vs Evil "
+          },
+          {
+            "id": 7444972882597876973,
+            "title": "Monty Python and the Holy Grail",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+            "release_year": 1975,
+            "plot_summary": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\".",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.8,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 762,
+            "imdb_id": "tt0071853",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.292227",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyplsds/",
+            "original_comment_text": "Monty Python and the Holy Grail is one my classic favourites.  The humour is very absurdist though, and does not build naturally from the story so much as leaps unbidden and silly from unexpected places.  \n\nGame Night would be my choice for a more recent comedy movie where the comedy builds from the story, and doesn't rely on explicit content, crude humour or gross outs for the laughs."
+          },
+          {
+            "id": 2930666241336375507,
+            "title": "Arsenic and Old Lace",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+            "release_year": 1944,
+            "plot_summary": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+            "runtime": "1h 58m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 212,
+            "imdb_id": "tt0036613",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.300457",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyplbt1/",
+            "original_comment_text": "Arsenic and Old Lace"
+          },
+          {
+            "id": -5362920414759029884,
+            "title": "The Sheep Detectives",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mGWOmj2jHFol3kOGNv1EhbSDDE1.jpg",
+            "release_year": 2026,
+            "plot_summary": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Comedy",
+              "Family",
+              "Mystery"
+            ],
+            "tmdb_id": 1301421,
+            "imdb_id": "tt32565993",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.300612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyplw0a/",
+            "original_comment_text": "The Sheep Detectives, it’s recent so not sure about standing the test of time. It may seem like a kids’ movie but it’s cute and clever."
+          },
+          {
+            "id": -8330054315819897794,
+            "title": "My Cousin Vinny",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg",
+            "release_year": 1992,
+            "plot_summary": "Two carefree pals traveling through rural Alabama on their way back to college are mistakenly arrested and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who has just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend to try his first case, it's a real shock - for him and the Deep South!",
+            "runtime": "1h 59m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 10377,
+            "imdb_id": "tt0104952",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.307439",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyqlyw9/",
+            "original_comment_text": "My Cousin Vinny, hands down one of the best comedies I've ever seen. And it fits your restriction. "
+          },
+          {
+            "id": -8493628153235286291,
+            "title": "Game Night",
+            "poster_url": "https://image.tmdb.org/t/p/w500/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg",
+            "release_year": 2018,
+            "plot_summary": "Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Mystery",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 445571,
+            "imdb_id": "tt2704998",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.346627",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oyplsds/",
+            "original_comment_text": "Monty Python and the Holy Grail is one my classic favourites.  The humour is very absurdist though, and does not build naturally from the story so much as leaps unbidden and silly from unexpected places.  \n\nGame Night would be my choice for a more recent comedy movie where the comedy builds from the story, and doesn't rely on explicit content, crude humour or gross outs for the laughs."
+          },
+          {
+            "id": 7388109205614172561,
+            "title": "Napoleon Dynamite",
+            "poster_url": "https://image.tmdb.org/t/p/w500/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg",
+            "release_year": 2004,
+            "plot_summary": "A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.",
+            "runtime": "1h 35m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 8193,
+            "imdb_id": "tt0374900",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.473718",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypmxpr/",
+            "original_comment_text": "Napoleon Dynamite"
+          },
+          {
+            "id": -3280005605295213151,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.751425",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypzvnc/",
+            "original_comment_text": "Princess Bride"
+          },
+          {
+            "id": -1434226088084449283,
+            "title": "Hunt for the Wilderpeople",
+            "poster_url": "https://image.tmdb.org/t/p/w500/hkmz9rxgcweizXNElozGeKwmAJE.jpg",
+            "release_year": 2016,
+            "plot_summary": "Ricky is a defiant young city kid who finds himself on the run with his cantankerous foster uncle in the wild New Zealand bush. A national manhunt ensues, and the two are forced to put aside their differences and work together to survive.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 371645,
+            "imdb_id": "tt4698684",
+            "category_title": "Non-Raunchy Comedy Movies",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:10.982405",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v1rv8b/suggest_a_good_comedy_movie_not_raunchy/oypqj9r/",
+            "original_comment_text": "Hunt for the Wilderpeople and Paddington 2 (family friendly but not just for children) are the go-to comfort films that always make me laugh out loud. "
+          }
+        ]
+      },
+      {
+        "name": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+        "movies": [
+          {
+            "id": 6233716172724917984,
+            "title": "The Shawshank Redemption",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "release_year": 1994,
+            "plot_summary": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+            "runtime": "2h 22m",
+            "tmdb_rating": 8.7,
+            "genres": [
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 278,
+            "imdb_id": "tt0111161",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.586774",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz38d49/",
+            "original_comment_text": "I scrolled too long and still didn’t see the obvious choice.  It’s even in the name:  \n\nThe Shawshank Redemption!"
+          },
+          {
+            "id": -8497580771199143063,
+            "title": "The Crow",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rMMB3v6jYHjsvXRNJYESacoTD7j.jpg",
+            "release_year": 1994,
+            "plot_summary": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Fantasy",
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 9495,
+            "imdb_id": "tt0109506",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.587243",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2ql8d/",
+            "original_comment_text": "The Crow with Brandon Lee "
+          },
+          {
+            "id": -7290879541781713826,
+            "title": "Death Proof",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vtu6H4NWnQVqEp3aanUq3hNeeot.jpg",
+            "release_year": 2007,
+            "plot_summary": "Austin's hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 1991,
+            "imdb_id": "tt1028528",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.590218",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2puww/",
+            "original_comment_text": "Death Proof"
+          },
+          {
+            "id": 5990307886874732246,
+            "title": "Sisu",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xgb30M1wL4nibyFvlHh3w4XlDYq.jpg",
+            "release_year": 2022,
+            "plot_summary": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, German soldiers led by a brutal SS officer battle him.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Action",
+              "War",
+              "Thriller"
+            ],
+            "tmdb_id": 840326,
+            "imdb_id": "tt14846026",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.591066",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2qj9x/",
+            "original_comment_text": "Sisu. Worth watching"
+          },
+          {
+            "id": -5790650595515761081,
+            "title": "Promising Young Woman",
+            "poster_url": "https://image.tmdb.org/t/p/w500/73QoFJFmUrJfDG2EynFjNc5gJxk.jpg",
+            "release_year": 2020,
+            "plot_summary": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Drama"
+            ],
+            "tmdb_id": 582014,
+            "imdb_id": "tt9620292",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.595997",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2ktzh/",
+            "original_comment_text": "Promising Young Woman   \n  \n(Though the satisfaction you get is...complex. Won't spoil it.)"
+          },
+          {
+            "id": 5438865333283099851,
+            "title": "Carrie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8tT1rqlsTguyfUBMrbHR9cv1rxM.jpg",
+            "release_year": 1976,
+            "plot_summary": "Withdrawn and sensitive teenager Carrie White faces bullying from her classmates and abuse from her fanatically pious mother. When she begins to suspect that she has supernatural powers, things take a dark and violent turn.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 7340,
+            "imdb_id": "tt0074285",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.599530",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2ou69/",
+            "original_comment_text": "Carrie"
+          },
+          {
+            "id": -3775949773620845891,
+            "title": "Double Jeopardy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dPd9QvEeMQpgHO6iLB1LqALTZl.jpg",
+            "release_year": 1999,
+            "plot_summary": "Libby Parsons, wrongly convicted of her husband Nick's murder, thinks he is still alive. She survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest, however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superior and law enforcement colleagues, as she plunges into a desperate fight for justice, survival, and revenge.",
+            "runtime": "1h 45m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 10398,
+            "imdb_id": "tt0150377",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.599701",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2meeq/",
+            "original_comment_text": "*Double Jeopardy* starring Ashley Judd."
+          },
+          {
+            "id": -8808228614322398924,
+            "title": "Hard Candy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uHTmlcivbPeclEdmtuQg3zOQWPS.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hayley’s a smart, charming teenage girl. Jeff’s a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff’s place. Jeff thinks it’s his lucky night. He’s in for a surprise.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 2652,
+            "imdb_id": "tt0424136",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.604469",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2n5ds/",
+            "original_comment_text": "Hard Candy"
+          },
+          {
+            "id": 5529640472705458257,
+            "title": "John Wick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg",
+            "release_year": 2014,
+            "plot_summary": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Thriller"
+            ],
+            "tmdb_id": 245891,
+            "imdb_id": "tt2911666",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:49.612601",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2la7j/",
+            "original_comment_text": "John Wick."
+          },
+          {
+            "id": -8473236504412050589,
+            "title": "The Count of Monte Cristo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg",
+            "release_year": 2002,
+            "plot_summary": "Young sailor Edmond Dantès is wrongfully imprisoned, escapes, finds treasure, and reinvents himself as the wealthy Count of Monte Cristo to exact revenge on those who betrayed him.",
+            "runtime": "2h 11m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 11362,
+            "imdb_id": "tt0245844",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:50.046928",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2luln/",
+            "original_comment_text": "The Count of Monte Cristo."
+          },
+          {
+            "id": -5917696885114710190,
+            "title": "Let the Right One In",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 13310,
+            "imdb_id": "tt1139797",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:50.053897",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2lkm5/",
+            "original_comment_text": "Let the Right One In"
+          },
+          {
+            "id": -7088763610981467016,
+            "title": "Fried Green Tomatoes",
+            "poster_url": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
+            "release_year": 1991,
+            "plot_summary": "Amidst her own personality crisis, a southern housewife meets an outgoing old woman who tells her the story of Idgie Threadgoode and Ruth Jamison, two young women who experienced hardships and love in 1920s Whistle Stop, Alabama.",
+            "runtime": "2h 10m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 1633,
+            "imdb_id": "tt0101921",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:50.580613",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2tn6u/",
+            "original_comment_text": "Fried Green Tomatoes "
+          },
+          {
+            "id": -7309762191059386486,
+            "title": "The Girl with the Dragon Tattoo",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8bokS83zGdhaXgN9tjidUKmAftW.jpg",
+            "release_year": 2011,
+            "plot_summary": "Disgraced journalist Mikael Blomkvist investigates the disappearance of a weary patriarch's niece from 40 years ago. He is aided by the pierced, tattooed, punk computer hacker named Lisbeth Salander. As they work together in the investigation, Blomkvist and Salander uncover immense corruption beyond anything they have ever imagined.",
+            "runtime": "2h 38m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 65754,
+            "imdb_id": "tt1568346",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:50.799789",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz3yk2z/",
+            "original_comment_text": "The Girl with the Dragon Tattoo"
+          },
+          {
+            "id": 904827034626129334,
+            "title": "She Devil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ff37ltepQ6GFd6BgFBvMtlcndRA.jpg",
+            "release_year": 2025,
+            "plot_summary": "Gemma and Mae attend a break-up party for one of Mae's new friends, a group of women who unironically refer to themselves as the \"Femmes,\" curated by mysterious it-girl Lake Evans.",
+            "runtime": "15m",
+            "tmdb_rating": 0.0,
+            "genres": [
+              "Horror",
+              "Comedy"
+            ],
+            "tmdb_id": 1507012,
+            "imdb_id": "tt37507367",
+            "category_title": "Most Satisfying Revenge Movies Where Cheaters Or Bullies Get What They Deserve",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-24T06:28:51.093064",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v3fq4e/whats_the_most_satisfying_revenge_movie_where/oz2nb2d/",
+            "original_comment_text": "She Devil"
+          }
+        ]
+      }
+    ],
+    "totalMovies": 69,
+    "totalCategories": 5,
+    "lastUpdated": "2026-07-24T06:26:14.536361"
+  }
+}

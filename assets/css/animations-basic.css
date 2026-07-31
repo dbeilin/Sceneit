@@ -1,0 +1,33 @@
+/* Basic animations fallback - lightweight version */
+/* Used when heavy animations fail to load or user prefers reduced motion */
+
+.use-basic-animations .movie-card-enhanced {
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+  will-change: transform;
+}
+
+.use-basic-animations .movie-card-enhanced:hover {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow: 0 8px 20px -5px rgba(0, 0, 0, 0.15);
+}
+
+.use-basic-animations .rating-badge-enhanced:hover {
+  transform: scale(1.05);
+}
+
+.use-basic-animations .genre-tag-enhanced:hover {
+  transform: scale(1.02);
+}
+
+/* Disable all complex animations for reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .use-basic-animations .movie-card-enhanced,
+  .use-basic-animations .rating-badge-enhanced,
+  .use-basic-animations .genre-tag-enhanced {
+    transform: none !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}

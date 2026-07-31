@@ -1,0 +1,1487 @@
+{
+  "success": true,
+  "data": {
+    "period": "weekly",
+    "categories": [
+      {
+        "name": "Wholesome Movies Similar To Project Hail Mary",
+        "movies": [
+          {
+            "id": -3287637728039172907,
+            "title": "Arrival",
+            "poster_url": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg",
+            "release_year": 2016,
+            "plot_summary": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Science Fiction",
+              "Mystery"
+            ],
+            "tmdb_id": 329865,
+            "imdb_id": "tt2543164",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.335031",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": -4398411992931532614,
+            "title": "The Martian",
+            "poster_url": "https://image.tmdb.org/t/p/w500/pjYWdykADVLTCh5g475RnI2hWIN.jpg",
+            "release_year": 2015,
+            "plot_summary": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+            "runtime": "2h 21m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Science Fiction",
+              "Drama",
+              "Adventure"
+            ],
+            "tmdb_id": 286217,
+            "imdb_id": "tt3659388",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.472066",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozv9bfe/",
+            "original_comment_text": "The Martian"
+          },
+          {
+            "id": 4670994328506723321,
+            "title": "When Harry Met Sally...",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rFOiFUhTMtDetqCGClC9PIgnC1P.jpg",
+            "release_year": 1989,
+            "plot_summary": "Sex always gets in the way of friendships between men and women. At least, that's what Harry Burns believes. So when Harry meets Sally Albright and a deep friendship blossoms between them, Harry's determined not to let his attraction to Sally destroy it. But when a night of weakness ends in a morning of panic, can the pair avoid succumbing to Harry's fears by remaining friends and admitting they just might be the perfect match for each other?",
+            "runtime": "1h 36m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 639,
+            "imdb_id": "tt0098635",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.505156",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvadf5/",
+            "original_comment_text": "The Princess Bride or When Harry Met Sally."
+          },
+          {
+            "id": -3764690938495201716,
+            "title": "The Princess Bride",
+            "poster_url": "https://image.tmdb.org/t/p/w500/2FC9L9MrjBoGHYjYZjdWQdopVYb.jpg",
+            "release_year": 1987,
+            "plot_summary": "In this enchantingly cracked fairy tale, the beautiful Princess Buttercup and the dashing Westley must overcome staggering odds to find happiness amid six-fingered swordsmen, murderous princes, Sicilians and rodents of unusual size. But even death can't stop these true lovebirds from triumphing.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.7,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Family",
+              "Comedy"
+            ],
+            "tmdb_id": 2493,
+            "imdb_id": "tt0093779",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.510374",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvadf5/",
+            "original_comment_text": "The Princess Bride or When Harry Met Sally."
+          },
+          {
+            "id": 4166479091930322726,
+            "title": "The Green Mile",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "release_year": 1999,
+            "plot_summary": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+            "runtime": "3h 9m",
+            "tmdb_rating": 8.5,
+            "genres": [
+              "Fantasy",
+              "Drama",
+              "Crime"
+            ],
+            "tmdb_id": 497,
+            "imdb_id": "tt0120689",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.513626",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 2366527155192096539,
+            "title": "Good Old Boy",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7RBhVY5wqJlekUWqggWaBB0z4gL.jpg",
+            "release_year": 1988,
+            "plot_summary": "A timeless story of a boy's adventures growing up in a small Southern town, Yazoo City, in the 1940s during World War II, roaming with his friends, playing practical jokes, and getting into trouble.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Family",
+              "Action",
+              "Adventure"
+            ],
+            "tmdb_id": 211841,
+            "imdb_id": "tt0095239",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.514282",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 6920079340105240954,
+            "title": "Grave of the Fireflies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/im6u58cPa9HlH5DqSnZGy0O37l5.jpg",
+            "release_year": 2005,
+            "plot_summary": "Hisako loses her home in Tokyo to Allied bombing. With her husband fighting somewhere in Asia, she and her two children evacuate to a suburb of Kobe, where they share a house with Hisako's cousin, Kyoko. Kobe is bombed and Kyoko is killed. Hisako is forced to take care of Kyoko's two children in addition to her own, but there is not enough food for everyone.",
+            "runtime": "2h 28m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 76826,
+            "imdb_id": "tt0491652",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.514835",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 433087037605062291,
+            "title": "Paddington 2",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1OJ9vkD5xPt3skC6KguyXAgagRZ.jpg",
+            "release_year": 2017,
+            "plot_summary": "Paddington, now happily settled with the Browns, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy, but it is stolen.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Family"
+            ],
+            "tmdb_id": 346648,
+            "imdb_id": "tt4468740",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.516252",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvb8hx/",
+            "original_comment_text": "Paddington 2"
+          },
+          {
+            "id": -5621459386776718420,
+            "title": "The Secret Life of Walter Mitty",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iAo1hlzsPV9XpYcLQp6Ud065tGO.jpg",
+            "release_year": 2013,
+            "plot_summary": "A timid magazine photo manager who lives life vicariously through daydreams embarks on a true-life adventure when a negative goes missing.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Adventure",
+              "Comedy",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 116745,
+            "imdb_id": "tt0359950",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.520171",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvedvz/",
+            "original_comment_text": "The secret life of walter mitty"
+          },
+          {
+            "id": 98576891952007859,
+            "title": "Eden Lake",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tOg6ElTe1mJwaCFN0172U4oso22.jpg",
+            "release_year": 2008,
+            "plot_summary": "When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Horror",
+              "Thriller"
+            ],
+            "tmdb_id": 13510,
+            "imdb_id": "tt1020530",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:38.843415",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 3273255321713921570,
+            "title": "The Mist",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a violent storm, a dense cloud of mist envelops a small Maine town, trapping David Drayton and his five-year-old son in a local grocery store with other local residents. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.",
+            "runtime": "2h 6m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Horror",
+              "Science Fiction",
+              "Thriller"
+            ],
+            "tmdb_id": 5876,
+            "imdb_id": "tt0884328",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:39.087349",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": -2446591985381305587,
+            "title": "Let the Right One In",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+            "release_year": 2008,
+            "plot_summary": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+            "runtime": "1h 55m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Horror",
+              "Drama"
+            ],
+            "tmdb_id": 13310,
+            "imdb_id": "tt1139797",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:39.232098",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 1149354555150902990,
+            "title": "Crazy Rich Asians",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+            "release_year": 2018,
+            "plot_summary": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 455207,
+            "imdb_id": "tt3104988",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:39.464550",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          },
+          {
+            "id": 7595180384653138151,
+            "title": "Valerian and the City of a Thousand Planets",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vlc95gl3PtrjxSEuM8RhTtSm2xU.jpg",
+            "release_year": 2017,
+            "plot_summary": "In the 28th century, Valerian and Laureline are special operatives charged with keeping order throughout the human territories. On assignment from the Minister of Defense, the two undertake a mission to Alpha, an ever-expanding metropolis where species from across the universe have converged over centuries to share knowledge, intelligence, and cultures. At the center of Alpha is a mysterious dark force which threatens the peaceful existence of the City of a Thousand Planets, and Valerian and Laureline must race to identify the menace and safeguard not just Alpha, but the future of the universe.",
+            "runtime": "2h 17m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Adventure",
+              "Science Fiction",
+              "Action"
+            ],
+            "tmdb_id": 339964,
+            "imdb_id": "tt2239822",
+            "category_title": "Wholesome Movies Similar To Project Hail Mary",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:44:39.483604",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v74quf/wholesome_movies_like_project_hail_mary/ozvm7a7/",
+            "original_comment_text": "Because you have some diabolical people in this thread. Do NOT watch:\n\nGrave of the Fireflies\n\nOld Boy\n\nArrival (id check yourself first)\n\nThe Green Mile (fantastic movie but so sad)\n\nEden Lake (will make you hate everything)\n\nLet the Right one in (up to you..)\n\nAnything by Lars Von Trier (some of the most depressing movies around).\n\nMy actual recommendations:\n\nCrazy Rich Asians\n\nValerian: city of a thousand planets (it has like two sad parts but nothing sad like the mist)\n\nEver After\n\nMen in Black (3 is a good sequel too)."
+          }
+        ]
+      },
+      {
+        "name": "Movies That Have No Business Being Good",
+        "movies": [
+          {
+            "id": -5920320982443745000,
+            "title": "Hot Tub Time Machine",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wjzbVXAes1acbh6k4OO5xVfy5.jpg",
+            "release_year": 2010,
+            "plot_summary": "Four pals are stuck in a rut in adulthood: Adam has just been dumped, Lou is a hopeless party animal, Nick is a henpecked husband, and Jacob does nothing but play video games in his basement. But they get a chance to brighten their future by changing their past after a night of heavy drinking in a ski-resort hot tub results in their waking up in 1986.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 6.0,
+            "genres": [
+              "Science Fiction",
+              "Comedy",
+              "Adventure"
+            ],
+            "tmdb_id": 23048,
+            "imdb_id": "tt1231587",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:09.996007",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01o7r5/",
+            "original_comment_text": "Hot tub Time Machine   \nIt’s such a stupid premise and yet the movie is so good and so funny. "
+          },
+          {
+            "id": 1233341264198114889,
+            "title": "Spice World",
+            "poster_url": "https://image.tmdb.org/t/p/w500/vKiAnV1QAGIJP38vatwCZp4dCrH.jpg",
+            "release_year": 1997,
+            "plot_summary": "World famous pop group the Spice Girls zip around London in their luxurious double decker tour bus having various adventures and performing for their fans.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 4.9,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Drama",
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 6116,
+            "imdb_id": "tt0120185",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.002695",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01k9xb/",
+            "original_comment_text": "Spice World. The Spice Girls movie. Sounds ghastly, right? It's brilliant. Every British actor and comedian is in it, they're all in on the joke, and it becomes this lo-fi thing of beauty and hilarity."
+          },
+          {
+            "id": -6210912092651309245,
+            "title": "Down Periscope",
+            "poster_url": "https://image.tmdb.org/t/p/w500/brleKcHsirTw7lFqcgUMOfgL2nl.jpg",
+            "release_year": 1996,
+            "plot_summary": "Maverick Navy Lieutenant Commander Tom Dodge will never be a textbook officer, but he's a brilliant seaman who's always wanted to command a nuclear submarine — he's been given one last chance to clean up his record. Unfortunately, Admiral Graham, his nemesis, would rather sink the fleet than give Dodge his own boat. So, Graham stacks the deck against him and assigns Dodge to the Stingray, a diesel-powered WW2 submarine that can barely keep afloat. To make matters worse, Dodge's crew is a collection of maladjusted, mistake-prone misfits. Then, he's tagged the \"enemy\" in a crucial war game, and ordered to take on the U.S. Navy's best.",
+            "runtime": "1h 32m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 9101,
+            "imdb_id": "tt0116130",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.004700",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01zl1b/",
+            "original_comment_text": "Well known casts, but the concept sounds stupid:\n\nGalaxy Quest\n\nDown Periscope\n\nTremors"
+          },
+          {
+            "id": -227531467935565293,
+            "title": "Pleasantville",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sjnRihb0OdmtD5GBe5lfdfBjSxo.jpg",
+            "release_year": 1998,
+            "plot_summary": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Fantasy",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 2657,
+            "imdb_id": "tt0120789",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.011069",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01htv7/",
+            "original_comment_text": "Pleasantville - brother and sister get trapped inside a 50s tv show. Blew my mind "
+          },
+          {
+            "id": 4107679253884443159,
+            "title": "Swiss Army Man",
+            "poster_url": "https://image.tmdb.org/t/p/w500/xE2QfqvAGI8n8ckIiy9FzS9XF94.jpg",
+            "release_year": 2016,
+            "plot_summary": "Alone on a tiny deserted island, Hank has given up all hope of ever making it home again. But one day everything changes when a dead body washes ashore, and he soon realizes it may be his last opportunity to escape certain death. Armed with his new “friend” and an unusual bag of tricks, the duo go on an epic adventure to bring Hank back to the woman of his dreams.",
+            "runtime": "1h 37m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance",
+              "Fantasy",
+              "Adventure"
+            ],
+            "tmdb_id": 347031,
+            "imdb_id": "tt4034354",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.014429",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01k2rs/",
+            "original_comment_text": "For this you want Swiss Army Man. A dude finds a corpse on the beach and rides him around like a jet ski powered by corpse farts.\n\nAnd it’s so, so good."
+          },
+          {
+            "id": -8574183285088029315,
+            "title": "Clue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+            "release_year": 1985,
+            "plot_summary": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+            "runtime": "1h 34m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Comedy",
+              "Thriller",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 15196,
+            "imdb_id": "tt0088930",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.014661",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01irsk/",
+            "original_comment_text": "Clue is based on a board game that you probably wouldn't watch somebody else playing, and incorporates a lot of the same game mechanics and details, but it's still super fun to watch. "
+          },
+          {
+            "id": -687650293778097863,
+            "title": "The Lego Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/lbctonEnewCYZ4FYoTZhs8cidAl.jpg",
+            "release_year": 2014,
+            "plot_summary": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from conquering the universe.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Animation",
+              "Family",
+              "Adventure",
+              "Comedy",
+              "Fantasy"
+            ],
+            "tmdb_id": 137106,
+            "imdb_id": "tt1490017",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.019170",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01isb9/",
+            "original_comment_text": "The Lego Movie"
+          },
+          {
+            "id": -4049265582238469369,
+            "title": "Galaxy Quest",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fZXSwgZknp81vmciTb86rw0MejV.jpg",
+            "release_year": 1999,
+            "plot_summary": "For four years, the courageous crew of the NSEA Protector —  Commander Peter Quincy Taggart, Lieutenant Tawny Madison, and Doctor Lazarus — set off on a thrilling and often dangerous mission in space... until their series was cancelled! Now, twenty years later, aliens under attack have mistaken the Galaxy Quest television transmissions for \"historical documents\" and beam up the crew of has-been actors to save the universe. With no script, no director, and no clue, the actors must turn in the performances of their lives.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 926,
+            "imdb_id": "tt0177789",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.022717",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01zl1b/",
+            "original_comment_text": "Well known casts, but the concept sounds stupid:\n\nGalaxy Quest\n\nDown Periscope\n\nTremors"
+          },
+          {
+            "id": -7393826920068192779,
+            "title": "Tremors",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg",
+            "release_year": 1990,
+            "plot_summary": "Val McKee and Earl Bassett are in a fight for their lives when they discover that their desolate town has been infested with gigantic, man-eating creatures that live below the ground.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Comedy",
+              "Horror",
+              "Science Fiction"
+            ],
+            "tmdb_id": 9362,
+            "imdb_id": "tt0100814",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.028785",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01zl1b/",
+            "original_comment_text": "Well known casts, but the concept sounds stupid:\n\nGalaxy Quest\n\nDown Periscope\n\nTremors"
+          },
+          {
+            "id": 4156693149584587230,
+            "title": "Road House",
+            "poster_url": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg",
+            "release_year": 2024,
+            "plot_summary": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+            "runtime": "2h 1m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Action",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 359410,
+            "imdb_id": "tt3359350",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.187783",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01l042/",
+            "original_comment_text": "Roadhouse. The original."
+          },
+          {
+            "id": 8831135485004520788,
+            "title": "Kung Fu Hustle",
+            "poster_url": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+            "release_year": 2004,
+            "plot_summary": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime",
+              "Fantasy"
+            ],
+            "tmdb_id": 9470,
+            "imdb_id": "tt0373074",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.205224",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01i937/",
+            "original_comment_text": "Kung Fu Hustle \n\nLife is beautiful "
+          },
+          {
+            "id": -1015145007674468491,
+            "title": "Super Troopers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yJyxPItcLNVfYr7idOphQTmQ9hK.jpg",
+            "release_year": 2001,
+            "plot_summary": "Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Crime",
+              "Mystery"
+            ],
+            "tmdb_id": 39939,
+            "imdb_id": "tt0247745",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.216155",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01lmnn/",
+            "original_comment_text": "Super Troopers. This should not be an enjoyable movie to watch; the plot makes no sense; it’s basically a series of loosely connected sketches; I think the budget was $1.59 … yet it’s one of my favorites. "
+          },
+          {
+            "id": 6755617864795155565,
+            "title": "Pride and Prejudice and Zombies",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jsJlOhVHiz1xXr36616EI8tJ4b2.jpg",
+            "release_year": 2016,
+            "plot_summary": "A zombie outbreak has fallen upon the land in this reimagining of Jane Austen's classic tale of the tangled relationships between lovers from different social classes in 19th century England. Feisty heroine Elizabeth Bennet is a master of martial arts and weaponry and the handsome Mr. Darcy is a fierce zombie killer, yet the epitome of upper class prejudice. As the zombie outbreak intensifies, they must swallow their pride and join forces on the blood-soaked battlefield in order to conquer the undead once and for all.",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.2,
+            "genres": [
+              "Romance",
+              "Horror",
+              "Comedy",
+              "Thriller"
+            ],
+            "tmdb_id": 58431,
+            "imdb_id": "tt1374989",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.238905",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01if3y/",
+            "original_comment_text": "Pride and Prejudice and Zombies. By all rights it should be atrocious, but it's an entertaining 'Saturday Matinee' film (ie switch your brain off and enjoy)."
+          },
+          {
+            "id": -8615484815826254289,
+            "title": "Lars and the Real Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/nkAt4a7KIPc7Fi1BhxNHhYYbe2b.jpg",
+            "release_year": 2007,
+            "plot_summary": "Extremely shy Lars finds it impossible to make friends or socialize. His brother and sister-in-law worry about him, so when he announces that he has a girlfriend he met on the Internet, they are overjoyed. But Lars' new lady is a life-size plastic woman. On the advice of a doctor, his family and the rest of the community go along with his delusion.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 6615,
+            "imdb_id": "tt0805564",
+            "category_title": "Movies That Have No Business Being Good",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:10.404712",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v7xrjv/movies_that_have_no_right_being_good/p01jsrf/",
+            "original_comment_text": "Lars and the Real Girl"
+          }
+        ]
+      },
+      {
+        "name": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+        "movies": [
+          {
+            "id": 2342183529266165109,
+            "title": "Palm Springs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/gnAfqiV7yO3Jq9IntTmwkcaICqc.jpg",
+            "release_year": 2020,
+            "plot_summary": "When carefree Nyles and reluctant maid of honor Sarah have a chance encounter at a Palm Springs wedding, things get complicated when they find themselves unable to escape the venue, themselves, or each other.",
+            "runtime": "1h 30m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Science Fiction"
+            ],
+            "tmdb_id": 587792,
+            "imdb_id": "tt9484998",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.630403",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d3zc5/",
+            "original_comment_text": "Palm Springs (2020)? I don’t think enough people saw this one and it’s fun."
+          },
+          {
+            "id": -7637247019872839525,
+            "title": "While You Were Sleeping",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qNGO3ETcNwlWqK2kNRpbJSJRlos.jpg",
+            "release_year": 1995,
+            "plot_summary": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
+            "runtime": "1h 43m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 2064,
+            "imdb_id": "tt0114924",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.795078",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d8teh/",
+            "original_comment_text": "While You Were Sleeping with Sandra Bullock and Bill Pullman!"
+          },
+          {
+            "id": 8860207607794950253,
+            "title": "The American President",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yObOAYFIHXHkFPQ3jhgkN2ezaD.jpg",
+            "release_year": 1995,
+            "plot_summary": "Widowed U.S. president Andrew Shepherd, one of the world's most powerful men, can have anything he wants -- and what he covets most is Sydney Ellen Wade, a Washington lobbyist. But Shepherd's attempts at courting her spark wild rumors and decimate his approval ratings.",
+            "runtime": "1h 53m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 9087,
+            "imdb_id": "tt0112346",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.799507",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d8n0i/",
+            "original_comment_text": "The American President "
+          },
+          {
+            "id": 2391216329471818874,
+            "title": "Benny & Joon",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iX4xSwwLk4ypTiwFnfx0TSctsJV.jpg",
+            "release_year": 1993,
+            "plot_summary": "A mentally ill young woman finds love with an eccentric man who models himself after Buster Keaton.",
+            "runtime": "1h 38m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 4104,
+            "imdb_id": "tt0106387",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.800623",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d4h51/",
+            "original_comment_text": "Benny andJoon"
+          },
+          {
+            "id": -3198783311036929004,
+            "title": "Return to Me",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mtYZyZh7hSiTq3gAU0C8FlcMC5.jpg",
+            "release_year": 2000,
+            "plot_summary": "It took a lot of cajoling to get Bob, a recently widowed architect, to go on a blind date at a quirky Irish-Italian eatery. Once there, he's smitten instantly not with his date but with the sharp-witted waitress. Everything seems to be going great until an unbelievable truth is revealed, one that could easily break both of their hearts for good.",
+            "runtime": "1h 56m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 2621,
+            "imdb_id": "tt0122459",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.811169",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d57c7/",
+            "original_comment_text": "The Truth About Cats and Dogs\n\nReturn to Me"
+          },
+          {
+            "id": -7783091159866908071,
+            "title": "Stardust",
+            "poster_url": "https://image.tmdb.org/t/p/w500/7zbFmxy3DqKYL2M8Hop6uylp2Uy.jpg",
+            "release_year": 2007,
+            "plot_summary": "In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm. His journey takes him into a world beyond his wildest dreams and reveals his true identity.",
+            "runtime": "2h 7m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Adventure",
+              "Fantasy",
+              "Romance",
+              "Family"
+            ],
+            "tmdb_id": 2270,
+            "imdb_id": "tt0486655",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.813774",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0db0fe/",
+            "original_comment_text": "Stardust and if she’s ok with a pre 90s… Strictly Ballroom as a classic."
+          },
+          {
+            "id": -1170809867761721964,
+            "title": "Strictly Ballroom",
+            "poster_url": "https://image.tmdb.org/t/p/w500/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+            "release_year": 1992,
+            "plot_summary": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
+            "runtime": "1h 34m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 10409,
+            "imdb_id": "tt0105488",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.813938",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0db0fe/",
+            "original_comment_text": "Stardust and if she’s ok with a pre 90s… Strictly Ballroom as a classic."
+          },
+          {
+            "id": -8621299294755639697,
+            "title": "Fools Rush In",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tcRaMjWoF8K7h1LqOH7FOOLRQ3e.jpg",
+            "release_year": 1997,
+            "plot_summary": "After a one night stand with Alex, Isabel realizes that she is pregnant and they decide to get married. However, along with the marriage comes compromise of one's own cultural traditions.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 1968,
+            "imdb_id": "tt0119141",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.837614",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d31g1/",
+            "original_comment_text": "Fools rush in maybeeeeee?"
+          },
+          {
+            "id": 6181992085184319370,
+            "title": "The Truth About Cats & Dogs",
+            "poster_url": "https://image.tmdb.org/t/p/w500/4T2edRWgD8QlW62Ja6w5uSFteRH.jpg",
+            "release_year": 1996,
+            "plot_summary": "A successful veterinarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+            "runtime": "1h 33m",
+            "tmdb_rating": 6.1,
+            "genres": [
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 8866,
+            "imdb_id": "tt0117979",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:39.866228",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d57c7/",
+            "original_comment_text": "The Truth About Cats and Dogs\n\nReturn to Me"
+          },
+          {
+            "id": -4718154789617531703,
+            "title": "About Time",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ls6zswrOZVhCXQBh96DlbnLBajM.jpg",
+            "release_year": 2013,
+            "plot_summary": "The night after another unsatisfactory New Year's party, Tim's father reveals to him that the men in their family have the ability to travel through time. They can't change history, but they can change what happens and has happened in their own lives. Thus begins the start of a lesson in learning to appreciate life itself as it is, as it comes, and most importantly, the people living alongside us.",
+            "runtime": "2h 3m",
+            "tmdb_rating": 7.9,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Fantasy"
+            ],
+            "tmdb_id": 122906,
+            "imdb_id": "tt2194499",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:40.009107",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d652j/",
+            "original_comment_text": "About Time "
+          },
+          {
+            "id": -294117061113447797,
+            "title": "Working Girl",
+            "poster_url": "https://image.tmdb.org/t/p/w500/q2jfFzZvAzjTaArQR0tjilIZ5aJ.jpg",
+            "release_year": 1988,
+            "plot_summary": "When a secretary's idea is stolen by her boss, she takes a risky chance to reclaim it by impersonating him and running the project from his position.",
+            "runtime": "1h 54m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 3525,
+            "imdb_id": "tt0096463",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:40.011842",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d9l7w/",
+            "original_comment_text": "Working Girl. A little old, but good. "
+          },
+          {
+            "id": 413256309038384797,
+            "title": "Blast from the Past",
+            "poster_url": "https://image.tmdb.org/t/p/w500/qVN4bbVX2tzaNbAdEJT5eOPq26c.jpg",
+            "release_year": 1999,
+            "plot_summary": "Following a bomb scare in the 1960s that locked the Webbers into their bomb shelter for 35 years, Adam now ventures forth into Los Angeles to obtain food and supplies for his family, and a non-mutant wife for himself.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Drama",
+              "Romance",
+              "Comedy"
+            ],
+            "tmdb_id": 11622,
+            "imdb_id": "tt0124298",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:40.152876",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d5i3x/",
+            "original_comment_text": "Blast from the Past (1999)."
+          },
+          {
+            "id": 7753522457255152714,
+            "title": "The Big Sick",
+            "poster_url": "https://image.tmdb.org/t/p/w500/9fJTT8pBxxQsFILJHTtHhdYFr77.jpg",
+            "release_year": 2017,
+            "plot_summary": "Pakistan-born comedian Kumail Nanjiani and grad student Emily Gardner fall in love but struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail finds himself forced to face her feisty parents, his family's expectations, and his true feelings.",
+            "runtime": "2h",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 416477,
+            "imdb_id": "tt5462602",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:40.525505",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d3k2n/",
+            "original_comment_text": "The Big Sick"
+          },
+          {
+            "id": 1130600588551956820,
+            "title": "Music and Lyrics",
+            "poster_url": "https://image.tmdb.org/t/p/w500/1WXVpnovC0EETbqcjVhy3hwIITK.jpg",
+            "release_year": 2007,
+            "plot_summary": "A washed-up '80s pop star gets a chance at a comeback when reigning pop diva Cora Corman invites him to write & record a duet with her, but there's a problem--Alex hasn't written a song in years; he's never written lyrics and he has to come up with a hit in a matter of days.",
+            "runtime": "1h 44m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Music",
+              "Romance"
+            ],
+            "tmdb_id": 11172,
+            "imdb_id": "tt0758766",
+            "category_title": "Lesser-Known Rom-Coms For A Girlfriend Who's Seen Everything",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:40.990640",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v9ee3c/need_a_lesser_known_romcom_for_the_girlfriend_who/p0d501i/",
+            "original_comment_text": "Music and Lyrics "
+          }
+        ]
+      },
+      {
+        "name": "Movies With Casual Nudity Or Sex",
+        "movies": [
+          {
+            "id": 5829104543851733298,
+            "title": "Starship Troopers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+            "release_year": 1997,
+            "plot_summary": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+            "runtime": "2h 9m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Adventure",
+              "Action",
+              "Thriller",
+              "Science Fiction"
+            ],
+            "tmdb_id": 563,
+            "imdb_id": "tt0120201",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.613746",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m0lay/",
+            "original_comment_text": "Starship Troopers mostly fits that bill funnily enough "
+          },
+          {
+            "id": -2051404220586596521,
+            "title": "Blue Is the Warmest Color",
+            "poster_url": "https://image.tmdb.org/t/p/w500/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
+            "release_year": 2013,
+            "plot_summary": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire, to assert herself as a woman and as an adult. In front of others, Adele grows, seeks herself, loses herself, finds herself.",
+            "runtime": "3h",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 152584,
+            "imdb_id": "tt2278871",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.633941",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m3opg/",
+            "original_comment_text": "Blue is the Warmest Colour (2013)"
+          },
+          {
+            "id": 7894721239654714905,
+            "title": "Short Cuts",
+            "poster_url": "https://image.tmdb.org/t/p/w500/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+            "release_year": 1993,
+            "plot_summary": "Many loosely connected characters cross paths in this film, based on the stories of Raymond Carver. Waitress Doreen Piggot accidentally runs into a boy with her car. Soon after walking away, the child lapses into a coma. While at the hospital, the boy's grandfather tells his son, Howard, about his past affairs. Meanwhile, a baker starts harassing the family when they fail to pick up the boy's birthday cake.",
+            "runtime": "3h 8m",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 695,
+            "imdb_id": "tt0108122",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.636181",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m39y8/",
+            "original_comment_text": "*Short Cuts* (1993). Julianne Moore walking around bottomless while chattering with her husband and getting ready to go out is the cutest thing I've ever seen in a nude scene. It's just so natural and familiar to many couples. "
+          },
+          {
+            "id": 3805086815306507141,
+            "title": "Love",
+            "poster_url": "https://image.tmdb.org/t/p/w500/yz6lmOmsmYuj6AOLG4LIwK5eJZF.jpg",
+            "release_year": 2015,
+            "plot_summary": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the seismic effect it will have on their relationship, they invite their pretty neighbor into their bed.",
+            "runtime": "2h 14m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 292431,
+            "imdb_id": "tt3774694",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.639208",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0lzdx1/",
+            "original_comment_text": "Love (2015) is a notorious example\n\nNymphomaniac vol 1&2 are the others.\n\nBoth are depressing for different reasons, and it's hard to say which is more so..."
+          },
+          {
+            "id": -9181304151855716942,
+            "title": "Betty Blue",
+            "poster_url": "https://image.tmdb.org/t/p/w500/dGkxgj2ozlD4yRtsJL35EUXegFv.jpg",
+            "release_year": 1986,
+            "plot_summary": "A lackadaisical handyman and aspiring novelist tries to support his younger girlfriend as she slowly succumbs to madness.",
+            "runtime": "2h",
+            "tmdb_rating": 7.2,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 11986,
+            "imdb_id": "tt0090563",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.640448",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0mln16/",
+            "original_comment_text": "Seriously Betty Blue is exactly what you are looking for. Watch it"
+          },
+          {
+            "id": 511563610394064969,
+            "title": "The Ugly Stepsister",
+            "poster_url": "https://image.tmdb.org/t/p/w500/rayAREIKtSinuov10GvrZHyXfXH.jpg",
+            "release_year": 2025,
+            "plot_summary": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, Agnes, and she will go to any length to catch the Prince’s eye.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 7.3,
+            "genres": [
+              "Horror",
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1284120,
+            "imdb_id": "tt29344903",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.640702",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m1bf7/",
+            "original_comment_text": "I just watched “the ugly stepsister” - danish horror movie retelling of Cinderella that was really damn good and definitely did what you’re describing\n\nETA: oops it’s Norwegian"
+          },
+          {
+            "id": -3268656165072432394,
+            "title": "Nymphomaniac: Vol. II",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+            "release_year": 2013,
+            "plot_summary": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+            "runtime": "2h 4m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Drama",
+              "Mystery"
+            ],
+            "tmdb_id": 249397,
+            "imdb_id": "tt2382009",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.648738",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0lzdx1/",
+            "original_comment_text": "Love (2015) is a notorious example\n\nNymphomaniac vol 1&2 are the others.\n\nBoth are depressing for different reasons, and it's hard to say which is more so..."
+          },
+          {
+            "id": -3742915146466488546,
+            "title": "Boogie Nights",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg",
+            "release_year": 1997,
+            "plot_summary": "In 1977, an idealistic porn producer and his promising protege try to catch up with the end of an era before their never-ending party collides with cold, hard reality.",
+            "runtime": "2h 36m",
+            "tmdb_rating": 7.6,
+            "genres": [
+              "Drama",
+              "Comedy"
+            ],
+            "tmdb_id": 4995,
+            "imdb_id": "tt0118749",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.650612",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m3bis/",
+            "original_comment_text": "Boogie Nights"
+          },
+          {
+            "id": 5880624323581741733,
+            "title": "Nymphomaniac: Vol. I",
+            "poster_url": "https://image.tmdb.org/t/p/w500/piikL8vRh3s1ysHGTIqaZpdjfNU.jpg",
+            "release_year": 2013,
+            "plot_summary": "A man named Seligman finds a fainted wounded woman in an alley and he brings her home. She tells him that her name is Joe and that she is nymphomaniac. Joe tells her life and sexual experiences with hundreds of men since she was a young teenager while Seligman tells about his hobbies, such as fly fishing, reading about Fibonacci numbers or listening to organ music.",
+            "runtime": "1h 58m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Drama"
+            ],
+            "tmdb_id": 258216,
+            "imdb_id": "tt1937390",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.651672",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0lzdx1/",
+            "original_comment_text": "Love (2015) is a notorious example\n\nNymphomaniac vol 1&2 are the others.\n\nBoth are depressing for different reasons, and it's hard to say which is more so..."
+          },
+          {
+            "id": 4407600320008249650,
+            "title": "Wild Things",
+            "poster_url": "https://image.tmdb.org/t/p/w500/wrcTDD9T7Ga5c9MW7kaOo2qwIvW.jpg",
+            "release_year": 1998,
+            "plot_summary": "When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...",
+            "runtime": "1h 48m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Mystery",
+              "Thriller",
+              "Drama"
+            ],
+            "tmdb_id": 617,
+            "imdb_id": "tt0120890",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.670680",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m7pho/",
+            "original_comment_text": "Wild Things - good movie, girls and boys. "
+          },
+          {
+            "id": 5251563637967361318,
+            "title": "Room in Rome",
+            "poster_url": "https://image.tmdb.org/t/p/w500/w90ItYf9qagQKVEBr1uFxPomAtf.jpg",
+            "release_year": 2010,
+            "plot_summary": "A hotel room in the center of Rome serves as the setting for Alba and Natasha, two sexy and recently acquainted women, to have a physical adventure that touches their very souls.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Drama",
+              "Romance"
+            ],
+            "tmdb_id": 48650,
+            "imdb_id": "tt1263750",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.811118",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m1mvh/",
+            "original_comment_text": "Room in Rome"
+          },
+          {
+            "id": 5904973618622956556,
+            "title": "Before the Devil Knows You're Dead",
+            "poster_url": "https://image.tmdb.org/t/p/w500/h4QXi4Ysuc3zICiK9jHxjCAK9Oh.jpg",
+            "release_year": 2007,
+            "plot_summary": "When two brothers organize the robbery of their parents' jewelry store, the job goes horribly wrong, triggering a series of events that send them and their family hurtling towards a shattering climax.",
+            "runtime": "1h 57m",
+            "tmdb_rating": 7.1,
+            "genres": [
+              "Crime",
+              "Drama",
+              "Thriller"
+            ],
+            "tmdb_id": 7972,
+            "imdb_id": "tt0292963",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:58.838306",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0m6hk8/",
+            "original_comment_text": "**Before The Devil Knows You're Dead**\n\nMarisa Tomei is nekkid in almost half her scenes (this may or may not be an accurate statistic) and gets humped a few times."
+          },
+          {
+            "id": -5163064827414708033,
+            "title": "Cashback",
+            "poster_url": "https://image.tmdb.org/t/p/w500/iXJKrcjHXrL148OfmovdGPBvnSw.jpg",
+            "release_year": 2007,
+            "plot_summary": "After a painful breakup, Ben develops insomnia. To kill time, he starts working the late night shift at the local supermarket, where his artistic imagination runs wild.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Drama",
+              "Comedy",
+              "Romance"
+            ],
+            "tmdb_id": 12225,
+            "imdb_id": "tt0460740",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:59.200479",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0nb9bm/",
+            "original_comment_text": "Cashback"
+          },
+          {
+            "id": -6846948280954858581,
+            "title": "Quest for Fire",
+            "poster_url": "https://image.tmdb.org/t/p/w500/tyzW1M00xfHKNtmTlT6wJ3F4pNr.jpg",
+            "release_year": 1981,
+            "plot_summary": "In the prehistoric world, a Cro-Magnon tribe depends on an ever-burning source of fire, which eventually extinguishes. Lacking the knowledge to start a new fire, the tribe sends three warriors on a quest for more. With the tribe's future at stake, the warriors make their way across a treacherous landscape full of hostile tribes and monstrous beasts. On their journey, they encounter Ika, a woman who has the knowledge they seek.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Adventure",
+              "Drama",
+              "Fantasy"
+            ],
+            "tmdb_id": 62204,
+            "imdb_id": "tt0082484",
+            "category_title": "Movies With Casual Nudity Or Sex",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:45:59.373149",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1vajm0q/movies_with_casual_nudity_andor_sex/p0lz7dz/",
+            "original_comment_text": "Quest for Fire"
+          }
+        ]
+      },
+      {
+        "name": "Movies That Make You Laugh Until Your Belly Hurts",
+        "movies": [
+          {
+            "id": -228652558236174614,
+            "title": "What We Do in the Shadows",
+            "poster_url": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+            "release_year": 2014,
+            "plot_summary": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 246741,
+            "imdb_id": "tt3416742",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.404499",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl04hi/",
+            "original_comment_text": "What We Do in the Shadows  \n•the original movie, not the show"
+          },
+          {
+            "id": 1251725396704430019,
+            "title": "Walk Hard: The Dewey Cox Story",
+            "poster_url": "https://image.tmdb.org/t/p/w500/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg",
+            "release_year": 2007,
+            "plot_summary": "Following a childhood tragedy, Dewey Cox follows a long and winding road to music stardom. Dewey perseveres through changing musical styles, an addiction to nearly every drug known and bouts of uncontrollable rage.",
+            "runtime": "1h 36m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 6575,
+            "imdb_id": "tt0841046",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.404710",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl0s9r/",
+            "original_comment_text": "The hardest I've ever laughed at a movie was at \"Walk Hard: The Dewey Cox Story.\""
+          },
+          {
+            "id": 6917273559935167352,
+            "title": "Popstar: Never Stop Never Stopping",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jBZeZZNjYBUU21zFvBnin5n62bv.jpg",
+            "release_year": 2016,
+            "plot_summary": "When his new album fails to sell records, pop/rap superstar Conner4real goes into a major tailspin and watches his celebrity high life begin to collapse. He'll try anything to bounce back, anything except reuniting with his old rap group The Style Boyz.",
+            "runtime": "1h 26m",
+            "tmdb_rating": 6.6,
+            "genres": [
+              "Comedy",
+              "Music"
+            ],
+            "tmdb_id": 341012,
+            "imdb_id": "tt3960412",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.407461",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl0161/",
+            "original_comment_text": "Popstar never stop never stopping "
+          },
+          {
+            "id": -7167793644848184493,
+            "title": "Bottoms",
+            "poster_url": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
+            "release_year": 2023,
+            "plot_summary": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense.",
+            "runtime": "1h 31m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 814776,
+            "imdb_id": "tt17527468",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.410418",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozkz05u/",
+            "original_comment_text": "bottoms\n\nnirvanna the band the show the movie"
+          },
+          {
+            "id": 1347456921075680678,
+            "title": "21 Jump Street",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8v3Sqv9UcIUC4ebmpKWROqPBINZ.jpg",
+            "release_year": 2012,
+            "plot_summary": "When cops Schmidt and Jenko join the secret Jump Street unit, they use their youthful appearances to go undercover as high school students. They trade in their guns and badges for backpacks, and set out to shut down a dangerous drug ring. But, as time goes on, Schmidt and Jenko discover that high school is nothing like it was just a few years earlier -- and, what's more, they must again confront the teenage terror and anxiety they thought they had left behind.",
+            "runtime": "1h 49m",
+            "tmdb_rating": 6.9,
+            "genres": [
+              "Action",
+              "Comedy",
+              "Crime"
+            ],
+            "tmdb_id": 64688,
+            "imdb_id": "tt1232829",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.415698",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl1uav/",
+            "original_comment_text": "Forgetting Sarah Marshall\n\nRole Models\n\n21/22 Jump Street\n\nFriendship (Tim Robinson is the funniest person to ever live fight me)\n\nI just realized 3 of those have Paul Rudd so maybe I'm just a simp for Rudd."
+          },
+          {
+            "id": 1177690420106246728,
+            "title": "The Death of Stalin",
+            "poster_url": "https://image.tmdb.org/t/p/w500/AqH7q89NxGRDAyRWKqsL3OBtYfV.jpg",
+            "release_year": 2017,
+            "plot_summary": "When dictator Joseph Stalin dies, his parasitic cronies square off in a frantic power struggle to become the next Soviet leader. As they bumble, brawl and back-stab their way to the top, the question remains — just who is running the government?",
+            "runtime": "1h 47m",
+            "tmdb_rating": 7.0,
+            "genres": [
+              "Comedy",
+              "Drama",
+              "History"
+            ],
+            "tmdb_id": 402897,
+            "imdb_id": "tt4686844",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.415989",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl0kvs/",
+            "original_comment_text": "The Death of Stalin. "
+          },
+          {
+            "id": -7750785828281676769,
+            "title": "Nirvanna the Band the Show the Movie",
+            "poster_url": "https://image.tmdb.org/t/p/w500/sm5TGX8WbnCd9Uo26cLyTxVwA1n.jpg",
+            "release_year": 2026,
+            "plot_summary": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
+            "runtime": "1h 41m",
+            "tmdb_rating": 7.5,
+            "genres": [
+              "Comedy",
+              "Science Fiction",
+              "Adventure"
+            ],
+            "tmdb_id": 1154538,
+            "imdb_id": "tt35522483",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.416458",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozkz05u/",
+            "original_comment_text": "bottoms\n\nnirvanna the band the show the movie"
+          },
+          {
+            "id": 511322603822747989,
+            "title": "Forgetting Sarah Marshall",
+            "poster_url": "https://image.tmdb.org/t/p/w500/d4elOzyhNWVlxpG7BwigrumkFTe.jpg",
+            "release_year": 2008,
+            "plot_summary": "When actress Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend Brian suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful receptionist Rachel Jansen, Peter is shocked to see not only Aldous in Hawaii, but also Sarah.",
+            "runtime": "1h 51m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy",
+              "Romance",
+              "Drama"
+            ],
+            "tmdb_id": 9870,
+            "imdb_id": "tt0800039",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.416631",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl1uav/",
+            "original_comment_text": "Forgetting Sarah Marshall\n\nRole Models\n\n21/22 Jump Street\n\nFriendship (Tim Robinson is the funniest person to ever live fight me)\n\nI just realized 3 of those have Paul Rudd so maybe I'm just a simp for Rudd."
+          },
+          {
+            "id": 573014581118116999,
+            "title": "Tucker and Dale vs. Evil",
+            "poster_url": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+            "release_year": 2010,
+            "plot_summary": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair.",
+            "runtime": "1h 29m",
+            "tmdb_rating": 7.4,
+            "genres": [
+              "Comedy",
+              "Horror"
+            ],
+            "tmdb_id": 46838,
+            "imdb_id": "tt1465522",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.435551",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozkyh3p/",
+            "original_comment_text": "Tucker and Dale vs evil"
+          },
+          {
+            "id": -5356954502785937778,
+            "title": "Role Models",
+            "poster_url": "https://image.tmdb.org/t/p/w500/ki79dSjh6Rr51xrsz4dT04UGxSU.jpg",
+            "release_year": 2008,
+            "plot_summary": "Two salesmen trash a company truck on an energy drink-fueled bender. Upon their arrest, the court gives them a choice: do hard time or spend 150 service hours with a mentorship program. After one day with the kids, however, jail doesn't look half bad.",
+            "runtime": "1h 39m",
+            "tmdb_rating": 6.5,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 15373,
+            "imdb_id": "tt0430922",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:28.732321",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl1uav/",
+            "original_comment_text": "Forgetting Sarah Marshall\n\nRole Models\n\n21/22 Jump Street\n\nFriendship (Tim Robinson is the funniest person to ever live fight me)\n\nI just realized 3 of those have Paul Rudd so maybe I'm just a simp for Rudd."
+          },
+          {
+            "id": 2307783680067907811,
+            "title": "22 Jump Street",
+            "poster_url": "https://image.tmdb.org/t/p/w500/850chzYHYbT3IISl6Q7dbBuFP2B.jpg",
+            "release_year": 2014,
+            "plot_summary": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+            "runtime": "1h 52m",
+            "tmdb_rating": 6.8,
+            "genres": [
+              "Crime",
+              "Comedy",
+              "Action"
+            ],
+            "tmdb_id": 187017,
+            "imdb_id": "tt2294449",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:29.186182",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl1uav/",
+            "original_comment_text": "Forgetting Sarah Marshall\n\nRole Models\n\n21/22 Jump Street\n\nFriendship (Tim Robinson is the funniest person to ever live fight me)\n\nI just realized 3 of those have Paul Rudd so maybe I'm just a simp for Rudd."
+          },
+          {
+            "id": 7396156134372525394,
+            "title": "Tropic Thunder",
+            "poster_url": "https://image.tmdb.org/t/p/w500/zAurB9mNxfYRoVrVjAJJwGV3sPg.jpg",
+            "release_year": 2008,
+            "plot_summary": "A group of self-absorbed actors set out to make the most expensive war film ever. After ballooning costs force the studio to cancel the movie, the frustrated director refuses to stop shooting, leading his cast into the jungles of Southeast Asia, where they encounter real bad guys.",
+            "runtime": "1h 47m",
+            "tmdb_rating": 6.7,
+            "genres": [
+              "Action",
+              "Comedy",
+              "War"
+            ],
+            "tmdb_id": 7446,
+            "imdb_id": "tt0942385",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:29.447506",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozlfqtl/",
+            "original_comment_text": "Tropic Thunder "
+          },
+          {
+            "id": 5910527025026642934,
+            "title": "Blockers",
+            "poster_url": "https://image.tmdb.org/t/p/w500/uvlUQXg0AlpGzKukO11K7QtW3Yu.jpg",
+            "release_year": 2018,
+            "plot_summary": "When three parents discover that each of their daughters have a pact to lose their virginity at prom, they launch a covert one-night operation to stop the teens from sealing the deal.",
+            "runtime": "1h 42m",
+            "tmdb_rating": 6.3,
+            "genres": [
+              "Comedy"
+            ],
+            "tmdb_id": 437557,
+            "imdb_id": "tt2531344",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:29.532888",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl0s6v/",
+            "original_comment_text": "Blockers\n\nGame Night\n\nThe Other Guys (wow I just looked and this is from 2010!)\n\nBottoms"
+          },
+          {
+            "id": 4118778071697038366,
+            "title": "Friendship",
+            "poster_url": "https://image.tmdb.org/t/p/w500/eikAu9gPJTQQmwFwa1zX5Hfz96P.jpg",
+            "release_year": 2025,
+            "plot_summary": "Suburban dad Craig falls hard for his charismatic new neighbor Austin, and his attempts to make an adult male friend threatens to ruin both of their lives.",
+            "runtime": "1h 40m",
+            "tmdb_rating": 6.4,
+            "genres": [
+              "Comedy",
+              "Drama"
+            ],
+            "tmdb_id": 1239655,
+            "imdb_id": "tt30505698",
+            "category_title": "Movies That Make You Laugh Until Your Belly Hurts",
+            "time_period": "weekly",
+            "date_scraped": "2026-07-31T06:46:29.931821",
+            "reddit_post_url": "https://reddit.com/r/MovieSuggestions/comments/1v5qtsa/my_belly_hurts_from_laughing_movies/ozl1uav/",
+            "original_comment_text": "Forgetting Sarah Marshall\n\nRole Models\n\n21/22 Jump Street\n\nFriendship (Tim Robinson is the funniest person to ever live fight me)\n\nI just realized 3 of those have Paul Rudd so maybe I'm just a simp for Rudd."
+          }
+        ]
+      }
+    ],
+    "totalMovies": 70,
+    "totalCategories": 5,
+    "lastUpdated": "2026-07-31T06:44:38.335031"
+  }
+}
